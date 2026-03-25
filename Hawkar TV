@@ -675,7 +675,525 @@ http://teratv.online:80/158711478533/186083606640/578631
 
 #EXTINF:-1 group-title="|do|",|SPO|  NAT GEO WILD NL
 
-http://teratv.online:80/158711478533/186083606640/572138
+#EXTGRP:MBC Group (AR)
+#EXTINF:-1 tvg-id="MBC 1",Al-Sharqiya News
+#KODIPROP:inputstream=inputstream.adaptive
+http://teratv.online:80/158711478533/186083606640/571640#EXTGRP:MBC Group (AR)
+#EXTINF:-1 tvg-id="MBC 2",Al-Sharqiya News
+#KODIPROP:inputstream=inputstream.adaptive
+http://teratv.online:80/158711478533/186083606640/571642
+#EXTGRP:MBC Group (AR)
+#EXTINF:-1 tvg-id="MBC 3",Al-Sharqiya News
+#KODIPROP:inputstream=inputstream.adaptive
+http://teratv.online:80/158711478533/186083606640/571644
+#EXTGRP:MBC Group (AR)
+#EXTINF:-1 tvg-id="MBC 4",Al-Sharqiya News
+#KODIPROP:inputstream=inputstream.adaptive
+http://teratv.online:80/158711478533/186083606640/571646
+#EXTGRP:MBC Group (AR)
+#EXTINF:-1 tvg-id="MBC 5",Al-Sharqiya News
+#KODIPROP:inputstream=inputstream.adaptive
+http://teratv.online:80/158711478533/186083606640/571648
+#EXTGRP:MBC Group (AR)
+#EXTINF:-1 tvg-id="MBC ELIFE HD",Al-Sharqiya News
+#KODIPROP:inputstream=inputstream.adaptive
+http://teratv.online:80/158711478533/186083606640/571650
+#EXTGRP:MBC Group (AR)
+#EXTINF:-1 tvg-id="MBC ACTION HD",Al-Sharqiya News
+#KODIPROP:inputstream=inputstream.adaptive
+http://teratv.online:80/158711478533/186083606640/571652
+#EXTGRP:MBC Group (AR)
+#EXTINF:-1 tvg-id="MBC MAX HD",Al-Sharqiya News
+#KODIPROP:inputstream=inputstream.adaptive
+http://teratv.online:80/158711478533/186083606640/571654
+#EXTGRP:MBC Group (AR)
+#EXTINF:-1 tvg-id="MBC Variety HD",Al-Sharqiya News
+#KODIPROP:inputstream=inputstream.adaptive
+http://teratv.online:80/158711478533/186083606640/571656
+#EXTGRP:MBC Group (AR)
+#EXTINF:-1 tvg-id="MBC DRAMA HD",Al-Sharqiya News
+#KODIPROP:inputstream=inputstream.adaptive
+http://teratv.online:80/158711478533/186083606640/571658
+#EXTGRP:MBC Group (AR)
+#EXTINF:-1 tvg-id="MBC+DRAMA HD",Al-Sharqiya News
+#KODIPROP:inputstream=inputstream.adaptive
+http://teratv.online:80/158711478533/186083606640/571660
+#EXTGRP:MBC Group (AR)
+#EXTINF:-1 tvg-id="MBC MASR HD",Al-Sharqiya News
+#KODIPROP:inputstream=inputstream.adaptive
+http://teratv.online:80/158711478533/186083606640/571662
+#EXTGRP:MBC Group (AR)
+#EXTINF:-1 tvg-id="MBC MASR2 HD",Al-Sharqiya News
+#KODIPROP:inputstream=inputstream.adaptive
+http://teratv.online:80/158711478533/186083606640/571664
+#EXTGRP:MBC Group (AR)
+#EXTINF:-1 tvg-id="MBC IRAQ HD",Al-Sharqiya News
+#KODIPROP:inputstream=inputstream.adaptive
+http://teratv.online:80/158711478533/186083606640/571668
+#EXTGRP:MBC Group (AR)
+#EXTINF:-1 tvg-id="MBC PERSIA HD",Al-Sharqiya News
+#KODIPROP:inputstream=inputstream.adaptive
+http://teratv.online:80/158711478533/186083606640/571670
+#EXTGRP:MBC Group (AR)
+#EXTINF:-1 tvg-id="MBC GEO 1 HD",Al-Sharqiya News
+#KODIPROP:inputstream=inputstream.adaptive
+http://teratv.online:80/158711478533/186083606640/571672
+#EXTGRP:MBC Group (AR)
+#EXTINF:-1 tvg-id="MBC GEO 2 HD",Al-Sharqiya News
+#KODIPROP:inputstream=inputstream.adaptive
+http://teratv.online:80/158711478533/186083606640/571673
+#EXTGRP:MBC Group (AR)
+#EXTINF:-1 tvg-id="MBC POWER HD",Al-Sharqiya News
+#KODIPROP:inputstream=inputstream.adaptive
+http://teratv.online:80/158711478533/186083606640/571674
+#EXTGRP:MBC Group (AR)
+#EXTINF:-1 tvg-id="MBC PLUS HD",Al-Sharqiya News
+#KODIPROP:inputstream=inputstream.adaptive
+http://teratv.online:80/158711478533/186083606640/571676
+#EXTGRP:MBC Group (AR)
+#EXTINF:-1 tvg-id="MBC TOONS HD",Al-Sharqiya News
+#KODIPROP:inputstream=inputstream.adaptive
+http://teratv.online:80/158711478533/186083606640/571677
+#EXTGRP:MBC Group (AR)
+#EXTINF:-1 tvg-id="MBC FAMILY HD",Al-Sharqiya News
+#KODIPROP:inputstream=inputstream.adaptive
+http://teratv.online:80/158711478533/186083606640/571678
+#EXTGRP:MBC Group (AR)
+#EXTINF:-1 tvg-id="Rotana Aflam +",Al-Sharqiya News
+#KODIPROP:inputstream=inputstream.adaptive
+http://teratv.online:80/158711478533/186083606640/571729
+#EXTGRP:MBC Group (AR)
+#EXTINF:-1 tvg-id="FIX & FOXI",Al-Sharqiya News
+#KODIPROP:inputstream=inputstream.adaptive
+http://teratv.online:80/158711478533/186083606640/571733
+#EXTGRP:MBC Group (AR)
+#EXTINF:-1 tvg-id=" Diseny",Al-Sharqiya News
+#KODIPROP:inputstream=inputstream.adaptive
+http://teratv.online:80/158711478533/186083606640/571734
+#EXTGRP:MBC Group (AR)
+#EXTINF:-1 tvg-id="Rotana Cinema +US",Al-Sharqiya News
+#KODIPROP:inputstream=inputstream.adaptive
+http://teratv.online:80/158711478533/186083606640/571758
+#EXTGRP:MBC Group (AR)
+#EXTINF:-1 tvg-id="Rotana Aflam +",Al-Sharqiya News
+#KODIPROP:inputstream=inputstream.adaptive
+http://teratv.online:80/158711478533/186083606640/571729
+#EXTGRP:OSN Group (AR)
+#EXTINF:-1 tvg-id="OSN CARTOON NETWORK",Al-Sharqiya News
+#KODIPROP:inputstream=inputstream.adaptive
+http://teratv.online:80/158711478533/186083606640/572011
+#EXTGRP:OSN Group (AR)
+#EXTINF:-1 tvg-id="OSN CINEMA 1",Al-Sharqiya News
+#KODIPROP:inputstream=inputstream.adaptive
+http://teratv.online:80/158711478533/186083606640/572012
+#EXTGRP:OSN Group (AR)
+#EXTINF:-1 tvg-id="OSN CINEMA 2",Al-Sharqiya News
+#KODIPROP:inputstream=inputstream.adaptive
+http://teratv.online:80/158711478533/186083606640/572013
+#EXTGRP:OSN Group (AR)
+#EXTINF:-1 tvg-id="OSN COMDEY",Al-Sharqiya News
+#KODIPROP:inputstream=inputstream.adaptive
+http://teratv.online:80/158711478533/186083606640/572014
+#EXTGRP:OSN Group (AR)
+#EXTINF:-1 tvg-id="OSN DISCOVERY IDX",Al-Sharqiya News
+#KODIPROP:inputstream=inputstream.adaptive
+http://teratv.online:80/158711478533/186083606640/572016
+#EXTGRP:OSN Group (AR)
+#EXTINF:-1 tvg-id="OSN FOX NEWS",Al-Sharqiya News
+#KODIPROP:inputstream=inputstream.adaptive
+http://teratv.online:80/158711478533/186083606640/572025
+#EXTGRP:OSN Group (AR)
+#EXTINF:-1 tvg-id="OSN KIDS",Al-Sharqiya News
+#KODIPROP:inputstream=inputstream.adaptive
+http://teratv.online:80/158711478533/186083606640/572029
+#EXTGRP:OSN Group (AR)
+#EXTINF:-1 tvg-id="OSN HISTORY 2",Al-Sharqiya News
+#KODIPROP:inputstream=inputstream.adaptive
+http://teratv.online:80/158711478533/186083606640/572028
+#EXTGRP:OSN Group (AR)
+#EXTINF:-1 tvg-id="OSN HISTORY",Al-Sharqiya News
+#KODIPROP:inputstream=inputstream.adaptive
+http://teratv.online:80/158711478533/186083606640/572027
+#EXTGRP:OSN Group (AR)
+#EXTINF:-1 tvg-id="OSN GAME TOON",Al-Sharqiya News
+#KODIPROP:inputstream=inputstream.adaptive
+http://teratv.online:80/158711478533/186083606640/572026
+#EXTGRP:OSN Group (AR)
+#EXTINF:-1 tvg-id="OSN MEZZE",Al-Sharqiya News
+#KODIPROP:inputstream=inputstream.adaptive
+http://teratv.online:80/158711478533/186083606640/572031
+#EXTGRP:OSN Group (AR)
+#EXTINF:-1 tvg-id="OSN MOVIES ACTION",Al-Sharqiya News
+#KODIPROP:inputstream=inputstream.adaptive
+http://teratv.online:80/158711478533/186083606640/572034
+#EXTGRP:OSN Group (AR)
+#EXTINF:-1 tvg-id="OSN MOVIES FAMILY",Al-Sharqiya News
+#KODIPROP:inputstream=inputstream.adaptive
+http://teratv.online:80/158711478533/186083606640/572035
+#EXTGRP:OSN Group (AR)
+#EXTINF:-1 tvg-id="Osn Movies Hollywood",Al-Sharqiya News
+#KODIPROP:inputstream=inputstream.adaptive
+http://teratv.online:80/158711478533/186083606640/572036
+#EXTGRP:OSN Group (AR)
+#EXTINF:-1 tvg-id="OSN MOVIES HORROR",Al-Sharqiya News
+#KODIPROP:inputstream=inputstream.adaptive
+http://teratv.online:80/158711478533/186083606640/572037
+#EXTGRP:OSN Group (AR)
+#EXTINF:-1 tvg-id="OSN MOVIES PREMIERE",Al-Sharqiya News
+#KODIPROP:inputstream=inputstream.adaptive
+http://teratv.online:80/158711478533/186083606640/572038
+#EXTGRP:OSN Group (AR)
+#EXTINF:-1 tvg-id="OSN Netflix",Al-Sharqiya News
+#KODIPROP:inputstream=inputstream.adaptive
+http://teratv.online:80/158711478533/186083606640/572042
+#EXTGRP:OSN Group (AR)
+#EXTINF:-1 tvg-id="OSN NICK JR.",Al-Sharqiya News
+#KODIPROP:inputstream=inputstream.adaptive
+http://teratv.online:80/158711478533/186083606640/572043
+#EXTGRP:OSN Group (AR)
+#EXTINF:-1 tvg-id="OSN NICK JR.",Al-Sharqiya News
+#KODIPROP:inputstream=inputstream.adaptive
+http://teratv.online:80/158711478533/186083606640/572044
+#EXTGRP:OSN Group (AR)
+#EXTINF:-1 tvg-id="OSN NOW",Al-Sharqiya News
+#KODIPROP:inputstream=inputstream.adaptive
+http://teratv.online:80/158711478533/186083606640/572046
+#EXTGRP:OSN Group (AR)
+#EXTINF:-1 tvg-id="OSN On Demand",Al-Sharqiya News
+#KODIPROP:inputstream=inputstream.adaptive
+http://teratv.online:80/158711478533/186083606640/572047
+#EXTGRP:OSN Group (AR)
+#EXTINF:-1 tvg-id="OSN ONE",Al-Sharqiya News
+#KODIPROP:inputstream=inputstream.adaptive
+http://teratv.online:80/158711478533/186083606640/572048
+#EXTGRP:OSN Group (AR)
+#EXTINF:-1 tvg-id="OSN PLAY CINEMA 1",Al-Sharqiya News
+#KODIPROP:inputstream=inputstream.adaptive
+http://teratv.online:80/158711478533/186083606640/572049
+#EXTGRP:OSN Group (AR)
+#EXTINF:-1 tvg-id="OSN PLAY CINEMA 2",Al-Sharqiya News
+#KODIPROP:inputstream=inputstream.adaptive
+http://teratv.online:80/158711478533/186083606640/572050
+#EXTGRP:OSN Group (AR)
+#EXTINF:-1 tvg-id="OSN PLAY MOVIES 4",Al-Sharqiya News
+#KODIPROP:inputstream=inputstream.adaptive
+http://teratv.online:80/158711478533/186083606640/572056
+#EXTGRP:OSN Group (AR)
+#EXTINF:-1 tvg-id="OSN SHOWCASE",Al-Sharqiya News
+#KODIPROP:inputstream=inputstream.adaptive
+http://teratv.online:80/158711478533/186083606640/572059
+#EXTGRP:OSN Group (AR)
+#EXTINF:-1 tvg-id="OSN TLC",Al-Sharqiya News
+#KODIPROP:inputstream=inputstream.adaptive
+http://teratv.online:80/158711478533/186083606640/572062
+#EXTGRP:OSN Group (AR)
+#EXTINF:-1 tvg-id="OSN WWE",Al-Sharqiya News
+#KODIPROP:inputstream=inputstream.adaptive
+http://teratv.online:80/158711478533/186083606640/572063
+#EXTGRP:OSN Group (AR)
+#EXTINF:-1 tvg-id="OSN YAHALA",Al-Sharqiya News
+#KODIPROP:inputstream=inputstream.adaptive
+http://teratv.online:80/158711478533/186083606640/572064
+#EXTGRP:OSN Group (AR)
+#EXTINF:-1 tvg-id="Netflix Action 1",Al-Sharqiya News
+#KODIPROP:inputstream=inputstream.adaptive
+http://teratv.online:80/158711478533/186083606640/575218
+#EXTGRP:OSN Group (AR)
+#EXTINF:-1 tvg-id="Netflix Action 2",Al-Sharqiya News
+#KODIPROP:inputstream=inputstream.adaptive
+http://teratv.online:80/158711478533/186083606640/575226
+#EXTGRP:OSN Group (AR)
+#EXTINF:-1 tvg-id="Netflix Adventure 2",Al-Sharqiya News
+#KODIPROP:inputstream=inputstream.adaptive
+http://teratv.online:80/158711478533/186083606640/575228
+#EXTGRP:OSN Group (AR)
+#EXTINF:-1 tvg-id="Netflix Adventure 3",Al-Sharqiya News
+#KODIPROP:inputstream=inputstream.adaptive
+http://teratv.online:80/158711478533/186083606640/575229
+#EXTGRP:OSN Group (AR)
+#EXTINF:-1 tvg-id="Netflix MOVIES 1",Al-Sharqiya News
+#KODIPROP:inputstream=inputstream.adaptive
+http://teratv.online:80/158711478533/186083606640/575259
+#EXTGRP:Movies (EN)
+#EXTINF:-1 tvg-id="AMAZONE MOVIES 3",Al-Sharqiya News
+#KODIPROP:inputstream=inputstream.adaptive
+http://teratv.online:80/158711478533/186083606640/574146
+#EXTGRP:Movies (EN)
+#EXTINF:-1 tvg-id="AMAZONE MOVIES 2",Al-Sharqiya News
+#KODIPROP:inputstream=inputstream.adaptive
+http://teratv.online:80/158711478533/186083606640/574145
+#EXTGRP:Movies (EN)
+#EXTINF:-1 tvg-id="AMAZONE MOVIES 1",Al-Sharqiya News
+#KODIPROP:inputstream=inputstream.adaptive
+http://teratv.online:80/158711478533/186083606640/574144
+#EXTGRP:Movies (EN)
+#EXTINF:-1 tvg-id="Shahid Movies Action",Al-Sharqiya News
+#KODIPROP:inputstream=inputstream.adaptive
+http://teratv.online:80/158711478533/186083606640/573696
+#EXTGRP:Movies (EN)
+#EXTINF:-1 tvg-id="Shahid Movies Thriller",Al-Sharqiya News
+#KODIPROP:inputstream=inputstream.adaptive
+http://teratv.online:80/158711478533/186083606640/573697
+#EXTGRP:Movies (EN)
+#EXTINF:-1 tvg-id="Sony Movie",Al-Sharqiya News
+#KODIPROP:inputstream=inputstream.adaptive
+http://teratv.online:80/158711478533/186083606640/585584
+#EXTGRP:Movies (EN)
+#EXTINF:-1 tvg-id="BLUE KIDS MOVIE",Al-Sharqiya News
+#KODIPROP:inputstream=inputstream.adaptive
+http://teratv.online:80/158711478533/186083606640/582796
+#EXTGRP:Movies (EN)
+#EXTINF:-1 tvg-id="MoviePlex",Al-Sharqiya News
+#KODIPROP:inputstream=inputstream.adaptive
+http://teratv.online:80/158711478533/186083606640/585612
+#EXTGRP:Movies (EN)
+#EXTINF:-1 tvg-id="SONY MOVIES",Al-Sharqiya News
+#KODIPROP:inputstream=inputstream.adaptive
+http://teratv.online:80/158711478533/186083606640/581751
+#EXTGRP:Movies (EN)
+#EXTINF:-1 tvg-id="MOVISTAR PLUS 1 HD",Al-Sharqiya News
+#KODIPROP:inputstream=inputstream.adaptive
+http://teratv.online:80/158711478533/186083606640/576832
+#EXTGRP:Movies (EN)
+#EXTINF:-1 tvg-id="AXN MOVIES HEVC",Al-Sharqiya News
+#KODIPROP:inputstream=inputstream.adaptive
+http://teratv.online:80/158711478533/186083606640/576563
+#EXTGRP:Movies (EN)
+#EXTINF:-1 tvg-id="MOVIEDOME",Al-Sharqiya News
+#KODIPROP:inputstream=inputstream.adaptive
+http://teratv.online:80/158711478533/186083606640/579948
+#EXTGRP:Movies (EN)
+#EXTINF:-1 tvg-id="Moviedome Family",Al-Sharqiya News
+#KODIPROP:inputstream=inputstream.adaptive
+http://teratv.online:80/158711478533/186083606640/579949
+#EXTGRP:Movies (EN)
+#EXTINF:-1 tvg-id="wedoTV Movies",Al-Sharqiya News
+#KODIPROP:inputstream=inputstream.adaptive
+http://teratv.online:80/158711478533/186083606640/579974
+#EXTGRP:Movies (EN)
+#EXTINF:-1 tvg-id="MOVIES DOME HD",Al-Sharqiya News
+#KODIPROP:inputstream=inputstream.adaptive
+http://teratv.online:80/158711478533/186083606640/576253
+#EXTGRP:Movies (EN)
+#EXTINF:-1 tvg-id="FOX MOVIES FHD",Al-Sharqiya News
+#KODIPROP:inputstream=inputstream.adaptive
+http://teratv.online:80/158711478533/186083606640/577024
+#EXTGRP:Movies (EN)
+#EXTINF:-1 tvg-id="RAI MOVIE HD",Al-Sharqiya News
+#KODIPROP:inputstream=inputstream.adaptive
+http://teratv.online:80/158711478533/186083606640/576385
+#EXTGRP:Movies (EN)
+#EXTINF:-1 tvg-id="MOVIE STAR HD",Al-Sharqiya News
+#KODIPROP:inputstream=inputstream.adaptive
+http://teratv.online:80/158711478533/186083606640/577946
+#EXTGRP:Movies (EN)
+#EXTINF:-1 tvg-id="BEIN MOVIES ACTION 2HD",Al-Sharqiya News
+#KODIPROP:inputstream=inputstream.adaptive
+http://teratv.online:80/158711478533/186083606640/579075
+#EXTGRP:Movies (EN)
+#EXTINF:-1 tvg-id="BOSS MOVIES  1",Al-Sharqiya News
+#KODIPROP:inputstream=inputstream.adaptive
+http://teratv.online:80/158711478533/186083606640/579140
+#EXTGRP:Movies (EN)
+#EXTINF:-1 tvg-id="LT: TV1000 MOVIE HD",Al-Sharqiya News
+#KODIPROP:inputstream=inputstream.adaptive
+http://teratv.online:80/158711478533/186083606640/583342
+#EXTGRP:Movies (EN)
+#EXTINF:-1 tvg-id="HU: SONY MOVIE CHANNEL",Al-Sharqiya News
+#KODIPROP:inputstream=inputstream.adaptive
+http://teratv.online:80/158711478533/186083606640/579244
+#EXTGRP:Movies (EN)
+#EXTINF:-1 tvg-id="SR: PINK MOVIES",Al-Sharqiya News
+#KODIPROP:inputstream=inputstream.adaptive
+http://teratv.online:80/158711478533/186083606640/581104
+#EXTGRP:Movies (EN)
+#EXTINF:-1 tvg-id="Gospel Movie TV",Al-Sharqiya News
+#KODIPROP:inputstream=inputstream.adaptive
+http://teratv.online:80/158711478533/186083606640/584145
+#EXTGRP:Movies (EN)
+#EXTINF:-1 tvg-id="MyTime Movie Network",Al-Sharqiya News
+#KODIPROP:inputstream=inputstream.adaptive
+http://teratv.online:80/158711478533/186083606640/584152
+#EXTGRP:Movies (EN)
+#EXTINF:-1 tvg-id="VIP PH: tvN Movies Pinoy",Al-Sharqiya News
+#KODIPROP:inputstream=inputstream.adaptive
+http://teratv.online:80/158711478533/186083606640/583626
+#EXTGRP:Movies (EN)
+#EXTINF:-1 tvg-id="VIP PH: HITS Movies",Al-Sharqiya News
+#KODIPROP:inputstream=inputstream.adaptive
+http://teratv.online:80/158711478533/186083606640/583627
+#EXTGRP:Movies (EN)
+#EXTINF:-1 tvg-id="USA: Cinemax Action 2",Al-Sharqiya News
+#KODIPROP:inputstream=inputstream.adaptive
+http://teratv.online:80/158711478533/186083606640/586160
+#EXTGRP:Movies (EN)
+#EXTINF:-1 tvg-id="USA: Starz Cinema East",Al-Sharqiya News
+#KODIPROP:inputstream=inputstream.adaptive
+http://teratv.online:80/158711478533/186083606640/586171
+#EXTGRP:Movies (EN)
+#EXTINF:-1 tvg-id="USA: Cinemax West",Al-Sharqiya News
+#KODIPROP:inputstream=inputstream.adaptive
+http://teratv.online:80/158711478533/186083606640/586176
+#EXTGRP:Movies (EN)
+#EXTINF:-1 tvg-id="USA: Cinemax More",Al-Sharqiya News
+#KODIPROP:inputstream=inputstream.adaptive
+http://teratv.online:80/158711478533/186083606640/586177
+#EXTGRP:Movies (EN)
+#EXTINF:-1 tvg-id="USA: CineMax 5 Star Max HD",Al-Sharqiya News
+#KODIPROP:inputstream=inputstream.adaptive
+http://teratv.online:80/158711478533/186083606640/585590
+#EXTGRP:Movies (EN)
+#EXTINF:-1 tvg-id="Usa: Cinemax Action HD",Al-Sharqiya News
+#KODIPROP:inputstream=inputstream.adaptive
+http://teratv.online:80/158711478533/186083606640/585591
+#EXTGRP:Movies (EN)
+#EXTINF:-1 tvg-id="USA: CineMAX HD",Al-Sharqiya News
+#KODIPROP:inputstream=inputstream.adaptive
+http://teratv.online:80/158711478533/186083606640/585592
+#EXTGRP:Movies (EN)
+#EXTINF:-1 tvg-id="USA: CineMax OuterMax FHD",Al-Sharqiya News
+#KODIPROP:inputstream=inputstream.adaptive
+http://teratv.online:80/158711478533/186083606640/585594
+#EXTGRP:Movies (EN)
+#EXTINF:-1 tvg-id="USA: Cinemax ThrillerMax FHD",Al-Sharqiya News
+#KODIPROP:inputstream=inputstream.adaptive
+http://teratv.online:80/158711478533/186083606640/585595
+#EXTGRP:Movies (EN)
+#EXTINF:-1 tvg-id="USA: Starz Cinema",Al-Sharqiya News
+#KODIPROP:inputstream=inputstream.adaptive
+http://teratv.online:80/158711478533/186083606640/585625
+#EXTGRP:Movies (EN)
+#EXTINF:-1 tvg-id="Ca | Fr: CINEPOP",Al-Sharqiya News
+#KODIPROP:inputstream=inputstream.adaptive
+http://teratv.online:80/158711478533/186083606640/586305
+#EXTGRP:Movies (EN)
+#EXTINF:-1 tvg-id="FR: CANAL+ CINEMA HD",Al-Sharqiya News
+#KODIPROP:inputstream=inputstream.adaptive
+http://teratv.online:80/158711478533/186083606640/575647
+#EXTGRP:Movies (EN)
+#EXTINF:-1 tvg-id="FR: CINE+ PRIMER HD",Al-Sharqiya News
+#KODIPROP:inputstream=inputstream.adaptive
+http://teratv.online:80/158711478533/186083606640/575653
+#EXTGRP:Movies (EN)
+#EXTINF:-1 tvg-id="FR: CINE+ FRISSION HD",Al-Sharqiya News
+#KODIPROP:inputstream=inputstream.adaptive
+http://teratv.online:80/158711478533/186083606640/575655
+#EXTGRP:Movies (EN)
+#EXTINF:-1 tvg-id="FR: CINE+ FAMIZ HD",Al-Sharqiya News
+#KODIPROP:inputstream=inputstream.adaptive
+http://teratv.online:80/158711478533/186083606640/575657
+#EXTGRP:Movies (EN)
+#EXTINF:-1 tvg-id="FR: CINE+ CLUB HD",Al-Sharqiya News
+#KODIPROP:inputstream=inputstream.adaptive
+http://teratv.online:80/158711478533/186083606640/575659
+#EXTGRP:Movies (EN)
+#EXTINF:-1 tvg-id="FR: CINE+ EMOTION HD",Al-Sharqiya News
+#KODIPROP:inputstream=inputstream.adaptive
+http://teratv.online:80/158711478533/186083606640/575663
+#EXTGRP:Movies (EN)
+#EXTINF:-1 tvg-id="ES: CINE ESPANOL HD",Al-Sharqiya News
+#KODIPROP:inputstream=inputstream.adaptive
+http://teratv.online:80/158711478533/186083606640/576787
+#EXTGRP:Movies (EN)
+#EXTINF:-1 tvg-id="ES: CINE HD",Al-Sharqiya News
+#KODIPROP:inputstream=inputstream.adaptive
+http://teratv.online:80/158711478533/186083606640/576788
+#EXTGRP:Movies (EN)
+#EXTINF:-1 tvg-id="GR: NOVA CINEMA 1 4K",Al-Sharqiya News
+#KODIPROP:inputstream=inputstream.adaptive
+http://teratv.online:80/158711478533/186083606640/578494
+#EXTGRP:Movies (EN)
+#EXTINF:-1 tvg-id="DE: SKY CINEMA ACTION HD",Al-Sharqiya News
+#KODIPROP:inputstream=inputstream.adaptive
+http://teratv.online:80/158711478533/186083606640/576127
+#EXTGRP:Movies (EN)
+#EXTINF:-1 tvg-id="DE: SKY CINEMA FAMILY HD",Al-Sharqiya News
+#KODIPROP:inputstream=inputstream.adaptive
+http://teratv.online:80/158711478533/186083606640/576130
+#EXTGRP:Movies (EN)
+#EXTINF:-1 tvg-id="DE: SKY CINEMA PREMIEREN HD",Al-Sharqiya News
+#KODIPROP:inputstream=inputstream.adaptive
+http://teratv.online:80/158711478533/186083606640/576133
+#EXTGRP:Movies (EN)
+#EXTINF:-1 tvg-id="DE: PLEX CINEMA",Al-Sharqiya News
+#KODIPROP:inputstream=inputstream.adaptive
+http://teratv.online:80/158711478533/186083606640/576141
+#EXTGRP:Movies (EN)
+#EXTINF:-1 tvg-id="DE: PLEX CINESTAR",Al-Sharqiya News
+#KODIPROP:inputstream=inputstream.adaptive
+http://teratv.online:80/158711478533/186083606640/576147
+#EXTGRP:Movies (EN)
+#EXTINF:-1 tvg-id="Sky Cinema Family HD",Al-Sharqiya News
+#KODIPROP:inputstream=inputstream.adaptive
+http://teratv.online:80/158711478533/186083606640/576211
+#EXTGRP:Movies (EN)
+#EXTINF:-1 tvg-id="Sky Cinema Action HD",Al-Sharqiya News
+#KODIPROP:inputstream=inputstream.adaptive
+http://teratv.online:80/158711478533/186083606640/576215
+#EXTGRP:Movies (EN)
+#EXTINF:-1 tvg-id="DE: SKY CINEMA SPECIAL HEVC",Al-Sharqiya News
+#KODIPROP:inputstream=inputstream.adaptive
+http://teratv.online:80/158711478533/186083606640/575729
+#EXTGRP:Movies (EN)
+#EXTINF:-1 tvg-id="DE: SKY CINEMA ACTION HEVC",Al-Sharqiya News
+#KODIPROP:inputstream=inputstream.adaptive
+http://teratv.online:80/158711478533/186083606640/575734
+#EXTGRP:Movies (EN)
+#EXTINF:-1 tvg-id="PL: CINEMAX HD",Al-Sharqiya News
+#KODIPROP:inputstream=inputstream.adaptive
+http://teratv.online:80/158711478533/186083606640/577788
+#EXTGRP:Movies (EN)
+#EXTINF:-1 tvg-id="PL: CINEMAX 2 HD",Al-Sharqiya News
+#KODIPROP:inputstream=inputstream.adaptive
+http://teratv.online:80/158711478533/186083606640/577790
+#EXTGRP:Movies (EN)
+#EXTINF:-1 tvg-id="BE: CINE+ PREMIER HD",Al-Sharqiya News
+#KODIPROP:inputstream=inputstream.adaptive
+http://teratv.online:80/158711478533/186083606640/577635
+#EXTGRP:Movies (EN)
+#EXTINF:-1 tvg-id="BG: CINEMAX 1 HD",Al-Sharqiya News
+#KODIPROP:inputstream=inputstream.adaptive
+http://teratv.online:80/158711478533/186083606640/577922
+#EXTGRP:Movies (EN)
+#EXTINF:-1 tvg-id="BG: CINEMA PLUS",Al-Sharqiya News
+#KODIPROP:inputstream=inputstream.adaptive
+http://teratv.online:80/158711478533/186083606640/577950
+#EXTGRP:Movies (EN)
+#EXTINF:-1 tvg-id="RO: CINEMAX 1",Al-Sharqiya News
+#KODIPROP:inputstream=inputstream.adaptive
+http://teratv.online:80/158711478533/186083606640/580431
+#EXTGRP:Movies (EN)
+#EXTINF:-1 tvg-id="RO: CINEMAX 2",Al-Sharqiya News
+#KODIPROP:inputstream=inputstream.adaptive
+http://teratv.online:80/158711478533/186083606640/580432
+#EXTGRP:Movies (EN)
+#EXTINF:-1 tvg-id="",Al-Sharqiya News
+#KODIPROP:inputstream=inputstream.adaptive
+
+#EXTGRP:Movies (EN)
+#EXTINF:-1 tvg-id="",Al-Sharqiya News
+#KODIPROP:inputstream=inputstream.adaptive
+
+#EXTGRP:Movies (EN)
+#EXTINF:-1 tvg-id="",Al-Sharqiya News
+#KODIPROP:inputstream=inputstream.adaptive
+
+#EXTGRP:Movies (EN)
+#EXTINF:-1 tvg-id="",Al-Sharqiya News
+#KODIPROP:inputstream=inputstream.adaptive
+
+#EXTGRP:Movies (EN)
+#EXTINF:-1 tvg-id="",Al-Sharqiya News
+#KODIPROP:inputstream=inputstream.adaptive
+
+#EXTGRP:Movies (EN)
+#EXTINF:-1 tvg-id="",Al-Sharqiya News
+#KODIPROP:inputstream=inputstream.adaptive
+
+#EXTGRP:Movies (EN)
+#EXTINF:-1 tvg-id="",Al-Sharqiya News
+#KODIPROP:inputstream=inputstream.adaptive
+
 
 
 
