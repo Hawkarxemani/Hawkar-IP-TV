@@ -676,22 +676,22 @@ http://teratv.online:80/158711478533/186083606640/578631
 #EXTINF:-1 group-title="|do|",|SPO|  NAT GEO WILD NL
 
 #EXTGRP:MBC Group (AR)
-#EXTINF:-1 tvg-id="MBC 1",Al-Sharqiya News
+#EXTINF:-1 tvg-id="MBC 1",MBC 1
 #KODIPROP:inputstream=inputstream.adaptive
 http://teratv.online:80/158711478533/186083606640/571640#EXTGRP:MBC Group (AR)
-#EXTINF:-1 tvg-id="MBC 2",Al-Sharqiya News
+#EXTINF:-1 tvg-id="MBC 2",MBC 2
 #KODIPROP:inputstream=inputstream.adaptive
 http://teratv.online:80/158711478533/186083606640/571642
 #EXTGRP:MBC Group (AR)
-#EXTINF:-1 tvg-id="MBC 3",Al-Sharqiya News
+#EXTINF:-1 tvg-id="MBC 3",MBC 3
 #KODIPROP:inputstream=inputstream.adaptive
 http://teratv.online:80/158711478533/186083606640/571644
 #EXTGRP:MBC Group (AR)
-#EXTINF:-1 tvg-id="MBC 4",Al-Sharqiya News
+#EXTINF:-1 tvg-id="MBC 4",MBC 4
 #KODIPROP:inputstream=inputstream.adaptive
 http://teratv.online:80/158711478533/186083606640/571646
 #EXTGRP:MBC Group (AR)
-#EXTINF:-1 tvg-id="MBC 5",Al-Sharqiya News
+#EXTINF:-1 tvg-id="MBC 5",MBC 5
 #KODIPROP:inputstream=inputstream.adaptive
 http://teratv.online:80/158711478533/186083606640/571648
 #EXTGRP:MBC Group (AR)
