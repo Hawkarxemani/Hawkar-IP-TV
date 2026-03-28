@@ -1205,28 +1205,21 @@ http://300300.org/live/uGtYMM3eYE6Kb0W/F7yp65caerut3ND/59269.ts
 -------------------------------------------------------------
 
 
-#EXTINF:-1 group-title="OSN Group (AR),,OSN CARTOON NETWORK
+#EXTINF:-1 group-title="OSN Group (AR)",OSN CARTOON NETWORK
 http://teratv.online:80/158711478533/186083606640/572011
-
-#EXTINF:-1 group-title="OSN Group (AR),,OSN CINEMA 1
+#EXTINF:-1 group-title="OSN Group (AR)",OSN CINEMA 1
 http//teratv.online:80/158711478533/186083606640/572012
-
-#EXTINF:-1 group-title="OSN Group (AR),OSN CINEMA 2
+#EXTINF:-1 group-title="OSN Group (AR)",OSN CINEMA 2
 http://teratv.online:80/158711478533/186083606640/572013
-
-#EXTINF:-1 group-title="OSN Group (AR),OSN COMDEY
+#EXTINF:-1 group-title="OSN Group (AR)",OSN COMDEY
 http://teratv.online:80/158711478533/186083606640/572014
-
-#EXTINF:-1 group-title="OSN Group (AR),OSN DISCOVERY IDX
+#EXTINF:-1 group-title="OSN Group (AR)",OSN DISCOVERY IDX
 http://teratv.online:80/158711478533/186083606640/572016
-
-#EXTINF:-1 group-title="OSN Group (AR),OSN FOX NEWS
+#EXTINF:-1 group-title="OSN Group (AR)",OSN FOX NEWS
 http://teratv.online:80/158711478533/186083606640/572025
-
-#EXTINF:-1 group-title="OSN Group (AR),OSN KIDS
+#EXTINF:-1 group-title="OSN Group (AR)",OSN KIDS
 http://teratv.online:80/158711478533/186083606640/572029
-
-#EXTINF:-1 group-title="OSN Group (AR),OSN HISTORY 2
+#EXTINF:-1 group-title="OSN Group (AR)",OSN HISTORY 2
 http://teratv.online:80/158711478533/186083606640/572028
 
 #EXTINF:-1 tvg-id="OSN HISTORY",OSN HISTORY
