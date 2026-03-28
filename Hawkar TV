@@ -1026,8 +1026,6 @@ https://live-fi.tvkaista.net/national-geographic/live.m3u8?hd=true
 
 
 --------------------------------------------------------------------------
-#EXTINF:-1 group-title="BeIN Group (07703672913) ",=AR= BEIN MOVIE =AR=
-http://300300.org/live/uGtYMM3eYE6Kb0W/F7yp65caerut3ND/97986.ts
 #EXTINF:-1 group-title="BeIN Group (07703672913) ",AR| BeIN Movies Action
 http://300300.org/live/uGtYMM3eYE6Kb0W/F7yp65caerut3ND/97987.ts
 #EXTINF:-1 group-title="BeIN Group (07703672913) ",AR| BeIN Movies Drama
@@ -2141,12 +2139,8 @@ https://tv.mobyservice.ru/Space/index.m3u8
 https://tv.mobyservice.ru/IdmanTV/index.m3u8
 #EXTINF:-1 group-title="Azerbaycan " ,ARB TV
 https://tv.mobyservice.ru/ARB/index.m3u8
-#EXTINF:-1 group-title="Azerbaycan " ,ARB 24
-https://tv.mobyservice.ru/ARB24/index.m3u8
 #EXTINF:-1 group-title="Azerbaycan " ,ARB Kepez
 http://85.132.78.122:8050/hls/stream/index.m3u8
-#EXTINF:-1 group-title="Azerbaycan " ,ARB Gunes
-https://tv.mobyservice.ru/ARB/Gunas/index.m3u8
 #EXTINF:-1 group-title="Azerbaycan " ,Kanal S
 https://tv.mobyservice.ru/KanalS/index.m3u8
 #EXTINF:-1 group-title="Azerbaycan " ,Muz TV AZ
