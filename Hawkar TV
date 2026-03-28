@@ -1221,265 +1221,245 @@ http://teratv.online:80/158711478533/186083606640/572025
 http://teratv.online:80/158711478533/186083606640/572029
 #EXTINF:-1 group-title="OSN Group (AR)",OSN HISTORY 2
 http://teratv.online:80/158711478533/186083606640/572028
-
-#EXTINF:-1 tvg-id="OSN HISTORY",OSN HISTORY
+#EXTINF:-1 group-title="OSN Group (AR)",OSN HISTORY
 http://teratv.online:80/158711478533/186083606640/572027
-
-#EXTINF:-1 tvg-id="OSN GAME TOON",OSN GAME TOON
+#EXTINF:-1 group-title="OSN Group (AR)",OSN GAME TOON
 http://teratv.online:80/158711478533/186083606640/572026
-
-#EXTINF:-1 tvg-id="OSN MEZZE",OSN MEZZE
+#EXTINF:-1 group-title="OSN Group (AR)",OSN MEZZE
 http://teratv.online:80/158711478533/186083606640/572031
-
-#EXTINF:-1 tvg-id="OSN MOVIES ACTION",OSN MOVIES ACTION
+#EXTINF:-1 group-title="OSN Group (AR)",OSN MOVIES ACTION
 http://teratv.online:80/158711478533/186083606640/572034
-
-#EXTINF:-1 tvg-id="OSN MOVIES FAMILY",OSN MOVIES FAMILY
+#EXTINF:-1 group-title="OSN Group (AR)",OSN MOVIES FAMILY
 http://teratv.online:80/158711478533/186083606640/572035
-
-#EXTINF:-1 tvg-id="Osn Movies Hollywood",Osn Movies Hollywood
+#EXTINF:-1 group-title="OSN Group (AR)",Osn Movies Hollywood
 http://teratv.online:80/158711478533/186083606640/572036
-
-#EXTINF:-1 tvg-id="OSN MOVIES HORROR",OSN MOVIES HORROR
+#EXTINF:-1 group-title="OSN Group (AR)",OSN MOVIES HORROR
 http://teratv.online:80/158711478533/186083606640/572037
-
-#EXTINF:-1 tvg-id="OSN MOVIES PREMIERE",OSN MOVIES PREMIERE
+#EXTINF:-1 group-title="OSN Group (AR)",OSN MOVIES PREMIERE
 http://teratv.online:80/158711478533/186083606640/572038
-
-#EXTINF:-1 tvg-id="OSN Netflix",OSN Netflix
+#EXTINF:-1 group-title="OSN Group (AR)",OSN Netflix
 http://teratv.online:80/158711478533/186083606640/572042
-
-#EXTINF:-1 tvg-id="OSN NICK JR.",OSN NICK JR.
+#EXTINF:-1 group-title="OSN Group (AR)",OSN NICK JR.
 http://teratv.online:80/158711478533/186083606640/572043
-
-#EXTINF:-1 tvg-id="OSN NICK JR.",OSN NICK JR.
+#EXTINF:-1 group-title="OSN Group (AR)",OSN NICK JR.
 http://teratv.online:80/158711478533/186083606640/572044
-
-#EXTINF:-1 tvg-id="OSN NOW",OSN NOW
+#EXTINF:-1 group-title="OSN Group (AR)",OSN NOW
 http://teratv.online:80/158711478533/186083606640/572046
-
-#EXTINF:-1 tvg-id="OSN On Demand",OSN On Demand
+#EXTINF:-1 group-title="OSN Group (AR)",OSN On Demand
 http://teratv.online:80/158711478533/186083606640/572047
-
-#EXTINF:-1 tvg-id="OSN ONE",OSN ONE
+#EXTINF:-1 group-title="OSN Group (AR)",OSN ONE
 http://teratv.online:80/158711478533/186083606640/572048
-
-#EXTINF:-1 tvg-id="OSN PLAY CINEMA 1",OSN PLAY CINEMA 1
+#EXTINF:-1 group-title="OSN Group (AR)",OSN PLAY CINEMA 1
 http://teratv.online:80/158711478533/186083606640/572049
-
-#EXTINF:-1 tvg-id="OSN PLAY CINEMA 2",OSN PLAY CINEMA 2
+#EXTINF:-1 group-title="OSN Group (AR)",OSN PLAY CINEMA 2
 http://teratv.online:80/158711478533/186083606640/572050
-
-#EXTINF:-1 tvg-id="OSN PLAY MOVIES 4",OSN PLAY MOVIES 4
+#EXTINF:-1 group-title="OSN Group (AR)",OSN PLAY MOVIES 4
 http://teratv.online:80/158711478533/186083606640/572056
-
-#EXTINF:-1 tvg-id="OSN SHOWCASE",OSN SHOWCASE
+#EXTINF:-1 group-title="OSN Group (AR)",OSN SHOWCASE
 http://teratv.online:80/158711478533/186083606640/572059
-
-#EXTINF:-1 tvg-id="OSN TLC",OSN TLC
+#EXTINF:-1 group-title="OSN Group (AR)",OSN TLC
 http://teratv.online:80/158711478533/186083606640/572062
-
-#EXTINF:-1 tvg-id="OSN WWE",OSN WWE
+#EXTINF:-1 group-title="OSN Group (AR)",OSN WWE
 http://teratv.online:80/158711478533/186083606640/572063
-
-#EXTINF:-1 tvg-id="OSN YAHALA",OSN YAHALA
+#EXTINF:-1 group-title="OSN Group (AR)",OSN YAHALA
 http://teratv.online:80/158711478533/186083606640/572064
-
-#EXTINF:-1 tvg-id="Netflix Action 1",Netflix Action 1
+#EXTINF:-1 group-title="OSN Group (AR)",Netflix Action 1
 http://teratv.online:80/158711478533/186083606640/575218
-
-#EXTINF:-1 tvg-id="Netflix Action 2",Netflix Action 2
+#EXTINF:-1 group-title="OSN Group (AR)",Netflix Action 2
 http://teratv.online:80/158711478533/186083606640/575226
-#EXTINF:-1 tvg-id="AMAZONE MOVIES 3",AMAZONE MOVIES 3
+#EXTINF:-1 group-title="OSN Group (AR)",AMAZONE MOVIES 3
 http://teratv.online:80/158711478533/186083606640/574146
+
+
+-------------------------------------------------------------------
+
+
 #EXTGRP:Movies (EN)
-#EXTINF:-1 tvg-id="AMAZONE MOVIES 2",AMAZONE MOVIES 2
+#EXTINF:-1 group-title="Movies (EN)",AMAZONE MOVIES 2
 http://teratv.online:80/158711478533/186083606640/574145
 #EXTGRP:Movies (EN)
-#EXTINF:-1 tvg-id="AMAZONE MOVIES 1",AMAZONE MOVIES 1
+#EXTINF:-1 group-title="Movies (EN)",AMAZONE MOVIES 1
 http://teratv.online:80/158711478533/186083606640/574144
 #EXTGRP:Movies (EN)
-#EXTINF:-1 tvg-id="Shahid Movies Action",Shahid Movies Action
+#EXTINF:-1 group-title="Movies (EN)",Shahid Movies Action
 http://teratv.online:80/158711478533/186083606640/573696
 #EXTGRP:Movies (EN)
-#EXTINF:-1 tvg-id="Shahid Movies Thriller",Shahid Movies Thriller
+#EXTINF:-1 group-title="Movies (EN)",Shahid Movies Thriller
 http://teratv.online:80/158711478533/186083606640/573697
 #EXTGRP:Movies (EN)
-#EXTINF:-1 tvg-id="Sony Movie",Sony Movie
+#EXTINF:-1 group-title="Movies (EN)",Sony Movie
 http://teratv.online:80/158711478533/186083606640/585584
 #EXTGRP:Movies (EN)
-#EXTINF:-1 tvg-id="BLUE KIDS MOVIE",BLUE KIDS MOVIE
+#EXTINF:-1 group-title="Movies (EN)",BLUE KIDS MOVIE
 http://teratv.online:80/158711478533/186083606640/582796
 #EXTGRP:Movies (EN)
-#EXTINF:-1 tvg-id="MoviePlex",MoviePlex
+#EXTINF:-1 group-title="Movies (EN)",MoviePlex
 http://teratv.online:80/158711478533/186083606640/585612
 #EXTGRP:Movies (EN)
-#EXTINF:-1 tvg-id="SONY MOVIES",SONY MOVIES
+#EXTINF:-1 group-title="Movies (EN)",SONY MOVIES
 http://teratv.online:80/158711478533/186083606640/581751
 #EXTGRP:Movies (EN)
-#EXTINF:-1 tvg-id="MOVISTAR PLUS 1 HD",MOVISTAR PLUS 1 HD
+#EXTINF:-1 group-title="Movies (EN)",MOVISTAR PLUS 1 HD
 http://teratv.online:80/158711478533/186083606640/576832
 #EXTGRP:Movies (EN)
-#EXTINF:-1 tvg-id="AXN MOVIES HEVC",AXN MOVIES HEVC
+#EXTINF:-1 group-title="Movies (EN)",AXN MOVIES HEVC
 http://teratv.online:80/158711478533/186083606640/576563
 #EXTGRP:Movies (EN)
-#EXTINF:-1 tvg-id="MOVIEDOME",MOVIEDOME
+##EXTINF:-1 group-title="Movies (EN)",MOVIEDOME
 http://teratv.online:80/158711478533/186083606640/579948
 #EXTGRP:Movies (EN)
-#EXTINF:-1 tvg-id="Moviedome Family",Moviedome Family
+#EXTINF:-1 group-title="Movies (EN)",Moviedome Family
 http://teratv.online:80/158711478533/186083606640/579949
 #EXTGRP:Movies (EN)
-#EXTINF:-1 tvg-id="wedoTV Movies",wedoTV Movies
+#EXTINF:-1 group-title="Movies (EN)",wedoTV Movies
 http://teratv.online:80/158711478533/186083606640/579974
 #EXTGRP:Movies (EN)
-#EXTINF:-1 tvg-id="MOVIES DOME HD",MOVIES DOME HD
+#EXTINF:-1 group-title="Movies (EN)",MOVIES DOME HD
 http://teratv.online:80/158711478533/186083606640/576253
 #EXTGRP:Movies (EN)
-#EXTINF:-1 tvg-id="FOX MOVIES FHD",FOX MOVIES FHD
+#EXTINF:-1 group-title="Movies (EN)",FOX MOVIES FHD
 http://teratv.online:80/158711478533/186083606640/577024
 #EXTGRP:Movies (EN)
-#EXTINF:-1 tvg-id="RAI MOVIE HD",RAI MOVIE HD
+#EXTINF:-1 group-title="Movies (EN)",RAI MOVIE HD
 http://teratv.online:80/158711478533/186083606640/576385
 #EXTGRP:Movies (EN)
-#EXTINF:-1 tvg-id="MOVIE STAR HD",MOVIE STAR HD
+#EXTINF:-1 group-title="Movies (EN)",MOVIE STAR HD
 http://teratv.online:80/158711478533/186083606640/577946
 #EXTGRP:Movies (EN)
-#EXTINF:-1 tvg-id="BEIN MOVIES ACTION 2HD",BEIN MOVIES ACTION 2HD
+#EXTINF:-1 group-title="Movies (EN)",BEIN MOVIES ACTION 2HD
 http://teratv.online:80/158711478533/186083606640/579075
 #EXTGRP:Movies (EN)
-#EXTINF:-1 tvg-id="BOSS MOVIES  1",BOSS MOVIES  1
+#EXTINF:-1 group-title="Movies (EN)",BOSS MOVIES  1
 http://teratv.online:80/158711478533/186083606640/579140
 #EXTGRP:Movies (EN)
-#EXTINF:-1 tvg-id="LT: TV1000 MOVIE HD",TV1000 MOVIE HD
+#EXTINF:-1 group-title="Movies (EN)",TV1000 MOVIE HD
 http://teratv.online:80/158711478533/186083606640/583342
 #EXTGRP:Movies (EN)
-#EXTINF:-1 tvg-id="HU: SONY MOVIE CHANNEL",SONY MOVIE CHANNEL
+#EXTINF:-1 group-title="Movies (EN)",SONY MOVIE CHANNEL
 http://teratv.online:80/158711478533/186083606640/579244
 #EXTGRP:Movies (EN)
-#EXTINF:-1 tvg-id="SR: PINK MOVIES",PINK MOVIES
+#EXTINF:-1 group-title="Movies (EN)",PINK MOVIES
 http://teratv.online:80/158711478533/186083606640/581104
 #EXTGRP:Movies (EN)
-#EXTINF:-1 tvg-id="Gospel Movie TV",Gospel Movie TV
+#EXTINF:-1 group-title="Movies (EN)",Gospel Movie TV
 http://teratv.online:80/158711478533/186083606640/584145
 #EXTGRP:Movies (EN)
-#EXTINF:-1 tvg-id="MyTime Movie Network",MyTime Movie Network
+#EXTINF:-1 group-title="Movies (EN)",MyTime Movie Network
 http://teratv.online:80/158711478533/186083606640/584152
 #EXTGRP:Movies (EN)
-#EXTINF:-1 tvg-id="VIP PH: tvN Movies Pinoy",tvN Movies Pinoy
+#EXTINF:-1 group-title="Movies (EN)",tvN Movies Pinoy
 http://teratv.online:80/158711478533/186083606640/583626
 #EXTGRP:Movies (EN)
-#EXTINF:-1 tvg-id="VIP PH: HITS Movies",HITS Movies
+#EXTINF:-1 group-title="Movies (EN)",HITS Movies
 http://teratv.online:80/158711478533/186083606640/583627
 #EXTGRP:Movies (EN)
-#EXTINF:-1 tvg-id="USA: Cinemax Action 2",Cinemax Action 2
+#EXTINF:-1 group-title="Movies (EN)",Cinemax Action 2
 http://teratv.online:80/158711478533/186083606640/586160
 #EXTGRP:Movies (EN)
-#EXTINF:-1 tvg-id="USA: Starz Cinema East",Starz Cinema East
+#EXTINF:-1 group-title="Movies (EN)",Starz Cinema East
 http://teratv.online:80/158711478533/186083606640/586171
 #EXTGRP:Movies (EN)
-#EXTINF:-1 tvg-id="USA: Cinemax West",Cinemax West
+#EXTINF:-1 group-title="Movies (EN)",Cinemax West
 http://teratv.online:80/158711478533/186083606640/586176
 #EXTGRP:Movies (EN)
-#EXTINF:-1 tvg-id="USA: Cinemax More",Cinemax More
+#EXTINF:-1 group-title="Movies (EN)",Cinemax More
 http://teratv.online:80/158711478533/186083606640/586177
 #EXTGRP:Movies (EN)
-#EXTINF:-1 tvg-id="USA: CineMax 5 Star Max HD",CineMax 5 Star Max HD
+#EXTINF:-1 group-title="Movies (EN)",CineMax 5 Star Max HD
 http://teratv.online:80/158711478533/186083606640/585590
 #EXTGRP:Movies (EN)
-#EXTINF:-1 tvg-id="Usa: Cinemax Action HD",Cinemax Action HD
+#EXTINF:-1 group-title="Movies (EN)",Cinemax Action HD
 http://teratv.online:80/158711478533/186083606640/585591
 #EXTGRP:Movies (EN)
-#EXTINF:-1 tvg-id="USA: CineMAX HD",CineMAX HD
+#EXTINF:-1 group-title="Movies (EN)",CineMAX HD
 http://teratv.online:80/158711478533/186083606640/585592
 #EXTGRP:Movies (EN)
-#EXTINF:-1 tvg-id="USA: CineMax OuterMax FHD",CineMax OuterMax FHD
+#EXTINF:-1 group-title="Movies (EN)",CineMax OuterMax FHD
 http://teratv.online:80/158711478533/186083606640/585594
 #EXTGRP:Movies (EN)
-#EXTINF:-1 tvg-id="USA: Cinemax ThrillerMax FHD",Cinemax ThrillerMax FHD
+#EXTINF:-1 group-title="Movies (EN)",Cinemax ThrillerMax FHD
 http://teratv.online:80/158711478533/186083606640/585595
 #EXTGRP:Movies (EN)
-#EXTINF:-1 tvg-id="USA: Starz Cinema",Starz Cinema
+#EXTINF:-1 group-title="Movies (EN)",Starz Cinema
 http://teratv.online:80/158711478533/186083606640/585625
 #EXTGRP:Movies (EN)
-#EXTINF:-1 tvg-id="Ca | Fr: CINEPOP",CINEPOP
+#EXTINF:-1 group-title="Movies (EN)",CINEPOP
 http://teratv.online:80/158711478533/186083606640/586305
 #EXTGRP:Movies (EN)
-#EXTINF:-1 tvg-id="FR: CANAL+ CINEMA HD",CANAL+ CINEMA HD
+#EXTINF:-1 group-title="Movies (EN)",CANAL+ CINEMA HD
 http://teratv.online:80/158711478533/186083606640/575647
 #EXTGRP:Movies (EN)
-#EXTINF:-1 tvg-id="FR: CINE+ PRIMER HD",CINE+ PRIMER HD
+#EXTINF:-1 group-title="Movies (EN)",CINE+ PRIMER HD
 http://teratv.online:80/158711478533/186083606640/575653
 #EXTGRP:Movies (EN)
-#EXTINF:-1 tvg-id="FR: CINE+ FRISSION HD",CINE+ FRISSION HD
+#EXTINF:-1 group-title="Movies (EN)",CINE+ FRISSION HD
 http://teratv.online:80/158711478533/186083606640/575655
 #EXTGRP:Movies (EN)
-#EXTINF:-1 tvg-id="FR: CINE+ FAMIZ HD",INE+ FAMIZ HD
+#EXTINF:-1 group-title="Movies (EN)",INE+ FAMIZ HD
 http://teratv.online:80/158711478533/186083606640/575657
 #EXTGRP:Movies (EN)
-#EXTINF:-1 tvg-id="FR: CINE+ CLUB HD",CINE+ CLUB HD
+#EXTINF:-1 group-title="Movies (EN)",CINE+ CLUB HD
 http://teratv.online:80/158711478533/186083606640/575659
 #EXTGRP:Movies (EN)
-#EXTINF:-1 tvg-id="FR: CINE+ EMOTION HD",CINE+ EMOTION HD
+#EXTINF:-1 group-title="Movies (EN)",CINE+ EMOTION HD
 http://teratv.online:80/158711478533/186083606640/575663
 #EXTGRP:Movies (EN)
-#EXTINF:-1 tvg-id="ES: CINE ESPANOL HD",CINE ESPANOL HD
+#EXTINF:-1 group-title="Movies (EN)",CINE ESPANOL HD
 http://teratv.online:80/158711478533/186083606640/576787
 #EXTGRP:Movies (EN)
-#EXTINF:-1 tvg-id="ES: CINE HD",CINE HD
+#EXTINF:-1 group-title="Movies (EN)",CINE HD
 http://teratv.online:80/158711478533/186083606640/576788
 #EXTGRP:Movies (EN)
-#EXTINF:-1 tvg-id="GR: NOVA CINEMA 1 4K",NOVA CINEMA 1 4K
+#EXTINF:-1 group-title="Movies (EN)",NOVA CINEMA 1 4K
 http://teratv.online:80/158711478533/186083606640/578494
 #EXTGRP:Movies (EN)
-#EXTINF:-1 tvg-id="DE: SKY CINEMA ACTION HD",SKY CINEMA ACTION HD
+#EXTINF:-1 group-title="Movies (EN)",SKY CINEMA ACTION HD
 http://teratv.online:80/158711478533/186083606640/576127
 #EXTGRP:Movies (EN)
-#EXTINF:-1 tvg-id="DE: SKY CINEMA FAMILY HD",SKY CINEMA FAMILY HD
+#EXTINF:-1 group-title="Movies (EN)",SKY CINEMA FAMILY HD
 http://teratv.online:80/158711478533/186083606640/576130
 #EXTGRP:Movies (EN)
-#EXTINF:-1 tvg-id="DE: SKY CINEMA PREMIEREN HD",SKY CINEMA PREMIEREN HD
+#EXTINF:-1 group-title="Movies (EN)",SKY CINEMA PREMIEREN HD
 http://teratv.online:80/158711478533/186083606640/576133
 #EXTGRP:Movies (EN)
-#EXTINF:-1 tvg-id="DE: PLEX CINEMA",PLEX CINEMA
+#EXTINF:-1 group-title="Movies (EN)",PLEX CINEMA
 http://teratv.online:80/158711478533/186083606640/576141
 #EXTGRP:Movies (EN)
-#EXTINF:-1 tvg-id="DE: PLEX CINESTAR",PLEX CINESTAR
+#EXTINF:-1 group-title="Movies (EN)",PLEX CINESTAR
 http://teratv.online:80/158711478533/186083606640/576147
 #EXTGRP:Movies (EN)
-#EXTINF:-1 tvg-id="Sky Cinema Family HD",Sky Cinema Family HD
+#EXTINF:-1 group-title="Movies (EN)",Sky Cinema Family HD
 http://teratv.online:80/158711478533/186083606640/576211
 #EXTGRP:Movies (EN)
-#EXTINF:-1 tvg-id="Sky Cinema Action HD",Sky Cinema Action HD
+#EXTINF:-1 group-title="Movies (EN)",Sky Cinema Action HD
 http://teratv.online:80/158711478533/186083606640/576215
 #EXTGRP:Movies (EN)
-#EXTINF:-1 tvg-id="DE: SKY CINEMA SPECIAL HEVC",SKY CINEMA SPECIAL HEVC
+#EXTINF:-1 group-title="Movies (EN)",SKY CINEMA SPECIAL HEVC
 http://teratv.online:80/158711478533/186083606640/575729
 #EXTGRP:Movies (EN)
-#EXTINF:-1 tvg-id="DE: SKY CINEMA ACTION HEVC",SKY CINEMA ACTION HEVC
+#EXTINF:-1 group-title="Movies (EN)",SKY CINEMA ACTION HEVC
 http://teratv.online:80/158711478533/186083606640/575734
 #EXTGRP:Movies (EN)
-#EXTINF:-1 tvg-id="PL: CINEMAX HD",CINEMAX HD
+#EXTINF:-1 group-title="Movies (EN)",CINEMAX HD
 http://teratv.online:80/158711478533/186083606640/577788
 #EXTGRP:Movies (EN)
-#EXTINF:-1 tvg-id="PL: CINEMAX 2 HD",CINEMAX 2 HD
+#EXTINF:-1 group-title="Movies (EN)",CINEMAX 2 HD
 http://teratv.online:80/158711478533/186083606640/577790
 #EXTGRP:Movies (EN)
-#EXTINF:-1 tvg-id="BE: CINE+ PREMIER HD",CINE+ PREMIER HD
+#EXTINF:-1 group-title="Movies (EN)",CINE+ PREMIER HD
 http://teratv.online:80/158711478533/186083606640/577635
 #EXTGRP:Movies (EN)
-#EXTINF:-1 tvg-id="BG: CINEMAX 1 HD",CINEMAX 1 HD
+#EXTINF:-1 group-title="Movies (EN)",CINEMAX 1 HD
 http://teratv.online:80/158711478533/186083606640/577922
 #EXTGRP:Movies (EN)
-#EXTINF:-1 tvg-id="BG: CINEMA PLUS",CINEMA PLUS
+#EXTINF:-1 group-title="Movies (EN)",CINEMA PLUS
 http://teratv.online:80/158711478533/186083606640/577950
 #EXTGRP:Movies (EN)
-#EXTINF:-1 tvg-id="RO: CINEMAX 1",CINEMAX 1
+#EXTINF:-1 group-title="Movies (EN)",CINEMAX 1
 http://teratv.online:80/158711478533/186083606640/580431
 #EXTGRP:Movies (EN)
-#EXTINF:-1 tvg-id="RO: CINEMAX 2",CINEMAX 2
+#EXTINF:-1 group-title="Movies (EN)",CINEMAX 2
 http://teratv.online:80/158711478533/186083606640/580432
-#EXTGRP:Movies (EN)
-#EXTINF:-1 tvg-id="",Al-Sharqiya News
 
 
 -------------------------------------------------------------------------------------------
@@ -2502,9 +2482,6 @@ https://vysilani.zaktv.cz/broadcast/hls/utv/index.m3u8
 https://stream.polar.cz/vctv/vctvlive-1/playlist.m3u8
 #EXTINF:-1 tvg-id="YachtingTV.cz" tvg-logo="https://i.imgur.com/YxO60B1.png" group-title=" PRIME TV | Czech Republic",Yachting TV (1080p)
 https://streams2.sofast.tv/vglive-sk-461164/index.m3u8
-##EXTINF:-1 tvg-id="AghapyTV.eg@SD" tvg-logo="https://upload.wikimedia.org/wikipedia/en/e/eb/AghapyTV.jpg" group-title=" PRIME TV | Egypt",Aghapy TV (1080p) [Not 24/7]
-#EXTINF:-1 tvg-id="DanceTVAlgorhythm.ee@SD" tvg-logo="" group-title=" PRIME TV | Estonia",DanceTV Algorhythm (1080p)
-https://m2b2.worldcast.tv:7443/dancetelevisionfour/dancetelevisionfour.m3u8
 #EXTINF:-1 tvg-id="DanceTVDeepHouseDistrict.ee@SD" tvg-logo="https://www.lyngsat.com/logo/tv/dd/dance-tv-nl.png" group-title=" PRIME TV | Estonia",DanceTV Deep House District (1080p)
 https://m1b2.worldcast.tv/dancetelevisiontwo/dancetelevisiontwo.m3u8
 #EXTINF:-1 tvg-id="DanceTVEDMMainstage.ee@SD" tvg-logo="https://www.lyngsat.com/logo/tv/dd/dance-tv-nl.png" group-title=" PRIME TV | Estonia",DanceTV EDM Mainstage (1080p)
