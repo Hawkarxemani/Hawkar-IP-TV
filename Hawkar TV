@@ -1462,45 +1462,40 @@ https://e1020cd35a264d63afeb5bfbc9c99157.mediatailor.us-west-2.amazonaws.com/v1/
 
 
 
-#EXTGRP:News (AR)
-#EXTINF:-1 tvg-id="France 24 العربية",France 24 العربية
-https://www.youtube.com/c/FRANCE24Arabic/live
-#EXTGRP:News (AR)
-#EXTINF:-1 tvg-id="DW العربية",DW العربية
-https://dwamdstream103.akamaized.net/hls/live/2015526/dwstream103/index.m3u8
-#EXTGRP:News (AR)
-#EXTINF:-1 tvg-id="RT العربية",RT العربية
-https://rt-arb.rttv.com/dvr/rtarab/playlist.m3u8
-#EXTGRP:News (AR)
-#EXTINF:-1 tvg-id="Al-Sharqiya News",Al-Sharqiya News
-http://ns8.indexforce.com:1935/alsharqiyalive/mystream/chunklist_w1408895114.m3u8
-#EXTGRP:News (AR)
-#EXTINF:-1 tvg-id="Asharq News",Asharq News
-https://svs.itworkscdn.net/bloomberarlive/bloomberg.smil/playlist_dvr.m3u8
-#EXTGRP:News (AR)
-#EXTINF:-1 tvg-id="BBC Arabic",BBC Arabic
-https://vs-cmaf-pushb-ww.live.cf.md.bbci.co.uk/x=4/i=urn:bbc:pips:service:bbc_arabic_tv/pc_hd_abr_v2_http.mpd
-#EXTGRP:News (AR)
-#EXTINF:-1 tvg-id="Al Jazeera",Al Jazeera
+#EXTINF:-1 group-title="News (AR)",Al Jazeera
 https://live-hls-web-aja-fa.thehlive.com/AJA/index.m3u8
-#EXTGRP:News (AR)
-#EXTINF:-1 tvg-id="Al Jazeera Mubasher",Al Jazeera Mubasher
-https://live-hls-web-ajm.getaj.net/AJM/index.m3u8
-#EXTGRP:News (AR)
-#EXTINF:-1 tvg-id="Al Hadath TV",Al Hadath TV
+#EXTINF:-1 group-title="News (AR)",Al Hadath TV
 https://live.alarabiya.net/alarabiapublish/alhadath.smil/playlist.m3u8
-#EXTGRP:News (AR)
-#EXTINF:-1 tvg-id="Al Arabiya",Al Arabiya
+#EXTINF:-1 group-title="News (AR)",Al Arabiya
 https://live.alarabiya.net/alarabiapublish/alarabiya.smil/playlist.m3u8
-#EXTGRP:News (AR)
-#EXTINF:-1 tvg-id="CNBC Arabiya",CNBC Arabiya
+#EXTINF:-1 group-title="News (AR)",France 24 العربية
+https://www.youtube.com/c/FRANCE24Arabic/live
+#EXTINF:-1 group-title="News (AR)",DW العربية
+https://dwamdstream103.akamaized.net/hls/live/2015526/dwstream103/index.m3u8
+#EXTINF:-1 group-title="News (AR)",RT العربية
+https://rt-arb.rttv.com/dvr/rtarab/playlist.m3u8
+#EXTINF:-1 group-title="News (AR)",Al-Sharqiya News
+http://ns8.indexforce.com:1935/alsharqiyalive/mystream/chunklist_w1408895114.m3u8
+#EXTINF:-1 group-title="News (AR)",Asharq News
+https://svs.itworkscdn.net/bloomberarlive/bloomberg.smil/playlist_dvr.m3u8
+#EXTINF:-1 group-title="News (AR)",BBC Arabic
+https://vs-cmaf-pushb-ww.live.cf.md.bbci.co.uk/x=4/i=urn:bbc:pips:service:bbc_arabic_tv/pc_hd_abr_v2_http.mpd
+#EXTINF:-1 group-title="News (AR)",Al Jazeera Mubasher
+https://live-hls-web-ajm.getaj.net/AJM/index.m3u8
+#EXTINF:-1 group-title="News (AR)",CNBC Arabiya
 https://cnbc-live.akamaized.net/cnbc/master.m3u8
-#EXTGRP:News (AR)
-#EXTINF:-1 tvg-id="Sky News Arabia",Sky News Arabia
+#EXTINF:-1 group-title="News (AR)",Sky News Arabia
 https://live-stream.skynewsarabia.com/c-horizontal-channel/horizontal-stream/index.m3u8
-#EXTGRP:News (AR)
-#EXTINF:-1 tvg-id="Shams HD",Shams HD
+#EXTINF:-1 group-title="News (AR)",Shams HD
 https://stream.shams.tv/hls/0/stream.m3u8
+#EXTINF:-1 tvg-id="AlIraqiaNews.iq@SD" tvg-logo="https://i.imgur.com/feQTXeZ.jpg" group-title="News (AR)",Al Iraqia News (720p)
+https://cdn.catiacast.video/abr/78054972db7708422595bc96c6e024ac/playlist.m3u8
+#EXTINF:-1 tvg-id="AlRasheedTV.iq@SD" tvg-logo="https://i.imgur.com/ltyRjPK.png" group-title="News (AR)",Al Rasheed TV (1080p) [Not 24/7]
+https://media1.livaat.com/static/AL-RASHEED-HD/playlist.m3u8
+#EXTINF:-1 tvg-id="Alhurra.us@SD" tvg-logo="https://i.imgur.com/tiQp2sR.png" group-title="News (AR)",Alhurra (720p)
+https://mbn-ingest-worldsafe.akamaized.net/hls/live/2038900/MBN_Alhurra_Worldsafe_HLS/master.m3u8
+#EXTINF:-1 tvg-id="AlhurraIraq.us@SD" tvg-logo="https://i.imgur.com/fsgQDcN.png" group-title="News (AR)",Alhurra Iraq (720p)
+https://mbn-ingest-worldsafe.akamaized.net/hls/live/2038899/MBN_Iraq_Worldsafe_HLS/master.m3u8
 
 
 
@@ -3807,30 +3802,18 @@ https://cloudfront44.lexanetwork.com:1344/relay01/HDE051.sdp/playlist.m3u8
 https://cloudfront44.lexanetwork.com:1344/freerelay/zegtv.sdp/playlist.m3u8
 #EXTINF:-1 tvg-id="ZugloTV.hu@SD" tvg-logo="https://i.imgur.com/wPqCtwR.png" group-title=" PRIME TV | Hungary",Zuglo TV (360p)
 https://cloudfront44.lexanetwork.com:1344/freerelay/zuglotv.sdp/playlist.m3u8
-#EXTINF:-1 tvg-id="AbalfadhlTV.ir@SD" tvg-logo="https://i.ibb.co/cCmjqtQ/logo-2.png" group-title=" PRIME TV | Iraq",Abalfadhl TV
-https://t.northtelecom.org/ABALFADHLTV.m3u8
-#EXTINF:-1 tvg-id="ABNsat.iq@SD" tvg-logo="https://i.imgur.com/WhPlJzh.jpeg" group-title=" PRIME TV | Iraq",ABNsat (720p)
-https://mediaserver.abnvideos.com/streams/abnsat.m3u8
 #EXTINF:-1 tvg-id="AfarinBaxcha.iq@SD" tvg-logo="https://i.postimg.cc/4xRkBDRx/Afarin-Baxcha-200.png" group-title=" PRIME TV | Iraq",Afarin Baxcha (1080p)
 https://5dcabf026b188.streamlock.net/afarinTV/livestream/playlist.m3u8
 #EXTINF:-1 tvg-id="AfarinTV.iq@SD" tvg-logo="https://i.imgur.com/6MnXD7g.png" group-title=" PRIME TV | Iraq",Afarin TV (720p) [Not 24/7]
 https://65f16f0fdfc51.streamlock.net/afarinTV/livestream/playlist.m3u8
 #EXTINF:-1 tvg-id="AlIraqia.iq@SD" tvg-logo="https://i.imgur.com/8qQouTW.jpg" group-title=" PRIME TV | Iraq",Al Iraqia (720p)
 https://cdn.catiacast.video/abr/8d2ffb0aba244e8d9101a9488a7daa05/playlist.m3u8
-#EXTINF:-1 tvg-id="AlIraqiaNews.iq@SD" tvg-logo="https://i.imgur.com/feQTXeZ.jpg" group-title=" PRIME TV | Iraq",Al Iraqia News (720p)
-https://cdn.catiacast.video/abr/78054972db7708422595bc96c6e024ac/playlist.m3u8
-#EXTINF:-1 tvg-id="AlRasheedTV.iq@SD" tvg-logo="https://i.imgur.com/ltyRjPK.png" group-title=" PRIME TV | Iraq",Al Rasheed TV (1080p) [Not 24/7]
-https://media1.livaat.com/static/AL-RASHEED-HD/playlist.m3u8
 #EXTINF:-1 tvg-id="AlJawadainTV.iq@SD" tvg-logo="https://i.imgur.com/Eo3UYCK.png" group-title=" PRIME TV | Iraq",Al-Jawadain TV (1080p) [Not 24/7]
 https://live.aljawadain.org/live/aljawadaintv/playlist.m3u8
 #EXTINF:-1 tvg-id="AlSharqiya.iq@SD" tvg-logo="https://i.imgur.com/mJIG5IV.png" group-title=" PRIME TV | Iraq",Al-Sharqiya (1080p)
 https://5d94523502c2d.streamlock.net/home/mystream/playlist.m3u8
 #EXTINF:-1 tvg-id="AlSharqiyaNews.iq@SD" tvg-logo="https://i.imgur.com/PeAcXB9.png" group-title=" PRIME TV | Iraq",Al-Sharqiya News (1080p)
 https://5d94523502c2d.streamlock.net/alsharqiyalive/mystream/playlist.m3u8
-#EXTINF:-1 tvg-id="Alhurra.us@SD" tvg-logo="https://i.imgur.com/tiQp2sR.png" group-title=" PRIME TV | Iraq",Alhurra (720p)
-https://mbn-ingest-worldsafe.akamaized.net/hls/live/2038900/MBN_Alhurra_Worldsafe_HLS/master.m3u8
-#EXTINF:-1 tvg-id="AlhurraIraq.us@SD" tvg-logo="https://i.imgur.com/fsgQDcN.png" group-title=" PRIME TV | Iraq",Alhurra Iraq (720p)
-https://mbn-ingest-worldsafe.akamaized.net/hls/live/2038899/MBN_Iraq_Worldsafe_HLS/master.m3u8
 #EXTINF:-1 tvg-id="Alquran.iq@SD" tvg-logo="https://i.imgur.com/lqVwrAF.png" group-title=" PRIME TV | Iraq",Alquran (1080p)
 https://ktvlive.online/stream/hls/ch1.m3u8
 #EXTINF:-1 tvg-id="AnwarTV2.iq@SD" tvg-logo="https://i.imgur.com/yHZXPcn.png" http-referrer="https://odysee.com/" group-title=" PRIME TV | Iraq",Anwar TV2 (720p)
@@ -3888,8 +3871,6 @@ http://stream.nubar.tv:1935/private/NUBARPlus/playlist.m3u8
 https://media2.streambrothers.com:1936/8218/8218/playlist.m3u8
 #EXTINF:-1 tvg-id="RudawTV.iq@SD" tvg-logo="https://i.imgur.com/Zo3IWOn.png" group-title=" PRIME TV | Iraq",Rudaw TV (1080p)
 https://svs.itworkscdn.net/rudawlive/rudawlive.smil/playlist.m3u8
-#EXTINF:-1 tvg-id="ShamsTV.iq@SD" tvg-logo="https://www.semakurd.net/sites/default/files/imagecache/400xY/shemis-tv.jpg" group-title=" PRIME TV | Iraq",Shams TV (1080p)
-https://stream.shams.tv/hls/stream.m3u8
 #EXTINF:-1 tvg-id="UTV.iq@SD" tvg-logo="https://i.imgur.com/9qFHjnu.png" group-title=" PRIME TV | Iraq",UTV (1080p)
 https://mn-nl.mncdn.com/utviraqi2/64c80359/index.m3u8
 #EXTINF:-1 tvg-id="WaarTV.iq@SD" tvg-logo="https://i.imgur.com/rK0y02d.png" group-title=" PRIME TV | Iraq",Waar TV (1080p)
