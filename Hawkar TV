@@ -1227,15 +1227,15 @@ http://300300.org/live/uGtYMM3eYE6Kb0W/F7yp65caerut3ND/59255.ts
 http://300300.org/live/uGtYMM3eYE6Kb0W/F7yp65caerut3ND/59269.ts
 -------------------------------------------------------------
 
-#EXTGRP:OSN Group (AR)
+#EXTINF:-1 group-title="OSN Group (AR)"
 #EXTINF:-1 tvg-id="OSN CARTOON NETWORK",OSN CARTOON NETWORK
 #KODIPROP:inputstream=inputstream.adaptive
 http://teratv.online:80/158711478533/186083606640/572011
-#EXTGRP:OSN Group (AR)
+#EXTINF:-1 group-title="OSN Group (AR)"
 #EXTINF:-1 tvg-id="OSN CINEMA 1",OSN CINEMA 1
 #KODIPROP:inputstream=inputstream.adaptive
 http://teratv.online:80/158711478533/186083606640/572012
-#EXTGRP:OSN Group (AR)
+#EXTINF:-1 group-title="OSN Group (AR)"
 #EXTINF:-1 tvg-id="OSN CINEMA 2",OSN CINEMA 2
 #KODIPROP:inputstream=inputstream.adaptive
 http://teratv.online:80/158711478533/186083606640/572013
