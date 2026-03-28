@@ -1065,102 +1065,77 @@ http://300300.org/live/uGtYMM3eYE6Kb0W/F7yp65caerut3ND/98005.ts
 
 #EXTGRP:MBC Group (AR)
 #EXTINF:-1 tvg-id="MBC 1",MBC 1
-#KODIPROP:inputstream=inputstream.adaptive
 http://teratv.online:80/158711478533/186083606640/571640#EXTGRP:MBC Group (AR)
 #EXTINF:-1 tvg-id="MBC 2",MBC 2
-#KODIPROP:inputstream=inputstream.adaptive
 http://teratv.online:80/158711478533/186083606640/571642
 #EXTGRP:MBC Group (AR)
 #EXTINF:-1 tvg-id="MBC 3",MBC 3
-#KODIPROP:inputstream=inputstream.adaptive
 http://teratv.online:80/158711478533/186083606640/571644
 #EXTGRP:MBC Group (AR)
 #EXTINF:-1 tvg-id="MBC 4",MBC 4
-#KODIPROP:inputstream=inputstream.adaptive
 http://teratv.online:80/158711478533/186083606640/571646
 #EXTGRP:MBC Group (AR)
 #EXTINF:-1 tvg-id="MBC 5",MBC 5
-#KODIPROP:inputstream=inputstream.adaptive
 http://teratv.online:80/158711478533/186083606640/571648
 #EXTGRP:MBC Group (AR)
 #EXTINF:-1 tvg-id="MBC ELIFE HD",MBC ELIFE HD
-#KODIPROP:inputstream=inputstream.adaptive
 http://teratv.online:80/158711478533/186083606640/571650
 #EXTGRP:MBC Group (AR)
 #EXTINF:-1 tvg-id="MBC ACTION HD",MBC ACTION HD
-#KODIPROP:inputstream=inputstream.adaptive
 http://teratv.online:80/158711478533/186083606640/571652
 #EXTGRP:MBC Group (AR)
 #EXTINF:-1 tvg-id="MBC MAX HD",MBC MAX HD
-#KODIPROP:inputstream=inputstream.adaptive
 http://teratv.online:80/158711478533/186083606640/571654
 #EXTGRP:MBC Group (AR)
 #EXTINF:-1 tvg-id="MBC Variety HD",MBC Variety HD
-#KODIPROP:inputstream=inputstream.adaptive
 http://teratv.online:80/158711478533/186083606640/571656
 #EXTGRP:MBC Group (AR)
 #EXTINF:-1 tvg-id="MBC DRAMA HD",MBC DRAMA HD
-#KODIPROP:inputstream=inputstream.adaptive
 http://teratv.online:80/158711478533/186083606640/571658
 #EXTGRP:MBC Group (AR)
 #EXTINF:-1 tvg-id="MBC+DRAMA HD",MBC+DRAMA HD
-#KODIPROP:inputstream=inputstream.adaptive
 http://teratv.online:80/158711478533/186083606640/571660
 #EXTGRP:MBC Group (AR)
 #EXTINF:-1 tvg-id="MBC MASR HD",MBC MASR HD
-#KODIPROP:inputstream=inputstream.adaptive
 http://teratv.online:80/158711478533/186083606640/571662
 #EXTGRP:MBC Group (AR)
 #EXTINF:-1 tvg-id="MBC MASR2 HD",MBC MASR2 HD
-#KODIPROP:inputstream=inputstream.adaptive
 http://teratv.online:80/158711478533/186083606640/571664
 #EXTGRP:MBC Group (AR)
 #EXTINF:-1 tvg-id="MBC IRAQ HD",MBC IRAQ HD
-#KODIPROP:inputstream=inputstream.adaptive
 http://teratv.online:80/158711478533/186083606640/571668
 #EXTGRP:MBC Group (AR)
 #EXTINF:-1 tvg-id="MBC PERSIA HD",MBC PERSIA HD
-#KODIPROP:inputstream=inputstream.adaptive
 http://teratv.online:80/158711478533/186083606640/571670
 #EXTGRP:MBC Group (AR)
 #EXTINF:-1 tvg-id="MBC GEO 1 HD",MBC GEO 1 HD
-#KODIPROP:inputstream=inputstream.adaptive
 http://teratv.online:80/158711478533/186083606640/571672
 #EXTGRP:MBC Group (AR)
 #EXTINF:-1 tvg-id="MBC GEO 2 HD",MBC GEO 2 HD
-#KODIPROP:inputstream=inputstream.adaptive
 http://teratv.online:80/158711478533/186083606640/571673
 #EXTGRP:MBC Group (AR)
 #EXTINF:-1 tvg-id="MBC POWER HD",MBC POWER HD
-#KODIPROP:inputstream=inputstream.adaptive
 http://teratv.online:80/158711478533/186083606640/571674
 #EXTGRP:MBC Group (AR)
 #EXTINF:-1 tvg-id="MBC PLUS HD",MBC PLUS HD
-#KODIPROP:inputstream=inputstream.adaptive
 http://teratv.online:80/158711478533/186083606640/571676
 #EXTGRP:MBC Group (AR)
 #EXTINF:-1 tvg-id="MBC TOONS HD",MBC TOONS HD
-#KODIPROP:inputstream=inputstream.adaptive
 http://teratv.online:80/158711478533/186083606640/571677
 #EXTGRP:MBC Group (AR)
 #EXTINF:-1 tvg-id="MBC FAMILY HD",MBC FAMILY HD
-#KODIPROP:inputstream=inputstream.adaptive
 http://teratv.online:80/158711478533/186083606640/571678
 #EXTGRP:MBC Group (AR)
 #EXTINF:-1 tvg-id="Rotana Aflam +",Rotana Aflam +
-#KODIPROP:inputstream=inputstream.adaptive
 http://teratv.online:80/158711478533/186083606640/571729
 #EXTGRP:MBC Group (AR)
 #EXTINF:-1 tvg-id="FIX & FOXI",FIX & FOXI
-#KODIPROP:inputstream=inputstream.adaptive
 http://teratv.online:80/158711478533/186083606640/571733
 #EXTGRP:MBC Group (AR)
 #EXTINF:-1 tvg-id=" Diseny",Diseny
-#KODIPROP:inputstream=inputstream.adaptive
 http://teratv.online:80/158711478533/186083606640/571734
 #EXTGRP:MBC Group (AR)
 #EXTINF:-1 tvg-id="Rotana Cinema +US",Rotana Cinema +US
-#KODIPROP:inputstream=inputstream.adaptive
 http://teratv.online:80/158711478533/186083606640/571758
 #EXTM3U
 #EXTINF:-1 group-title="MBC Group (AR)",AR| MBC 1
@@ -1229,406 +1204,406 @@ http://300300.org/live/uGtYMM3eYE6Kb0W/F7yp65caerut3ND/59269.ts
 
 #EXTINF:-1 group-title="OSN Group (AR)"
 #EXTINF:-1 tvg-id="OSN CARTOON NETWORK",OSN CARTOON NETWORK
-#KODIPROP:inputstream=inputstream.adaptive
+
 http://teratv.online:80/158711478533/186083606640/572011
 #EXTINF:-1 group-title="OSN Group (AR)"
 #EXTINF:-1 tvg-id="OSN CINEMA 1",OSN CINEMA 1
-#KODIPROP:inputstream=inputstream.adaptive
+
 http://teratv.online:80/158711478533/186083606640/572012
 #EXTINF:-1 group-title="OSN Group (AR)"
 #EXTINF:-1 tvg-id="OSN CINEMA 2",OSN CINEMA 2
-#KODIPROP:inputstream=inputstream.adaptive
+
 http://teratv.online:80/158711478533/186083606640/572013
 #EXTGRP:OSN Group (AR)
 #EXTINF:-1 tvg-id="OSN COMDEY",OSN COMDEY
-#KODIPROP:inputstream=inputstream.adaptive
+
 http://teratv.online:80/158711478533/186083606640/572014
 #EXTGRP:OSN Group (AR)
 #EXTINF:-1 tvg-id="OSN DISCOVERY IDX",OSN DISCOVERY IDX
-#KODIPROP:inputstream=inputstream.adaptive
+
 http://teratv.online:80/158711478533/186083606640/572016
 #EXTGRP:OSN Group (AR)
 #EXTINF:-1 tvg-id="OSN FOX NEWS",OSN FOX NEWS
-#KODIPROP:inputstream=inputstream.adaptive
+
 http://teratv.online:80/158711478533/186083606640/572025
 #EXTGRP:OSN Group (AR)
 #EXTINF:-1 tvg-id="OSN KIDS",OSN KIDS
-#KODIPROP:inputstream=inputstream.adaptive
+
 http://teratv.online:80/158711478533/186083606640/572029
 #EXTGRP:OSN Group (AR)
 #EXTINF:-1 tvg-id="OSN HISTORY 2",OSN HISTORY 2
-#KODIPROP:inputstream=inputstream.adaptive
+
 http://teratv.online:80/158711478533/186083606640/572028
 #EXTGRP:OSN Group (AR)
 #EXTINF:-1 tvg-id="OSN HISTORY",OSN HISTORY
-#KODIPROP:inputstream=inputstream.adaptive
+
 http://teratv.online:80/158711478533/186083606640/572027
 #EXTGRP:OSN Group (AR)
 #EXTINF:-1 tvg-id="OSN GAME TOON",OSN GAME TOON
-#KODIPROP:inputstream=inputstream.adaptive
+
 http://teratv.online:80/158711478533/186083606640/572026
 #EXTGRP:OSN Group (AR)
 #EXTINF:-1 tvg-id="OSN MEZZE",OSN MEZZE
-#KODIPROP:inputstream=inputstream.adaptive
+
 http://teratv.online:80/158711478533/186083606640/572031
 #EXTGRP:OSN Group (AR)
 #EXTINF:-1 tvg-id="OSN MOVIES ACTION",OSN MOVIES ACTION
-#KODIPROP:inputstream=inputstream.adaptive
+
 http://teratv.online:80/158711478533/186083606640/572034
 #EXTGRP:OSN Group (AR)
 #EXTINF:-1 tvg-id="OSN MOVIES FAMILY",OSN MOVIES FAMILY
-#KODIPROP:inputstream=inputstream.adaptive
+
 http://teratv.online:80/158711478533/186083606640/572035
 #EXTGRP:OSN Group (AR)
 #EXTINF:-1 tvg-id="Osn Movies Hollywood",Osn Movies Hollywood
-#KODIPROP:inputstream=inputstream.adaptive
+
 http://teratv.online:80/158711478533/186083606640/572036
 #EXTGRP:OSN Group (AR)
 #EXTINF:-1 tvg-id="OSN MOVIES HORROR",OSN MOVIES HORROR
-#KODIPROP:inputstream=inputstream.adaptive
+
 http://teratv.online:80/158711478533/186083606640/572037
 #EXTGRP:OSN Group (AR)
 #EXTINF:-1 tvg-id="OSN MOVIES PREMIERE",OSN MOVIES PREMIERE
-#KODIPROP:inputstream=inputstream.adaptive
+
 http://teratv.online:80/158711478533/186083606640/572038
 #EXTGRP:OSN Group (AR)
 #EXTINF:-1 tvg-id="OSN Netflix",OSN Netflix
-#KODIPROP:inputstream=inputstream.adaptive
+
 http://teratv.online:80/158711478533/186083606640/572042
 #EXTGRP:OSN Group (AR)
 #EXTINF:-1 tvg-id="OSN NICK JR.",OSN NICK JR.
-#KODIPROP:inputstream=inputstream.adaptive
+
 http://teratv.online:80/158711478533/186083606640/572043
 #EXTGRP:OSN Group (AR)
 #EXTINF:-1 tvg-id="OSN NICK JR.",OSN NICK JR.
-#KODIPROP:inputstream=inputstream.adaptive
+
 http://teratv.online:80/158711478533/186083606640/572044
 #EXTGRP:OSN Group (AR)
 #EXTINF:-1 tvg-id="OSN NOW",OSN NOW
-#KODIPROP:inputstream=inputstream.adaptive
+
 http://teratv.online:80/158711478533/186083606640/572046
 #EXTGRP:OSN Group (AR)
 #EXTINF:-1 tvg-id="OSN On Demand",OSN On Demand
-#KODIPROP:inputstream=inputstream.adaptive
+
 http://teratv.online:80/158711478533/186083606640/572047
 #EXTGRP:OSN Group (AR)
 #EXTINF:-1 tvg-id="OSN ONE",OSN ONE
-#KODIPROP:inputstream=inputstream.adaptive
+
 http://teratv.online:80/158711478533/186083606640/572048
 #EXTGRP:OSN Group (AR)
 #EXTINF:-1 tvg-id="OSN PLAY CINEMA 1",OSN PLAY CINEMA 1
-#KODIPROP:inputstream=inputstream.adaptive
+
 http://teratv.online:80/158711478533/186083606640/572049
 #EXTGRP:OSN Group (AR)
 #EXTINF:-1 tvg-id="OSN PLAY CINEMA 2",OSN PLAY CINEMA 2
-#KODIPROP:inputstream=inputstream.adaptive
+
 http://teratv.online:80/158711478533/186083606640/572050
 #EXTGRP:OSN Group (AR)
 #EXTINF:-1 tvg-id="OSN PLAY MOVIES 4",OSN PLAY MOVIES 4
-#KODIPROP:inputstream=inputstream.adaptive
+
 http://teratv.online:80/158711478533/186083606640/572056
 #EXTGRP:OSN Group (AR)
 #EXTINF:-1 tvg-id="OSN SHOWCASE",OSN SHOWCASE
-#KODIPROP:inputstream=inputstream.adaptive
+
 http://teratv.online:80/158711478533/186083606640/572059
 #EXTGRP:OSN Group (AR)
 #EXTINF:-1 tvg-id="OSN TLC",OSN TLC
-#KODIPROP:inputstream=inputstream.adaptive
+
 http://teratv.online:80/158711478533/186083606640/572062
 #EXTGRP:OSN Group (AR)
 #EXTINF:-1 tvg-id="OSN WWE",OSN WWE
-#KODIPROP:inputstream=inputstream.adaptive
+
 http://teratv.online:80/158711478533/186083606640/572063
 #EXTGRP:OSN Group (AR)
 #EXTINF:-1 tvg-id="OSN YAHALA",OSN YAHALA
-#KODIPROP:inputstream=inputstream.adaptive
+
 http://teratv.online:80/158711478533/186083606640/572064
 #EXTGRP:OSN Group (AR)
 #EXTINF:-1 tvg-id="Netflix Action 1",Netflix Action 1
-#KODIPROP:inputstream=inputstream.adaptive
+
 http://teratv.online:80/158711478533/186083606640/575218
 #EXTGRP:OSN Group (AR)
 #EXTINF:-1 tvg-id="Netflix Action 2",Netflix Action 2
-#KODIPROP:inputstream=inputstream.adaptive
+
 http://teratv.online:80/158711478533/186083606640/575226
 #EXTINF:-1 tvg-id="AMAZONE MOVIES 3",AMAZONE MOVIES 3
-#KODIPROP:inputstream=inputstream.adaptive
+
 http://teratv.online:80/158711478533/186083606640/574146
 #EXTGRP:Movies (EN)
 #EXTINF:-1 tvg-id="AMAZONE MOVIES 2",AMAZONE MOVIES 2
-#KODIPROP:inputstream=inputstream.adaptive
+
 http://teratv.online:80/158711478533/186083606640/574145
 #EXTGRP:Movies (EN)
 #EXTINF:-1 tvg-id="AMAZONE MOVIES 1",AMAZONE MOVIES 1
-#KODIPROP:inputstream=inputstream.adaptive
+
 http://teratv.online:80/158711478533/186083606640/574144
 #EXTGRP:Movies (EN)
 #EXTINF:-1 tvg-id="Shahid Movies Action",Shahid Movies Action
-#KODIPROP:inputstream=inputstream.adaptive
+
 http://teratv.online:80/158711478533/186083606640/573696
 #EXTGRP:Movies (EN)
 #EXTINF:-1 tvg-id="Shahid Movies Thriller",Shahid Movies Thriller
-#KODIPROP:inputstream=inputstream.adaptive
+
 http://teratv.online:80/158711478533/186083606640/573697
 #EXTGRP:Movies (EN)
 #EXTINF:-1 tvg-id="Sony Movie",Sony Movie
-#KODIPROP:inputstream=inputstream.adaptive
+
 http://teratv.online:80/158711478533/186083606640/585584
 #EXTGRP:Movies (EN)
 #EXTINF:-1 tvg-id="BLUE KIDS MOVIE",BLUE KIDS MOVIE
-#KODIPROP:inputstream=inputstream.adaptive
+
 http://teratv.online:80/158711478533/186083606640/582796
 #EXTGRP:Movies (EN)
 #EXTINF:-1 tvg-id="MoviePlex",MoviePlex
-#KODIPROP:inputstream=inputstream.adaptive
+
 http://teratv.online:80/158711478533/186083606640/585612
 #EXTGRP:Movies (EN)
 #EXTINF:-1 tvg-id="SONY MOVIES",SONY MOVIES
-#KODIPROP:inputstream=inputstream.adaptive
+
 http://teratv.online:80/158711478533/186083606640/581751
 #EXTGRP:Movies (EN)
 #EXTINF:-1 tvg-id="MOVISTAR PLUS 1 HD",MOVISTAR PLUS 1 HD
-#KODIPROP:inputstream=inputstream.adaptive
+
 http://teratv.online:80/158711478533/186083606640/576832
 #EXTGRP:Movies (EN)
 #EXTINF:-1 tvg-id="AXN MOVIES HEVC",AXN MOVIES HEVC
-#KODIPROP:inputstream=inputstream.adaptive
+
 http://teratv.online:80/158711478533/186083606640/576563
 #EXTGRP:Movies (EN)
 #EXTINF:-1 tvg-id="MOVIEDOME",MOVIEDOME
-#KODIPROP:inputstream=inputstream.adaptive
+
 http://teratv.online:80/158711478533/186083606640/579948
 #EXTGRP:Movies (EN)
 #EXTINF:-1 tvg-id="Moviedome Family",Moviedome Family
-#KODIPROP:inputstream=inputstream.adaptive
+
 http://teratv.online:80/158711478533/186083606640/579949
 #EXTGRP:Movies (EN)
 #EXTINF:-1 tvg-id="wedoTV Movies",wedoTV Movies
-#KODIPROP:inputstream=inputstream.adaptive
+
 http://teratv.online:80/158711478533/186083606640/579974
 #EXTGRP:Movies (EN)
 #EXTINF:-1 tvg-id="MOVIES DOME HD",MOVIES DOME HD
-#KODIPROP:inputstream=inputstream.adaptive
+
 http://teratv.online:80/158711478533/186083606640/576253
 #EXTGRP:Movies (EN)
 #EXTINF:-1 tvg-id="FOX MOVIES FHD",FOX MOVIES FHD
-#KODIPROP:inputstream=inputstream.adaptive
+
 http://teratv.online:80/158711478533/186083606640/577024
 #EXTGRP:Movies (EN)
 #EXTINF:-1 tvg-id="RAI MOVIE HD",RAI MOVIE HD
-#KODIPROP:inputstream=inputstream.adaptive
+
 http://teratv.online:80/158711478533/186083606640/576385
 #EXTGRP:Movies (EN)
 #EXTINF:-1 tvg-id="MOVIE STAR HD",MOVIE STAR HD
-#KODIPROP:inputstream=inputstream.adaptive
+
 http://teratv.online:80/158711478533/186083606640/577946
 #EXTGRP:Movies (EN)
 #EXTINF:-1 tvg-id="BEIN MOVIES ACTION 2HD",BEIN MOVIES ACTION 2HD
-#KODIPROP:inputstream=inputstream.adaptive
+
 http://teratv.online:80/158711478533/186083606640/579075
 #EXTGRP:Movies (EN)
 #EXTINF:-1 tvg-id="BOSS MOVIES  1",BOSS MOVIES  1
-#KODIPROP:inputstream=inputstream.adaptive
+
 http://teratv.online:80/158711478533/186083606640/579140
 #EXTGRP:Movies (EN)
 #EXTINF:-1 tvg-id="LT: TV1000 MOVIE HD",TV1000 MOVIE HD
-#KODIPROP:inputstream=inputstream.adaptive
+
 http://teratv.online:80/158711478533/186083606640/583342
 #EXTGRP:Movies (EN)
 #EXTINF:-1 tvg-id="HU: SONY MOVIE CHANNEL",SONY MOVIE CHANNEL
-#KODIPROP:inputstream=inputstream.adaptive
+
 http://teratv.online:80/158711478533/186083606640/579244
 #EXTGRP:Movies (EN)
 #EXTINF:-1 tvg-id="SR: PINK MOVIES",PINK MOVIES
-#KODIPROP:inputstream=inputstream.adaptive
+
 http://teratv.online:80/158711478533/186083606640/581104
 #EXTGRP:Movies (EN)
 #EXTINF:-1 tvg-id="Gospel Movie TV",Gospel Movie TV
-#KODIPROP:inputstream=inputstream.adaptive
+
 http://teratv.online:80/158711478533/186083606640/584145
 #EXTGRP:Movies (EN)
 #EXTINF:-1 tvg-id="MyTime Movie Network",MyTime Movie Network
-#KODIPROP:inputstream=inputstream.adaptive
+
 http://teratv.online:80/158711478533/186083606640/584152
 #EXTGRP:Movies (EN)
 #EXTINF:-1 tvg-id="VIP PH: tvN Movies Pinoy",tvN Movies Pinoy
-#KODIPROP:inputstream=inputstream.adaptive
+
 http://teratv.online:80/158711478533/186083606640/583626
 #EXTGRP:Movies (EN)
 #EXTINF:-1 tvg-id="VIP PH: HITS Movies",HITS Movies
-#KODIPROP:inputstream=inputstream.adaptive
+
 http://teratv.online:80/158711478533/186083606640/583627
 #EXTGRP:Movies (EN)
 #EXTINF:-1 tvg-id="USA: Cinemax Action 2",Cinemax Action 2
-#KODIPROP:inputstream=inputstream.adaptive
+
 http://teratv.online:80/158711478533/186083606640/586160
 #EXTGRP:Movies (EN)
 #EXTINF:-1 tvg-id="USA: Starz Cinema East",Starz Cinema East
-#KODIPROP:inputstream=inputstream.adaptive
+
 http://teratv.online:80/158711478533/186083606640/586171
 #EXTGRP:Movies (EN)
 #EXTINF:-1 tvg-id="USA: Cinemax West",Cinemax West
-#KODIPROP:inputstream=inputstream.adaptive
+
 http://teratv.online:80/158711478533/186083606640/586176
 #EXTGRP:Movies (EN)
 #EXTINF:-1 tvg-id="USA: Cinemax More",Cinemax More
-#KODIPROP:inputstream=inputstream.adaptive
+
 http://teratv.online:80/158711478533/186083606640/586177
 #EXTGRP:Movies (EN)
 #EXTINF:-1 tvg-id="USA: CineMax 5 Star Max HD",CineMax 5 Star Max HD
-#KODIPROP:inputstream=inputstream.adaptive
+
 http://teratv.online:80/158711478533/186083606640/585590
 #EXTGRP:Movies (EN)
 #EXTINF:-1 tvg-id="Usa: Cinemax Action HD",Cinemax Action HD
-#KODIPROP:inputstream=inputstream.adaptive
+
 http://teratv.online:80/158711478533/186083606640/585591
 #EXTGRP:Movies (EN)
 #EXTINF:-1 tvg-id="USA: CineMAX HD",CineMAX HD
-#KODIPROP:inputstream=inputstream.adaptive
+
 http://teratv.online:80/158711478533/186083606640/585592
 #EXTGRP:Movies (EN)
 #EXTINF:-1 tvg-id="USA: CineMax OuterMax FHD",CineMax OuterMax FHD
-#KODIPROP:inputstream=inputstream.adaptive
+
 http://teratv.online:80/158711478533/186083606640/585594
 #EXTGRP:Movies (EN)
 #EXTINF:-1 tvg-id="USA: Cinemax ThrillerMax FHD",Cinemax ThrillerMax FHD
-#KODIPROP:inputstream=inputstream.adaptive
+
 http://teratv.online:80/158711478533/186083606640/585595
 #EXTGRP:Movies (EN)
 #EXTINF:-1 tvg-id="USA: Starz Cinema",Starz Cinema
-#KODIPROP:inputstream=inputstream.adaptive
+
 http://teratv.online:80/158711478533/186083606640/585625
 #EXTGRP:Movies (EN)
 #EXTINF:-1 tvg-id="Ca | Fr: CINEPOP",CINEPOP
-#KODIPROP:inputstream=inputstream.adaptive
+
 http://teratv.online:80/158711478533/186083606640/586305
 #EXTGRP:Movies (EN)
 #EXTINF:-1 tvg-id="FR: CANAL+ CINEMA HD",CANAL+ CINEMA HD
-#KODIPROP:inputstream=inputstream.adaptive
+
 http://teratv.online:80/158711478533/186083606640/575647
 #EXTGRP:Movies (EN)
 #EXTINF:-1 tvg-id="FR: CINE+ PRIMER HD",CINE+ PRIMER HD
-#KODIPROP:inputstream=inputstream.adaptive
+
 http://teratv.online:80/158711478533/186083606640/575653
 #EXTGRP:Movies (EN)
 #EXTINF:-1 tvg-id="FR: CINE+ FRISSION HD",CINE+ FRISSION HD
-#KODIPROP:inputstream=inputstream.adaptive
+
 http://teratv.online:80/158711478533/186083606640/575655
 #EXTGRP:Movies (EN)
 #EXTINF:-1 tvg-id="FR: CINE+ FAMIZ HD",INE+ FAMIZ HD
-#KODIPROP:inputstream=inputstream.adaptive
+
 http://teratv.online:80/158711478533/186083606640/575657
 #EXTGRP:Movies (EN)
 #EXTINF:-1 tvg-id="FR: CINE+ CLUB HD",CINE+ CLUB HD
-#KODIPROP:inputstream=inputstream.adaptive
+
 http://teratv.online:80/158711478533/186083606640/575659
 #EXTGRP:Movies (EN)
 #EXTINF:-1 tvg-id="FR: CINE+ EMOTION HD",CINE+ EMOTION HD
-#KODIPROP:inputstream=inputstream.adaptive
+
 http://teratv.online:80/158711478533/186083606640/575663
 #EXTGRP:Movies (EN)
 #EXTINF:-1 tvg-id="ES: CINE ESPANOL HD",CINE ESPANOL HD
-#KODIPROP:inputstream=inputstream.adaptive
+
 http://teratv.online:80/158711478533/186083606640/576787
 #EXTGRP:Movies (EN)
 #EXTINF:-1 tvg-id="ES: CINE HD",CINE HD
-#KODIPROP:inputstream=inputstream.adaptive
+
 http://teratv.online:80/158711478533/186083606640/576788
 #EXTGRP:Movies (EN)
 #EXTINF:-1 tvg-id="GR: NOVA CINEMA 1 4K",NOVA CINEMA 1 4K
-#KODIPROP:inputstream=inputstream.adaptive
+
 http://teratv.online:80/158711478533/186083606640/578494
 #EXTGRP:Movies (EN)
 #EXTINF:-1 tvg-id="DE: SKY CINEMA ACTION HD",SKY CINEMA ACTION HD
-#KODIPROP:inputstream=inputstream.adaptive
+
 http://teratv.online:80/158711478533/186083606640/576127
 #EXTGRP:Movies (EN)
 #EXTINF:-1 tvg-id="DE: SKY CINEMA FAMILY HD",SKY CINEMA FAMILY HD
-#KODIPROP:inputstream=inputstream.adaptive
+
 http://teratv.online:80/158711478533/186083606640/576130
 #EXTGRP:Movies (EN)
 #EXTINF:-1 tvg-id="DE: SKY CINEMA PREMIEREN HD",SKY CINEMA PREMIEREN HD
-#KODIPROP:inputstream=inputstream.adaptive
+
 http://teratv.online:80/158711478533/186083606640/576133
 #EXTGRP:Movies (EN)
 #EXTINF:-1 tvg-id="DE: PLEX CINEMA",PLEX CINEMA
-#KODIPROP:inputstream=inputstream.adaptive
+
 http://teratv.online:80/158711478533/186083606640/576141
 #EXTGRP:Movies (EN)
 #EXTINF:-1 tvg-id="DE: PLEX CINESTAR",PLEX CINESTAR
-#KODIPROP:inputstream=inputstream.adaptive
+
 http://teratv.online:80/158711478533/186083606640/576147
 #EXTGRP:Movies (EN)
 #EXTINF:-1 tvg-id="Sky Cinema Family HD",Sky Cinema Family HD
-#KODIPROP:inputstream=inputstream.adaptive
+
 http://teratv.online:80/158711478533/186083606640/576211
 #EXTGRP:Movies (EN)
 #EXTINF:-1 tvg-id="Sky Cinema Action HD",Sky Cinema Action HD
-#KODIPROP:inputstream=inputstream.adaptive
+
 http://teratv.online:80/158711478533/186083606640/576215
 #EXTGRP:Movies (EN)
 #EXTINF:-1 tvg-id="DE: SKY CINEMA SPECIAL HEVC",SKY CINEMA SPECIAL HEVC
-#KODIPROP:inputstream=inputstream.adaptive
+
 http://teratv.online:80/158711478533/186083606640/575729
 #EXTGRP:Movies (EN)
 #EXTINF:-1 tvg-id="DE: SKY CINEMA ACTION HEVC",SKY CINEMA ACTION HEVC
-#KODIPROP:inputstream=inputstream.adaptive
+
 http://teratv.online:80/158711478533/186083606640/575734
 #EXTGRP:Movies (EN)
 #EXTINF:-1 tvg-id="PL: CINEMAX HD",CINEMAX HD
-#KODIPROP:inputstream=inputstream.adaptive
+
 http://teratv.online:80/158711478533/186083606640/577788
 #EXTGRP:Movies (EN)
 #EXTINF:-1 tvg-id="PL: CINEMAX 2 HD",CINEMAX 2 HD
-#KODIPROP:inputstream=inputstream.adaptive
+
 http://teratv.online:80/158711478533/186083606640/577790
 #EXTGRP:Movies (EN)
 #EXTINF:-1 tvg-id="BE: CINE+ PREMIER HD",CINE+ PREMIER HD
-#KODIPROP:inputstream=inputstream.adaptive
+
 http://teratv.online:80/158711478533/186083606640/577635
 #EXTGRP:Movies (EN)
 #EXTINF:-1 tvg-id="BG: CINEMAX 1 HD",CINEMAX 1 HD
-#KODIPROP:inputstream=inputstream.adaptive
+
 http://teratv.online:80/158711478533/186083606640/577922
 #EXTGRP:Movies (EN)
 #EXTINF:-1 tvg-id="BG: CINEMA PLUS",CINEMA PLUS
-#KODIPROP:inputstream=inputstream.adaptive
+
 http://teratv.online:80/158711478533/186083606640/577950
 #EXTGRP:Movies (EN)
 #EXTINF:-1 tvg-id="RO: CINEMAX 1",CINEMAX 1
-#KODIPROP:inputstream=inputstream.adaptive
+
 http://teratv.online:80/158711478533/186083606640/580431
 #EXTGRP:Movies (EN)
 #EXTINF:-1 tvg-id="RO: CINEMAX 2",CINEMAX 2
-#KODIPROP:inputstream=inputstream.adaptive
+
 http://teratv.online:80/158711478533/186083606640/580432
 #EXTGRP:Movies (EN)
 #EXTINF:-1 tvg-id="",Al-Sharqiya News
-#KODIPROP:inputstream=inputstream.adaptive
+
 
 #EXTGRP:Movies (EN)
 #EXTINF:-1 tvg-id="",Al-Sharqiya News
-#KODIPROP:inputstream=inputstream.adaptive
+
 
 #EXTGRP:Movies (EN)
 #EXTINF:-1 tvg-id="",Al-Sharqiya News
-#KODIPROP:inputstream=inputstream.adaptive
+
 
 #EXTGRP:Movies (EN)
 #EXTINF:-1 tvg-id="",Al-Sharqiya News
-#KODIPROP:inputstream=inputstream.adaptive
+
 
 #EXTGRP:Movies (EN)
 #EXTINF:-1 tvg-id="",Al-Sharqiya News
-#KODIPROP:inputstream=inputstream.adaptive
+
 
 #EXTGRP:Movies (EN)
 #EXTINF:-1 tvg-id="",Al-Sharqiya News
-#KODIPROP:inputstream=inputstream.adaptive
+
 
 #EXTGRP:Movies (EN)
 #EXTINF:-1 tvg-id="",Al-Sharqiya News
-#KODIPROP:inputstream=inputstream.adaptive
+
 
 
 
@@ -1649,43 +1624,43 @@ https://rt-arb.rttv.com/dvr/rtarab/playlist.m3u8
 # Start of Group: News (AR)
 #EXTGRP:News (AR)
 #EXTINF:-1 tvg-id="Al-Sharqiya News",Al-Sharqiya News
-#KODIPROP:inputstream=inputstream.adaptive
+
 http://ns8.indexforce.com:1935/alsharqiyalive/mystream/chunklist_w1408895114.m3u8
 #EXTGRP:News (AR)
 #EXTINF:-1 tvg-id="Asharq News",Asharq News
-#KODIPROP:inputstream=inputstream.adaptive
+
 https://svs.itworkscdn.net/bloomberarlive/bloomberg.smil/playlist_dvr.m3u8
 #EXTGRP:News (AR)
 #EXTINF:-1 tvg-id="BBC Arabic",BBC Arabic
-#KODIPROP:inputstream=inputstream.adaptive
+
 https://vs-cmaf-pushb-ww.live.cf.md.bbci.co.uk/x=4/i=urn:bbc:pips:service:bbc_arabic_tv/pc_hd_abr_v2_http.mpd
 #EXTGRP:News (AR)
 #EXTINF:-1 tvg-id="Al Jazeera",Al Jazeera
-#KODIPROP:inputstream=inputstream.adaptive
+
 https://live-hls-web-aja-fa.thehlive.com/AJA/index.m3u8
 #EXTGRP:News (AR)
 #EXTINF:-1 tvg-id="Al Jazeera Mubasher",Al Jazeera Mubasher
-#KODIPROP:inputstream=inputstream.adaptive
+
 https://live-hls-web-ajm.getaj.net/AJM/index.m3u8
 #EXTGRP:News (AR)
 #EXTINF:-1 tvg-id="Al Arabiya Al Hadath",Al Arabiya Al Hadath
-#KODIPROP:inputstream=inputstream.adaptive
+
 https://av.alarabiya.net/alarabiapublish/alhadath.smil/playlist.m3u8
 #EXTGRP:News (AR)
 #EXTINF:-1 tvg-id="Al Hadath TV",Al Hadath TV
-#KODIPROP:inputstream=inputstream.adaptive
+
 https://live.alarabiya.net/alarabiapublish/alhadath.smil/playlist.m3u8
 #EXTGRP:News (AR)
 #EXTINF:-1 tvg-id="Al Arabiya",Al Arabiya
-#KODIPROP:inputstream=inputstream.adaptive
+
 https://live.alarabiya.net/alarabiapublish/alarabiya.smil/playlist.m3u8
 #EXTGRP:News (AR)
 #EXTINF:-1 tvg-id="CNBC Arabiya",CNBC Arabiya
-#KODIPROP:inputstream=inputstream.adaptive
+
 https://cnbc-live.akamaized.net/cnbc/master.m3u8
 #EXTGRP:News (AR)
 #EXTINF:-1 tvg-id="Sky News Arabia",Sky News Arabia
-#KODIPROP:inputstream=inputstream.adaptive
+
 https://live-stream.skynewsarabia.com/c-horizontal-channel/horizontal-stream/index.m3u8
 
 
@@ -6982,78 +6957,6 @@ https://ciner.daioncdn.net/bloomberght/bloomberght.m3u8
 https://603c568fccdf5.streamlock.net/live/dhaweb1_C5efC/chunklist_w630024058.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="EKOTÜRK TV" tvg-logo=" "group-title="|Turkey |" ,Dha 2 Tv |Turkey |
 https://603c568fccdf5.streamlock.net/live2/dhaweb2/chunklist_w156766599.m3u8
-#EXTINF:-1 tvg-id="76" tvg-logo="https://m.prectv49.sbs/uploads/cache/channel_thumb/uploads/png/1883f1dfa1e69b6788849eaab4b1f8e7.png" tvg-name="BS ACTION 1" group-title="Sinema",BS ACTION 1
-#EXTVLCOPT:http-user-agent=okhttp/4.12.0
-#EXTVLCOPT:http-referrer=https://twitter.com
-http://65.108.239.207/bsaction1/index.m3u8
-#EXTINF:-1 tvg-id="70" tvg-logo="https://m.prectv49.sbs/uploads/cache/channel_thumb/uploads/jpg/a5e035e5aad903052fdb35a3a7984518.jpg" tvg-name="BS BOX OFFİCE 1" group-title="Sinema",BS BOX OFFİCE 1
-#EXTVLCOPT:http-user-agent=okhttp/4.12.0
-#EXTVLCOPT:http-referrer=https://twitter.com
-http://65.108.239.207/box1/index.m3u8
-#EXTINF:-1 tvg-id="69" tvg-logo="https://m.prectv49.sbs/uploads/cache/channel_thumb/uploads/png/aec5f81a9d58714b840be9a285928224.png" tvg-name="BS BOX OFFİCE 2" group-title="Sinema",BS BOX OFFİCE 2
-#EXTVLCOPT:http-user-agent=okhttp/4.12.0
-#EXTVLCOPT:http-referrer=https://twitter.com
-http://65.108.239.207/box2/index.m3u8
-#EXTINF:-1 tvg-id="68" tvg-logo="https://m.prectv49.sbs/uploads/cache/channel_thumb/uploads/png/7c52499be2693a149616127f02cc633a.png" tvg-name="BS BOX OFFİCE 3" group-title="Sinema",BS BOX OFFİCE 3
-#EXTVLCOPT:http-user-agent=okhttp/4.12.0
-#EXTVLCOPT:http-referrer=https://twitter.com
-http://65.108.239.207/box3/index.m3u8
-#EXTINF:-1 tvg-id="74" tvg-logo="https://m.prectv49.sbs/uploads/cache/channel_thumb/uploads/png/a2f7541d9a7a2947275ba3b3d3b6cb47.png" tvg-name="BS FAMILY" group-title="Sinema",BS FAMILY
-#EXTVLCOPT:http-user-agent=okhttp/4.12.0
-#EXTVLCOPT:http-referrer=https://twitter.com
-http://65.108.239.207/bsfamily/index.m3u8
-#EXTINF:-1 tvg-id="71" tvg-logo="https://m.prectv49.sbs/uploads/cache/channel_thumb/uploads/png/05607925151ae07d26cdf2c93b99e006.png" tvg-name="BS PREMIER" group-title="Sinema",BS PREMIER
-#EXTVLCOPT:http-user-agent=okhttp/4.12.0
-#EXTVLCOPT:http-referrer=https://twitter.com
-http://65.108.239.207/bspremier1/index.m3u8
-#EXTINF:-1 tvg-id="72" tvg-logo="https://m.prectv49.sbs/uploads/cache/channel_thumb/uploads/png/45d92ce49a65dd1e9823a55694fe2a7e.png" tvg-name="BS STARS" group-title="Sinema",BS STARS
-#EXTVLCOPT:http-user-agent=okhttp/4.12.0
-#EXTVLCOPT:http-referrer=https://twitter.com
-http://65.108.239.207/bsstars/index.m3u8
-#EXTINF:-1 tvg-id="75" tvg-logo="https://m.prectv49.sbs/uploads/cache/channel_thumb/uploads/png/b2d030cf4ca567bf7c8358b15c8177a9.png" tvg-name="BS TURK" group-title="Sinema",BS TURK
-#EXTVLCOPT:http-user-agent=okhttp/4.12.0
-#EXTVLCOPT:http-referrer=https://twitter.com
-http://65.108.239.207/bsturk/index.m3u8
-#EXTINF:-1 tvg-id="67" tvg-logo="https://m.prectv49.sbs/uploads/cache/channel_thumb/uploads/jpg/771bc3c19a6cfa2187001771d74ba63c.jpg" tvg-name="Moviesmart Turk" group-title="Sinema",Moviesmart Turk
-#EXTVLCOPT:http-user-agent=okhttp/4.12.0
-#EXTVLCOPT:http-referrer=https://twitter.com
-http://65.108.239.207/mvturk/index.m3u8
-#EXTINF:-1 tvg-id="61" tvg-logo="https://m.prectv49.sbs/uploads/cache/channel_thumb/uploads/png/40b261b65aeef4696661f2b497c55c89.png" tvg-name="Sinema TV" group-title="Sinema",Sinema TV
-#EXTVLCOPT:http-user-agent=okhttp/4.12.0
-#EXTVLCOPT:http-referrer=https://twitter.com
-http://65.108.239.207/sinema/index.m3u8
-#EXTINF:-1 tvg-id="53" tvg-logo="https://m.prectv49.sbs/uploads/cache/channel_thumb/uploads/png/8c31ff828bc07a09eb52fb8312f23abb.png" tvg-name="Sinema TV 1001" group-title="Sinema",Sinema TV 1001
-#EXTVLCOPT:http-user-agent=okhttp/4.12.0
-#EXTVLCOPT:http-referrer=https://twitter.com
-http://65.108.239.207/sinema1001/index.m3u8
-#EXTINF:-1 tvg-id="52" tvg-logo="https://m.prectv49.sbs/uploads/cache/channel_thumb/uploads/png/96603c9e4ba10ae864380f670e210cf0.png" tvg-name="Sinema TV 1002" group-title="Sinema",Sinema TV 1002
-#EXTVLCOPT:http-user-agent=okhttp/4.12.0
-#EXTVLCOPT:http-referrer=https://twitter.com
-http://65.108.239.207/sinema1002/index.m3u8
-#EXTINF:-1 tvg-id="60" tvg-logo="https://m.prectv49.sbs/uploads/cache/channel_thumb/uploads/png/389d982cb693a94e1c6aae2ee5e34594.png" tvg-name="Sinema TV 2" group-title="Sinema",Sinema TV 2
-#EXTVLCOPT:http-user-agent=okhttp/4.12.0
-#EXTVLCOPT:http-referrer=https://twitter.com
-http://65.108.239.207/sinema2/index.m3u8
-#EXTINF:-1 tvg-id="55" tvg-logo="https://m.prectv49.sbs/uploads/cache/channel_thumb/uploads/png/5959572ddb15da121258c8eaa756f7c9.png" tvg-name="Sinema TV Aile" group-title="Sinema",Sinema TV Aile [HD]
-#EXTVLCOPT:http-user-agent=okhttp/4.12.0
-#EXTVLCOPT:http-referrer=https://twitter.com
-http://65.108.239.207/sinemaaile/index.m3u8
-#EXTINF:-1 tvg-id="59" tvg-logo="https://m.prectv49.sbs/uploads/cache/channel_thumb/uploads/png/11ae72baa495a639e5193cbed5fd92da.png" tvg-name="Sinema TV Aksiyon" group-title="Sinema",Sinema TV Aksiyon [HD]
-#EXTVLCOPT:http-user-agent=okhttp/4.12.0
-#EXTVLCOPT:http-referrer=https://twitter.com
-http://65.108.239.207/sinemaaksiyon2/index.m3u8
-#EXTINF:-1 tvg-id="57" tvg-logo="https://m.prectv49.sbs/uploads/cache/channel_thumb/uploads/png/bb0d39dbbdee543eb42f4e77fd30c324.png" tvg-name="Sinema TV Komedi" group-title="Sinema",Sinema TV Komedi [HD]
-#EXTVLCOPT:http-user-agent=okhttp/4.12.0
-#EXTVLCOPT:http-referrer=https://twitter.com
-http://65.108.239.207/sinemakomedi/index.m3u8
-#EXTINF:-1 tvg-id="56" tvg-logo="https://m.prectv49.sbs/uploads/cache/channel_thumb/uploads/png/aefea49a94d29d26305b35ffd21ca4e7.png" tvg-name="Sinema TV Yerli" group-title="Sinema",Sinema TV Yerli [HD]
-#EXTVLCOPT:http-user-agent=okhttp/4.12.0
-#EXTVLCOPT:http-referrer=https://twitter.com
-http://65.108.239.207/sinemayerli/index.m3u8
-#EXTINF:-1 tvg-id="56" tvg-logo="https://m.prectv49.sbs/uploads/cache/channel_thumb/uploads/png/aefea49a94d29d26305b35ffd21ca4e7.png" tvg-name="Sinema TV Yerli" group-title="Sinema",Sinema TV Yerli [HD]
-#EXTVLCOPT:http-user-agent=okhttp/4.12.0
-#EXTVLCOPT:http-referrer=https://twitter.com
-http://65.108.239.207/sinemayerli2/index.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-logo="https://www.appcreator24.com/srv/imgs/gen/3048087_icohome.png?ts=1745263499.png" group-title="|Turkey |", MR Bean
 https://amg00627-amg00627c29-rakuten-it-3989.playouts.now.amagi.tv/playlist/amg00627-banijayfast-mrbeanitcc-rakutenit/playlist.m3u8
@@ -7736,23 +7639,6 @@ https://stream.yiannisko-10f.workers.dev/sid=CNPLSP4AF
 https://stream.yiannisko-10f.workers.dev/sid=CNPLSP5AF
 
 
-
-#EXTINF:-1 group-title="Tabii Spor" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRKr46U5DNU2Ktf0qEK56ikbNPMJ46GGDqywQblK25WB0FHw7dzgbirMLM&s=10" tvg-id="Tabii Spor.tr" tvg-name="Tabii Spor HD" ,Tabii Spor HD
-https://beert7sqimrk0bfdupfgn6qew.medya.trt.com.tr/master_1080p.m3u8
-#EXTINF:-1 group-title="Tabii Spor" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRKr46U5DNU2Ktf0qEK56ikbNPMJ46GGDqywQblK25WB0FHw7dzgbirMLM&s=10" tvg-id="Tabii Spor 1.tr" tvg-name="Tabii Spor 1 HD" ,Tabii Spor 1 HD
-https://iaqzu4szhtzeqd0edpsayinle.medya.trt.com.tr/master_1080p.m3u8
-#EXTINF:-1 group-title="Tabii Spor" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRKr46U5DNU2Ktf0qEK56ikbNPMJ46GGDqywQblK25WB0FHw7dzgbirMLM&s=10" tvg-id="Tabii Spor 2.tr" tvg-name="Tabii Spor 2 HD" ,Tabii Spor 2 HD
-https://klublsslubcgyiz7zqt5bz8il.medya.trt.com.tr/master_1080p.m3u8
-#EXTINF:-1 group-title="Tabii Spor" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRKr46U5DNU2Ktf0qEK56ikbNPMJ46GGDqywQblK25WB0FHw7dzgbirMLM&s=10" tvg-id="Tabii Spor 3.tr" tvg-name="Tabii Spor 3 HD" ,Tabii Spor 3 HD
-https://ujnf69op16x2fiiywxcnx41q8.medya.trt.com.tr/master_1080p.m3u8
-#EXTINF:-1 group-title="Tabii Spor" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRKr46U5DNU2Ktf0qEK56ikbNPMJ46GGDqywQblK25WB0FHw7dzgbirMLM&s=10" tvg-id="Tabii Spor 4.tr" tvg-name="Tabii Spor 4 HD" ,Tabii Spor 4 HD
-https://bfxy3jgeydpbphtk8qfqwm3hr.medya.trt.com.tr/master_1080p.m3u8
-#EXTINF:-1 group-title="Tabii Spor" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRKr46U5DNU2Ktf0qEK56ikbNPMJ46GGDqywQblK25WB0FHw7dzgbirMLM&s=10" tvg-id="Tabii Spor 5.tr" tvg-name="Tabii Spor 5 HD" ,Tabii Spor 5 HD
-https://z3mmimwz148csv0vaxtphqspf.medya.trt.com.tr/master_1080p.m3u8
-#EXTINF:-1 group-title="Tabii Spor" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRKr46U5DNU2Ktf0qEK56ikbNPMJ46GGDqywQblK25WB0FHw7dzgbirMLM&s=10" tvg-id="Tabii Spor 6.tr" tvg-name="Tabii Spor 6 HD" ,Tabii Spor 6 HD
-https://vbtob9hyq58eiophct5qctxr2.medya.trt.com.tr/master_1080p.m3u8
-#EXTINF:-1 group-title="Tabii Spor" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRKr46U5DNU2Ktf0qEK56ikbNPMJ46GGDqywQblK25WB0FHw7dzgbirMLM&s=10" tvg-id="Tabii Spor 7.tr" tvg-name="Tabii Spor 7 HD" ,Tabii Spor 7 HD
-https://rxne77juptdeyke3tytvgqwyh.medya.trt.com.tr/master_1080p.m3u8
 
 
 #EXTINF:-1 group-title="|Turkey |" tvg-logo= ,Channel 6
