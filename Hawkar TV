@@ -1,10 +1,10 @@
 #EXTM3U
 #EXTINF:-1 group-title="KURDISTAN",Rudaw
-http://forevertv.me:2095/z3qL4UeRt4uxcX/WMGT4Q5oeo8KuP/70744
+https://live.rudaw.net/hls/rudaw-tv/master.m3u8
 #EXTINF:-1 group-title="KURDISTAN",Channel 8 Kurdish
 http://supaapp.xyz:8080/live/2551810583569940/2025565766597215/429647.ts
 #EXTINF:-1 group-title="KURDISTAN",NRT 1 News
-http://forevertv.me:2095/z3qL4UeRt4uxcX/WMGT4Q5oeo8KuP/8
+http://109.71.252.138/NRT/index.m3u8
 #EXTINF:-1 group-title="KURDISTAN",K24
 http://supaapp.xyz:8080/live/2551810583569940/2025565766597215/429644.ts
 #EXTINF:-1 group-title="KURDISTAN",AVA Meida
@@ -1586,122 +1586,112 @@ http://supaapp.xyz:8080/live/2551810583569940/2025565766597215/319705.ts
 
 
 #EXTM3U
-#EXTINF:-1 tvg-id="mbc1en.ae" tvg-name="MBC 1 HD" tvg-logo="http://194.163.160.164/MBC/MBC1.HD.png" group-title=MBC-Group,MBC 1 HD
-http://forevertv.me:2095/z3qL4UeRt4uxcX/WMGT4Q5oeo8KuP/46
-#EXTINF:-1 tvg-id="mbc2.ae" tvg-name="MBC 2 HD" tvg-logo="http://194.163.160.164/MBC/MBC2.HD.png" group-title=MBC-Group,MBC 2 HD
-http://forevertv.me:2095/z3qL4UeRt4uxcX/WMGT4Q5oeo8KuP/26
-#EXTINF:-1 tvg-id="mbc3.ae" tvg-name="MBC 3 HD" tvg-logo="http://194.163.160.164/MBC/MBC3.HD.png" group-title=MBC-Group,MBC 3 HD
-http://forevertv.me:2095/z3qL4UeRt4uxcX/WMGT4Q5oeo8KuP/47
-#EXTINF:-1 tvg-id="mbc4.ae" tvg-name="MBC 4 HD" tvg-logo="http://194.163.160.164/MBC/MBC4.HD.png" group-title=MBC-Group,MBC 4 HD
-http://forevertv.me:2095/z3qL4UeRt4uxcX/WMGT4Q5oeo8KuP/27
-#EXTINF:-1 tvg-id="mbc5.ae" tvg-name="MBC 5 HD" tvg-logo="http://194.163.160.164/MBC/MBC5.HD.png" group-title=MBC-Group,MBC 5 HD
-http://forevertv.me:2095/z3qL4UeRt4uxcX/WMGT4Q5oeo8KuP/28422
-#EXTINF:-1 tvg-id="mbcaction.ae" tvg-name="MBC Action HD" tvg-logo="http://194.163.160.164/MBC/MBC.ACTION.png" group-title=MBC-Group,MBC Action HD
-http://forevertv.me:2095/z3qL4UeRt4uxcX/WMGT4Q5oeo8KuP/24
-#EXTINF:-1 tvg-id="mbcbollywood.ae" tvg-name="MBC Bollywood HD" tvg-logo="http://194.163.160.164/MBC/MBC.BOLLYWOOD.png" group-title=MBC-Group,MBC Bollywood HD
-http://forevertv.me:2095/z3qL4UeRt4uxcX/WMGT4Q5oeo8KuP/9301
-#EXTINF:-1 tvg-id="mbcdrama.ae" tvg-name="MBC Drama HD" tvg-logo="http://194.163.160.164/MBC/MBC.DRAMA.png" group-title=MBC-Group,MBC Drama HD
-http://forevertv.me:2095/z3qL4UeRt4uxcX/WMGT4Q5oeo8KuP/48
-#EXTINF:-1 tvg-id="mbcdramaplus.ae" tvg-name="MBC Drama+ HD" tvg-logo="http://194.163.160.164/MBC/MBC.DRAMA.png" group-title=MBC-Group,MBC Drama+ HD
-http://forevertv.me:2095/z3qL4UeRt4uxcX/WMGT4Q5oeo8KuP/2690
-#EXTINF:-1 tvg-id="mbciraq.ae" tvg-name="MBC Iraq HD" tvg-logo="http://194.163.160.164/MBC/MBC.IRAQ.HD.png" group-title=MBC-Group,MBC Iraq HD
-http://forevertv.me:2095/z3qL4UeRt4uxcX/WMGT4Q5oeo8KuP/14444
-#EXTINF:-1 tvg-id="" tvg-name="MBC LBCI HD" tvg-logo="http://194.163.160.164/MBC/MBC.LBCI.HD.png" group-title=MBC-Group,MBC LBCI HD
-http://forevertv.me:2095/z3qL4UeRt4uxcX/WMGT4Q5oeo8KuP/140931
-#EXTINF:-1 tvg-id="mbcmasr.eg" tvg-name="MBC Masr 1 HD" tvg-logo="http://194.163.160.164/MBC/MBC.MASR1.png" group-title=MBC-Group,MBC Masr 1 HD
-http://forevertv.me:2095/z3qL4UeRt4uxcX/WMGT4Q5oeo8KuP/141083
-#EXTINF:-1 tvg-id="mbcmasr2.eg" tvg-name="MBC Masr 2 HD" tvg-logo="http://194.163.160.164/MBC/MBC.MASR2.HD.png" group-title=MBC-Group,MBC Masr 2 HD
-http://forevertv.me:2095/z3qL4UeRt4uxcX/WMGT4Q5oeo8KuP/178
-#EXTINF:-1 tvg-id="mbcmax.ae" tvg-name="MBC Max HD" tvg-logo="http://194.163.160.164/MBC/MBC.MAX.png" group-title=MBC-Group,MBC Max HD
-http://forevertv.me:2095/z3qL4UeRt4uxcX/WMGT4Q5oeo8KuP/29
-#EXTINF:-1 tvg-id="panoramadrama.eg" tvg-name="MBC PANORAMA HD" tvg-logo="http://194.163.160.164/MBC/PANORAMA.HD.png" group-title=MBC-Group,MBC PANORAMA HD
-http://forevertv.me:2095/z3qL4UeRt4uxcX/WMGT4Q5oeo8KuP/66548
-#EXTINF:-1 tvg-id="" tvg-name="MBC CN HD" tvg-logo="http://194.163.160.164/MBC/MBC.CN.HD.png" group-title=MBC-Group,MBC CN HD
-http://forevertv.me:2095/z3qL4UeRt4uxcX/WMGT4Q5oeo8KuP/140929
-#EXTINF:-1 tvg-id="" tvg-name="MBC Persia HD" tvg-logo="http://194.163.160.164/MBC/MBC.PERSIA.HD.png" group-title=MBC-Group,MBC Persia HD
-http://forevertv.me:2095/z3qL4UeRt4uxcX/WMGT4Q5oeo8KuP/13495
-#EXTINF:-1 tvg-id="" tvg-name="MBC SPACETOON HD" tvg-logo="http://194.163.160.164/MBC/MBC.SPACETOON.HD.png" group-title=MBC-Group,MBC SPACETOON HD
-http://forevertv.me:2095/z3qL4UeRt4uxcX/WMGT4Q5oeo8KuP/140928
-#EXTINF:-1 tvg-id="mbcwanasah.eg" tvg-name="MBC WANASH HD" tvg-logo="http://194.163.160.164/MBC/MBC.WANASH.HD.png" group-title=MBC-Group,MBC WANASH HD
-http://forevertv.me:2095/z3qL4UeRt4uxcX/WMGT4Q5oeo8KuP/66552
-#EXTINF:-1 tvg-id="mbcvariety.ae" tvg-name="MBC Variety HD" tvg-logo="http://194.163.160.164/MBC/MBC.VARIETY.HD.png" group-title=MBC-Group,MBC Variety HD
-http://forevertv.me:2095/z3qL4UeRt4uxcX/WMGT4Q5oeo8KuP/2001
-#EXTINF:-1 tvg-id="mbc1en.ae" tvg-name="MBC 1 4K" tvg-logo="http://194.163.160.164/MBC/MBC1.4K.png" group-title=MBC-Group,MBC 1 4K
-http://forevertv.me:2095/z3qL4UeRt4uxcX/WMGT4Q5oeo8KuP/33164
-#EXTINF:-1 tvg-id="mbc2.ae" tvg-name="MBC 2 4K" tvg-logo="http://194.163.160.164/MBC/MBC2.4K.png" group-title=MBC-Group,MBC 2 4K
-http://forevertv.me:2095/z3qL4UeRt4uxcX/WMGT4Q5oeo8KuP/33165
-#EXTINF:-1 tvg-id="mbc3.ae" tvg-name="MBC 3 4K" tvg-logo="http://194.163.160.164/MBC/MBC3.4K.png" group-title=MBC-Group,MBC 3 4K
-http://forevertv.me:2095/z3qL4UeRt4uxcX/WMGT4Q5oeo8KuP/39226
-#EXTINF:-1 tvg-id="mbc4.ae" tvg-name="MBC 4 4K" tvg-logo="http://194.163.160.164/MBC/MBC4.4K.png" group-title=MBC-Group,MBC 4 4K
-http://forevertv.me:2095/z3qL4UeRt4uxcX/WMGT4Q5oeo8KuP/33166
-#EXTINF:-1 tvg-id="mbc5.ae" tvg-name="MBC 5 4K" tvg-logo="http://194.163.160.164/MBC/MBC5.4K.png" group-title=MBC-Group,MBC 5 4K
-http://forevertv.me:2095/z3qL4UeRt4uxcX/WMGT4Q5oeo8KuP/33167
-#EXTINF:-1 tvg-id="mbcaction.ae" tvg-name="MBC Action 4K" tvg-logo="http://194.163.160.164/MBC/ACTION.4K.png" group-title=MBC-Group,MBC Action 4K
-http://forevertv.me:2095/z3qL4UeRt4uxcX/WMGT4Q5oeo8KuP/33169
-#EXTINF:-1 tvg-id="mbcbollywooden.ae" tvg-name="MBC BOLLYWOOD 4K" tvg-logo="http://194.163.160.164/MBC/BOLLYWOOD.4K.png" group-title=MBC-Group,MBC BOLLYWOOD 4K
-http://forevertv.me:2095/z3qL4UeRt4uxcX/WMGT4Q5oeo8KuP/66550
-#EXTINF:-1 tvg-id="" tvg-name="MBC CN 4K" tvg-logo="http://194.163.160.164/MBC/MBC.CN.4K.png" group-title=MBC-Group,MBC CN 4K
-http://forevertv.me:2095/z3qL4UeRt4uxcX/WMGT4Q5oeo8KuP/140926
-#EXTINF:-1 tvg-id="mbcdrama.ae" tvg-name="MBC Drama 4K" tvg-logo="http://194.163.160.164/MBC/DRAMA.4K.png" group-title=MBC-Group,MBC Drama 4K
-http://forevertv.me:2095/z3qL4UeRt4uxcX/WMGT4Q5oeo8KuP/33171
-#EXTINF:-1 tvg-id="mbcdramaplus.ae" tvg-name="MBC Drama+ 4K" tvg-logo="http://194.163.160.164/MBC/DRAMA+.4K.png" group-title=MBC-Group,MBC Drama+ 4K
-http://forevertv.me:2095/z3qL4UeRt4uxcX/WMGT4Q5oeo8KuP/33172
-#EXTINF:-1 tvg-id="" tvg-name="MBC FM 4K" tvg-logo="http://194.163.160.164/MBC/FM.4K.png" group-title=MBC-Group,MBC FM 4K
-http://forevertv.me:2095/z3qL4UeRt4uxcX/WMGT4Q5oeo8KuP/33175
-#EXTINF:-1 tvg-id="mbciraq.ae" tvg-name="MBC Iraq 4K" tvg-logo="http://194.163.160.164/MBC/IRAQ.4K.png" group-title=MBC-Group,MBC Iraq 4K
-http://forevertv.me:2095/z3qL4UeRt4uxcX/WMGT4Q5oeo8KuP/33170
-#EXTINF:-1 tvg-id="mbcmasr.eg" tvg-name="MBC Masr 1 4K" tvg-logo="http://194.163.160.164/MBC/MASR1.4K.png" group-title=MBC-Group,MBC Masr 1 4K
-http://forevertv.me:2095/z3qL4UeRt4uxcX/WMGT4Q5oeo8KuP/105384
-#EXTINF:-1 tvg-id="mbcmasr2.eg" tvg-name="MBC Masr 2 4K" tvg-logo="http://194.163.160.164/MBC/MASR2.4K.png" group-title=MBC-Group,MBC Masr 2 4K
-http://forevertv.me:2095/z3qL4UeRt4uxcX/WMGT4Q5oeo8KuP/33174
-#EXTINF:-1 tvg-id="panoramadrama.eg" tvg-name="MBC PANORAMA 4K" tvg-logo="http://194.163.160.164/MBC/PANORAMA.4K.png" group-title=MBC-Group,MBC PANORAMA 4K
-http://forevertv.me:2095/z3qL4UeRt4uxcX/WMGT4Q5oeo8KuP/66549
-#EXTINF:-1 tvg-id="" tvg-name="MBC LBCI 4K" tvg-logo="http://194.163.160.164/MBC/MBC.LBCI.4K.png" group-title=MBC-Group,MBC LBCI 4K
-http://forevertv.me:2095/z3qL4UeRt4uxcX/WMGT4Q5oeo8KuP/140927
-#EXTINF:-1 tvg-id="mbcmax.ae" tvg-name="MBC Max 4K" tvg-logo="http://194.163.160.164/MBC/MAX.4K.png" group-title=MBC-Group,MBC Max 4K
-http://forevertv.me:2095/z3qL4UeRt4uxcX/WMGT4Q5oeo8KuP/33168
-#EXTINF:-1 tvg-id="" tvg-name="MBC Persia 4K" tvg-logo="http://194.163.160.164/MBC/PERSIA.4K.png" group-title=MBC-Group,MBC Persia 4K
-http://forevertv.me:2095/z3qL4UeRt4uxcX/WMGT4Q5oeo8KuP/66547
-#EXTINF:-1 tvg-id="" tvg-name="MBC SPACETOON 4K" tvg-logo="http://194.163.160.164/MBC/SPACETOON.4K.png" group-title=MBC-Group,MBC SPACETOON 4K
-http://forevertv.me:2095/z3qL4UeRt4uxcX/WMGT4Q5oeo8KuP/140925
-#EXTINF:-1 tvg-id="mbcwanasah.eg" tvg-name="MBC WANASH 4K" tvg-logo="http://194.163.160.164/MBC/WANASH.4K.png" group-title=MBC-Group,MBC WANASH 4K
-http://forevertv.me:2095/z3qL4UeRt4uxcX/WMGT4Q5oeo8KuP/66551
-#EXTINF:-1 tvg-id="mbc1en.ae" tvg-name="MBC 1 SD" tvg-logo="http://194.163.160.164/MBC/MBC1.SD.png" group-title=MBC-Group,MBC 1 SD
-http://forevertv.me:2095/z3qL4UeRt4uxcX/WMGT4Q5oeo8KuP/20920
-#EXTINF:-1 tvg-id="mbc2en.ae" tvg-name="MBC 2 SD" tvg-logo="http://194.163.160.164/MBC/MBC2.SD.png" group-title=MBC-Group,MBC 2 SD
-http://forevertv.me:2095/z3qL4UeRt4uxcX/WMGT4Q5oeo8KuP/20919
-#EXTINF:-1 tvg-id="mbc3.en" tvg-name="MBC 3 SD" tvg-logo="http://194.163.160.164/MBC/MBC3.SD.png" group-title=MBC-Group,MBC 3 SD
-http://forevertv.me:2095/z3qL4UeRt4uxcX/WMGT4Q5oeo8KuP/20918
-#EXTINF:-1 tvg-id="mbc4en.ae" tvg-name="MBC 4 SD" tvg-logo="http://194.163.160.164/MBC/MBC4.SD.png" group-title=MBC-Group,MBC 4 SD
-http://forevertv.me:2095/z3qL4UeRt4uxcX/WMGT4Q5oeo8KuP/20917
-#EXTINF:-1 tvg-id="mbc5.ae" tvg-name="MBC 5 SD" tvg-logo="http://194.163.160.164/MBC/MBC5.SD.png" group-title=MBC-Group,MBC 5 SD
-http://forevertv.me:2095/z3qL4UeRt4uxcX/WMGT4Q5oeo8KuP/66545
-#EXTINF:-1 tvg-id="mbcaction.ae" tvg-name="MBC Action SD" tvg-logo="http://194.163.160.164/MBC/MBC.ACTION.SD.png" group-title=MBC-Group,MBC Action SD
-http://forevertv.me:2095/z3qL4UeRt4uxcX/WMGT4Q5oeo8KuP/20925
-#EXTINF:-1 tvg-id="mbcbollywood.ae" tvg-name="MBC Bollywood SD" tvg-logo="http://194.163.160.164/MBC/MBC.BOLLYWOOD.SD.png" group-title=MBC-Group,MBC Bollywood SD
-http://forevertv.me:2095/z3qL4UeRt4uxcX/WMGT4Q5oeo8KuP/20924
-#EXTINF:-1 tvg-id="" tvg-name="MBC CN SD" tvg-logo="http://194.163.160.164/MBC/MBC.CN.SD.png" group-title=MBC-Group,MBC CN SD
-http://forevertv.me:2095/z3qL4UeRt4uxcX/WMGT4Q5oeo8KuP/140935
-#EXTINF:-1 tvg-id="mbcdrama.ae" tvg-name="MBC Drama SD" tvg-logo="http://194.163.160.164/MBC/MBC.DRAMA.SD.png" group-title=MBC-Group,MBC Drama SD
-http://forevertv.me:2095/z3qL4UeRt4uxcX/WMGT4Q5oeo8KuP/20923
-#EXTINF:-1 tvg-id="" tvg-name="MBC Drama+ SD" tvg-logo="http://194.163.160.164/MBC/MBC.DRAMA.SD.png" group-title=MBC-Group,MBC Drama+ SD
-http://forevertv.me:2095/z3qL4UeRt4uxcX/WMGT4Q5oeo8KuP/140932
-#EXTINF:-1 tvg-id="mbciraq.ae" tvg-name="MBC Iraq SD" tvg-logo="http://194.163.160.164/MBC/MBC.IRAQ.SD.png" group-title=MBC-Group,MBC Iraq SD
-http://forevertv.me:2095/z3qL4UeRt4uxcX/WMGT4Q5oeo8KuP/20922
-#EXTINF:-1 tvg-id="" tvg-name="MBC LBCI SD" tvg-logo="http://194.163.160.164/MBC/MBC.LBCI.SD.png" group-title=MBC-Group,MBC LBCI SD
-http://forevertv.me:2095/z3qL4UeRt4uxcX/WMGT4Q5oeo8KuP/140936
-#EXTINF:-1 tvg-id="mbcmasr.eg" tvg-name="MBC Masr 1 SD" tvg-logo="http://194.163.160.164/MBC/MBC.MASR1.SD.png" group-title=MBC-Group,MBC Masr 1 SD
-http://forevertv.me:2095/z3qL4UeRt4uxcX/WMGT4Q5oeo8KuP/2186
-#EXTINF:-1 tvg-id="mbcmasr2.eg" tvg-name="MBC Masr 2 SD" tvg-logo="http://194.163.160.164/MBC/MASR2.SD.png" group-title=MBC-Group,MBC Masr 2 SD
-http://forevertv.me:2095/z3qL4UeRt4uxcX/WMGT4Q5oeo8KuP/141080
-#EXTINF:-1 tvg-id="mbcmax.ae" tvg-name="MBC Max SD" tvg-logo="http://194.163.160.164/MBC/MBC.MAX.SD.png" group-title=MBC-Group,MBC Max SD
-http://forevertv.me:2095/z3qL4UeRt4uxcX/WMGT4Q5oeo8KuP/20921
-#EXTINF:-1 tvg-id="" tvg-name="MBC Persia SD" tvg-logo="http://194.163.160.164/MBC/MBC.PERSIA.SD.png" group-title=MBC-Group,MBC Persia SD
-http://forevertv.me:2095/z3qL4UeRt4uxcX/WMGT4Q5oeo8KuP/140933
-#EXTINF:-1 tvg-id="" tvg-name="MBC SPACETOON SD" tvg-logo="http://194.163.160.164/MBC/MBC.SPACETOON.SD.png" group-title=MBC-Group,MBC SPACETOON SD
-http://forevertv.me:2095/z3qL4UeRt4uxcX/WMGT4Q5oeo8KuP/140934
-#EXTINF:-1 tvg-id="mbcwanasah.eg" tvg-name="MBC WANASAH SD" tvg-logo="http://194.163.160.164/MBC/MBC.WANASH.SD.png" group-title=MBC-Group,MBC WANASAH SD
-http://forevertv.me:2095/z3qL4UeRt4uxcX/WMGT4Q5oeo8KuP/140937
+#EXTINF:-1 group-title="MBC",AR.MBC 1 HD
+http://supaapp.xyz:8080/live/2551810583569940/2025565766597215/15152.ts
+#EXTINF:-1 group-title="MBC",AR.MBC 1
+http://supaapp.xyz:8080/live/2551810583569940/2025565766597215/15143.ts
+#EXTINF:-1 group-title="MBC",AR: MBC DRAMA 4K
+http://supaapp.xyz:8080/live/2551810583569940/2025565766597215/45163.ts
+#EXTINF:-1 group-title="MBC",AR: MBC MASR DRAMA HD
+http://supaapp.xyz:8080/live/2551810583569940/2025565766597215/328601.ts
+#EXTINF:-1 group-title="MBC",AR: MBC MASR DRAMA 4K
+http://supaapp.xyz:8080/live/2551810583569940/2025565766597215/328602.ts
+#EXTINF:-1 group-title="MBC",AR.MBC Drama HD
+http://supaapp.xyz:8080/live/2551810583569940/2025565766597215/15153.ts
+#EXTINF:-1 group-title="MBC",AR.MBC Drama
+http://supaapp.xyz:8080/live/2551810583569940/2025565766597215/15137.ts
+#EXTINF:-1 group-title="MBC",AR: MBC+ Drama 4K
+http://supaapp.xyz:8080/live/2551810583569940/2025565766597215/43679.ts
+#EXTINF:-1 group-title="MBC",AR: MBC Wanasah 4K
+http://supaapp.xyz:8080/live/2551810583569940/2025565766597215/148412.ts
+#EXTINF:-1 group-title="MBC",AR.MBC Drama+ 4k
+http://supaapp.xyz:8080/live/2551810583569940/2025565766597215/21160.ts
+#EXTINF:-1 group-title="MBC",AR: MBC MASR 4K
+http://supaapp.xyz:8080/live/2551810583569940/2025565766597215/92753.ts
+#EXTINF:-1 group-title="MBC",AR.MBC Masr HD
+http://supaapp.xyz:8080/live/2551810583569940/2025565766597215/15134.ts
+#EXTINF:-1 group-title="MBC",AR: MBC MASR 2 4K
+http://supaapp.xyz:8080/live/2551810583569940/2025565766597215/92754.ts
+#EXTINF:-1 group-title="MBC",AR.MBC Masr 2 HD
+http://supaapp.xyz:8080/live/2551810583569940/2025565766597215/15133.ts
+#EXTINF:-1 group-title="MBC",AR: MBC 2 4K
+http://supaapp.xyz:8080/live/2551810583569940/2025565766597215/45168.ts
+#EXTINF:-1 group-title="MBC",AR.MBC 2 HD
+http://supaapp.xyz:8080/live/2551810583569940/2025565766597215/15151.ts
+#EXTINF:-1 group-title="MBC",AR.MBC 2
+http://supaapp.xyz:8080/live/2551810583569940/2025565766597215/15142.ts
+#EXTINF:-1 group-title="MBC",AR: MBC 3 4K
+http://supaapp.xyz:8080/live/2551810583569940/2025565766597215/45143.ts
+#EXTINF:-1 group-title="MBC",AR.MBC 3 HD
+http://supaapp.xyz:8080/live/2551810583569940/2025565766597215/15150.ts
+#EXTINF:-1 group-title="MBC",AR.MBC 3
+http://supaapp.xyz:8080/live/2551810583569940/2025565766597215/15141.ts
+#EXTINF:-1 group-title="MBC",AR: MBC 4 4K
+http://supaapp.xyz:8080/live/2551810583569940/2025565766597215/45164.ts
+#EXTINF:-1 group-title="MBC",AR.MBC 4 HD
+http://supaapp.xyz:8080/live/2551810583569940/2025565766597215/15149.ts
+#EXTINF:-1 group-title="MBC",AR.MBC 4
+http://supaapp.xyz:8080/live/2551810583569940/2025565766597215/15140.ts
+#EXTINF:-1 group-title="MBC",AR: MBC ACTION 4K
+http://supaapp.xyz:8080/live/2551810583569940/2025565766597215/45166.ts
+#EXTINF:-1 group-title="MBC",AR.MBC Action HD
+http://supaapp.xyz:8080/live/2551810583569940/2025565766597215/15154.ts
+#EXTINF:-1 group-title="MBC",AR.MBC Action
+http://supaapp.xyz:8080/live/2551810583569940/2025565766597215/15135.ts
+#EXTINF:-1 group-title="MBC",AR: MBC BOLLYWOOD 4K
+http://supaapp.xyz:8080/live/2551810583569940/2025565766597215/45162.ts
+#EXTINF:-1 group-title="MBC",AR.MBC Bollywood HD
+http://supaapp.xyz:8080/live/2551810583569940/2025565766597215/15364.ts
+#EXTINF:-1 group-title="MBC",AR.MBC Bollywood
+http://supaapp.xyz:8080/live/2551810583569940/2025565766597215/15136.ts
+#EXTINF:-1 group-title="MBC",AR: MBC Persian 4K
+http://supaapp.xyz:8080/live/2551810583569940/2025565766597215/148411.ts
+#EXTINF:-1 group-title="MBC",AR: MBC Panorama FM 4K
+http://supaapp.xyz:8080/live/2551810583569940/2025565766597215/148413.ts
+#EXTINF:-1 group-title="MBC",AR: MBC MAX 4K
+http://supaapp.xyz:8080/live/2551810583569940/2025565766597215/45167.ts
+#EXTINF:-1 group-title="MBC",AR.MBC Max HD
+http://supaapp.xyz:8080/live/2551810583569940/2025565766597215/15139.ts
+#EXTINF:-1 group-title="MBC",AR.MBC Max
+http://supaapp.xyz:8080/live/2551810583569940/2025565766597215/15138.ts
+#EXTINF:-1 group-title="MBC",AR: MBC+ VARIETY 4K
+http://supaapp.xyz:8080/live/2551810583569940/2025565766597215/43681.ts
+#EXTINF:-1 group-title="MBC",AR: MBC IRAQ  4K
+http://supaapp.xyz:8080/live/2551810583569940/2025565766597215/92752.ts
+#EXTINF:-1 group-title="MBC",AR.MBC IRAQ HD
+http://supaapp.xyz:8080/live/2551810583569940/2025565766597215/14732.ts
+#EXTINF:-1 group-title="MBC",AR: MBC IRAQ
+http://supaapp.xyz:8080/live/2551810583569940/2025565766597215/92760.ts
+#EXTINF:-1 group-title="MBC",AR: MBC 5 4K
+http://supaapp.xyz:8080/live/2551810583569940/2025565766597215/92759.ts
+#EXTINF:-1 group-title="MBC",AR: MBC TOONS 4K
+http://supaapp.xyz:8080/live/2551810583569940/2025565766597215/328596.ts
+#EXTINF:-1 group-title="MBC",AR: SHAHID RAMADAN 4K
+http://supaapp.xyz:8080/live/2551810583569940/2025565766597215/328603.ts
+#EXTINF:-1 group-title="MBC",AR: MBC GEO 1 4K
+http://supaapp.xyz:8080/live/2551810583569940/2025565766597215/413799.ts
+#EXTINF:-1 group-title="MBC",AR: MBC GEO 1 HD
+http://supaapp.xyz:8080/live/2551810583569940/2025565766597215/413800.ts
+#EXTINF:-1 group-title="MBC",AR: MBC GEO 2 4K
+http://supaapp.xyz:8080/live/2551810583569940/2025565766597215/413801.ts
+#EXTINF:-1 group-title="MBC",AR: MBC GEO 2 HD
+http://supaapp.xyz:8080/live/2551810583569940/2025565766597215/413802.ts
+#EXTINF:-1 group-title="MBC",AR: MBC POWER 4K
+http://supaapp.xyz:8080/live/2551810583569940/2025565766597215/413803.ts
+#EXTINF:-1 group-title="MBC",AR: MBC POWER HD
+http://supaapp.xyz:8080/live/2551810583569940/2025565766597215/413804.ts
+#EXTINF:-1 group-title="MBC",AR: MBC PREMIUM 4K UHD
+http://supaapp.xyz:8080/live/2551810583569940/2025565766597215/413805.ts
+#EXTINF:-1 group-title="MBC",AR: MBC PLUS 4K
+http://supaapp.xyz:8080/live/2551810583569940/2025565766597215/413806.ts
+#EXTINF:-1 group-title="MBC",AR: MBC PLUS HD
+http://supaapp.xyz:8080/live/2551810583569940/2025565766597215/413807.ts
+#EXTINF:-1 group-title="MBC",AR: MBC FAMILY HD
+http://supaapp.xyz:8080/live/2551810583569940/2025565766597215/413808.ts
+#EXTINF:-1 group-title="MBC",AR: MBC CLOUD TV
+http://supaapp.xyz:8080/live/2551810583569940/2025565766597215/413809.ts
+#EXTINF:-1 group-title="MBC",AR: ARABS GOT TALENT 4K
+http://supaapp.xyz:8080/live/2551810583569940/2025565766597215/398935.ts
 
 
 
