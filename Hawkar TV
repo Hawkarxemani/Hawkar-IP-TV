@@ -424,8 +424,7 @@ https://zindikurmanci.zarok.com.tr/hls/0/stream.m3u8
 
 
 
-#EXTINF:-1 group-title="News (AR)",AR | AL JAZEERA FHD
-http://4kpro2.com:8789/play/live.php?mac=00:1A:79:FB:74:61&stream=23064&extension=ts
+
 #EXTINF:-1 group-title="News (AR)",AR | AL JAZEERA HD
 http://4kpro2.com:8789/play/live.php?mac=00:1A:79:FB:74:61&stream=23063&extension=ts
 #EXTINF:-1 group-title="News (AR)",Al Hadath 
@@ -434,8 +433,6 @@ https://live.alarabiya.net/alarabiapublish/alhadath.smil/playlist.m3u8
 https://live.alarabiya.net/alarabiapublish/alarabiya.smil/playlist.m3u8
 #EXTINF:-1 group-title="News (AR)",AR | AlJAZEERA MOUBACHER
 http://4kpro2.com:8789/play/live.php?mac=00:1A:79:FB:74:61&stream=23046&extension=ts
-#EXTINF:-1 group-title="News (AR)",AR | ALARABIA FHD
-http://4kpro2.com:8789/play/live.php?mac=00:1A:79:FB:74:61&stream=23062&extension=ts
 #EXTINF:-1 group-title="News (AR)",AR | BBC ARABIC
 http://4kpro2.com:8789/play/live.php?mac=00:1A:79:FB:74:61&stream=23056&extension=ts
 #EXTINF:-1 group-title="News (AR)",AR | SKY NEWS ARABIA
@@ -448,8 +445,6 @@ http://4kpro2.com:8789/play/live.php?mac=00:1A:79:FB:74:61&stream=22816&extensio
 http://4kpro2.com:8789/play/live.php?mac=00:1A:79:FB:74:61&stream=128334&extension=ts
 #EXTINF:-1 group-title="News (AR)",AR | CNBC ARABIA
 http://4kpro2.com:8789/play/live.php?mac=00:1A:79:FB:74:61&stream=23059&extension=ts
-#EXTINF:-1 group-title="News (AR)",AR | FRANCE 24 FHD
-http://4kpro2.com:8789/play/live.php?mac=00:1A:79:FB:74:61&stream=64262&extension=ts
 #EXTINF:-1 group-title="News (AR)",AR | FRANCE 24
 http://4kpro2.com:8789/play/live.php?mac=00:1A:79:FB:74:61&stream=23054&extension=ts
 #EXTINF:-1 group-title="News (AR)",AR | AL ALAM
@@ -476,22 +471,10 @@ http://4kpro2.com:8789/play/live.php?mac=00:1A:79:FB:74:61&stream=158021&extensi
 http://4kpro2.com:8789/play/live.php?mac=00:1A:79:FB:74:61&stream=158035&extension=ts
 #EXTINF:-1 group-title="News (AR)",AR |  I NEWS HD
 http://4kpro2.com:8789/play/live.php?mac=00:1A:79:FB:74:61&stream=157986&extension=ts
-#EXTINF:-1 group-title="News (AR)",Al Jazeera
-https://live-hls-web-aja-fa.thehlive.com/AJA/index.m3u8
-#EXTINF:-1 group-title="News (AR)",France 24 العربية
-https://www.youtube.com/c/FRANCE24Arabic/live
-#EXTINF:-1 group-title="News (AR)",DW العربية
-https://dwamdstream103.akamaized.net/hls/live/2015526/dwstream103/index.m3u8
-#EXTINF:-1 group-title="News (AR)",RT العربية
-https://rt-arb.rt.com/dvr/rtarab/playlist.m3u8
-#EXTINF:-1 group-title="News (AR)",Al-Sharqiya News
-http://ns8.indexforce.com:1935/alsharqiyalive/mystream/chunklist_w1408895114.m3u8
 #EXTINF:-1 group-title="News (AR)",Asharq News
 https://svs.itworkscdn.net/bloomberarlive/bloomberg.smil/playlist_dvr.m3u8
 #EXTINF:-1 group-title="News (AR)",BBC Arabic
 https://vs-cmaf-pushb-ww.live.cf.md.bbci.co.uk/x=4/i=urn:bbc:pips:service:bbc_arabic_/pc_hd_abr_v2_http.mpd
-#EXTINF:-1 group-title="News (AR)",Al Jazeera Mubasher
-https://live-hls-web-ajm.getaj.net/AJM/index.m3u8
 #EXTINF:-1 group-title="News (AR)",CNBC Arabiya
 https://cnbc-live.akamaized.net/cnbc/master.m3u8
 #EXTINF:-1 group-title="News (AR)",Sky News Arabia
@@ -503,7 +486,10 @@ https://cdn.catiacast.video/abr/78054972db7708422595bc96c6e024ac/playlist.m3u8
 #EXTINF:-1 g-id="AlRasheed.iq@SD" g-logo="https://i.imgur.com/ltyRjPK.png" group-title="News (AR)",Al Rasheed  (1080p) [Not 24/7]
 https://media1.livaat.com/static/AL-RASHEED-HD/playlist.m3u8
 #EXTINF:-1 g-id="AlhurraIraq.us@SD" g-logo="https://i.imgur.com/fsgQDcN.png" group-title="News (AR)",Alhurra Iraq (720p)
-https://mbn-ingest-worldsafe.akamaized.net/hls/live/2038899/MBN_Iraq_Worldsafe_HLS/master.m3u8
+https://mbn-ingest-worldsafe.akamaized.net/hls/live/2038899/MBN_Iraq_Worldsafe_HLS/master.m3u
+#EXTINF:-1 group-title="News (AR)",AL RABIAA TV 4k
+http://supaapp.xyz:8080/live/2551810583569940/2025565766597215/371939.ts
+
 
 
 
@@ -560,7 +546,58 @@ http://supaapp.xyz:8080/live/2551810583569940/2025565766597215/358239.ts
 ---------------------------Arab Sport-----------------------------
 
 
-
+#EXTINF:-1 group-title="ARABIC SPORT",AL RABIAA SPORT 1
+http://supaapp.xyz:8080/live/2551810583569940/2025565766597215/371931.ts
+#EXTINF:-1 group-title="ARABIC SPORT",AL RABIAA SPORT 1+
+http://supaapp.xyz:8080/live/2551810583569940/2025565766597215/371933.ts
+#EXTINF:-1 group-title="ARABIC SPORT",AL RABIAA SPORT 2
+http://supaapp.xyz:8080/live/2551810583569940/2025565766597215/371932.ts
+#EXTINF:-1 group-title="ARABIC SPORT",Rabiaa Sport +2
+http://supaapp.xyz:8080/live/2551810583569940/2025565766597215/434565.ts
+#EXTINF:-1 group-title="ARABIC SPORT",Alwan Sport 2 4K
+http://supaapp.xyz:8080/live/2551810583569940/2025565766597215/418114.ts
+#EXTINF:-1 group-title="ARABIC SPORT",Alwan Sport 2 HD
+http://supaapp.xyz:8080/live/2551810583569940/2025565766597215/418115.ts
+#EXTINF:-1 group-title="ARABIC SPORT",Alwan Sport 2 SD
+http://supaapp.xyz:8080/live/2551810583569940/2025565766597215/418116.ts
+#EXTINF:-1 group-title="ARABIC SPORT",Alwan Sport 3 4K
+http://supaapp.xyz:8080/live/2551810583569940/2025565766597215/418117.ts
+#EXTINF:-1 group-title="ARABIC SPORT",Alwan Sport 3 HD
+http://supaapp.xyz:8080/live/2551810583569940/2025565766597215/418118.ts
+#EXTINF:-1 group-title="ARABIC SPORT",Alwan Sport 3 SD
+http://supaapp.xyz:8080/live/2551810583569940/2025565766597215/418119.ts
+#EXTINF:-1 group-title="ARABIC SPORT",Alwan Sport 4 4K
+http://supaapp.xyz:8080/live/2551810583569940/2025565766597215/418120.ts
+#EXTINF:-1 group-title="ARABIC SPORT",Alwan Sport 4 HD
+http://supaapp.xyz:8080/live/2551810583569940/2025565766597215/418121.ts
+#EXTINF:-1 group-title="ARABIC SPORT",Alwan Sport 4 SD
+http://supaapp.xyz:8080/live/2551810583569940/2025565766597215/418122.ts
+#EXTINF:-1 group-title="ARABIC SPORT",Alwan Sport 5 4K
+http://supaapp.xyz:8080/live/2551810583569940/2025565766597215/418123.ts
+#EXTINF:-1 group-title="ARABIC SPORT",Alwan Sport 5 HD
+http://supaapp.xyz:8080/live/2551810583569940/2025565766597215/418124.ts
+#EXTINF:-1 group-title="ARABIC SPORT",Alwan Sport 5 SD
+http://supaapp.xyz:8080/live/2551810583569940/2025565766597215/418125.ts
+#EXTINF:-1 group-title="ARABIC SPORT",Alwan Sport 6 4K
+http://supaapp.xyz:8080/live/2551810583569940/2025565766597215/418126.ts
+#EXTINF:-1 group-title="ARABIC SPORT",Alwan Sport 6 HD
+http://supaapp.xyz:8080/live/2551810583569940/2025565766597215/418127.ts
+#EXTINF:-1 group-title="ARABIC SPORT",Alwan Sport 6 SD
+http://supaapp.xyz:8080/live/2551810583569940/2025565766597215/418128.ts
+#EXTINF:-1 group-title="ARABIC SPORT",Alwan Sport 7 4K
+http://supaapp.xyz:8080/live/2551810583569940/2025565766597215/433739.ts
+#EXTINF:-1 group-title="ARABIC SPORT",Alwan Sport 8 4K
+http://supaapp.xyz:8080/live/2551810583569940/2025565766597215/433740.ts
+#EXTINF:-1 group-title="ARABIC SPORT",Alwan Sport 9 4K
+http://supaapp.xyz:8080/live/2551810583569940/2025565766597215/433741.ts
+#EXTINF:-1 group-title="ARABIC SPORT",Alwan Sport 10 4K
+http://supaapp.xyz:8080/live/2551810583569940/2025565766597215/433742.ts
+#EXTINF:-1 group-title="ARABIC SPORT",Alwan F1 4K
+http://supaapp.xyz:8080/live/2551810583569940/2025565766597215/433743.ts
+#EXTINF:-1 group-title="ARABIC SPORT",Alwan WWE 4K
+http://supaapp.xyz:8080/live/2551810583569940/2025565766597215/433744.ts
+#EXTINF:-1 group-title="ARABIC SPORT",Alwan UFC 4K
+http://supaapp.xyz:8080/live/2551810583569940/2025565766597215/433745.ts
 #EXTINF:-1 group-title="ARABIC SPORT",Alkass 1 HD
 http://supaapp.xyz:8080/live/2551810583569940/2025565766597215/96214.ts
 #EXTINF:-1 group-title="ARABIC SPORT",Alkass 2 HD
