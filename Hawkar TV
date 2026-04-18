@@ -433,8 +433,6 @@ http://4kpro2.com:8789/play/live.php?mac=00:1A:79:FB:74:61&stream=23063&extensio
 https://live.alarabiya.net/alarabiapublish/alhadath.smil/playlist.m3u8
 #EXTINF:-1 group-title="News (AR)",Al Arabiya
 https://live.alarabiya.net/alarabiapublish/alarabiya.smil/playlist.m3u8
-#EXTINF:-1 group-title="News (AR)",Shams HD
-https://stream.shams./hls/0/stream.m3u8
 #EXTINF:-1 group-title="News (AR)",AR | AlJAZEERA MOUBACHER
 http://4kpro2.com:8789/play/live.php?mac=00:1A:79:FB:74:61&stream=23046&extension=ts
 #EXTINF:-1 group-title="News (AR)",AR | BBC ARABIC
@@ -2287,71 +2285,6 @@ http://myfhdtv.com:80/live/00000/00000/1984330.ts
 http://myfhdtv.com:80/live/00000/00000/1984331.ts
 #EXTINF:-1 group-title="Movies (EN)",US: Lifetime HD
 http://myfhdtv.com:80/live/00000/00000/1984332.ts
-
-
-
----------------------------News (AR)"--------------------------------------------------------
-
-
-
-
-#EXTINF:-1 group-title="News (AR)",AR | AL JAZEERA HD
-http://4kpro2.com:8789/play/live.php?mac=00:1A:79:FB:74:61&stream=23063&extension=ts
-#EXTINF:-1 group-title="News (AR)",Al Hadath 
-https://live.alarabiya.net/alarabiapublish/alhadath.smil/playlist.m3u8
-#EXTINF:-1 group-title="News (AR)",Al Arabiya
-https://live.alarabiya.net/alarabiapublish/alarabiya.smil/playlist.m3u8
-#EXTINF:-1 group-title="News (AR)",AR | AlJAZEERA MOUBACHER
-http://4kpro2.com:8789/play/live.php?mac=00:1A:79:FB:74:61&stream=23046&extension=ts
-#EXTINF:-1 group-title="News (AR)",AR | ALARABIA FHD
-http://4kpro2.com:8789/play/live.php?mac=00:1A:79:FB:74:61&stream=23062&extension=ts
-#EXTINF:-1 group-title="News (AR)",AR | BBC ARABIC
-http://4kpro2.com:8789/play/live.php?mac=00:1A:79:FB:74:61&stream=23056&extension=ts
-#EXTINF:-1 group-title="News (AR)",AR | SKY NEWS ARABIA
-http://4kpro2.com:8789/play/live.php?mac=00:1A:79:FB:74:61&stream=23060&extension=ts
-#EXTINF:-1 group-title="News (AR)",AR | MAYADEEN 
-http://4kpro2.com:8789/play/live.php?mac=00:1A:79:FB:74:61&stream=283479&extension=ts
-#EXTINF:-1 group-title="News (AR)",AR | AL QUDS AL YAWM
-http://4kpro2.com:8789/play/live.php?mac=00:1A:79:FB:74:61&stream=22816&extension=ts
-#EXTINF:-1 group-title="News (AR)",AR | AQSA 
-http://4kpro2.com:8789/play/live.php?mac=00:1A:79:FB:74:61&stream=128334&extension=ts
-#EXTINF:-1 group-title="News (AR)",AR | CNBC ARABIA
-http://4kpro2.com:8789/play/live.php?mac=00:1A:79:FB:74:61&stream=23059&extension=ts
-#EXTINF:-1 group-title="News (AR)",AR | FRANCE 24 FHD
-http://4kpro2.com:8789/play/live.php?mac=00:1A:79:FB:74:61&stream=64262&extension=ts
-#EXTINF:-1 group-title="News (AR)",AR | FRANCE 24
-http://4kpro2.com:8789/play/live.php?mac=00:1A:79:FB:74:61&stream=23054&extension=ts
-#EXTINF:-1 group-title="News (AR)",AR | AL ALAM
-http://4kpro2.com:8789/play/live.php?mac=00:1A:79:FB:74:61&stream=149871&extension=ts
-#EXTINF:-1 group-title="News (AR)",AR |  AL HADATH
-http://4kpro2.com:8789/play/live.php?mac=00:1A:79:FB:74:61&stream=23061&extension=ts
-#EXTINF:-1 group-title="News (AR)",AR | RT ARABIC
-http://4kpro2.com:8789/play/live.php?mac=00:1A:79:FB:74:61&stream=23058&extension=ts
-#EXTINF:-1 group-title="News (AR)",AR | DW ARABIC
-http://4kpro2.com:8789/play/live.php?mac=00:1A:79:FB:74:61&stream=23057&extension=ts
-#EXTINF:-1 group-title="News (AR)",AR | TRT ARABIC
-http://4kpro2.com:8789/play/live.php?mac=00:1A:79:FB:74:61&stream=23051&extension=ts
-#EXTINF:-1 group-title="News (AR)",AR | AL HADATH AL YOUM
-http://4kpro2.com:8789/play/live.php?mac=00:1A:79:FB:74:61&stream=23043&extension=ts
-#EXTINF:-1 group-title="News (AR)",AR | ALRAI 
-http://4kpro2.com:8789/play/live.php?mac=00:1A:79:FB:74:61&stream=23042&extension=ts
-#EXTINF:-1 group-title="News (AR)",AR | AL HURA
-http://4kpro2.com:8789/play/live.php?mac=00:1A:79:FB:74:61&stream=23047&extension=ts
-#EXTINF:-1 group-title="News (AR)",AR | AL GHAD HD
-http://4kpro2.com:8789/play/live.php?mac=00:1A:79:FB:74:61&stream=23052&extension=ts
-#EXTINF:-1 group-title="News (AR)",AR | AL SHARQIYA NEWS HD
-http://4kpro2.com:8789/play/live.php?mac=00:1A:79:FB:74:61&stream=158021&extension=ts
-#EXTINF:-1 group-title="News (AR)",IQ | AL IRAQIA NEWS
-http://4kpro2.com:8789/play/live.php?mac=00:1A:79:FB:74:61&stream=158035&extension=ts
-#EXTINF:-1 group-title="News (AR)",AR |  I NEWS HD
-http://4kpro2.com:8789/play/live.php?mac=00:1A:79:FB:74:61&stream=157986&extension=ts
-#EXTINF:-1 group-title="News (AR)",Shams HD
-https://stream.shams./hls/0/stream.m3u8
-#EXTINF:-1 g-id="AlIraqiaNews.iq@SD" g-logo="https://i.imgur.com/feQTXeZ.jpg" group-title="News (AR)",Al Iraqia News (720p)
-https://cdn.catiacast.video/abr/78054972db7708422595bc96c6e024ac/playlist.m3u8
-#EXTINF:-1 g-id="AlRasheed.iq@SD" g-logo="https://i.imgur.com/ltyRjPK.png" group-title="News (AR)",Al Rasheed  (1080p) [Not 24/7]
-https://media1.livaat.com/static/AL-RASHEED-HD/playlist.m3u8
-
 
 
 
