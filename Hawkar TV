@@ -4,7 +4,7 @@ http://supaapp.xyz:8080/live/2551810583569940/2025565766597215/429643.ts
 #EXTINF:-1 group-title="KURDISTAN",Channel 8 Kurdish
 http://supaapp.xyz:8080/live/2551810583569940/2025565766597215/429647.ts
 #EXTINF:-1 group-title="KURDISTAN",NRT 1 News
-http://supaapp.xyz:8080/live/2551810583569940/2025565766597215/429646.ts
+http://109.71.252.138/NRT/index.m3u8
 #EXTINF:-1 group-title="KURDISTAN",K24
 http://supaapp.xyz:8080/live/2551810583569940/2025565766597215/429644.ts
 #EXTINF:-1 group-title="KURDISTAN",AVA Meida
@@ -2184,61 +2184,61 @@ http://myfhdtv.com:80/live/00000/00000/1984332.ts
 
 
 
----------------------------News (AR)--------------------------------------------------------
+---------------------------News (AR)"--------------------------------------------------------
 
 
 
-#EXTINF:-1 group-title="News (AR),AR | AL JAZEERA FHD
+#EXTINF:-1 group-title="News (AR)",AR | AL JAZEERA FHD
 http://4kpro2.com:8789/play/live.php?mac=00:1A:79:FB:74:61&stream=23064&extension=ts
-#EXTINF:-1 group-title="News (AR),AR | AL JAZEERA HD
+#EXTINF:-1 group-title="News (AR)",AR | AL JAZEERA HD
 http://4kpro2.com:8789/play/live.php?mac=00:1A:79:FB:74:61&stream=23063&extension=ts
 #EXTINF:-1 group-title="News (AR)",Al Hadath 
 https://live.alarabiya.net/alarabiapublish/alhadath.smil/playlist.m3u8
 #EXTINF:-1 group-title="News (AR)",Al Arabiya
 https://live.alarabiya.net/alarabiapublish/alarabiya.smil/playlist.m3u8
-#EXTINF:-1 group-title="News (AR),AR | AlJAZEERA MOUBACHER
+#EXTINF:-1 group-title="News (AR)",AR | AlJAZEERA MOUBACHER
 http://4kpro2.com:8789/play/live.php?mac=00:1A:79:FB:74:61&stream=23046&extension=ts
-#EXTINF:-1 group-title="News (AR),AR | ALARABIA FHD
+#EXTINF:-1 group-title="News (AR)",AR | ALARABIA FHD
 http://4kpro2.com:8789/play/live.php?mac=00:1A:79:FB:74:61&stream=23062&extension=ts
-#EXTINF:-1 group-title="News (AR),AR | BBC ARABIC
+#EXTINF:-1 group-title="News (AR)",AR | BBC ARABIC
 http://4kpro2.com:8789/play/live.php?mac=00:1A:79:FB:74:61&stream=23056&extension=ts
-#EXTINF:-1 group-title="News (AR),AR | SKY NEWS ARABIA
+#EXTINF:-1 group-title="News (AR)",AR | SKY NEWS ARABIA
 http://4kpro2.com:8789/play/live.php?mac=00:1A:79:FB:74:61&stream=23060&extension=ts
-#EXTINF:-1 group-title="News (AR),AR | MAYADEEN 
+#EXTINF:-1 group-title="News (AR)",AR | MAYADEEN 
 http://4kpro2.com:8789/play/live.php?mac=00:1A:79:FB:74:61&stream=283479&extension=ts
-#EXTINF:-1 group-title="News (AR),AR | AL QUDS AL YAWM
+#EXTINF:-1 group-title="News (AR)",AR | AL QUDS AL YAWM
 http://4kpro2.com:8789/play/live.php?mac=00:1A:79:FB:74:61&stream=22816&extension=ts
-#EXTINF:-1 group-title="News (AR),AR | AQSA 
+#EXTINF:-1 group-title="News (AR)",AR | AQSA 
 http://4kpro2.com:8789/play/live.php?mac=00:1A:79:FB:74:61&stream=128334&extension=ts
-#EXTINF:-1 group-title="News (AR),AR | CNBC ARABIA
+#EXTINF:-1 group-title="News (AR)",AR | CNBC ARABIA
 http://4kpro2.com:8789/play/live.php?mac=00:1A:79:FB:74:61&stream=23059&extension=ts
-#EXTINF:-1 group-title="News (AR),AR | FRANCE 24 FHD
+#EXTINF:-1 group-title="News (AR)",AR | FRANCE 24 FHD
 http://4kpro2.com:8789/play/live.php?mac=00:1A:79:FB:74:61&stream=64262&extension=ts
-#EXTINF:-1 group-title="News (AR),AR | FRANCE 24
+#EXTINF:-1 group-title="News (AR)",AR | FRANCE 24
 http://4kpro2.com:8789/play/live.php?mac=00:1A:79:FB:74:61&stream=23054&extension=ts
-#EXTINF:-1 group-title="News (AR),AR | AL ALAM
+#EXTINF:-1 group-title="News (AR)",AR | AL ALAM
 http://4kpro2.com:8789/play/live.php?mac=00:1A:79:FB:74:61&stream=149871&extension=ts
-#EXTINF:-1 group-title="News (AR),AR |  AL HADATH
+#EXTINF:-1 group-title="News (AR)",AR |  AL HADATH
 http://4kpro2.com:8789/play/live.php?mac=00:1A:79:FB:74:61&stream=23061&extension=ts
-#EXTINF:-1 group-title="News (AR),AR | RT ARABIC
+#EXTINF:-1 group-title="News (AR)",AR | RT ARABIC
 http://4kpro2.com:8789/play/live.php?mac=00:1A:79:FB:74:61&stream=23058&extension=ts
-#EXTINF:-1 group-title="News (AR),AR | DW ARABIC
+#EXTINF:-1 group-title="News (AR)",AR | DW ARABIC
 http://4kpro2.com:8789/play/live.php?mac=00:1A:79:FB:74:61&stream=23057&extension=ts
-#EXTINF:-1 group-title="News (AR),AR | TRT ARABIC
+#EXTINF:-1 group-title="News (AR)",AR | TRT ARABIC
 http://4kpro2.com:8789/play/live.php?mac=00:1A:79:FB:74:61&stream=23051&extension=ts
-#EXTINF:-1 group-title="News (AR),AR | AL HADATH AL YOUM
+#EXTINF:-1 group-title="News (AR)",AR | AL HADATH AL YOUM
 http://4kpro2.com:8789/play/live.php?mac=00:1A:79:FB:74:61&stream=23043&extension=ts
-#EXTINF:-1 group-title="News (AR),AR | ALRAI 
+#EXTINF:-1 group-title="News (AR)",AR | ALRAI 
 http://4kpro2.com:8789/play/live.php?mac=00:1A:79:FB:74:61&stream=23042&extension=ts
-#EXTINF:-1 group-title="News (AR),AR | AL HURA
+#EXTINF:-1 group-title="News (AR)",AR | AL HURA
 http://4kpro2.com:8789/play/live.php?mac=00:1A:79:FB:74:61&stream=23047&extension=ts
-#EXTINF:-1 group-title="News (AR),AR | AL GHAD HD
+#EXTINF:-1 group-title="News (AR)",AR | AL GHAD HD
 http://4kpro2.com:8789/play/live.php?mac=00:1A:79:FB:74:61&stream=23052&extension=ts
-#EXTINF:-1 group-title="News (AR),AR | AL SHARQIYA NEWS HD
+#EXTINF:-1 group-title="News (AR)",AR | AL SHARQIYA NEWS HD
 http://4kpro2.com:8789/play/live.php?mac=00:1A:79:FB:74:61&stream=158021&extension=ts
-#EXTINF:-1 group-title="News (AR),IQ | AL IRAQIA NEWS
+#EXTINF:-1 group-title="News (AR)",IQ | AL IRAQIA NEWS
 http://4kpro2.com:8789/play/live.php?mac=00:1A:79:FB:74:61&stream=158035&extension=ts
-#EXTINF:-1 group-title="News (AR),AR |  I NEWS HD
+#EXTINF:-1 group-title="News (AR)",AR |  I NEWS HD
 http://4kpro2.com:8789/play/live.php?mac=00:1A:79:FB:74:61&stream=157986&extension=ts
 #EXTINF:-1 group-title="News (AR)",Al Jazeera
 https://live-hls-web-aja-fa.thehlive.com/AJA/index.m3u8
@@ -3721,7 +3721,6 @@ https://trn03.tulix./gt-trtbelgesel/index.m3u8
 https://trn03.tulix./gt-trtavaz/index.m3u8
 #EXTINF:-1 g-logo="http://ginikoturkish.com/channels/logo/yaban--epg-.png"group-title="|Turkey |",Yaban 
 https://trn03.tulix./gt-yaban/index.m3u8
-
 #EXTINF:-1 g-id="TRT1.tr" group-title="|Turkey |",TRT 1
 https://trn03.tulix./gt-trt1-eu/index.m3u8
 #EXTINF:-1 g-id="A.tr" group-title="|Turkey |",A
@@ -3826,5 +3825,3 @@ https://trn03.tulix./gt-krt--/index.m3u8
 https://trn03.tulix./gt-brt1/index.m3u8
 #EXTINF:-1 group-title="|Turkey |",Brt 2
 https://trn03.tulix./gt-brt2/index.m3u8
-
-
