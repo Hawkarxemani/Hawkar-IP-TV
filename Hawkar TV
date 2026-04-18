@@ -433,6 +433,8 @@ http://4kpro2.com:8789/play/live.php?mac=00:1A:79:FB:74:61&stream=23063&extensio
 https://live.alarabiya.net/alarabiapublish/alhadath.smil/playlist.m3u8
 #EXTINF:-1 group-title="News (AR)",Al Arabiya
 https://live.alarabiya.net/alarabiapublish/alarabiya.smil/playlist.m3u8
+#EXTINF:-1 group-title="News (AR)",Shams HD
+https://stream.shams./hls/0/stream.m3u8
 #EXTINF:-1 group-title="News (AR)",AR | AlJAZEERA MOUBACHER
 http://4kpro2.com:8789/play/live.php?mac=00:1A:79:FB:74:61&stream=23046&extension=ts
 #EXTINF:-1 group-title="News (AR)",AR | BBC ARABIC
@@ -471,20 +473,10 @@ http://4kpro2.com:8789/play/live.php?mac=00:1A:79:FB:74:61&stream=158021&extensi
 http://4kpro2.com:8789/play/live.php?mac=00:1A:79:FB:74:61&stream=158035&extension=ts
 #EXTINF:-1 group-title="News (AR)",AR |  I NEWS HD
 http://4kpro2.com:8789/play/live.php?mac=00:1A:79:FB:74:61&stream=157986&extension=ts
-#EXTINF:-1 group-title="News (AR)",Asharq News
-https://svs.itworkscdn.net/bloomberarlive/bloomberg.smil/playlist_dvr.m3u8
-#EXTINF:-1 group-title="News (AR)",BBC Arabic
-https://vs-cmaf-pushb-ww.live.cf.md.bbci.co.uk/x=4/i=urn:bbc:pips:service:bbc_arabic_/pc_hd_abr_v2_http.mpd
-#EXTINF:-1 group-title="News (AR)",CNBC Arabiya
-https://cnbc-live.akamaized.net/cnbc/master.m3u8
-#EXTINF:-1 group-title="News (AR)",Shams HD
-https://stream.shams./hls/0/stream.m3u8
 #EXTINF:-1 g-id="AlIraqiaNews.iq@SD" g-logo="https://i.imgur.com/feQTXeZ.jpg" group-title="News (AR)",Al Iraqia News (720p)
 https://cdn.catiacast.video/abr/78054972db7708422595bc96c6e024ac/playlist.m3u8
 #EXTINF:-1 g-id="AlRasheed.iq@SD" g-logo="https://i.imgur.com/ltyRjPK.png" group-title="News (AR)",Al Rasheed  (1080p) [Not 24/7]
 https://media1.livaat.com/static/AL-RASHEED-HD/playlist.m3u8
-#EXTINF:-1 g-id="AlhurraIraq.us@SD" g-logo="https://i.imgur.com/fsgQDcN.png" group-title="News (AR)",Alhurra Iraq (720p)
-https://mbn-ingest-worldsafe.akamaized.net/hls/live/2038899/MBN_Iraq_Worldsafe_HLS/master.m3u
 #EXTINF:-1 group-title="News (AR)",AL RABIAA TV 4k
 http://supaapp.xyz:8080/live/2551810583569940/2025565766597215/371939.ts
 
