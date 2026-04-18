@@ -2308,8 +2308,7 @@ http://myfhdtv.com:80/live/00000/00000/1984332.ts
 
 
 
-#EXTINF:-1 group-title="News (AR)",AR | AL JAZEERA FHD
-http://4kpro2.com:8789/play/live.php?mac=00:1A:79:FB:74:61&stream=23064&extension=ts
+
 #EXTINF:-1 group-title="News (AR)",AR | AL JAZEERA HD
 http://4kpro2.com:8789/play/live.php?mac=00:1A:79:FB:74:61&stream=23063&extension=ts
 #EXTINF:-1 group-title="News (AR)",Al Hadath 
@@ -2360,34 +2359,13 @@ http://4kpro2.com:8789/play/live.php?mac=00:1A:79:FB:74:61&stream=158021&extensi
 http://4kpro2.com:8789/play/live.php?mac=00:1A:79:FB:74:61&stream=158035&extension=ts
 #EXTINF:-1 group-title="News (AR)",AR |  I NEWS HD
 http://4kpro2.com:8789/play/live.php?mac=00:1A:79:FB:74:61&stream=157986&extension=ts
-#EXTINF:-1 group-title="News (AR)",Al Jazeera
-https://live-hls-web-aja-fa.thehlive.com/AJA/index.m3u8
-#EXTINF:-1 group-title="News (AR)",France 24 العربية
-https://www.youtube.com/c/FRANCE24Arabic/live
-#EXTINF:-1 group-title="News (AR)",DW العربية
-https://dwamdstream103.akamaized.net/hls/live/2015526/dwstream103/index.m3u8
-#EXTINF:-1 group-title="News (AR)",RT العربية
-https://rt-arb.rt.com/dvr/rtarab/playlist.m3u8
-#EXTINF:-1 group-title="News (AR)",Al-Sharqiya News
-http://ns8.indexforce.com:1935/alsharqiyalive/mystream/chunklist_w1408895114.m3u8
-#EXTINF:-1 group-title="News (AR)",Asharq News
-https://svs.itworkscdn.net/bloomberarlive/bloomberg.smil/playlist_dvr.m3u8
-#EXTINF:-1 group-title="News (AR)",BBC Arabic
-https://vs-cmaf-pushb-ww.live.cf.md.bbci.co.uk/x=4/i=urn:bbc:pips:service:bbc_arabic_/pc_hd_abr_v2_http.mpd
-#EXTINF:-1 group-title="News (AR)",Al Jazeera Mubasher
-https://live-hls-web-ajm.getaj.net/AJM/index.m3u8
-#EXTINF:-1 group-title="News (AR)",CNBC Arabiya
-https://cnbc-live.akamaized.net/cnbc/master.m3u8
-#EXTINF:-1 group-title="News (AR)",Sky News Arabia
-https://live-stream.skynewsarabia.com/c-horizontal-channel/horizontal-stream/index.m3u8
 #EXTINF:-1 group-title="News (AR)",Shams HD
 https://stream.shams./hls/0/stream.m3u8
 #EXTINF:-1 g-id="AlIraqiaNews.iq@SD" g-logo="https://i.imgur.com/feQTXeZ.jpg" group-title="News (AR)",Al Iraqia News (720p)
 https://cdn.catiacast.video/abr/78054972db7708422595bc96c6e024ac/playlist.m3u8
 #EXTINF:-1 g-id="AlRasheed.iq@SD" g-logo="https://i.imgur.com/ltyRjPK.png" group-title="News (AR)",Al Rasheed  (1080p) [Not 24/7]
 https://media1.livaat.com/static/AL-RASHEED-HD/playlist.m3u8
-#EXTINF:-1 g-id="AlhurraIraq.us@SD" g-logo="https://i.imgur.com/fsgQDcN.png" group-title="News (AR)",Alhurra Iraq (720p)
-https://mbn-ingest-worldsafe.akamaized.net/hls/live/2038899/MBN_Iraq_Worldsafe_HLS/master.m3u8
+
 
 
 
