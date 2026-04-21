@@ -489,8 +489,6 @@ http://live.iptvtotaal.com:8000/live/mckenzie4760/L4hGTmrQgB/37532.ts
 http://live.iptvtotaal.com:8000/live/mckenzie4760/L4hGTmrQgB/131357.ts
 #EXTINF:-1 group-title="English News",US: MSNBC HD
 http://live.iptvtotaal.com:8000/live/mckenzie4760/L4hGTmrQgB/130410.ts
-#EXTINF:-1 group-title="English News",UK: Travelxp
-http://live.iptvtotaal.com:8000/live/mckenzie4760/L4hGTmrQgB/125285.ts
 
 
 
@@ -2620,309 +2618,309 @@ http://4kpro2.com:8789/play/live.php?mac=00:1A:79:FB:74:61&stream=79436&extensio
 http://4kpro2.com:8789/play/live.php?mac=00:1A:79:FB:74:61&stream=398821&extension=ts
 #EXTINF:-1 group-title="Turkey",TR | MOVIE SMART TURK HD
 http://4kpro2.com:8789/play/live.php?mac=00:1A:79:FB:74:61&stream=79437&extension=ts
-#EXTINF:-1 group-title="|Turkey |" g-logo= ,Channel 6
+#EXTINF:-1 group-title="Turkey" g-logo= ,Channel 6
 https://cdn4.yayin.com.tr/channel6/index.m3u8
-#EXTINF:-1 group-title="|Turkey |" g-logo= , Turk
+#EXTINF:-1 group-title="Turkey" g-logo= , Turk
 https://stream.tiviturk.de/live/tiviturk.m3u8
-#EXTINF:-1 group-title="|Turkey |" g-logo= ,İsviçre 
+#EXTINF:-1 group-title="Turkey" g-logo= ,İsviçre 
 https://i41.ozelip.com:3269/hybrid/play.m3u8
-#EXTINF:-1 group-title="|Turkey |" g-logo="https://r.resimlink.com/q5aJIjAHYnv.png",158. World Türk
+#EXTINF:-1 group-title="Turkey" g-logo="https://r.resimlink.com/q5aJIjAHYnv.png",158. World Türk
 https://live.artidijitalmedya.com/artidijital_worldturk/worldturk/chunks.m3u8
-#EXTINF:-1 group-title="|Turkey |" g-logo="https://r.resimlink.com/08DyzLK_e.png",159. MK Türk
+#EXTINF:-1 group-title="Turkey" g-logo="https://r.resimlink.com/08DyzLK_e.png",159. MK Türk
 https://streams.uzunmuhalefet.com/stream/d4565ce9-78b9-4acf-94ea-50e2d726a9d4.m3u8
-#EXTINF:-1 group-title="|Turkey |" g-logo="https://r.resimlink.com/vdyWRK.png",202. Kanal 38
+#EXTINF:-1 group-title="Turkey" g-logo="https://r.resimlink.com/vdyWRK.png",202. Kanal 38
 https://yayin1.canli.fun/canli/kanal38.stream/chunklist_w781296992.m3u8?hash=4b0f6c269782d4fbb0659c5e42eea8b7
-#EXTINF:-1 group-title="|Turkey |" g-logo="https://r.resimlink.com/Un0zi.png",208.  48
+#EXTINF:-1 group-title="Turkey" g-logo="https://r.resimlink.com/Un0zi.png",208.  48
 https://ajansplay.com:5443/LiveApp/streams/48.m3u8
-#EXTINF:-1 group-title="|Turkey |"g-logo= ,1 Supersat 
+#EXTINF:-1 group-title="Turkey"g-logo= ,1 Supersat 
 http://75.119.144.48/SUPERTURK__STREAM/index.m3u8
-#EXTINF:-1 group-title="|Turkey |" g-logo=" logo" ,TRT ÇOCUK
+#EXTINF:-1 group-title="Turkey" g-logo=" logo" ,TRT ÇOCUK
 https://-trtcocuk.medya.trt.com.tr/master.m3u8
-#EXTINF:-1 group-title="|Turkey |" g-logo=" logo" ,DIYANET ÇOCUK
+#EXTINF:-1 group-title="Turkey" g-logo=" logo" ,DIYANET ÇOCUK
 https://-trtdiyanetcocuk.medya.trt.com.tr/master.m3u8
-#EXTINF:-1 g-id="" g-logo="https://www.appcreator24.com/srv/imgs/gen/3048087_icohome.png?ts=1745263499.png" group-title="|Turkey |",Yansıma Müzik 
+#EXTINF:-1 g-id="" g-logo="https://www.appcreator24.com/srv/imgs/gen/3048087_icohome.png?ts=1745263499.png" group-title="Turkey",Yansıma Müzik 
 http://cdn4.yayin.com.tr/yansimamedya/video.m3u8
-#EXTINF:-1 g-name="TATLISES " g-id="Tatlıses..tr" g-logo="https://i.ibb.co/yRy9zwt/tatlises-.png" group-title="|Turkey |",TATLISES 
+#EXTINF:-1 g-name="TATLISES " g-id="Tatlıses..tr" g-logo="https://i.ibb.co/yRy9zwt/tatlises-.png" group-title="Turkey",TATLISES 
 https://live.artidijitalmedya.com/artidijital_tatlises/tatlises/chunks.m3u8
-#EXTINF:-1 g-name="TRT |Turkey |" g-id="TRT|Turkey |.tr" g-logo="https://i.ibb.co/4gbPpzC/trt-|Turkey |.png" group-title="|Turkey |",TRT |Turkey |
-https://-trt|Turkey |.medya.trt.com.tr/master_720.m3u8
-#EXTINF:-1 g-name="Dream Turk" g-id="DreamTurk.tr" g-logo="https://i.ibb.co/fxRrKmB/dream-turk.png" group-title="|Turkey |",DREAM TURK
+#EXTINF:-1 g-name="TRT Turkey" g-id="TRTTurkey.tr" g-logo="https://i.ibb.co/4gbPpzC/trt-Turkey.png" group-title="Turkey",TRT Turkey
+https://-trtTurkey.medya.trt.com.tr/master_720.m3u8
+#EXTINF:-1 g-name="Dream Turk" g-id="DreamTurk.tr" g-logo="https://i.ibb.co/fxRrKmB/dream-turk.png" group-title="Turkey",DREAM TURK
 http://66.160.192.241/dreamturk/index.m3u8
-#EXTINF:-1 g-name="PowerTurk " g-id="PowerTurk.tr" g-logo="https://i.ibb.co/xXcBD2C/powerturk.png" group-title="|Turkey |",POWER TURK
+#EXTINF:-1 g-name="PowerTurk " g-id="PowerTurk.tr" g-logo="https://i.ibb.co/xXcBD2C/powerturk.png" group-title="Turkey",POWER TURK
 http://live.artidijitalmedya.com/artidijital_powerturk/powerturk/chunks.m3u8
-#EXTINF:-1 g-name="Power " g-id="Power.tr" g-logo="https://i.ibb.co/JrXDQJy/power-.png" group-title="|Turkey |",POWER 
+#EXTINF:-1 g-name="Power " g-id="Power.tr" g-logo="https://i.ibb.co/JrXDQJy/power-.png" group-title="Turkey",POWER 
 http://live.artidijitalmedya.com/artidijital_power/power/chunks.m3u8
-#EXTINF:-1 g-name="POWER TURK TAPTAZE" g-id="" g-logo="https://i.ibb.co/F5K5xs9/powerturk-taptaze.png" group-title="|Turkey |",POWER TURK TAPTAZE
+#EXTINF:-1 g-name="POWER TURK TAPTAZE" g-id="" g-logo="https://i.ibb.co/F5K5xs9/powerturk-taptaze.png" group-title="Turkey",POWER TURK TAPTAZE
 http://live.powerapp.com.tr/pturktaptaze/taptaze.smil/playlist.m3u8
-#EXTINF:-1 g-name="POWER LOVE" g-id="" g-logo="https://i.ibb.co/bJL1VnX/power-love.png" group-title="|Turkey |",POWER LOVE
+#EXTINF:-1 g-name="POWER LOVE" g-id="" g-logo="https://i.ibb.co/bJL1VnX/power-love.png" group-title="Turkey",POWER LOVE
 https://listen.powerapp.com.tr/plove/love.smil/playlist.m3u8
-#EXTINF:-1 g-name="POWER TURK AKUSTIK" g-id="" g-logo="https://i.ibb.co/XFY7dCW/powerturk-akustik.png" group-title="|Turkey |",POWER TURK AKUSTIK
+#EXTINF:-1 g-name="POWER TURK AKUSTIK" g-id="" g-logo="https://i.ibb.co/XFY7dCW/powerturk-akustik.png" group-title="Turkey",POWER TURK AKUSTIK
 https://listen.powerapp.com.tr/pturkakustik/akustik.smil/playlist.m3u8
-#EXTINF:-1 g-name="POWER TURK SLOW" g-id="" g-logo="https://i.ibb.co/R4pcKqK/powerturk-slow.png" group-title="|Turkey |",POWER TURK SLOW
+#EXTINF:-1 g-name="POWER TURK SLOW" g-id="" g-logo="https://i.ibb.co/R4pcKqK/powerturk-slow.png" group-title="Turkey",POWER TURK SLOW
 https://listen.powerapp.com.tr/pturkslow/slow.smil/playlist.m3u8
-#EXTINF:-1 g-name="POWER TURK SLOW" g-id="" g-logo="https://i.ibb.co/R4pcKqK/powerturk-slow.png" group-title="|Turkey |",TBM AZ
+#EXTINF:-1 g-name="POWER TURK SLOW" g-id="" g-logo="https://i.ibb.co/R4pcKqK/powerturk-slow.png" group-title="Turkey",TBM AZ
 https://.mobyservice.ru/TMB/AZ/tracks-v1a1/mono.m3u8
-#EXTINF:-1 g-name="POWER TURK SLOW" g-id="" g-logo="https://i.ibb.co/R4pcKqK/powerturk-slow.png" group-title="|Turkey |",TR POP
+#EXTINF:-1 g-name="POWER TURK SLOW" g-id="" g-logo="https://i.ibb.co/R4pcKqK/powerturk-slow.png" group-title="Turkey",TR POP
 https://cdn-4turkpop.yayin.com.tr/4turkpop/4turkpop/playlist.m3u8
-#EXTINF:-1 g-name="POWER TURK SLOW" g-id="" g-logo="https://i.ibb.co/R4pcKqK/powerturk-slow.png" group-title="|Turkey |", Music 4 
+#EXTINF:-1 g-name="POWER TURK SLOW" g-id="" g-logo="https://i.ibb.co/R4pcKqK/powerturk-slow.png" group-title="Turkey", Music 4 
 https://cdn-sinema.yayin.com.tr/sinema/sinema/playlist.m3u8
-#EXTINF:-1 group-title="|Turkey |" g-logo=" logo" ,EZGI  Müzik
+#EXTINF:-1 group-title="Turkey" g-logo=" logo" ,EZGI  Müzik
 https://live.euromediacenter.com/ezgi/tracks-v1a1/mono.m3u8
-#EXTINF:-1 group-title="|Turkey |" g-logo=" logo" ,4Turkpop
+#EXTINF:-1 group-title="Turkey" g-logo=" logo" ,4Turkpop
 https://cdn-4turkpop.yayin.com.tr/4turkpop/4turkpop/chunklist.m3u8
-#EXTINF:-1 group-title="|Turkey |" g-logo=" logo" ,TRT |Turkey |
+#EXTINF:-1 group-title="Turkey" g-logo=" logo" ,TRT Turkey
 https://-trtmuzik.medya.trt.com.tr/master_720.m3u8
-#EXTINF:-1 group-title="|Turkey |" g-logo=" logo" ,Dream Turk
+#EXTINF:-1 group-title="Turkey" g-logo=" logo" ,Dream Turk
 https://live.duhnet./S2/HLS_LIVE/dreamturknp/playlist.m3u8
-#EXTINF:-1 group-title="|Turkey |" g-logo=" logo" ,Kanal 6
+#EXTINF:-1 group-title="Turkey" g-logo=" logo" ,Kanal 6
 https://cdn4.yayin.com.tr/channel6/tracks-v1a1/mono.m3u8
-#EXTINF:-1 group-title="|Turkey |" g-logo="https://assets.uzunmuhalefet.com/logos/49ce7689-87c7-4a06-80a7-f5cdf9a19481.png" g-url="https://www.show.com.tr/",Show 
+#EXTINF:-1 group-title="Turkey" g-logo="https://assets.uzunmuhalefet.com/logos/49ce7689-87c7-4a06-80a7-f5cdf9a19481.png" g-url="https://www.show.com.tr/",Show 
 https://streams.uzunmuhalefet.com/stream/0ed1c367-312d-4a42-9772-ef257a36b775.m3u8
-#EXTINF:-1 group-title="|Turkey |" g-logo="https://assets.uzunmuhalefet.com/logos/faa06039-87f8-45f1-91b2-ace6449a742e.png" g-url="https://www.beyaz.com.tr/",Beyaz 
+#EXTINF:-1 group-title="Turkey" g-logo="https://assets.uzunmuhalefet.com/logos/faa06039-87f8-45f1-91b2-ace6449a742e.png" g-url="https://www.beyaz.com.tr/",Beyaz 
 https://streams.uzunmuhalefet.com/stream/710fb148-7b3d-4ca2-b6c2-743097885a45.m3u8
-#EXTINF:-1 group-title="|Turkey |" g-logo="https://assets.uzunmuhalefet.com/logos/9af5ca05-f788-4ca3-9fd3-92c89d555c2b.png" g-url="https://www.kanal7.com/",Kanal 7
+#EXTINF:-1 group-title="Turkey" g-logo="https://assets.uzunmuhalefet.com/logos/9af5ca05-f788-4ca3-9fd3-92c89d555c2b.png" g-url="https://www.kanal7.com/",Kanal 7
 https://streams.uzunmuhalefet.com/stream/7c94cb8c-63d1-46df-afac-a299e3910a5a.m3u8
-#EXTINF:-1 group-title="|Turkey |" g-logo="https://assets.uzunmuhalefet.com/logos/8a33c746-0aff-44e0-9f1a-1bb3515de3ad.png" g-url="https://www.8.com.tr/",8
+#EXTINF:-1 group-title="Turkey" g-logo="https://assets.uzunmuhalefet.com/logos/8a33c746-0aff-44e0-9f1a-1bb3515de3ad.png" g-url="https://www.8.com.tr/",8
 https://streams.uzunmuhalefet.com/stream/e93b8e86-e4fc-450a-81d4-2188eda7dda0.m3u8
-#EXTINF:-1 group-title="|Turkey |" g-logo="https://assets.uzunmuhalefet.com/logos/8bd73113-9389-419a-9341-55c3e82469b5.png" g-url="https://www.star.com.tr/",Star 
+#EXTINF:-1 group-title="Turkey" g-logo="https://assets.uzunmuhalefet.com/logos/8bd73113-9389-419a-9341-55c3e82469b5.png" g-url="https://www.star.com.tr/",Star 
 https://streams.uzunmuhalefet.com/stream/a8ea8b0b-9c06-41ce-b7f9-35e895c78b77.m3u8
-#EXTINF:-1 group-title="|Turkey |" g-logo="https://assets.uzunmuhalefet.com/logos/9c668bd2-85f6-464d-b366-611e84c6f372.png" g-url="https://www.360.com.tr/",360 
+#EXTINF:-1 group-title="Turkey" g-logo="https://assets.uzunmuhalefet.com/logos/9c668bd2-85f6-464d-b366-611e84c6f372.png" g-url="https://www.360.com.tr/",360 
 https://streams.uzunmuhalefet.com/stream/90fefbea-4a78-4f02-962f-2e1e4ad22f98.m3u8
-#EXTINF:-1 group-title="|Turkey |" g-logo="https://assets.uzunmuhalefet.com/logos/6bdc7aae-f138-452b-a7c1-6f847ff2fa71.png" g-url="https://www.100.com/", 100
+#EXTINF:-1 group-title="Turkey" g-logo="https://assets.uzunmuhalefet.com/logos/6bdc7aae-f138-452b-a7c1-6f847ff2fa71.png" g-url="https://www.100.com/", 100
 https://streams.uzunmuhalefet.com/stream/d95e9a1b-3955-4643-8327-413da9a1ce60.m3u8
-#EXTINF:-1 group-title="|Turkey |" g-logo="https://assets.uzunmuhalefet.com/logos/b3857c25-e816-48b9-8348-a13ee436dba9.png" g-url="https://tytturk.com/",TYT Türk
+#EXTINF:-1 group-title="Turkey" g-logo="https://assets.uzunmuhalefet.com/logos/b3857c25-e816-48b9-8348-a13ee436dba9.png" g-url="https://tytturk.com/",TYT Türk
 https://streams.uzunmuhalefet.com/stream/7ca72bbc-449a-4521-80e2-b891f1964493.m3u8
-#EXTINF:-1 group-title="|Turkey |" g-logo="https://assets.uzunmuhalefet.com/logos/086cb48d-e5b6-4b79-94cd-725975dde567.png" g-url="https://www.tgrt|Turkey |.com/",TGRT |Turkey |
+#EXTINF:-1 group-title="Turkey" g-logo="https://assets.uzunmuhalefet.com/logos/086cb48d-e5b6-4b79-94cd-725975dde567.png" g-url="https://www.tgrtTurkey.com/",TGRT Turkey
 https://streams.uzunmuhalefet.com/stream/bd9ebc63-8243-43d6-83a2-eeef100f7e20.m3u8
-#EXTINF:-1 group-title="|Turkey |" g-logo="https://assets.uzunmuhalefet.com/logos/98474191-bf00-43a0-b189-03f970e4566c.png" g-url="https://www.|Turkey |turk.com/",|Turkey |türk
+#EXTINF:-1 group-title="Turkey" g-logo="https://assets.uzunmuhalefet.com/logos/98474191-bf00-43a0-b189-03f970e4566c.png" g-url="https://www.Turkeyturk.com/",Turkeytürk
 https://streams.uzunmuhalefet.com/stream/0c0bc91d-ce3a-49cc-9054-1cff110967c4.m3u8
-#EXTINF:-1 group-title="|Turkey |" g-logo="https://assets.uzunmuhalefet.com/logos/004cbbfd-3369-4873-8c51-0adac2d77ea9.png" g-url="https://|Turkey |global.com.tr/",|Turkey | Global
+#EXTINF:-1 group-title="Turkey" g-logo="https://assets.uzunmuhalefet.com/logos/004cbbfd-3369-4873-8c51-0adac2d77ea9.png" g-url="https://Turkeyglobal.com.tr/",Turkey Global
 https://streams.uzunmuhalefet.com/stream/0b536738-3d01-4089-9a58-106397190a51.m3u8
-#EXTINF:-1 group-title="|Turkey |" g-logo="https://assets.uzunmuhalefet.com/logos/c50e8be6-c873-4573-9f97-7ac4b76ba052.png" g-url="https://www.ulke.com/",Ülke 
+#EXTINF:-1 group-title="Turkey" g-logo="https://assets.uzunmuhalefet.com/logos/c50e8be6-c873-4573-9f97-7ac4b76ba052.png" g-url="https://www.ulke.com/",Ülke 
 https://streams.uzunmuhalefet.com/stream/b94c88b7-3a36-48ce-9e04-19bc2b3921f9.m3u8
-#EXTINF:-1 group-title="|Turkey |" g-logo="https://assets.uzunmuhalefet.com/logos/8373e35a-90c5-4396-888a-eb0b8a3fb6d0.png" g-url="https://halk.com.tr/",Halk 
+#EXTINF:-1 group-title="Turkey" g-logo="https://assets.uzunmuhalefet.com/logos/8373e35a-90c5-4396-888a-eb0b8a3fb6d0.png" g-url="https://halk.com.tr/",Halk 
 https://streams.uzunmuhalefet.com/stream/ea5e2000-56b6-4fb9-8dcf-b8bbe90b9f7b.m3u8
-#EXTINF:-1 group-title="|Turkey |" g-logo="https://assets.uzunmuhalefet.com/logos/71dca388-e7d8-46c0-9b28-439b954a7613.png" g-url="https://www.n.com.tr/",N
+#EXTINF:-1 group-title="Turkey" g-logo="https://assets.uzunmuhalefet.com/logos/71dca388-e7d8-46c0-9b28-439b954a7613.png" g-url="https://www.n.com.tr/",N
 https://streams.uzunmuhalefet.com/stream/f27d4ced-d7e4-4d63-95b4-c47302cad618.m3u8
-#EXTINF:-1 group-title="|Turkey |" g-logo="https://assets.uzunmuhalefet.com/logos/c5caacf3-827c-4d45-9138-91ffd615afb3.png" g-url="https://.tbmm.gov.tr/",TBMM 
+#EXTINF:-1 group-title="Turkey" g-logo="https://assets.uzunmuhalefet.com/logos/c5caacf3-827c-4d45-9138-91ffd615afb3.png" g-url="https://.tbmm.gov.tr/",TBMM 
 https://streams.uzunmuhalefet.com/stream/5fa3931d-88db-42b1-aac9-1006708bd3e8.m3u8
-#EXTINF:-1 group-title="|Turkey |" g-logo="https://assets.uzunmuhalefet.com/logos/a1069752-bcab-437a-9283-ea7058e2acaa.png" g-url="https://www.dha.com.tr/",DHA 1
+#EXTINF:-1 group-title="Turkey" g-logo="https://assets.uzunmuhalefet.com/logos/a1069752-bcab-437a-9283-ea7058e2acaa.png" g-url="https://www.dha.com.tr/",DHA 1
 https://streams.uzunmuhalefet.com/stream/46e674ea-131a-4c9c-ba58-b04e64fdecbc.m3u8
-#EXTINF:-1 group-title="|Turkey |" g-logo="https://assets.uzunmuhalefet.com/logos/a1069752-bcab-437a-9283-ea7058e2acaa.png" g-url="https://www.dha.com.tr/",DHA 2
+#EXTINF:-1 group-title="Turkey" g-logo="https://assets.uzunmuhalefet.com/logos/a1069752-bcab-437a-9283-ea7058e2acaa.png" g-url="https://www.dha.com.tr/",DHA 2
 https://streams.uzunmuhalefet.com/stream/908e148d-71ea-4aaf-a984-845515890395.m3u8
-#EXTINF:-1 group-title="|Turkey |" g-logo="https://assets.uzunmuhalefet.com/logos/b9b9c9e4-aa99-4083-aaee-b8fb4db77b9c.png" g-url="https://www.iha.com.tr/",İHA 1
+#EXTINF:-1 group-title="Turkey" g-logo="https://assets.uzunmuhalefet.com/logos/b9b9c9e4-aa99-4083-aaee-b8fb4db77b9c.png" g-url="https://www.iha.com.tr/",İHA 1
 https://streams.uzunmuhalefet.com/stream/b8da99f4-56ae-4756-b733-b8a8a6099f39.m3u8
-#EXTINF:-1 group-title="|Turkey |" g-logo="https://assets.uzunmuhalefet.com/logos/b9b9c9e4-aa99-4083-aaee-b8fb4db77b9c.png" g-url="https://www.iha.com.tr/",İHA 2
+#EXTINF:-1 group-title="Turkey" g-logo="https://assets.uzunmuhalefet.com/logos/b9b9c9e4-aa99-4083-aaee-b8fb4db77b9c.png" g-url="https://www.iha.com.tr/",İHA 2
 https://streams.uzunmuhalefet.com/stream/4c2ed2e8-2b2a-4a02-97cc-1e3e190f1c77.m3u8
-#EXTINF:-1 group-title="|Turkey |" g-logo="https://assets.uzunmuhalefet.com/logos/0d01aed5-e168-494f-8320-1e49e11b8de1.png" g-url="https://bha.net.tr/",BHA 
+#EXTINF:-1 group-title="Turkey" g-logo="https://assets.uzunmuhalefet.com/logos/0d01aed5-e168-494f-8320-1e49e11b8de1.png" g-url="https://bha.net.tr/",BHA 
 https://streams.uzunmuhalefet.com/stream/843d8857-d125-4188-84f9-0d261976c51f.m3u8
-#EXTINF:-1 group-title="|Turkey |" g-logo="https://assets.uzunmuhalefet.com/logos/85033bc9-9da5-495e-ab5f-6801829def94.png" g-url="https://www.turkiyegazetesi.com.tr/",Türkiye Gazetesi
+#EXTINF:-1 group-title="Turkey" g-logo="https://assets.uzunmuhalefet.com/logos/85033bc9-9da5-495e-ab5f-6801829def94.png" g-url="https://www.turkiyegazetesi.com.tr/",Türkiye Gazetesi
 https://streams.uzunmuhalefet.com/stream/786458b4-4d69-4382-b59e-827709fb3af0.m3u8
-#EXTINF:-1 group-title="|Turkey |" g-logo="https://assets.uzunmuhalefet.com/logos/b92d1f4b-55f5-4950-81ae-e4c31cd5e856.png" g-url="https://www.trtturk.com.tr/",TRT Türk
+#EXTINF:-1 group-title="Turkey" g-logo="https://assets.uzunmuhalefet.com/logos/b92d1f4b-55f5-4950-81ae-e4c31cd5e856.png" g-url="https://www.trtturk.com.tr/",TRT Türk
 https://streams.uzunmuhalefet.com/stream/d8fcd134-0f23-4883-ae8f-4c04cc3cc49a.m3u8
-#EXTINF:-1 group-title="|Turkey |" g-logo="https://assets.uzunmuhalefet.com/logos/31f75bd0-47b3-4f22-be4f-d11ed0dbabeb.png" g-url="https://www.trtavaz.com.tr/",TRT Avaz
+#EXTINF:-1 group-title="Turkey" g-logo="https://assets.uzunmuhalefet.com/logos/31f75bd0-47b3-4f22-be4f-d11ed0dbabeb.png" g-url="https://www.trtavaz.com.tr/",TRT Avaz
 https://streams.uzunmuhalefet.com/stream/3dd49c7a-001c-4be0-9a16-0f8957e3977c.m3u8
-#EXTINF:-1 group-title="|Turkey |" g-logo="https://assets.uzunmuhalefet.com/logos/b02a677d-b1a4-47a5-a895-e7df724499f9.png" g-url="https://www.aavrupa./",A Avrupa
+#EXTINF:-1 group-title="Turkey" g-logo="https://assets.uzunmuhalefet.com/logos/b02a677d-b1a4-47a5-a895-e7df724499f9.png" g-url="https://www.aavrupa./",A Avrupa
 https://streams.uzunmuhalefet.com/stream/017621fb-d6f1-4e21-91d8-2510bdcb4ceb.m3u8
-#EXTINF:-1 group-title="|Turkey |" g-logo="https://assets.uzunmuhalefet.com/logos/4a9baf62-fd58-429e-b4b0-10edbd7d1579.png" g-url="https://eurod.kanald.com.tr/",Euro D
+#EXTINF:-1 group-title="Turkey" g-logo="https://assets.uzunmuhalefet.com/logos/4a9baf62-fd58-429e-b4b0-10edbd7d1579.png" g-url="https://eurod.kanald.com.tr/",Euro D
 https://streams.uzunmuhalefet.com/stream/864c7cfd-0427-4997-b2dc-31b4aee312c9.m3u8
-#EXTINF:-1 group-title="|Turkey |" g-logo="https://assets.uzunmuhalefet.com/logos/5a538084-161e-480f-9ec6-3b1acc1593e4.png" g-url="https://tgrteu.com/",TGRT EU
+#EXTINF:-1 group-title="Turkey" g-logo="https://assets.uzunmuhalefet.com/logos/5a538084-161e-480f-9ec6-3b1acc1593e4.png" g-url="https://tgrteu.com/",TGRT EU
 https://streams.uzunmuhalefet.com/stream/5001e8ca-de7d-4866-97c5-575923f75686.m3u8
-#EXTINF:-1 group-title="|Turkey |" g-logo="https://assets.uzunmuhalefet.com/logos/7b1e3f67-3dd8-427f-8d3c-f0d1b80e7961.png" g-url="https://www.showturk.com.tr/",Show Türk
+#EXTINF:-1 group-title="Turkey" g-logo="https://assets.uzunmuhalefet.com/logos/7b1e3f67-3dd8-427f-8d3c-f0d1b80e7961.png" g-url="https://www.showturk.com.tr/",Show Türk
 https://streams.uzunmuhalefet.com/stream/16e43b9b-e175-482c-a105-2253c06515c9.m3u8
-#EXTINF:-1 group-title="|Turkey |" g-logo="https://assets.uzunmuhalefet.com/logos/4c4b6e4f-ff3c-4e73-bc6e-19501c9aeb95.png" g-url="https://www.8.com.tr/sayfa-8-international",8 Int
+#EXTINF:-1 group-title="Turkey" g-logo="https://assets.uzunmuhalefet.com/logos/4c4b6e4f-ff3c-4e73-bc6e-19501c9aeb95.png" g-url="https://www.8.com.tr/sayfa-8-international",8 Int
 https://streams.uzunmuhalefet.com/stream/4fb7bad7-515a-4c32-920a-db3ab01e4e15.m3u8
-#EXTINF:-1 group-title="|Turkey |" g-logo="https://assets.uzunmuhalefet.com/logos/541a8fb1-28b8-4532-98f2-d65376231188.png" g-url="https://www.eurostar.com.tr/",Euro Star
+#EXTINF:-1 group-title="Turkey" g-logo="https://assets.uzunmuhalefet.com/logos/541a8fb1-28b8-4532-98f2-d65376231188.png" g-url="https://www.eurostar.com.tr/",Euro Star
 https://streams.uzunmuhalefet.com/stream/00b00dd0-dccb-4500-acce-1ea0b187a500.m3u8
-#EXTINF:-1 group-title="|Turkey |" g-logo="https://assets.uzunmuhalefet.com/logos/ba21c671-ff84-4bf0-97b5-8b326291d36b.png" g-url="https://kanalavrupa./",Kanal Avrupa
+#EXTINF:-1 group-title="Turkey" g-logo="https://assets.uzunmuhalefet.com/logos/ba21c671-ff84-4bf0-97b5-8b326291d36b.png" g-url="https://kanalavrupa./",Kanal Avrupa
 https://streams.uzunmuhalefet.com/stream/92ccdd1d-1d3e-47eb-b84b-e75effe16829.m3u8
-#EXTINF:-1 g-logo="http://ginikoturkish.com/channels/logo/beyaz--epg-.png"group-title="|Turkey |",Beyaz 
+#EXTINF:-1 g-logo="http://ginikoturkish.com/channels/logo/beyaz--epg-.png"group-title="Turkey",Beyaz 
 https://trn03.tulix./gt-beyaz/index.m3u8
-#EXTINF:-1 g-logo="http://ginikoturkish.com/channels/logo/tytturk.jpg"group-title="|Turkey |",TYTTURK (Turkey)
+#EXTINF:-1 g-logo="http://ginikoturkish.com/channels/logo/tytturk.jpg"group-title="Turkey",TYTTURK (Turkey)
 https://trn03.tulix./gt-tytturk/index.m3u8
-#EXTINF:-1 g-logo="http://ginikoturkish.com/channels/logo/kanal-7-epg-.jpg"group-title="|Turkey |",Kanal 7
+#EXTINF:-1 g-logo="http://ginikoturkish.com/channels/logo/kanal-7-epg-.jpg"group-title="Turkey",Kanal 7
 https://trn03.tulix./gt-kanal7/index.m3u8
-#EXTINF:-1 g-logo="http://ginikoturkish.com/channels/logo/sky-360-epg-.png"group-title="|Turkey |",Sky 360
+#EXTINF:-1 g-logo="http://ginikoturkish.com/channels/logo/sky-360-epg-.png"group-title="Turkey",Sky 360
 https://trn03.tulix./gt-sky360/index.m3u8
-#EXTINF:-1 g-logo="http://ginikoturkish.com/channels/logo/a2-epg-.png"group-title="|Turkey |",A2
+#EXTINF:-1 g-logo="http://ginikoturkish.com/channels/logo/a2-epg-.png"group-title="Turkey",A2
 https://trn03.tulix./gt-aa2/index.m3u8
-#EXTINF:-1 g-logo="http://ginikoturkish.com/channels/logo/tlc-turkiye-epg-.png"group-title="|Turkey |",TLC Turkiye
+#EXTINF:-1 g-logo="http://ginikoturkish.com/channels/logo/tlc-turkiye-epg-.png"group-title="Turkey",TLC Turkiye
 https://trn03.tulix./gt-tlc-/index.m3u8
-#EXTINF:-1 g-logo="http://ginikoturkish.com/channels/logo/dmax-turkiye-epg-.png"group-title="|Turkey |",DMAX Turkiye (Turkey)
+#EXTINF:-1 g-logo="http://ginikoturkish.com/channels/logo/dmax-turkiye-epg-.png"group-title="Turkey",DMAX Turkiye (Turkey)
 https://trn03.tulix./gt-dmax-/index.m3u8
-#EXTINF:-1 group-title="|Turkey |" g-logo="https://feo.kabloweb.com/resize/168A635D265A4328C2883FB4CD8FF/500/500/channels/logos/d7c5d3d5-2942-4715-872f-73be070dc201.png" g-id="9433a6db-a601-49e8-a298-ce13b553e44b" ,Kanal D UHD
+#EXTINF:-1 group-title="Turkey" g-logo="https://feo.kabloweb.com/resize/168A635D265A4328C2883FB4CD8FF/500/500/channels/logos/d7c5d3d5-2942-4715-872f-73be070dc201.png" g-id="9433a6db-a601-49e8-a298-ce13b553e44b" ,Kanal D UHD
 https://demiroren.daioncdn.net/kanald/kanald_1080p.m3u8?app=kanald_web&ce=3
-#EXTINF:-1 group-title="|Turkey |" g-logo="https://feo.kabloweb.com/resize/168A635D265A4328C2883FB4CD8FF/500/500/channels/logos/4a7901e4-dbc5-491d-b014-6da6fa236e99.png" g-id="89cfc09d-93c8-4882-9fe3-39adbccbe67f" ,Star HD
+#EXTINF:-1 group-title="Turkey" g-logo="https://feo.kabloweb.com/resize/168A635D265A4328C2883FB4CD8FF/500/500/channels/logos/4a7901e4-dbc5-491d-b014-6da6fa236e99.png" g-id="89cfc09d-93c8-4882-9fe3-39adbccbe67f" ,Star HD
 https://dogus.daioncdn.net/star/star_720p.m3u8?&sid=7uxdy202lcer&app=a20ac41e-bdc3-4aa1-934d-26b484480ac9&ce=3
-#EXTINF:-1 group-title="|Turkey |" g-logo="https://feo.kabloweb.com/resize/168A635D265A4328C2883FB4CD8FF/500/500/channels/logos/4a7901e4-dbc5-491d-b014-6da6fa236e99.png" g-id="89cfc09d-93c8-4882-9fe3-39adbccbe67f" ,Star
+#EXTINF:-1 group-title="Turkey" g-logo="https://feo.kabloweb.com/resize/168A635D265A4328C2883FB4CD8FF/500/500/channels/logos/4a7901e4-dbc5-491d-b014-6da6fa236e99.png" g-id="89cfc09d-93c8-4882-9fe3-39adbccbe67f" ,Star
 https://dogus.daioncdn.net/star/star_720p.m3u8?app=star_web&ce=3
-#EXTINF:-1 group-title="|Turkey |" g-logo="https://feo.kabloweb.com/resize/168A635D265A4328C2883FB4CD8FF/500/500/channels/logos/f218c717-723e-49e3-a3f0-428979d2fa3e.png" g-id="aaf2f509-e9d3-49e9-9880-bd3da5daec8c" ,Kanal 7
+#EXTINF:-1 group-title="Turkey" g-logo="https://feo.kabloweb.com/resize/168A635D265A4328C2883FB4CD8FF/500/500/channels/logos/f218c717-723e-49e3-a3f0-428979d2fa3e.png" g-id="aaf2f509-e9d3-49e9-9880-bd3da5daec8c" ,Kanal 7
 https://kanal7-live.daioncdn.net/kanal7/kanal7_720p.m3u8
-#EXTINF:-1 group-title="|Turkey |" g-logo="https://feo.kabloweb.com/resize/168A635D265A4328C2883FB4CD8FF/0/0/Vod/HLS/25c7c620-dfe4-4c78-9d9b-185d8a91885f.png" g-id="3639c98f-f795-40cb-a4b3-8feb4de05d33" ,Now HD
+#EXTINF:-1 group-title="Turkey" g-logo="https://feo.kabloweb.com/resize/168A635D265A4328C2883FB4CD8FF/0/0/Vod/HLS/25c7c620-dfe4-4c78-9d9b-185d8a91885f.png" g-id="3639c98f-f795-40cb-a4b3-8feb4de05d33" ,Now HD
 http://95.174.71.114:80/TR-FOX/index.m3u8
-#EXTINF:-1 group-title="|Turkey |" g-logo="https://feo.kabloweb.com/resize/168A635D265A4328C2883FB4CD8FF/0/0/Vod/HLS/25c7c620-dfe4-4c78-9d9b-185d8a91885f.png" g-id="3639c98f-f795-40cb-a4b3-8feb4de05d33" ,Now
+#EXTINF:-1 group-title="Turkey" g-logo="https://feo.kabloweb.com/resize/168A635D265A4328C2883FB4CD8FF/0/0/Vod/HLS/25c7c620-dfe4-4c78-9d9b-185d8a91885f.png" g-id="3639c98f-f795-40cb-a4b3-8feb4de05d33" ,Now
 https://uycyyuuzyh.turknet.ercdn.net/nphindgytw/now/now_720p.m3u8
-#EXTINF:-1 group-title="|Turkey |" g-logo="https://feo.kabloweb.com/resize/168A635D265A4328C2883FB4CD8FF/0/0/Vod/HLS/ab41b407-70c4-4634-8ed4-bf9be8cf81e2.png" g-id="581accda-4d5f-4c3d-b5f1-1579b85a1e4b" , 8 HD
+#EXTINF:-1 group-title="Turkey" g-logo="https://feo.kabloweb.com/resize/168A635D265A4328C2883FB4CD8FF/0/0/Vod/HLS/ab41b407-70c4-4634-8ed4-bf9be8cf81e2.png" g-id="581accda-4d5f-4c3d-b5f1-1579b85a1e4b" , 8 HD
 https://8.daioncdn.net/8/8.m3u8?app=7ddc255a-ef47-4e81-ab14-c0e5f2949788&ce=3
-#EXTINF:-1 group-title="|Turkey |" g-logo="https://feo.kabloweb.com/resize/168A635D265A4328C2883FB4CD8FF/500/500/channels/logos/a92329d7-3d4c-4631-ab3e-c7d36a3f1a6f.png" g-id="aa8ffd34-cd16-4776-81ef-1145a5d82122" ,Beyaz 
+#EXTINF:-1 group-title="Turkey" g-logo="https://feo.kabloweb.com/resize/168A635D265A4328C2883FB4CD8FF/500/500/channels/logos/a92329d7-3d4c-4631-ab3e-c7d36a3f1a6f.png" g-id="aa8ffd34-cd16-4776-81ef-1145a5d82122" ,Beyaz 
 https://beyaz-live.daioncdn.net/beyaz/beyaz_720p.m3u8
-#EXTINF:-1 group-title="|Turkey |" g-logo="https://feo.kabloweb.com/resize/168A635D265A4328C2883FB4CD8FF/0/0/Vod/HLS/fee44d61-2476-40ae-89eb-f51a7428789d.png" g-id="22720725-3a82-4419-bf1d-e724176a4fb3" ,a2
+#EXTINF:-1 group-title="Turkey" g-logo="https://feo.kabloweb.com/resize/168A635D265A4328C2883FB4CD8FF/0/0/Vod/HLS/fee44d61-2476-40ae-89eb-f51a7428789d.png" g-id="22720725-3a82-4419-bf1d-e724176a4fb3" ,a2
 http://rnttwmjcin.turknet.ercdn.net/lcpmvefbyo/a2/a2.m3u8
-#EXTINF:-1 group-title="|Turkey |" g-logo="https://feo.kabloweb.com/resize/168A635D265A4328C2883FB4CD8FF/500/500/channels/logos/8373a6d8-d5c5-4990-8fe6-14bcde706ecd.png" g-id="c07b221f-26d8-44d2-a64a-2fac362ae90e" ,Teve 2
+#EXTINF:-1 group-title="Turkey" g-logo="https://feo.kabloweb.com/resize/168A635D265A4328C2883FB4CD8FF/500/500/channels/logos/8373a6d8-d5c5-4990-8fe6-14bcde706ecd.png" g-id="c07b221f-26d8-44d2-a64a-2fac362ae90e" ,Teve 2
 https://ackaxsqacw.turknet.ercdn.net/ozfkfbbjba/teve2/teve2.m3u8
-#EXTINF:-1 group-title="|Turkey |" g-logo="" g-id="c07b221f-26d8-44d2-a64a-2fac362ae90e" ,360
+#EXTINF:-1 group-title="Turkey" g-logo="" g-id="c07b221f-26d8-44d2-a64a-2fac362ae90e" ,360
 https://turkmedya-live.ercdn.net/360/360_1080p.m3u8
-#EXTINF:-1 group-title="|Turkey |" g-logo="https://feo.kabloweb.com/resize/168A635D265A4328C2883FB4CD8FF/500/500/channels/logos/0de9fa25-120c-4b52-b460-e078531f6988.png" g-id="f762dcbb-d929-4202-b84f-d97ea3d3522a" ,Tlc HD
+#EXTINF:-1 group-title="Turkey" g-logo="https://feo.kabloweb.com/resize/168A635D265A4328C2883FB4CD8FF/500/500/channels/logos/0de9fa25-120c-4b52-b460-e078531f6988.png" g-id="f762dcbb-d929-4202-b84f-d97ea3d3522a" ,Tlc HD
 https://trn03.tulix./gt-tlc-/index.m3u8
-#EXTINF:-1 group-title="|Turkey |" g-logo="https://feo.kabloweb.com/resize/168A635D265A4328C2883FB4CD8FF/500/500/channels/logos/6a63a310-1f7d-4d5c-b377-1e497f5b3610.png" g-id="afcb4b49-f74c-4cc1-91ca-fe9640bef0a7" ,Dmax HD
+#EXTINF:-1 group-title="Turkey" g-logo="https://feo.kabloweb.com/resize/168A635D265A4328C2883FB4CD8FF/500/500/channels/logos/6a63a310-1f7d-4d5c-b377-1e497f5b3610.png" g-id="afcb4b49-f74c-4cc1-91ca-fe9640bef0a7" ,Dmax HD
 https://trn03.tulix./gt-dmax-/index.m3u8
-#EXTINF:-1 group-title="|Turkey |" g-logo="https://feo.kabloweb.com/resize/168A635D265A4328C2883FB4CD8FF/500/500/channels/logos/e2291af0-569b-4260-94f3-5505d1a40e76.png" g-id="5610a254-ef1d-44a4-94fe-74b38cc7cc2d" , 100
+#EXTINF:-1 group-title="Turkey" g-logo="https://feo.kabloweb.com/resize/168A635D265A4328C2883FB4CD8FF/500/500/channels/logos/e2291af0-569b-4260-94f3-5505d1a40e76.png" g-id="5610a254-ef1d-44a4-94fe-74b38cc7cc2d" , 100
 https://100-live.daioncdn.net/100/100_720p.m3u8
-#EXTINF:-1 group-title="|Turkey |" g-logo="https://feo.kabloweb.com/resize/168A635D265A4328C2883FB4CD8FF/0/0/Vod/HLS/16752eb5-4001-4b31-860c-ab947ed2c86d.png" g-id="e1040488-b963-4692-b550-444be934f35f" ,Cnbc-e HD
+#EXTINF:-1 group-title="Turkey" g-logo="https://feo.kabloweb.com/resize/168A635D265A4328C2883FB4CD8FF/0/0/Vod/HLS/16752eb5-4001-4b31-860c-ab947ed2c86d.png" g-id="e1040488-b963-4692-b550-444be934f35f" ,Cnbc-e HD
 https://hnpsechtsc.turknet.ercdn.net/xpnvudnlsv/cnbc-e/cnbc-e.m3u8
-#EXTINF:-1 group-title="|Turkey |" g-logo="https://feo.kabloweb.com/resize/168A635D265A4328C2883FB4CD8FF/0/0/Vod/HLS/86c1a901-3b47-41e6-bf9b-b433ec170fdd.png" g-id="1e73d8cb-c8a1-428e-98c0-314d59b18794" ,Gzt 
+#EXTINF:-1 group-title="Turkey" g-logo="https://feo.kabloweb.com/resize/168A635D265A4328C2883FB4CD8FF/0/0/Vod/HLS/86c1a901-3b47-41e6-bf9b-b433ec170fdd.png" g-id="1e73d8cb-c8a1-428e-98c0-314d59b18794" ,Gzt 
 https://mn-nl.mncdn.com/gzt/gzt/playlist.m3u8
-#EXTINF:-1 group-title="|Turkey |" g-logo="https://feo.kabloweb.com/resize/168A635D265A4328C2883FB4CD8FF/0/0/Vod/HLS/812f4ba5-846e-4ae9-90fc-8f9f481156b5.png" g-id="97bf4a3c-6889-4270-a0c9-0365016d8dca" , 8,5 HD
+#EXTINF:-1 group-title="Turkey" g-logo="https://feo.kabloweb.com/resize/168A635D265A4328C2883FB4CD8FF/0/0/Vod/HLS/812f4ba5-846e-4ae9-90fc-8f9f481156b5.png" g-id="97bf4a3c-6889-4270-a0c9-0365016d8dca" , 8,5 HD
 https://8.daioncdn.net/8bucuk/8bucuk_480p.m3u8?&sid=7tra76g4cefx&app=bf58ab52-4865-4c81-b223-26b41009801e&ce=3
-#EXTINF:-1 group-title="|Turkey |" g-logo="https://feo.kabloweb.com/resize/168A635D265A4328C2883FB4CD8FF/0/0/Vod/HLS/66c8ed0b-96b6-4476-806e-5e8e877c7fd4.png" g-id="cd3f6e33-52ca-4696-8285-7007f850e7c7" , 4 HD
+#EXTINF:-1 group-title="Turkey" g-logo="https://feo.kabloweb.com/resize/168A635D265A4328C2883FB4CD8FF/0/0/Vod/HLS/66c8ed0b-96b6-4476-806e-5e8e877c7fd4.png" g-id="cd3f6e33-52ca-4696-8285-7007f850e7c7" , 4 HD
 https://turkmedya-live.ercdn.net/4/4.m3u8
-#EXTINF:-1 group-title="|Turkey |" g-logo="https://feo.kabloweb.com/resize/168A635D265A4328C2883FB4CD8FF/500/500/channels/logos/6edd1622-84fd-4ebf-a50b-7e95787ee427.png" g-id="a2c3c5d9-ec9a-4c4c-9808-7311e0b8805a" ,Bengü Türk
+#EXTINF:-1 group-title="Turkey" g-logo="https://feo.kabloweb.com/resize/168A635D265A4328C2883FB4CD8FF/500/500/channels/logos/6edd1622-84fd-4ebf-a50b-7e95787ee427.png" g-id="a2c3c5d9-ec9a-4c4c-9808-7311e0b8805a" ,Bengü Türk
 http://stream.cdn.net/haber/benguturk-.m3u8
-#EXTINF:-1 group-title="|Turkey |" g-logo="https://feo.kabloweb.com/resize/168A635D265A4328C2883FB4CD8FF/0/0/Vod/HLS/14a65b49-958f-497f-be22-52d958ef8498.png" g-id="a347cfc6-1fa4-4a6d-9500-3742ce51fedf" ,Trt 2 HD
+#EXTINF:-1 group-title="Turkey" g-logo="https://feo.kabloweb.com/resize/168A635D265A4328C2883FB4CD8FF/0/0/Vod/HLS/14a65b49-958f-497f-be22-52d958ef8498.png" g-id="a347cfc6-1fa4-4a6d-9500-3742ce51fedf" ,Trt 2 HD
 https://-trt2.medya.trt.com.tr/master_1080.m3u8
-#EXTINF:-1 group-title="|Turkey |" g-logo="https://feo.kabloweb.com/resize/168A635D265A4328C2883FB4CD8FF/0/0/Vod/HLS/0acb34e5-4b37-434e-b555-c7eb0271ba9d.png" g-id="30ce3b1c-a7cf-4049-8260-c06710fd05a5" ,Trt Türk
+#EXTINF:-1 group-title="Turkey" g-logo="https://feo.kabloweb.com/resize/168A635D265A4328C2883FB4CD8FF/0/0/Vod/HLS/0acb34e5-4b37-434e-b555-c7eb0271ba9d.png" g-id="30ce3b1c-a7cf-4049-8260-c06710fd05a5" ,Trt Türk
 https://-trtturk.medya.trt.com.tr/master_720.m3u8?checkedby:MyWay
-#EXTINF:-1 group-title="|Turkey |" g-logo="https://feo.kabloweb.com/resize/168A635D265A4328C2883FB4CD8FF/0/0/Vod/HLS/4a3026d6-b1be-4373-bb83-447117196e55.png" g-id="39bd481f-a658-42df-9c5b-f5ea2e2106b5" ,Trt Avaz
+#EXTINF:-1 group-title="Turkey" g-logo="https://feo.kabloweb.com/resize/168A635D265A4328C2883FB4CD8FF/0/0/Vod/HLS/4a3026d6-b1be-4373-bb83-447117196e55.png" g-id="39bd481f-a658-42df-9c5b-f5ea2e2106b5" ,Trt Avaz
 https://-trtavaz.medya.trt.com.tr/master_720.m3u8
-#EXTINF:-1 group-title="|Turkey |" g-logo="https://feo.kabloweb.com/resize/168A635D265A4328C2883FB4CD8FF/0/0/Vod/HLS/aac80fcc-d1e7-41da-85b6-3037cc3f1a4b.png" g-id="bc33d295-c18e-4955-b5ff-d6d8ea5ff7f4" ,Trt 3 - Tbmm
+#EXTINF:-1 group-title="Turkey" g-logo="https://feo.kabloweb.com/resize/168A635D265A4328C2883FB4CD8FF/0/0/Vod/HLS/aac80fcc-d1e7-41da-85b6-3037cc3f1a4b.png" g-id="bc33d295-c18e-4955-b5ff-d6d8ea5ff7f4" ,Trt 3 - Tbmm
 http://stream.cdn.net/haber/tbmm-.m3u8
-#EXTINF:-1 group-title="|Turkey |" g-logo="https://feo.kabloweb.com/resize/168A635D265A4328C2883FB4CD8FF/0/0/Vod/HLS/1d937ced-d803-47eb-aa0c-90586e4e162e.png" g-id="925ba8ee-37f0-4b49-820f-9319cfc8fbcf" ,Trt Kurdi
+#EXTINF:-1 group-title="Turkey" g-logo="https://feo.kabloweb.com/resize/168A635D265A4328C2883FB4CD8FF/0/0/Vod/HLS/1d937ced-d803-47eb-aa0c-90586e4e162e.png" g-id="925ba8ee-37f0-4b49-820f-9319cfc8fbcf" ,Trt Kurdi
 https://-trtkurdi.medya.trt.com.tr/master_720.m3u8
-#EXTINF:-1 group-title="|Turkey |" g-logo="https://feo.kabloweb.com/resize/168A635D265A4328C2883FB4CD8FF/0/0/Vod/HLS/229e051d-6090-4235-a2ef-9420a17e6f9d.png" g-id="c683858c-23d5-4a43-b768-e43a4d4e7df0" ,Ekol 
+#EXTINF:-1 group-title="Turkey" g-logo="https://feo.kabloweb.com/resize/168A635D265A4328C2883FB4CD8FF/0/0/Vod/HLS/229e051d-6090-4235-a2ef-9420a17e6f9d.png" g-id="c683858c-23d5-4a43-b768-e43a4d4e7df0" ,Ekol 
 https://ekol-live.ercdn.net/ekol/ekol_720p.m3u8
-#EXTINF:-1 group-title="|Turkey |" g-logo="https://feo.kabloweb.com/resize/168A635D265A4328C2883FB4CD8FF/0/0/Vod/HLS/999a12b9-6679-4621-8096-c88a76b33e92.png" g-id="98caab1b-753c-40fd-a75a-6dd1141abdb3" ,Tivi 6
+#EXTINF:-1 group-title="Turkey" g-logo="https://feo.kabloweb.com/resize/168A635D265A4328C2883FB4CD8FF/0/0/Vod/HLS/999a12b9-6679-4621-8096-c88a76b33e92.png" g-id="98caab1b-753c-40fd-a75a-6dd1141abdb3" ,Tivi 6
 https://live.artidijitalmedya.com/artidijital_tivi6/tivi6/playlist.m3u8
-#EXTINF:-1 group-title="|Turkey |" g-logo="https://feo.kabloweb.com/resize/168A635D265A4328C2883FB4CD8FF/0/0/Vod/HLS/8322c403-9f7c-4b5a-aef1-7c65e56ee8a6.png" g-id="f9afb8fa-561d-4ea8-a333-4a43e22ab9e3" ,Lalegül 
+#EXTINF:-1 group-title="Turkey" g-logo="https://feo.kabloweb.com/resize/168A635D265A4328C2883FB4CD8FF/0/0/Vod/HLS/8322c403-9f7c-4b5a-aef1-7c65e56ee8a6.png" g-id="f9afb8fa-561d-4ea8-a333-4a43e22ab9e3" ,Lalegül 
 http://stream.cdn.net/dini/lalegul-.m3u8
-#EXTINF:-1 g-id="" g-name="|Turkey |" g-logo="https://blogger.googleusercontent.com/img/a/AVvXsEim2Z3fOlbld89c9io-_JBadvCDwXkKIbFTRoV_6Y1Om8_OfG_w3zRw1AfnpU9Jh5X004puoh2zWzztMDivyCCegO7--45QP61dwfuk7xqgVS3CKO5LB_BmehXV6-fb-Uf2GALd3fdI9os7DavgKF1oF3TGON1RLqrsA4MkBWKsBFtpRX_B9OZysZpnGqU=s250" group-title="|Turkey |",FORTUNA 
+#EXTINF:-1 g-id="" g-name="Turkey" g-logo="https://blogger.googleusercontent.com/img/a/AVvXsEim2Z3fOlbld89c9io-_JBadvCDwXkKIbFTRoV_6Y1Om8_OfG_w3zRw1AfnpU9Jh5X004puoh2zWzztMDivyCCegO7--45QP61dwfuk7xqgVS3CKO5LB_BmehXV6-fb-Uf2GALd3fdI9os7DavgKF1oF3TGON1RLqrsA4MkBWKsBFtpRX_B9OZysZpnGqU=s250" group-title="Turkey",FORTUNA 
 https://edge1.socialsmart./fturk/bant1/playlist.m3u8
-#EXTINF:-1 group-title="|Turkey |" g-logo="" ,Trt Genç 
+#EXTINF:-1 group-title="Turkey" g-logo="" ,Trt Genç 
 https://-trtgenc.medya.trt.com.tr/master.m3u8
-#EXTINF:-1 group-title="|Turkey |" g-logo="https://ilke.com.tr/wp-content/uploads/2024/06/logo.png" g-id="" ,İlke |Turkey |
+#EXTINF:-1 group-title="Turkey" g-logo="https://ilke.com.tr/wp-content/uploads/2024/06/logo.png" g-id="" ,İlke Turkey
 https://stream.ilke.com.tr/hls/ilkecanli.m3u8
-#EXTINF:-1 group-title="|Turkey |" g-logo="https://feo.kabloweb.com/resize/168A635D265A4328C2883FB4CD8FF/0/0/Vod/HLS/2fdd6eb0-bd9e-44ef-ad0e-7f2c4cf3a8a7.png" g-id="d79ec599-6c72-4add-b570-0463a621fd7c" ,Szc  HD
+#EXTINF:-1 group-title="Turkey" g-logo="https://feo.kabloweb.com/resize/168A635D265A4328C2883FB4CD8FF/0/0/Vod/HLS/2fdd6eb0-bd9e-44ef-ad0e-7f2c4cf3a8a7.png" g-id="d79ec599-6c72-4add-b570-0463a621fd7c" ,Szc  HD
 https://goldvod.org/live/hpgdiscoo/123456/108.m3u8
-#EXTINF:-1 group-title="|Turkey |" g-logo="https://feo.kabloweb.com/resize/168A635D265A4328C2883FB4CD8FF/0/0/Vod/HLS/50921da2-0f81-40cf-971b-1b3db26245d7.png" g-id="5630fb7b-18e6-4ecc-98fc-2c5c542ee11a" ,Tele 1
+#EXTINF:-1 group-title="Turkey" g-logo="https://feo.kabloweb.com/resize/168A635D265A4328C2883FB4CD8FF/0/0/Vod/HLS/50921da2-0f81-40cf-971b-1b3db26245d7.png" g-id="5630fb7b-18e6-4ecc-98fc-2c5c542ee11a" ,Tele 1
 https://tele1-live.ercdn.net/tele1/tele1.m3u8
-#EXTINF:-1 group-title="|Turkey |" g-logo="https://feo.kabloweb.com/resize/168A635D265A4328C2883FB4CD8FF/0/0/Vod/HLS/8c07dd0b-0100-4a56-9a8c-9f810a184bd4.png" g-id="b42386d3-7064-493e-8657-181947c1a520" ,Trt |Turkey |
+#EXTINF:-1 group-title="Turkey" g-logo="https://feo.kabloweb.com/resize/168A635D265A4328C2883FB4CD8FF/0/0/Vod/HLS/8c07dd0b-0100-4a56-9a8c-9f810a184bd4.png" g-id="b42386d3-7064-493e-8657-181947c1a520" ,Trt Turkey
 http://-trthaber.medya.trt.com.tr/master.m3u8
-#EXTINF:-1 group-title="|Turkey |" g-logo="https://feo.kabloweb.com/resize/168A635D265A4328C2883FB4CD8FF/0/0/Vod/HLS/7f90b121-1f7f-4dc7-980f-38167b147cdb.png" g-id="34cf00c5-6bcd-4fab-807d-fb0c38861dd1" ,A |Turkey | 
+#EXTINF:-1 group-title="Turkey" g-logo="https://feo.kabloweb.com/resize/168A635D265A4328C2883FB4CD8FF/0/0/Vod/HLS/7f90b121-1f7f-4dc7-980f-38167b147cdb.png" g-id="34cf00c5-6bcd-4fab-807d-fb0c38861dd1" ,A Turkey 
 https://trn03.tulix./gt-ahaber/index.m3u8
-#EXTINF:-1 group-title="|Turkey |" g-logo="https://feo.kabloweb.com/resize/168A635D265A4328C2883FB4CD8FF/500/500/channels/logos/344f452e-fa44-4f00-8005-1b8898186888.png" g-id="bbf5f67c-0df9-410a-b6bf-153e2ee78106" ,N HD
+#EXTINF:-1 group-title="Turkey" g-logo="https://feo.kabloweb.com/resize/168A635D265A4328C2883FB4CD8FF/500/500/channels/logos/344f452e-fa44-4f00-8005-1b8898186888.png" g-id="bbf5f67c-0df9-410a-b6bf-153e2ee78106" ,N HD
 https://dogus.daioncdn.net/n/n.m3u8?ce=3
-#EXTINF:-1 group-title="|Turkey |" g-logo="https://feo.kabloweb.com/resize/168A635D265A4328C2883FB4CD8FF/0/0/Vod/HLS/3686a1f5-9c4d-401f-9c7b-031ca66454a0.png" g-id="7d25511e-a463-4670-acdc-8b1dd58c09b3" ,Cnn Türk HD
+#EXTINF:-1 group-title="Turkey" g-logo="https://feo.kabloweb.com/resize/168A635D265A4328C2883FB4CD8FF/0/0/Vod/HLS/3686a1f5-9c4d-401f-9c7b-031ca66454a0.png" g-id="7d25511e-a463-4670-acdc-8b1dd58c09b3" ,Cnn Türk HD
 http://5.178.103.239:82/yt1/s/cnnturk.m3u8
-#EXTINF:-1 group-title="|Turkey |" g-logo="https://feo.kabloweb.com/resize/168A635D265A4328C2883FB4CD8FF/0/0/Vod/HLS/3686a1f5-9c4d-401f-9c7b-031ca66454a0.png" g-id="7d25511e-a463-4670-acdc-8b1dd58c09b3" ,Cnn Türk UHD
+#EXTINF:-1 group-title="Turkey" g-logo="https://feo.kabloweb.com/resize/168A635D265A4328C2883FB4CD8FF/0/0/Vod/HLS/3686a1f5-9c4d-401f-9c7b-031ca66454a0.png" g-id="7d25511e-a463-4670-acdc-8b1dd58c09b3" ,Cnn Türk UHD
 https://raw.githubusercontent.com/teco2025/teco/refs/heads/main/playlist/Cnn_Turk.m3u8
-#EXTINF:-1 group-title="|Turkey |" g-logo="https://feo.kabloweb.com/resize/168A635D265A4328C2883FB4CD8FF/0/0/Vod/HLS/216cade3-b4a7-4c8b-8d62-aab7a3431a89.png" g-id="87c058b3-3055-4ebb-8be9-a4556d215543" ,24 
+#EXTINF:-1 group-title="Turkey" g-logo="https://feo.kabloweb.com/resize/168A635D265A4328C2883FB4CD8FF/0/0/Vod/HLS/216cade3-b4a7-4c8b-8d62-aab7a3431a89.png" g-id="87c058b3-3055-4ebb-8be9-a4556d215543" ,24 
 https://turkmedya-live.ercdn.net/24/24.m3u8
-#EXTINF:-1 group-title="|Turkey |" g-logo="https://feo.kabloweb.com/resize/168A635D265A4328C2883FB4CD8FF/0/0/Vod/HLS/a5773592-d40c-4d84-a64a-21c422cc7eb3.png" g-id="4a9a6cdb-cb3c-44d9-8bdd-2c21c51bdd47" ,Tgrt |Turkey |
+#EXTINF:-1 group-title="Turkey" g-logo="https://feo.kabloweb.com/resize/168A635D265A4328C2883FB4CD8FF/0/0/Vod/HLS/a5773592-d40c-4d84-a64a-21c422cc7eb3.png" g-id="4a9a6cdb-cb3c-44d9-8bdd-2c21c51bdd47" ,Tgrt Turkey
 https://tgrthaber-live.daioncdn.net/tgrthaber/tgrthaber_720p.m3u8
-#EXTINF:-1 group-title="|Turkey |" g-logo="https://feo.kabloweb.com/resize/168A635D265A4328C2883FB4CD8FF/0/0/Vod/HLS/516aa59e-70a2-4be3-9077-02862a052fde.png" g-id="8951e82b-c7ba-4977-8c00-142c542f97f1" ,|Turkey | Türk HD
+#EXTINF:-1 group-title="Turkey" g-logo="https://feo.kabloweb.com/resize/168A635D265A4328C2883FB4CD8FF/0/0/Vod/HLS/516aa59e-70a2-4be3-9077-02862a052fde.png" g-id="8951e82b-c7ba-4977-8c00-142c542f97f1" ,Turkey Türk HD
 https://rmtftbjlne.turknet.ercdn.net/bpeytmnqyp/haberturk/haberturk.m3u8
-#EXTINF:-1 group-title="|Turkey |" g-logo="https://feo.kabloweb.com/resize/168A635D265A4328C2883FB4CD8FF/0/0/Vod/HLS/5795a2e7-9d78-4cc5-b83e-b6dcf36256fd.png" g-id="02de9bf0-cfbb-4a68-a8ed-df9c9ba9cc18" ,Bloomberg Ht HD
+#EXTINF:-1 group-title="Turkey" g-logo="https://feo.kabloweb.com/resize/168A635D265A4328C2883FB4CD8FF/0/0/Vod/HLS/5795a2e7-9d78-4cc5-b83e-b6dcf36256fd.png" g-id="02de9bf0-cfbb-4a68-a8ed-df9c9ba9cc18" ,Bloomberg Ht HD
 https://ciner.daioncdn.net/bloomberght/bloomberght.m3u8
-#EXTINF:-1 group-title="|Turkey |" g-logo="https://feo.kabloweb.com/resize/168A635D265A4328C2883FB4CD8FF/500/500/channels/logos/5a733c68-7739-4466-851d-573cfd125990.png" g-id="0b38d5bd-5cc5-4595-8e2d-bc7a8119bb57" ,Ülke 
+#EXTINF:-1 group-title="Turkey" g-logo="https://feo.kabloweb.com/resize/168A635D265A4328C2883FB4CD8FF/500/500/channels/logos/5a733c68-7739-4466-851d-573cfd125990.png" g-id="0b38d5bd-5cc5-4595-8e2d-bc7a8119bb57" ,Ülke 
 https://live.radyoonline.net/kanal7live/ulke/chunklist.m3u8
-#EXTINF:-1 group-title="|Turkey |" g-logo="https://feo.kabloweb.com/resize/168A635D265A4328C2883FB4CD8FF/0/0/Vod/HLS/b6abbbf7-0822-448d-a942-7af6d079d997.png" g-id="4a979b9c-58c7-444f-95b9-053b39a9f467" , Net
+#EXTINF:-1 group-title="Turkey" g-logo="https://feo.kabloweb.com/resize/168A635D265A4328C2883FB4CD8FF/0/0/Vod/HLS/b6abbbf7-0822-448d-a942-7af6d079d997.png" g-id="4a979b9c-58c7-444f-95b9-053b39a9f467" , Net
 https://mn-nl.mncdn.com/net/net/playlist.m3u8
-#EXTINF:-1 group-title="|Turkey |" g-logo="https://feo.kabloweb.com/resize/168A635D265A4328C2883FB4CD8FF/0/0/Vod/HLS/b6abbbf7-0822-448d-a942-7af6d079d997.png" g-id="4a979b9c-58c7-444f-95b9-053b39a9f467" ,Anadolu
+#EXTINF:-1 group-title="Turkey" g-logo="https://feo.kabloweb.com/resize/168A635D265A4328C2883FB4CD8FF/0/0/Vod/HLS/b6abbbf7-0822-448d-a942-7af6d079d997.png" g-id="4a979b9c-58c7-444f-95b9-053b39a9f467" ,Anadolu
 http://stream.cdn.net/yerel/anadolu-net-.m3u8
-#EXTINF:-1 group-title="|Turkey |" g-logo="https://feo.kabloweb.com/resize/168A635D265A4328C2883FB4CD8FF/0/0/Vod/HLS/76a7dd67-cee1-4c70-914e-551d77e09661.png" g-id="c2713840-e446-43ab-85eb-0215aa564d41" ,Akit 
+#EXTINF:-1 group-title="Turkey" g-logo="https://feo.kabloweb.com/resize/168A635D265A4328C2883FB4CD8FF/0/0/Vod/HLS/76a7dd67-cee1-4c70-914e-551d77e09661.png" g-id="c2713840-e446-43ab-85eb-0215aa564d41" ,Akit 
 https://akit-live.ercdn.net/akit/akit.m3u8
-#EXTINF:-1 group-title="|Turkey |" g-logo="https://feo.kabloweb.com/resize/168A635D265A4328C2883FB4CD8FF/0/0/Vod/HLS/1f260af7-37dd-4368-8c9a-2d4c28fa5fd1.png" g-id="1a5c4077-fc8e-4733-879e-1e820955ca5d" ,Brt 1
+#EXTINF:-1 group-title="Turkey" g-logo="https://feo.kabloweb.com/resize/168A635D265A4328C2883FB4CD8FF/0/0/Vod/HLS/1f260af7-37dd-4368-8c9a-2d4c28fa5fd1.png" g-id="1a5c4077-fc8e-4733-879e-1e820955ca5d" ,Brt 1
 https://edge.kuzeykibrissmart./brt1hd/bant1/chunks.m3u8
-#EXTINF:-1 group-title="|Turkey |" g-logo="https://feo.kabloweb.com/resize/168A635D265A4328C2883FB4CD8FF/0/0/Vod/HLS/1f260af7-37dd-4368-8c9a-2d4c28fa5fd1.png" g-id="1a5c4077-fc8e-4733-879e-1e820955ca5d" ,BRT 2
+#EXTINF:-1 group-title="Turkey" g-logo="https://feo.kabloweb.com/resize/168A635D265A4328C2883FB4CD8FF/0/0/Vod/HLS/1f260af7-37dd-4368-8c9a-2d4c28fa5fd1.png" g-id="1a5c4077-fc8e-4733-879e-1e820955ca5d" ,BRT 2
 https://edge.kuzeykibrissmart./brt2hd/bant1/chunks.m3u8
-#EXTINF:-1 group-title="|Turkey |" g-logo="https://feo.kabloweb.com/resize/168A635D265A4328C2883FB4CD8FF/0/0/Vod/HLS/ecb65a51-f5ad-440f-9c21-a4db8cbc9398.png" g-id="247a84cd-cdad-4557-ade7-297f3e9ff1af" ,|Turkey | Global
+#EXTINF:-1 group-title="Turkey" g-logo="https://feo.kabloweb.com/resize/168A635D265A4328C2883FB4CD8FF/0/0/Vod/HLS/ecb65a51-f5ad-440f-9c21-a4db8cbc9398.png" g-id="247a84cd-cdad-4557-ade7-297f3e9ff1af" ,Turkey Global
 http://stream.cdn.net/haber/haber-global.m3u8
-#EXTINF:-1 group-title="|Turkey |" g-logo="https://feo.kabloweb.com/resize/168A635D265A4328C2883FB4CD8FF/0/0/Vod/HLS/ecb65a51-f5ad-440f-9c21-a4db8cbc9398.png" g-id="247a84cd-cdad-4557-ade7-297f3e9ff1af" ,|Turkey | Global HD
+#EXTINF:-1 group-title="Turkey" g-logo="https://feo.kabloweb.com/resize/168A635D265A4328C2883FB4CD8FF/0/0/Vod/HLS/ecb65a51-f5ad-440f-9c21-a4db8cbc9398.png" g-id="247a84cd-cdad-4557-ade7-297f3e9ff1af" ,Turkey Global HD
 https://.ensonhaber.com/haberglobal/haberglobal.m3u8
-#EXTINF:-1 group-title="|Turkey |" g-logo="https://feo.kabloweb.com/resize/168A635D265A4328C2883FB4CD8FF/0/0/Vod/HLS/be5ace80-d03f-40f1-8c6b-a6e66ca96927.png" g-id="68685a2d-089b-4b0b-a4e9-99b4910fa1b8" ,Krt 
+#EXTINF:-1 group-title="Turkey" g-logo="https://feo.kabloweb.com/resize/168A635D265A4328C2883FB4CD8FF/0/0/Vod/HLS/be5ace80-d03f-40f1-8c6b-a6e66ca96927.png" g-id="68685a2d-089b-4b0b-a4e9-99b4910fa1b8" ,Krt 
 https://raw.githubusercontent.com/teco2025/teco/refs/heads/main/playlist/Krt_.m3u8
-#EXTINF:-1 group-title="|Turkey |" g-logo="https://feo.kabloweb.com/resize/168A635D265A4328C2883FB4CD8FF/0/0/Vod/HLS/be5ace80-d03f-40f1-8c6b-a6e66ca96927.png" g-id="68685a2d-089b-4b0b-a4e9-99b4910fa1b8" ,Krt  HD
+#EXTINF:-1 group-title="Turkey" g-logo="https://feo.kabloweb.com/resize/168A635D265A4328C2883FB4CD8FF/0/0/Vod/HLS/be5ace80-d03f-40f1-8c6b-a6e66ca96927.png" g-id="68685a2d-089b-4b0b-a4e9-99b4910fa1b8" ,Krt  HD
 https://trn03.tulix./gt-krt--/index.m3u8
-#EXTINF:-1 group-title="|Turkey |" g-logo="https://feo.kabloweb.com/resize/168A635D265A4328C2883FB4CD8FF/0/0/Vod/HLS/c9acd31e-5cc0-4b5d-bdef-7c9f8b577c42.png" g-id="3c0c47cd-0169-4d1b-b362-817c2a304037" ,Halk 
+#EXTINF:-1 group-title="Turkey" g-logo="https://feo.kabloweb.com/resize/168A635D265A4328C2883FB4CD8FF/0/0/Vod/HLS/c9acd31e-5cc0-4b5d-bdef-7c9f8b577c42.png" g-id="3c0c47cd-0169-4d1b-b362-817c2a304037" ,Halk 
 https://halk-live.daioncdn.net/halk/halk.m3u8
-#EXTINF:-1 group-title="|Turkey |" g-logo="https://feo.kabloweb.com/resize/168A635D265A4328C2883FB4CD8FF/0/0/Vod/HLS/ccf5746a-1eda-45ed-9afc-5e281fa7a704.png" g-id="4d2af840-c996-43d6-a59a-2c71c1971c00" ,Lider |Turkey |
+#EXTINF:-1 group-title="Turkey" g-logo="https://feo.kabloweb.com/resize/168A635D265A4328C2883FB4CD8FF/0/0/Vod/HLS/ccf5746a-1eda-45ed-9afc-5e281fa7a704.png" g-id="4d2af840-c996-43d6-a59a-2c71c1971c00" ,Lider Turkey
 http://nrttn172.kesintisizyayin.com:29010/lider/lider/sec-f5-v1-a1.m3u8
-#EXTINF:-1 group-title="|Turkey |" g-logo="https://feo.kabloweb.com/resize/168A635D265A4328C2883FB4CD8FF/0/0/Vod/HLS/bb23721e-664b-48c6-a9f4-5e55f890f026.png" g-id="df867b57-0607-42d7-8e55-f4f89b59eda6" ,As 
+#EXTINF:-1 group-title="Turkey" g-logo="https://feo.kabloweb.com/resize/168A635D265A4328C2883FB4CD8FF/0/0/Vod/HLS/bb23721e-664b-48c6-a9f4-5e55f890f026.png" g-id="df867b57-0607-42d7-8e55-f4f89b59eda6" ,As 
 http://stream.cdn.net/yerel/as-.m3u8
-#EXTINF:-1 g-id="" g-name="EKOTÜRK " g-logo=" "group-title="|Turkey |" ,TeleNews  |Turkey |
+#EXTINF:-1 g-id="" g-name="EKOTÜRK " g-logo=" "group-title="Turkey" ,TeleNews  Turkey
 https://cdn-telenews.yayin.com.tr/telenews/index.m3u8
-#EXTINF:-1 group-title="|Turkey |" g-logo="" g-id="df867b57-0607-42d7-8e55-f4f89b59eda6" ,Bengu Turk
+#EXTINF:-1 group-title="Turkey" g-logo="" g-id="df867b57-0607-42d7-8e55-f4f89b59eda6" ,Bengu Turk
 https://.ensonhaber.com/benguturk/benguturk.m3u8
-#EXTINF:-1 group-title="|Turkey |" g-logo="https://feo.kabloweb.com/resize/168A635D265A4328C2883FB4CD8FF/0/0/Vod/HLS/45cbd99f-5e77-4c59-b8a2-3e0aa66d1c3f.png" g-id="cae76782-7346-4389-b221-6bd3b7f6eef6" ,FLASH HABER
+#EXTINF:-1 group-title="Turkey" g-logo="https://feo.kabloweb.com/resize/168A635D265A4328C2883FB4CD8FF/0/0/Vod/HLS/45cbd99f-5e77-4c59-b8a2-3e0aa66d1c3f.png" g-id="cae76782-7346-4389-b221-6bd3b7f6eef6" ,FLASH HABER
 https://flashhaber-live.ercdn.net/flashhaber/flashhaber_1080p.m3u8
-#EXTINF:-1 group-title="|Turkey |" g-logo="https://feo.kabloweb.com/resize/168A635D265A4328C2883FB4CD8FF/0/0/Vod/HLS/45cbd99f-5e77-4c59-b8a2-3e0aa66d1c3f.png" g-id="cae76782-7346-4389-b221-6bd3b7f6eef6" ,Turk HABER
+#EXTINF:-1 group-title="Turkey" g-logo="https://feo.kabloweb.com/resize/168A635D265A4328C2883FB4CD8FF/0/0/Vod/HLS/45cbd99f-5e77-4c59-b8a2-3e0aa66d1c3f.png" g-id="cae76782-7346-4389-b221-6bd3b7f6eef6" ,Turk HABER
 https://edge1.socialsmart./turkhaber/bant1/playlist.m3u8
-#EXTINF:-1 g-id="86" g-logo="https://m.prec49.sbs/uploads/cache/channel_thumb/uploads/jpg/9ed6faa15f968198d17c0362658f6b50.jpg" g-name="BBC EARTH HD" group-title="|Turkey |",BBC EARTH HD
+#EXTINF:-1 g-id="86" g-logo="https://m.prec49.sbs/uploads/cache/channel_thumb/uploads/jpg/9ed6faa15f968198d17c0362658f6b50.jpg" g-name="BBC EARTH HD" group-title="Turkey",BBC EARTH HD
 #EXLCOPT:http-user-agent=okhttp/4.12.0
 #EXLCOPT:http-referrer=https://twitter.com
 http://65.108.239.207/bbc/index.m3u8
-#EXTINF:-1 g-id="79" g-logo="https://m.prec49.sbs/uploads/cache/channel_thumb/uploads/png/45a6752ed9a833b4d0303885092b8f54.png" g-name="DISCOVERY CHANNEL" group-title="|Turkey |",DISCOVERY CHANNEL
+#EXTINF:-1 g-id="79" g-logo="https://m.prec49.sbs/uploads/cache/channel_thumb/uploads/png/45a6752ed9a833b4d0303885092b8f54.png" g-name="DISCOVERY CHANNEL" group-title="Turkey",DISCOVERY CHANNEL
 #EXLCOPT:http-user-agent=okhttp/4.12.0
 #EXLCOPT:http-referrer=https://twitter.com
 http://65.108.239.207/discovery/index.m3u8
-#EXTINF:-1 g-id="78" g-logo="https://m.prec49.sbs/uploads/cache/channel_thumb/uploads/png/a83bf94e67fe34718d644ed9da8ca82d.png" g-name="DISCOVERY SCIENCE" group-title="|Turkey |",DISCOVERY SCIENCE
+#EXTINF:-1 g-id="78" g-logo="https://m.prec49.sbs/uploads/cache/channel_thumb/uploads/png/a83bf94e67fe34718d644ed9da8ca82d.png" g-name="DISCOVERY SCIENCE" group-title="Turkey",DISCOVERY SCIENCE
 #EXLCOPT:http-user-agent=okhttp/4.12.0
 #EXLCOPT:http-referrer=https://twitter.com
 http://65.108.239.207/discs/index.m3u8
-#EXTINF:-1 g-id="78" g-logo="https://m.prec49.sbs/uploads/cache/channel_thumb/uploads/png/a83bf94e67fe34718d644ed9da8ca82d.png" g-name="DISCOVERY SCIENCE" group-title="|Turkey |",DISCOVERY SCIENCE HD
+#EXTINF:-1 g-id="78" g-logo="https://m.prec49.sbs/uploads/cache/channel_thumb/uploads/png/a83bf94e67fe34718d644ed9da8ca82d.png" g-name="DISCOVERY SCIENCE" group-title="Turkey",DISCOVERY SCIENCE HD
 #EXLCOPT:http-user-agent=okhttp/4.12.0
 #EXLCOPT:http-referrer=https://twitter.com
 http://cdn-tr.tivimivi.com/streams/104/master.m3u8
-#EXTINF:-1 g-id="87" g-logo="https://m.prec49.sbs/uploads/cache/channel_thumb/uploads/png/77f52eb67864c8f809626fa5c7d1bae6.png" g-name="HISTORY CHANNEL" group-title="|Turkey |",HISTORY CHANNEL
+#EXTINF:-1 g-id="87" g-logo="https://m.prec49.sbs/uploads/cache/channel_thumb/uploads/png/77f52eb67864c8f809626fa5c7d1bae6.png" g-name="HISTORY CHANNEL" group-title="Turkey",HISTORY CHANNEL
 #EXLCOPT:http-user-agent=okhttp/4.12.0
 #EXLCOPT:http-referrer=https://twitter.com
 http://65.108.239.207/history/index.m3u8
-#EXTINF:-1 g-id="32" g-logo="https://m.prec49.sbs/uploads/cache/channel_thumb/uploads/png/c34095b97dc3f94306666eec346defb8.png" g-name="LOVE NATURE" group-title="|Turkey |",LOVE NATURE
+#EXTINF:-1 g-id="32" g-logo="https://m.prec49.sbs/uploads/cache/channel_thumb/uploads/png/c34095b97dc3f94306666eec346defb8.png" g-name="LOVE NATURE" group-title="Turkey",LOVE NATURE
 #EXLCOPT:http-user-agent=okhttp/4.12.0
 #EXLCOPT:http-referrer=https://twitter.com
 http://65.108.239.207/lovenature/index.m3u8
-#EXTINF:-1 g-id="85" g-logo="https://m.prec49.sbs/uploads/cache/channel_thumb/uploads/png/b61d518744b390174e6f672d7171107d.png" g-name="TARİH " group-title="|Turkey |",TARİH  [HD]
+#EXTINF:-1 g-id="85" g-logo="https://m.prec49.sbs/uploads/cache/channel_thumb/uploads/png/b61d518744b390174e6f672d7171107d.png" g-name="TARİH " group-title="Turkey",TARİH  [HD]
 #EXLCOPT:http-user-agent=okhttp/4.12.0
 #EXLCOPT:http-referrer=https://twitter.com
 http://65.108.239.207/tarih/index.m3u8
-#EXTINF:-1 g-id="30" g-logo="https://m.prec49.sbs/uploads/cache/channel_thumb/uploads/png/8ea2619561935fed906ee2278d5fa961.png" g-name="VIASAT HISTORY" group-title="|Turkey |",VIASAT HISTORY [HD]
+#EXTINF:-1 g-id="30" g-logo="https://m.prec49.sbs/uploads/cache/channel_thumb/uploads/png/8ea2619561935fed906ee2278d5fa961.png" g-name="VIASAT HISTORY" group-title="Turkey",VIASAT HISTORY [HD]
 #EXLCOPT:http-user-agent=okhttp/4.12.0
 #EXLCOPT:http-referrer=https://twitter.com
 http://65.108.239.207/viasathistory/index.m3u8
-#EXTINF:-1 group-title="|Turkey |" g-logo="https://feo.kabloweb.com/resize/168A635D265A4328C2883FB4CD8FF/500/500/channels/logos/38a2e51a-9f7f-4915-aa88-f78190f59411.png" g-id="00313bec-7e8e-4cca-a5fd-2817cddfcb97" ,National Geographic
+#EXTINF:-1 group-title="Turkey" g-logo="https://feo.kabloweb.com/resize/168A635D265A4328C2883FB4CD8FF/500/500/channels/logos/38a2e51a-9f7f-4915-aa88-f78190f59411.png" g-id="00313bec-7e8e-4cca-a5fd-2817cddfcb97" ,National Geographic
 https://saran-live.ercdn.net/natgeohd/index.m3u8
-#EXTINF:-1 group-title="|Turkey |" g-logo="https://feo.kabloweb.com/resize/168A635D265A4328C2883FB4CD8FF/0/0/Vod/HLS/4cc38817-6eb0-4f26-ac2b-cb5baa3b68ba.png" g-id="e429eebf-4a6a-4fa2-bcc6-252060baae76" ,National Geographic Wild
+#EXTINF:-1 group-title="Turkey" g-logo="https://feo.kabloweb.com/resize/168A635D265A4328C2883FB4CD8FF/0/0/Vod/HLS/4cc38817-6eb0-4f26-ac2b-cb5baa3b68ba.png" g-id="e429eebf-4a6a-4fa2-bcc6-252060baae76" ,National Geographic Wild
 https://saran-live.ercdn.net/natgeowild/index.m3u8
-#EXTINF:-1 group-title="|Turkey |" g-logo="https://feo.kabloweb.com/resize/168A635D265A4328C2883FB4CD8FF/0/0/Vod/HLS/4cc38817-6eb0-4f26-ac2b-cb5baa3b68ba.png" g-id="e429eebf-4a6a-4fa2-bcc6-252060baae76" ,Nature Time
+#EXTINF:-1 group-title="Turkey" g-logo="https://feo.kabloweb.com/resize/168A635D265A4328C2883FB4CD8FF/0/0/Vod/HLS/4cc38817-6eb0-4f26-ac2b-cb5baa3b68ba.png" g-id="e429eebf-4a6a-4fa2-bcc6-252060baae76" ,Nature Time
 https://amg00090-blueantmedia-naturetime-samsungfr-yakbf.amagi./playlist/amg00090-blueantmedia-naturetime-samsungfr/playlist.m3u8
-#EXTINF:-1 group-title="|Turkey |" g-logo="https://feo.kabloweb.com/resize/168A635D265A4328C2883FB4CD8FF/0/0/Vod/HLS/4cc38817-6eb0-4f26-ac2b-cb5baa3b68ba.png" g-id="e429eebf-4a6a-4fa2-bcc6-252060baae76" ,Travel 4K
+#EXTINF:-1 group-title="Turkey" g-logo="https://feo.kabloweb.com/resize/168A635D265A4328C2883FB4CD8FF/0/0/Vod/HLS/4cc38817-6eb0-4f26-ac2b-cb5baa3b68ba.png" g-id="e429eebf-4a6a-4fa2-bcc6-252060baae76" ,Travel 4K
 https://streams2.sofast./sofastplayout/33c31ac4-51fa-46ae-afd0-0d1fe5e60a80_0_HLS/bitrate2.m3u8
-#EXTINF:-1 group-title="|Turkey |" g-logo="https://feo.kabloweb.com/resize/168A635D265A4328C2883FB4CD8FF/0/0/Vod/HLS/6925f7f0-2d64-4a15-99ec-e4a19c117279.png" g-id="0747a0d5-bf3c-48e3-87f5-67d11235e612" ,Trt |Turkey |
+#EXTINF:-1 group-title="Turkey" g-logo="https://feo.kabloweb.com/resize/168A635D265A4328C2883FB4CD8FF/0/0/Vod/HLS/6925f7f0-2d64-4a15-99ec-e4a19c117279.png" g-id="0747a0d5-bf3c-48e3-87f5-67d11235e612" ,Trt Turkey
 https://-trtbelgesel.medya.trt.com.tr/master_720.m3u8
-#EXTINF:-1 g-id="" g-logo="" g-name="" group-title="|Turkey |", GCTN Dokumantery
+#EXTINF:-1 g-id="" g-logo="" g-name="" group-title="Turkey", GCTN Dokumantery
 https://mn-nl.mncdn.com/dogusdyg_drone/cgtn/playlist.m3u8
-#EXTINF:-1 group-title="|Turkey |" g-logo=" logo" ,NatureTime |Turkey |
+#EXTINF:-1 group-title="Turkey" g-logo=" logo" ,NatureTime Turkey
 http://104.238.23.182/yt1/s/NatureTime.m3u8
-#EXTINF:-1 group-title="|Turkey |" g-logo=" logo" ,Antik Mısır
+#EXTINF:-1 group-title="Turkey" g-logo=" logo" ,Antik Mısır
 http://104.238.23.182/yt1/s/antikmisir.m3u8
-#EXTINF:-1 group-title="|Turkey |" g-logo=" logo" ,Dmax
+#EXTINF:-1 group-title="Turkey" g-logo=" logo" ,Dmax
 https://emmazbvkkf.turknet.ercdn.net/cnifuowzza/dmax/dmax.m3u8
-#EXTINF:-1 group-title="|Turkey |" g-logo=" logo" ,TLC
+#EXTINF:-1 group-title="Turkey" g-logo=" logo" ,TLC
 https://dogus-live.daioncdn.net/tlc/tlc_720p.m3u8
-#EXTINF:-1 group-title="|Turkey |" g-logo=" logo" ,TLC Extra
+#EXTINF:-1 group-title="Turkey" g-logo=" logo" ,TLC Extra
 http://104.238.23.182/yt1/s/tlcsuc.m3u8
-#EXTINF:-1 group-title="|Turkey |" g-logo=" logo" ,Afrika Yaban Hayatı
+#EXTINF:-1 group-title="Turkey" g-logo=" logo" ,Afrika Yaban Hayatı
 http://104.238.23.182/yt1/s/afrilayaban.m3u8
-#EXTINF:-1 group-title="|Turkey |" g-logo=" logo" ,NATURE TIME
+#EXTINF:-1 group-title="Turkey" g-logo=" logo" ,NATURE TIME
 https://amg00090-blueantmedia-naturetime-samsungfr-yakbf.amagi./playlist/amg00090-blueantmedia-naturetime-samsungfr/playlist.m3u8
-#EXTINF:-1 group-title="|Turkey |" g-logo=" logo" ,CGTN |Turkey |
+#EXTINF:-1 group-title="Turkey" g-logo=" logo" ,CGTN Turkey
 https://mn-nl.mncdn.com/dogusdyg_drone/cgtn/playlist.m3u8
