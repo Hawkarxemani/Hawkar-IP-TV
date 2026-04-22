@@ -4,7 +4,7 @@ https://live.rudaw.net/hls/rudaw-tv/master.m3u8
 #EXTINF:-1 group-title="KURDISTAN",Channel 8 Kurdish
 http://supaapp.xyz:8080/live/2551810583569940/2025565766597215/429647.ts
 #EXTINF:-1 group-title="KURDISTAN",NRT 1 News
-http://109.71.252.138/NRT/index.m3u8
+http://line.watchtivo-8k.com:80/play/live.php?mac=A0:BB:3E:18:9E:02&stream=1666440&extension=ts
 #EXTINF:-1 group-title="KURDISTAN",K24
 http://supaapp.xyz:8080/live/2551810583569940/2025565766597215/429644.ts
 #EXTINF:-1 group-title="KURDISTAN",KIRKUK TV
@@ -417,6 +417,153 @@ http://avrstream.com:1935/live/kidcohd/playlist.m3u8
 https://-trtkurdi.medya.trt.com.tr/master_720.m3u8
 #EXTINF:0 CUID="8648" g-name="ZAROK " g-logo="https://i.postimg.cc/J8x0qQhq/ZARO.png" group-title="KURDISTAN",ZAROK 
 https://zindikurmanci.zarok.com.tr/hls/0/stream.m3u8
+#EXTINF:-1 group-title="KURDISTAN",KURD CINEMA ACTION 1 HD
+http://line.watchtivo-8k.com:80/play/live.php?mac=A0:BB:3E:18:9E:02&stream=1665880&extension=ts
+#EXTINF:-1 group-title="KURDISTAN",KURD CINEMA ACTION 2 HD
+http://line.watchtivo-8k.com:80/play/live.php?mac=A0:BB:3E:18:9E:02&stream=1665891&extension=ts
+#EXTINF:-1 group-title="KURDISTAN",KURD CINEMA ACTION 3 HD
+http://line.watchtivo-8k.com:80/play/live.php?mac=A0:BB:3E:18:9E:02&stream=1665881&extension=ts
+#EXTINF:-1 group-title="KURDISTAN",KURD CINEMA ACTION 4 HD
+http://line.watchtivo-8k.com:80/play/live.php?mac=A0:BB:3E:18:9E:02&stream=1665882&extension=ts
+#EXTINF:-1 group-title="KURDISTAN",KURD CINEMA ACTION 5 HD
+http://line.watchtivo-8k.com:80/play/live.php?mac=A0:BB:3E:18:9E:02&stream=1665890&extension=ts
+#EXTINF:-1 group-title="KURDISTAN",KURD CINEMA ACTION 6 HD
+http://line.watchtivo-8k.com:80/play/live.php?mac=A0:BB:3E:18:9E:02&stream=1665883&extension=ts
+#EXTINF:-1 group-title="KURDISTAN",KURD CINEMA ACTION 7 HD
+http://line.watchtivo-8k.com:80/play/live.php?mac=A0:BB:3E:18:9E:02&stream=1665884&extension=ts
+#EXTINF:-1 group-title="KURDISTAN",KURD CINEMA ACTION 8 HD
+http://line.watchtivo-8k.com:80/play/live.php?mac=A0:BB:3E:18:9E:02&stream=1665889&extension=ts
+#EXTINF:-1 group-title="KURDISTAN",KURD CINEMA ACTION 9 HD
+http://line.watchtivo-8k.com:80/play/live.php?mac=A0:BB:3E:18:9E:02&stream=1665888&extension=ts
+#EXTINF:-1 group-title="KURDISTAN",KURD CINEMA ACTION 10 HD
+http://line.watchtivo-8k.com:80/play/live.php?mac=A0:BB:3E:18:9E:02&stream=1665885&extension=ts
+#EXTINF:-1 group-title="KURDISTAN",KURD CINEMA ACTION 11 HD
+http://line.watchtivo-8k.com:80/play/live.php?mac=A0:BB:3E:18:9E:02&stream=1665886&extension=ts
+#EXTINF:-1 group-title="KURDISTAN",KURD CINEMA ACTION 12 HD
+http://line.watchtivo-8k.com:80/play/live.php?mac=A0:BB:3E:18:9E:02&stream=1665887&extension=ts
+#EXTINF:-1 group-title="KURDISTAN",KURD CINEMA COMEDY 1 HD
+http://line.watchtivo-8k.com:80/play/live.php?mac=A0:BB:3E:18:9E:02&stream=1665908&extension=ts
+#EXTINF:-1 group-title="KURDISTAN",KURD CINEMA COMEDY 2 HD
+http://line.watchtivo-8k.com:80/play/live.php?mac=A0:BB:3E:18:9E:02&stream=1665909&extension=ts
+#EXTINF:-1 group-title="KURDISTAN",KURD CINEMA COMEDY 3 HD
+http://line.watchtivo-8k.com:80/play/live.php?mac=A0:BB:3E:18:9E:02&stream=1665916&extension=ts
+#EXTINF:-1 group-title="KURDISTAN",KURD CINEMA COMEDY 5 HD
+http://line.watchtivo-8k.com:80/play/live.php?mac=A0:BB:3E:18:9E:02&stream=1665910&extension=ts
+#EXTINF:-1 group-title="KURDISTAN",KURD CINEMA COMEDY 6 HD
+http://line.watchtivo-8k.com:80/play/live.php?mac=A0:BB:3E:18:9E:02&stream=1665911&extension=ts
+#EXTINF:-1 group-title="KURDISTAN",KURD CINEMA COMEDY 7 HD
+http://line.watchtivo-8k.com:80/play/live.php?mac=A0:BB:3E:18:9E:02&stream=1665912&extension=ts
+#EXTINF:-1 group-title="KURDISTAN",KURD CINEMA COMEDY 8 HD
+http://line.watchtivo-8k.com:80/play/live.php?mac=A0:BB:3E:18:9E:02&stream=1665913&extension=ts
+#EXTINF:-1 group-title="KURDISTAN",KURD CINEMA COMEDY 9 HD
+http://line.watchtivo-8k.com:80/play/live.php?mac=A0:BB:3E:18:9E:02&stream=1665914&extension=ts
+#EXTINF:-1 group-title="KURDISTAN",KURD CINEMA COMEDY 10 HD
+http://line.watchtivo-8k.com:80/play/live.php?mac=A0:BB:3E:18:9E:02&stream=1665915&extension=ts
+#EXTINF:-1 group-title="KURDISTAN",KURD CINEMA BIOGRAPHY 1 HD
+http://line.watchtivo-8k.com:80/play/live.php?mac=A0:BB:3E:18:9E:02&stream=1665907&extension=ts
+#EXTINF:-1 group-title="KURDISTAN",KURD CINEMA BIOGRAPHY 2 HD
+http://line.watchtivo-8k.com:80/play/live.php?mac=A0:BB:3E:18:9E:02&stream=1665900&extension=ts
+#EXTINF:-1 group-title="KURDISTAN",KURD CINEMA BIOGRAPHY 3 HD
+http://line.watchtivo-8k.com:80/play/live.php?mac=A0:BB:3E:18:9E:02&stream=1665906&extension=ts
+#EXTINF:-1 group-title="KURDISTAN",KURD CINEMA BIOGRAPHY 4 HD
+http://line.watchtivo-8k.com:80/play/live.php?mac=A0:BB:3E:18:9E:02&stream=1665901&extension=ts
+#EXTINF:-1 group-title="KURDISTAN",KURD CINEMA BIOGRAPHY 5 HD
+http://line.watchtivo-8k.com:80/play/live.php?mac=A0:BB:3E:18:9E:02&stream=1665902&extension=ts
+#EXTINF:-1 group-title="KURDISTAN",KURD CINEMA BIOGRAPHY 6 HD
+http://line.watchtivo-8k.com:80/play/live.php?mac=A0:BB:3E:18:9E:02&stream=1665903&extension=ts
+#EXTINF:-1 group-title="KURDISTAN",KURD CINEMA BIOGRAPHY 7 HD
+http://line.watchtivo-8k.com:80/play/live.php?mac=A0:BB:3E:18:9E:02&stream=1665904&extension=ts
+#EXTINF:-1 group-title="KURDISTAN",KURD CINEMA BIOGRAPHY 8 HD
+http://line.watchtivo-8k.com:80/play/live.php?mac=A0:BB:3E:18:9E:02&stream=1665905&extension=ts
+#EXTINF:-1 group-title="KURDISTAN",KURD CINEMA ANIMATION 1 HD
+http://line.watchtivo-8k.com:80/play/live.php?mac=A0:BB:3E:18:9E:02&stream=1665892&extension=ts
+#EXTINF:-1 group-title="KURDISTAN",KURD CINEMA ANIMATION 2 HD
+http://line.watchtivo-8k.com:80/play/live.php?mac=A0:BB:3E:18:9E:02&stream=1665893&extension=ts
+#EXTINF:-1 group-title="KURDISTAN",KURD CINEMA ANIMATION 3 HD
+http://line.watchtivo-8k.com:80/play/live.php?mac=A0:BB:3E:18:9E:02&stream=1665895&extension=ts
+#EXTINF:-1 group-title="KURDISTAN",KURD CINEMA ANIMATION 4 HD
+http://line.watchtivo-8k.com:80/play/live.php?mac=A0:BB:3E:18:9E:02&stream=1665894&extension=ts
+#EXTINF:-1 group-title="KURDISTAN",KURD CINEMA ANIMATION 5 HD
+http://line.watchtivo-8k.com:80/play/live.php?mac=A0:BB:3E:18:9E:02&stream=1665896&extension=ts
+#EXTINF:-1 group-title="KURDISTAN",KURD CINEMA ANIMATION 6 HD
+http://line.watchtivo-8k.com:80/play/live.php?mac=A0:BB:3E:18:9E:02&stream=1665897&extension=ts
+#EXTINF:-1 group-title="KURDISTAN",KURD CINEMA ANIMATION 7 HD
+http://line.watchtivo-8k.com:80/play/live.php?mac=A0:BB:3E:18:9E:02&stream=1665898&extension=ts
+#EXTINF:-1 group-title="KURDISTAN",KURD CINEMA ANIMATION 8 HD
+http://line.watchtivo-8k.com:80/play/live.php?mac=A0:BB:3E:18:9E:02&stream=1665899&extension=ts
+#EXTINF:-1 group-title="KURDISH DVB-T",FAMILY RAPARIN HD
+http://line.watchtivo-8k.com:80/play/live.php?mac=A0:BB:3E:18:9E:02&stream=1667682&extension=ts
+#EXTINF:-1 group-title="KURDISH DVB-T",4 KURD TV
+http://line.watchtivo-8k.com:80/play/live.php?mac=A0:BB:3E:18:9E:02&stream=1667723&extension=ts
+#EXTINF:-1 group-title="KURDISH DVB-T",4 PLUS+ TV
+http://line.watchtivo-8k.com:80/play/live.php?mac=A0:BB:3E:18:9E:02&stream=1667683&extension=ts
+#EXTINF:-1 group-title="KURDISH DVB-T",ZED HD
+http://line.watchtivo-8k.com:80/play/live.php?mac=A0:BB:3E:18:9E:02&stream=1667684&extension=ts
+#EXTINF:-1 group-title="KURDISH DVB-T",ZED+ HD
+http://line.watchtivo-8k.com:80/play/live.php?mac=A0:BB:3E:18:9E:02&stream=1667685&extension=ts
+#EXTINF:-1 group-title="KURDISH DVB-T",NIGA MOVIES HD
+http://line.watchtivo-8k.com:80/play/live.php?mac=A0:BB:3E:18:9E:02&stream=1667775&extension=ts
+#EXTINF:-1 group-title="KURDISH DVB-T",NIGA FAMILY HD
+http://line.watchtivo-8k.com:80/play/live.php?mac=A0:BB:3E:18:9E:02&stream=1667686&extension=ts
+#EXTINF:-1 group-title="KURDISH DVB-T",NIGA KIDS HD
+http://line.watchtivo-8k.com:80/play/live.php?mac=A0:BB:3E:18:9E:02&stream=1667745&extension=ts
+#EXTINF:-1 group-title="KURDISH DVB-T",RENG SPORT FHD
+http://line.watchtivo-8k.com:80/play/live.php?mac=A0:BB:3E:18:9E:02&stream=1667739&extension=ts
+#EXTINF:-1 group-title="KURDISH DVB-T",RENG SPORT HD
+http://line.watchtivo-8k.com:80/play/live.php?mac=A0:BB:3E:18:9E:02&stream=1667728&extension=ts
+#EXTINF:-1 group-title="KURDISH DVB-T",RENG FAMILY HD
+http://line.watchtivo-8k.com:80/play/live.php?mac=A0:BB:3E:18:9E:02&stream=1667687&extension=ts
+#EXTINF:-1 group-title="KURDISH DVB-T",RENG KIDS HD
+http://line.watchtivo-8k.com:80/play/live.php?mac=A0:BB:3E:18:9E:02&stream=1667744&extension=ts
+#EXTINF:-1 group-title="KURDISH DVB-T",RENG DOCUMENTARY HD
+http://line.watchtivo-8k.com:80/play/live.php?mac=A0:BB:3E:18:9E:02&stream=1667718&extension=ts
+#EXTINF:-1 group-title="KURDISH DVB-T",RENG MUSIC HD
+http://line.watchtivo-8k.com:80/play/live.php?mac=A0:BB:3E:18:9E:02&stream=1667722&extension=ts
+#EXTINF:-1 group-title="KURDISH DVB-T",NEWLINE 1 HD
+http://line.watchtivo-8k.com:80/play/live.php?mac=A0:BB:3E:18:9E:02&stream=1667688&extension=ts
+#EXTINF:-1 group-title="KURDISH DVB-T",NEWLINE 2 HD
+http://line.watchtivo-8k.com:80/play/live.php?mac=A0:BB:3E:18:9E:02&stream=1667689&extension=ts
+#EXTINF:-1 group-title="KURDISH DVB-T",ASTERA MOVIES HD
+http://line.watchtivo-8k.com:80/play/live.php?mac=A0:BB:3E:18:9E:02&stream=1667773&extension=ts
+#EXTINF:-1 group-title="KURDISH DVB-T",ASTERA SHOW HD
+http://line.watchtivo-8k.com:80/play/live.php?mac=A0:BB:3E:18:9E:02&stream=1667774&extension=ts
+#EXTINF:-1 group-title="KURDISH DVB-T",ASTERA FAMILY HD
+http://line.watchtivo-8k.com:80/play/live.php?mac=A0:BB:3E:18:9E:02&stream=1667690&extension=ts
+#EXTINF:-1 group-title="KURDISH DVB-T",ASTERA DOCUMENTARY HD
+http://line.watchtivo-8k.com:80/play/live.php?mac=A0:BB:3E:18:9E:02&stream=1667716&extension=ts
+#EXTINF:-1 group-title="KURDISH DVB-T",ASTERA CULTURE HD
+http://line.watchtivo-8k.com:80/play/live.php?mac=A0:BB:3E:18:9E:02&stream=1667717&extension=ts
+#EXTINF:-1 group-title="KURDISH DVB-T",ASTERA BABY HD
+http://line.watchtivo-8k.com:80/play/live.php?mac=A0:BB:3E:18:9E:02&stream=1667743&extension=ts
+#EXTINF:-1 group-title="KURDISH DVB-T",RASAN HD
+http://line.watchtivo-8k.com:80/play/live.php?mac=A0:BB:3E:18:9E:02&stream=1667691&extension=ts
+#EXTINF:-1 group-title="KURDISH DVB-T",BMC HD
+http://line.watchtivo-8k.com:80/play/live.php?mac=A0:BB:3E:18:9E:02&stream=1667692&extension=ts
+#EXTINF:-1 group-title="KURDISH DVB-T",KHAK HD
+http://line.watchtivo-8k.com:80/play/live.php?mac=A0:BB:3E:18:9E:02&stream=1667693&extension=ts
+#EXTINF:-1 group-title="KURDISH DVB-T",DASINYA HD
+http://line.watchtivo-8k.com:80/play/live.php?mac=A0:BB:3E:18:9E:02&stream=1667800&extension=ts
+#EXTINF:-1 group-title="KURDISH DVB-T",DASINYA SPORT FHD
+http://line.watchtivo-8k.com:80/play/live.php?mac=A0:BB:3E:18:9E:02&stream=1667735&extension=ts
+#EXTINF:-1 group-title="KURDISH DVB-T",DASINYA SPORT HD
+http://line.watchtivo-8k.com:80/play/live.php?mac=A0:BB:3E:18:9E:02&stream=1667803&extension=ts
+#EXTINF:-1 group-title="KURDISH DVB-T",DASINYA KIDS HD
+http://line.watchtivo-8k.com:80/play/live.php?mac=A0:BB:3E:18:9E:02&stream=1667801&extension=ts
+#EXTINF:-1 group-title="KURDISH DVB-T",DASINYA MUSIC HD
+http://line.watchtivo-8k.com:80/play/live.php?mac=A0:BB:3E:18:9E:02&stream=1667802&extension=ts
+#EXTINF:-1 group-title="KURDISH DVB-T",AFARIN BAXCHA HD
+http://line.watchtivo-8k.com:80/play/live.php?mac=A0:BB:3E:18:9E:02&stream=1667742&extension=ts
+#EXTINF:-1 group-title="KURDISH DVB-T",AFARIN HD
+http://line.watchtivo-8k.com:80/play/live.php?mac=A0:BB:3E:18:9E:02&stream=1667741&extension=ts
+#EXTINF:-1 group-title="KURDISH DVB-T",ALA TV HD
+http://line.watchtivo-8k.com:80/play/live.php?mac=A0:BB:3E:18:9E:02&stream=1667795&extension=ts
+#EXTINF:-1 group-title="KURDISH DVB-T",ASHTI FAMILY HD
+http://line.watchtivo-8k.com:80/play/live.php?mac=A0:BB:3E:18:9E:02&stream=1667786&extension=ts
+#EXTINF:-1 group-title="KURDISH DVB-T",ASHTI QURAN HD
+http://line.watchtivo-8k.com:80/play/live.php?mac=A0:BB:3E:18:9E:02&stream=1667787&extension=ts
+#EXTINF:-1 group-title="KURDISH DVB-T",ASMAN HD
+http://line.watchtivo-8k.com:80/play/live.php?mac=A0:BB:3E:18:9E:02&stream=1667772&extension=ts
+
 
 
 
@@ -1897,395 +2044,7 @@ http://myfhdtv.com:80/live/00000/00000/2518150.ts
 http://myfhdtv.com:80/live/00000/00000/2518149.ts
 #EXTINF:-1 group-title="Movies (EN)",UK◈ Netflix Premiere 10 ᴴᴰ
 http://myfhdtv.com:80/live/00000/00000/2518151.ts
-#EXTINF:-1 group-title="Movies (EN)",UK◈ HBO Max info ᴴᴰ
-http://myfhdtv.com:80/live/00000/00000/2518128.ts
-#EXTINF:-1 group-title="Movies (EN)",UK◈ HBO Max 1 ᴴᴰ
-http://myfhdtv.com:80/live/00000/00000/2518129.ts
-#EXTINF:-1 group-title="Movies (EN)",UK◈ HBO Max 2 ᴴᴰ
-http://myfhdtv.com:80/live/00000/00000/2518131.ts
-#EXTINF:-1 group-title="Movies (EN)",UK◈ HBO Max 3 ᴴᴰ
-http://myfhdtv.com:80/live/00000/00000/2518130.ts
-#EXTINF:-1 group-title="Movies (EN)",UK◈ HBO Max 4 ᴴᴰ
-http://myfhdtv.com:80/live/00000/00000/2518133.ts
-#EXTINF:-1 group-title="Movies (EN)",UK◈ HBO Max 5 ᴴᴰ
-http://myfhdtv.com:80/live/00000/00000/2518132.ts
-#EXTINF:-1 group-title="Movies (EN)",UK◈ HBO Max 6 ᴴᴰ
-http://myfhdtv.com:80/live/00000/00000/2518135.ts
-#EXTINF:-1 group-title="Movies (EN)",UK◈ HBO Max 7 ᴴᴰ
-http://myfhdtv.com:80/live/00000/00000/2518134.ts
-#EXTINF:-1 group-title="Movies (EN)",UK◈ HBO Max 8 ᴴᴰ
-http://myfhdtv.com:80/live/00000/00000/2518137.ts
-#EXTINF:-1 group-title="Movies (EN)",UK◈ HBO Max 9 ᴴᴰ
-http://myfhdtv.com:80/live/00000/00000/2518136.ts
-#EXTINF:-1 group-title="Movies (EN)",UK◈ HBO Max 10 ᴴᴰ
-http://myfhdtv.com:80/live/00000/00000/2518140.ts
-#EXTINF:-1 group-title="Movies (EN)",UK◈ HBO Max 11 ᴴᴰ
-http://myfhdtv.com:80/live/00000/00000/2518139.ts
-#EXTINF:-1 group-title="Movies (EN)",UK◈ HBO Max 12 ᴴᴰ
-http://myfhdtv.com:80/live/00000/00000/2518138.ts
-#EXTINF:-1 group-title="Movies (EN)",UK FHD  Sky Cinema Premiere
-http://myfhdtv.com:80/live/00000/00000/696649.ts
-#EXTINF:-1 group-title="Movies (EN)",UKSD Sky Cinema Premiere
-http://myfhdtv.com:80/live/00000/00000/696651.ts
-#EXTINF:-1 group-title="Movies (EN)",UKFHD Sky Cinema Select/Feel Good
-http://myfhdtv.com:80/live/00000/00000/696643.ts
-#EXTINF:-1 group-title="Movies (EN)",UKSD Sky Cinema Select/Feel Good
-http://myfhdtv.com:80/live/00000/00000/696645.ts
-#EXTINF:-1 group-title="Movies (EN)",UK FHD  Sky Cinema Action
-http://myfhdtv.com:80/live/00000/00000/696646.ts
-#EXTINF:-1 group-title="Movies (EN)",UKSD Sky Cinema Action
-http://myfhdtv.com:80/live/00000/00000/696647.ts
-#EXTINF:-1 group-title="Movies (EN)",UKFHD: Sky Cinema Animation
-http://myfhdtv.com:80/live/00000/00000/696670.ts
-#EXTINF:-1 group-title="Movies (EN)",UKSD : Sky Cinema Animation
-http://myfhdtv.com:80/live/00000/00000/696671.ts
-#EXTINF:-1 group-title="Movies (EN)",UK FHD  Sky Cinema Greats/ FAVOURITES
-http://myfhdtv.com:80/live/00000/00000/696652.ts
-#EXTINF:-1 group-title="Movies (EN)",UKSD Sky Cinema Greats
-http://myfhdtv.com:80/live/00000/00000/696653.ts
-#EXTINF:-1 group-title="Movies (EN)",UK FHD  Sky Cinema Thriller
-http://myfhdtv.com:80/live/00000/00000/696655.ts
-#EXTINF:-1 group-title="Movies (EN)",UKSD Sky Cinema Thriller
-http://myfhdtv.com:80/live/00000/00000/696657.ts
-#EXTINF:-1 group-title="Movies (EN)",UK FHD  Sky Cinema Drama/Christmas
-http://myfhdtv.com:80/live/00000/00000/696658.ts
-#EXTINF:-1 group-title="Movies (EN)",UKSD Sky Cinema Drama/Christmas
-http://myfhdtv.com:80/live/00000/00000/696659.ts
-#EXTINF:-1 group-title="Movies (EN)",UK FHD  Sky Cinema SciFi
-http://myfhdtv.com:80/live/00000/00000/696661.ts
-#EXTINF:-1 group-title="Movies (EN)",UKSD Sky Cinema SciFi
-http://myfhdtv.com:80/live/00000/00000/696662.ts
-#EXTINF:-1 group-title="Movies (EN)",UK FHD  Sky Cinema Comedy
-http://myfhdtv.com:80/live/00000/00000/696664.ts
-#EXTINF:-1 group-title="Movies (EN)",UKSD Sky Cinema Comedy
-http://myfhdtv.com:80/live/00000/00000/696666.ts
-#EXTINF:-1 group-title="Movies (EN)",UK FHD  Sky Cinema Family/Kids Books
-http://myfhdtv.com:80/live/00000/00000/696667.ts
-#EXTINF:-1 group-title="Movies (EN)",UKSD Sky Cinema Family
-http://myfhdtv.com:80/live/00000/00000/696668.ts
-#EXTINF:-1 group-title="Movies (EN)",UK FHD  Sky Cinema Hits
-http://myfhdtv.com:80/live/00000/00000/696673.ts
-#EXTINF:-1 group-title="Movies (EN)",UKSD Sky Cinema Hits
-http://myfhdtv.com:80/live/00000/00000/696675.ts
-#EXTINF:-1 group-title="Movies (EN)",UKSD Legend Xtra
-http://myfhdtv.com:80/live/00000/00000/696678.ts
-#EXTINF:-1 group-title="Movies (EN)",Legend Xtra +1
-http://myfhdtv.com:80/live/00000/00000/696679.ts
-#EXTINF:-1 group-title="Movies (EN)",UKSD: Great tv
-http://myfhdtv.com:80/live/00000/00000/696680.ts
-#EXTINF:-1 group-title="Movies (EN)",UKSD :  Great Tv +1
-http://myfhdtv.com:80/live/00000/00000/696681.ts
-#EXTINF:-1 group-title="Movies (EN)",UKSD Great Movies
-http://myfhdtv.com:80/live/00000/00000/696682.ts
-#EXTINF:-1 group-title="Movies (EN)",UKSD :  Great Movies +1
-http://myfhdtv.com:80/live/00000/00000/696683.ts
-#EXTINF:-1 group-title="Movies (EN)",UKSD Great Action
-http://myfhdtv.com:80/live/00000/00000/696684.ts
-#EXTINF:-1 group-title="Movies (EN)",UKSD :  Great Action +1
-http://myfhdtv.com:80/live/00000/00000/696685.ts
-#EXTINF:-1 group-title="Movies (EN)",UK: Great! Movies Classic
-http://myfhdtv.com:80/live/00000/00000/696686.ts
-#EXTINF:-1 group-title="Movies (EN)",UK: Great! Movies Classic +1
-http://myfhdtv.com:80/live/00000/00000/696687.ts
-#EXTINF:-1 group-title="Movies (EN)",UKSD :  Great Romance
-http://myfhdtv.com:80/live/00000/00000/1975569.ts
-#EXTINF:-1 group-title="Movies (EN)",UKSD :  Great Romance +1
-http://myfhdtv.com:80/live/00000/00000/1975570.ts
-#EXTINF:-1 group-title="Movies (EN)",UK: Great! Xmas
-http://myfhdtv.com:80/live/00000/00000/1681162.ts
-#EXTINF:-1 group-title="Movies (EN)",UKSD TalkingPictures
-http://myfhdtv.com:80/live/00000/00000/696689.ts
-#EXTINF:-1 group-title="Movies (EN)",UKSD: Movies 24
-http://myfhdtv.com:80/live/00000/00000/735752.ts
-#EXTINF:-1 group-title="Movies (EN)",UKSD: Movies 24+1
-http://myfhdtv.com:80/live/00000/00000/735753.ts
-#EXTINF:-1 group-title="Movies (EN)",AMAZONE MOVIES 2
-http://tera.online:80/158711478533/186083606640/574145
-#EXTGRP:Movies (EN)
-#EXTINF:-1 group-title="Movies (EN)",AMAZONE MOVIES 1
-http://tera.online:80/158711478533/186083606640/574144
-#EXTGRP:Movies (EN)
-#EXTINF:-1 group-title="Movies (EN)",Shahid Movies Action
-http://tera.online:80/158711478533/186083606640/573696
-#EXTGRP:Movies (EN)
-#EXTINF:-1 group-title="Movies (EN)",Shahid Movies Thriller
-http://tera.online:80/158711478533/186083606640/573697
-#EXTGRP:Movies (EN)
-#EXTINF:-1 group-title="Movies (EN)",Sony Movie
-http://tera.online:80/158711478533/186083606640/585584
-#EXTGRP:Movies (EN)
-#EXTINF:-1 group-title="Movies (EN)",BLUE KIDS MOVIE
-http://tera.online:80/158711478533/186083606640/582796
-#EXTGRP:Movies (EN)
-#EXTINF:-1 group-title="Movies (EN)",MoviePlex
-http://tera.online:80/158711478533/186083606640/585612
-#EXTGRP:Movies (EN)
-#EXTINF:-1 group-title="Movies (EN)",SONY MOVIES
-http://tera.online:80/158711478533/186083606640/581751
-#EXTGRP:Movies (EN)
-#EXTINF:-1 group-title="Movies (EN)",MOVISTAR PLUS 1 HD
-http://tera.online:80/158711478533/186083606640/576832
-#EXTGRP:Movies (EN)
-#EXTINF:-1 group-title="Movies (EN)",AXN MOVIES HEVC
-http://tera.online:80/158711478533/186083606640/576563
-#EXTGRP:Movies (EN)
-##EXTINF:-1 group-title="Movies (EN)",MOVIEDOME
-http://tera.online:80/158711478533/186083606640/579948
-#EXTGRP:Movies (EN)
-#EXTINF:-1 group-title="Movies (EN)",Moviedome Family
-http://tera.online:80/158711478533/186083606640/579949
-#EXTGRP:Movies (EN)
-#EXTINF:-1 group-title="Movies (EN)",wedo Movies
-http://tera.online:80/158711478533/186083606640/579974
-#EXTGRP:Movies (EN)
-#EXTINF:-1 group-title="Movies (EN)",MOVIES DOME HD
-http://tera.online:80/158711478533/186083606640/576253
-#EXTGRP:Movies (EN)
-#EXTINF:-1 group-title="Movies (EN)",FOX MOVIES FHD
-http://tera.online:80/158711478533/186083606640/577024
-#EXTGRP:Movies (EN)
-#EXTINF:-1 group-title="Movies (EN)",RAI MOVIE HD
-http://tera.online:80/158711478533/186083606640/576385
-#EXTGRP:Movies (EN)
-#EXTINF:-1 group-title="Movies (EN)",MOVIE STAR HD
-http://tera.online:80/158711478533/186083606640/577946
-#EXTGRP:Movies (EN)
-#EXTINF:-1 group-title="Movies (EN)",BEIN MOVIES ACTION 2HD
-http://apk.ch-arabic.buzz/live/076/index.m3u8?t=mzenarLRhdlu18_W08rftA&amp;e=1774841376
-#EXTGRP:Movies (EN)
-#EXTINF:-1 group-title="Movies (EN)",BOSS MOVIES  1
-http://tera.online:80/158711478533/186083606640/579140
-#EXTGRP:Movies (EN)
-#EXTINF:-1 group-title="Movies (EN)",1000 MOVIE HD
-http://tera.online:80/158711478533/186083606640/583342
-#EXTGRP:Movies (EN)
-#EXTINF:-1 group-title="Movies (EN)",SONY MOVIE CHANNEL
-http://tera.online:80/158711478533/186083606640/579244
-#EXTGRP:Movies (EN)
-#EXTINF:-1 group-title="Movies (EN)",PINK MOVIES
-http://tera.online:80/158711478533/186083606640/581104
-#EXTGRP:Movies (EN)
-#EXTINF:-1 group-title="Movies (EN)",Gospel Movie 
-http://tera.online:80/158711478533/186083606640/584145
-#EXTGRP:Movies (EN)
-#EXTINF:-1 group-title="Movies (EN)",MyTime Movie Network
-http://tera.online:80/158711478533/186083606640/584152
-#EXTGRP:Movies (EN)
-#EXTINF:-1 group-title="Movies (EN)",N Movies Pinoy
-http://tera.online:80/158711478533/186083606640/583626
-#EXTGRP:Movies (EN)
-#EXTINF:-1 group-title="Movies (EN)",HITS Movies
-http://tera.online:80/158711478533/186083606640/583627
-#EXTGRP:Movies (EN)
-#EXTINF:-1 group-title="Movies (EN)",Cinemax Action 2
-http://tera.online:80/158711478533/186083606640/586160
-#EXTGRP:Movies (EN)
-#EXTINF:-1 group-title="Movies (EN)",Starz Cinema East
-http://tera.online:80/158711478533/186083606640/586171
-#EXTGRP:Movies (EN)
-#EXTINF:-1 group-title="Movies (EN)",Cinemax West
-http://tera.online:80/158711478533/186083606640/586176
-#EXTGRP:Movies (EN)
-#EXTINF:-1 group-title="Movies (EN)",Cinemax More
-http://tera.online:80/158711478533/186083606640/586177
-#EXTGRP:Movies (EN)
-#EXTINF:-1 group-title="Movies (EN)",CineMax 5 Star Max HD
-http://tera.online:80/158711478533/186083606640/585590
-#EXTGRP:Movies (EN)
-#EXTINF:-1 group-title="Movies (EN)",Cinemax Action HD
-http://tera.online:80/158711478533/186083606640/585591
-#EXTGRP:Movies (EN)
-#EXTINF:-1 group-title="Movies (EN)",CineMAX HD
-http://tera.online:80/158711478533/186083606640/585592
-#EXTGRP:Movies (EN)
-#EXTINF:-1 group-title="Movies (EN)",CineMax OuterMax FHD
-http://tera.online:80/158711478533/186083606640/585594
-#EXTGRP:Movies (EN)
-#EXTINF:-1 group-title="Movies (EN)",Cinemax ThrillerMax FHD
-http://tera.online:80/158711478533/186083606640/585595
-#EXTGRP:Movies (EN)
-#EXTINF:-1 group-title="Movies (EN)",Starz Cinema
-http://tera.online:80/158711478533/186083606640/585625
-#EXTGRP:Movies (EN)
-#EXTINF:-1 group-title="Movies (EN)",CINEPOP
-http://tera.online:80/158711478533/186083606640/586305
-#EXTGRP:Movies (EN)
-#EXTINF:-1 group-title="Movies (EN)",CANAL+ CINEMA HD
-http://tera.online:80/158711478533/186083606640/575647
-#EXTGRP:Movies (EN)
-#EXTINF:-1 group-title="Movies (EN)",CINE+ PRIMER HD
-http://tera.online:80/158711478533/186083606640/575653
-#EXTGRP:Movies (EN)
-#EXTINF:-1 group-title="Movies (EN)",CINE+ FRISSION HD
-http://tera.online:80/158711478533/186083606640/575655
-#EXTGRP:Movies (EN)
-#EXTINF:-1 group-title="Movies (EN)",INE+ FAMIZ HD
-http://tera.online:80/158711478533/186083606640/575657
-#EXTGRP:Movies (EN)
-#EXTINF:-1 group-title="Movies (EN)",CINE+ CLUB HD
-http://tera.online:80/158711478533/186083606640/575659
-#EXTGRP:Movies (EN)
-#EXTINF:-1 group-title="Movies (EN)",CINE+ EMOTION HD
-http://tera.online:80/158711478533/186083606640/575663
-#EXTGRP:Movies (EN)
-#EXTINF:-1 group-title="Movies (EN)",CINE ESPANOL HD
-http://tera.online:80/158711478533/186083606640/576787
-#EXTGRP:Movies (EN)
-#EXTINF:-1 group-title="Movies (EN)",CINE HD
-http://tera.online:80/158711478533/186083606640/576788
-#EXTGRP:Movies (EN)
-#EXTINF:-1 group-title="Movies (EN)",NOVA CINEMA 1 4K
-http://tera.online:80/158711478533/186083606640/578494
-#EXTGRP:Movies (EN)
-#EXTINF:-1 group-title="Movies (EN)",SKY CINEMA ACTION HD
-http://tera.online:80/158711478533/186083606640/576127
-#EXTGRP:Movies (EN)
-#EXTINF:-1 group-title="Movies (EN)",SKY CINEMA FAMILY HD
-http://tera.online:80/158711478533/186083606640/576130
-#EXTGRP:Movies (EN)
-#EXTINF:-1 group-title="Movies (EN)",SKY CINEMA PREMIEREN HD
-http://tera.online:80/158711478533/186083606640/576133
-#EXTGRP:Movies (EN)
-#EXTINF:-1 group-title="Movies (EN)",PLEX CINEMA
-http://tera.online:80/158711478533/186083606640/576141
-#EXTGRP:Movies (EN)
-#EXTINF:-1 group-title="Movies (EN)",PLEX CINESTAR
-http://tera.online:80/158711478533/186083606640/576147
-#EXTGRP:Movies (EN)
-#EXTINF:-1 group-title="Movies (EN)",Sky Cinema Family HD
-http://tera.online:80/158711478533/186083606640/576211
-#EXTGRP:Movies (EN)
-#EXTINF:-1 group-title="Movies (EN)",Sky Cinema Action HD
-http://tera.online:80/158711478533/186083606640/576215
-#EXTGRP:Movies (EN)
-#EXTINF:-1 group-title="Movies (EN)",SKY CINEMA SPECIAL HEVC
-http://tera.online:80/158711478533/186083606640/575729
-#EXTGRP:Movies (EN)
-#EXTINF:-1 group-title="Movies (EN)",SKY CINEMA ACTION HEVC
-http://tera.online:80/158711478533/186083606640/575734
-#EXTGRP:Movies (EN)
-#EXTINF:-1 group-title="Movies (EN)",CINEMAX HD
-http://tera.online:80/158711478533/186083606640/577788
-#EXTGRP:Movies (EN)
-#EXTINF:-1 group-title="Movies (EN)",CINEMAX 2 HD
-http://tera.online:80/158711478533/186083606640/577790
-#EXTGRP:Movies (EN)
-#EXTINF:-1 group-title="Movies (EN)",CINE+ PREMIER HD
-http://tera.online:80/158711478533/186083606640/577635
-#EXTGRP:Movies (EN)
-#EXTINF:-1 group-title="Movies (EN)",CINEMAX 1 HD
-http://tera.online:80/158711478533/186083606640/577922
-#EXTGRP:Movies (EN)
-#EXTINF:-1 group-title="Movies (EN)",CINEMA PLUS
-http://tera.online:80/158711478533/186083606640/577950
-#EXTGRP:Movies (EN)
-#EXTINF:-1 group-title="Movies (EN)",CINEMAX 1
-http://tera.online:80/158711478533/186083606640/580431
-EXTM3U
-#EXTINF:-1 group-title="Movies (EN)",US: Cinemax HD (East)
-http://myfhdtv.com:80/live/00000/00000/1984281.ts
-#EXTINF:-1 group-title="Movies (EN)",US: Cinemax HD (West)
-http://myfhdtv.com:80/live/00000/00000/1984282.ts
-#EXTINF:-1 group-title="Movies (EN)",US: Cinemax 5StarMax HD
-http://myfhdtv.com:80/live/00000/00000/1984283.ts
-#EXTINF:-1 group-title="Movies (EN)",US: Cinemax ActionMax HD
-http://myfhdtv.com:80/live/00000/00000/1984284.ts
-#EXTINF:-1 group-title="Movies (EN)",US: Cinemax MoreMax HD
-http://myfhdtv.com:80/live/00000/00000/1984285.ts
-#EXTINF:-1 group-title="Movies (EN)",US: Cinemax MovieMax
-http://myfhdtv.com:80/live/00000/00000/1984286.ts
-#EXTINF:-1 group-title="Movies (EN)",US: Cinemax OuterMax
-http://myfhdtv.com:80/live/00000/00000/1984287.ts
-#EXTINF:-1 group-title="Movies (EN)",US: Cinemax ThrillerMax
-http://myfhdtv.com:80/live/00000/00000/1984288.ts
-#EXTINF:-1 group-title="Movies (EN)",US: Starz East FHD
-http://myfhdtv.com:80/live/00000/00000/1984289.ts
-#EXTINF:-1 group-title="Movies (EN)",US: Starz Encore West FHD
-http://myfhdtv.com:80/live/00000/00000/1984290.ts
-#EXTINF:-1 group-title="Movies (EN)",US: Starz Edge HD
-http://myfhdtv.com:80/live/00000/00000/1984291.ts
-#EXTINF:-1 group-title="Movies (EN)",US: Starz In Black FHD
-http://myfhdtv.com:80/live/00000/00000/1984292.ts
-#EXTINF:-1 group-title="Movies (EN)",US: Starz Comedy HD
-http://myfhdtv.com:80/live/00000/00000/1984293.ts
-#EXTINF:-1 group-title="Movies (EN)",US: Starz Cinema HD
-http://myfhdtv.com:80/live/00000/00000/1984294.ts
-#EXTINF:-1 group-title="Movies (EN)",US: Starz Encore FHD
-http://myfhdtv.com:80/live/00000/00000/1984295.ts
-#EXTINF:-1 group-title="Movies (EN)",US: Starz Encore East FHD
-http://myfhdtv.com:80/live/00000/00000/1984296.ts
-#EXTINF:-1 group-title="Movies (EN)",US: Starz Encore Action FHD
-http://myfhdtv.com:80/live/00000/00000/1984297.ts
-#EXTINF:-1 group-title="Movies (EN)",US: Starz Encore Black HD
-http://myfhdtv.com:80/live/00000/00000/1984298.ts
-#EXTINF:-1 group-title="Movies (EN)",US: Starz Encore Classic FHD
-http://myfhdtv.com:80/live/00000/00000/1984299.ts
-#EXTINF:-1 group-title="Movies (EN)",US: Starz Encore Family FHD
-http://myfhdtv.com:80/live/00000/00000/1984300.ts
-#EXTINF:-1 group-title="Movies (EN)",US: Starz Kids & Family HD
-http://myfhdtv.com:80/live/00000/00000/1984301.ts
-#EXTINF:-1 group-title="Movies (EN)",US: Starz Encore Suspense FHD
-http://myfhdtv.com:80/live/00000/00000/1984302.ts
-#EXTINF:-1 group-title="Movies (EN)",USA- STARZ ENCORE WESTERNS
-http://myfhdtv.com:80/live/00000/00000/1984303.ts
-#EXTINF:-1 group-title="Movies (EN)",US: Sundance TV FHD
-http://myfhdtv.com:80/live/00000/00000/1984304.ts
-#EXTINF:-1 group-title="Movies (EN)",US: HBO HD
-http://myfhdtv.com:80/live/00000/00000/1984305.ts
-#EXTINF:-1 group-title="Movies (EN)",US: HBO East HD
-http://myfhdtv.com:80/live/00000/00000/1984306.ts
-#EXTINF:-1 group-title="Movies (EN)",US: HBO HD West
-http://myfhdtv.com:80/live/00000/00000/1984307.ts
-#EXTINF:-1 group-title="Movies (EN)",US: HBO 2 HD
-http://myfhdtv.com:80/live/00000/00000/1984308.ts
-#EXTINF:-1 group-title="Movies (EN)",US: HBO Comedy HD
-http://myfhdtv.com:80/live/00000/00000/1984309.ts
-#EXTINF:-1 group-title="Movies (EN)",US: HBO Signature
-http://myfhdtv.com:80/live/00000/00000/1984310.ts
-#EXTINF:-1 group-title="Movies (EN)",US: HBO Zone
-http://myfhdtv.com:80/live/00000/00000/1984311.ts
-#EXTINF:-1 group-title="Movies (EN)",US: HBO Family HD
-http://myfhdtv.com:80/live/00000/00000/1984312.ts
-#EXTINF:-1 group-title="Movies (EN)",US: MoviePlex HD
-http://myfhdtv.com:80/live/00000/00000/1984313.ts
-#EXTINF:-1 group-title="Movies (EN)",US: Moremax HD
-http://myfhdtv.com:80/live/00000/00000/1984314.ts
-#EXTINF:-1 group-title="Movies (EN)",US: Showtime HD (East)
-http://myfhdtv.com:80/live/00000/00000/1984315.ts
-#EXTINF:-1 group-title="Movies (EN)",US: Showtime HD (West)
-http://myfhdtv.com:80/live/00000/00000/1984316.ts
-#EXTINF:-1 group-title="Movies (EN)",US: Showtime 2 HD
-http://myfhdtv.com:80/live/00000/00000/1984317.ts
-#EXTINF:-1 group-title="Movies (EN)",US: Showtime Showcase FHD
-http://myfhdtv.com:80/live/00000/00000/1984318.ts
-#EXTINF:-1 group-title="Movies (EN)",US: Showtime Extreme HD
-http://myfhdtv.com:80/live/00000/00000/1984319.ts
-#EXTINF:-1 group-title="Movies (EN)",US: Showtime Beyond
-http://myfhdtv.com:80/live/00000/00000/1984320.ts
-#EXTINF:-1 group-title="Movies (EN)",US: Showtime Family Zone HD
-http://myfhdtv.com:80/live/00000/00000/1984321.ts
-#EXTINF:-1 group-title="Movies (EN)",US: Showtime Next HD
-http://myfhdtv.com:80/live/00000/00000/1984322.ts
-#EXTINF:-1 group-title="Movies (EN)",US: Showtime Women HD
-http://myfhdtv.com:80/live/00000/00000/1984323.ts
-#EXTINF:-1 group-title="Movies (EN)",US: Hallmark Channel HD
-http://myfhdtv.com:80/live/00000/00000/1984324.ts
-#EXTINF:-1 group-title="Movies (EN)",US: Hallmark Drama HD
-http://myfhdtv.com:80/live/00000/00000/1984325.ts
-#EXTINF:-1 group-title="Movies (EN)",US: Hallmark Movies & Mysteries HD
-http://myfhdtv.com:80/live/00000/00000/1984326.ts
-#EXTINF:-1 group-title="Movies (EN)",US: Lifetime Movies HD
-http://myfhdtv.com:80/live/00000/00000/1984327.ts
-#EXTINF:-1 group-title="Movies (EN)",US: Sony Movie Channel
-http://myfhdtv.com:80/live/00000/00000/1984328.ts
-#EXTINF:-1 group-title="Movies (EN)",US: BBC America HD
-http://myfhdtv.com:80/live/00000/00000/1984329.ts
-#EXTINF:-1 group-title="Movies (EN)",US: Ion Plus
-http://myfhdtv.com:80/live/00000/00000/1984330.ts
-#EXTINF:-1 group-title="Movies (EN)",US: Circle FHD
-http://myfhdtv.com:80/live/00000/00000/1984331.ts
-#EXTINF:-1 group-title="Movies (EN)",US: Lifetime HD
-http://myfhdtv.com:80/live/00000/00000/1984332.ts
+
 
 
 
@@ -2297,200 +2056,54 @@ http://myfhdtv.com:80/live/00000/00000/1984332.ts
 
 
 
+#EXTM3U url-tvg="https://iptv-org.github.io/iptv/index.m3u"
+#EXTINF:-1 group-title="ENGLISH SPORT",PREMIER SPORTS 1 8K
+http://main.light-ott.net:80/play/live.php?mac=A0:BB:3E:02:40:2B&stream=827990&extension=ts
+#EXTINF:-1 group-title="ENGLISH SPORT",PREMIER SPORTS 2 8K
+http://main.light-ott.net:80/play/live.php?mac=A0:BB:3E:02:40:2B&stream=827989&extension=ts
+#EXTINF:-1 group-title="ENGLISH SPORT",DAZN 1 8K
+http://main.light-ott.net:80/play/live.php?mac=A0:BB:3E:02:40:2B&stream=827993&extension=ts
+#EXTINF:-1 group-title="ENGLISH SPORT",MUTV 8K
+http://main.light-ott.net:80/play/live.php?mac=A0:BB:3E:02:40:2B&stream=827988&extension=ts
+#EXTINF:-1 group-title="ENGLISH SPORT",LFC 8K
+http://main.light-ott.net:80/play/live.php?mac=A0:BB:3E:02:40:2B&stream=827987&extension=ts
+#EXTINF:-1 group-title="ENGLISH SPORT",RACING 8K
+http://main.light-ott.net:80/play/live.php?mac=A0:BB:3E:02:40:2B&stream=827986&extension=ts
+#EXTINF:-1 group-title="ENGLISH SPORT",UFC 24/7 8K
+http://main.light-ott.net:80/play/live.php?mac=A0:BB:3E:02:40:2B&stream=828041&extension=ts
+#EXTINF:-1 group-title="ENGLISH SPORT",WWE 8K
+http://main.light-ott.net:80/play/live.php?mac=A0:BB:3E:02:40:2B&stream=828042&extension=ts
+#EXTINF:-1 group-title="ENGLISH SPORT",SKY SPORTS NEWS HD
+http://main.light-ott.net:80/play/live.php?mac=A0:BB:3E:02:40:2B&stream=1312175&extension=ts
+#EXTINF:-1 group-title="ENGLISH SPORT",SKY SPORTS MAIN EVENT HD
+http://main.light-ott.net:80/play/live.php?mac=A0:BB:3E:02:40:2B&stream=1312176&extension=ts
+#EXTINF:-1 group-title="ENGLISH SPORT",SKY SPORTS PREMIER LEAGUE HD
+http://main.light-ott.net:80/play/live.php?mac=A0:BB:3E:02:40:2B&stream=1312177&extension=ts
+#EXTINF:-1 group-title="ENGLISH SPORT",SKY SPORTS FOOTBALL HD
+http://main.light-ott.net:80/play/live.php?mac=A0:BB:3E:02:40:2B&stream=1312178&extension=ts
+#EXTINF:-1 group-title="ENGLISH SPORT",SKY SPORTS MIX HD
+http://main.light-ott.net:80/play/live.php?mac=A0:BB:3E:02:40:2B&stream=1312179&extension=ts
+#EXTINF:-1 group-title="ENGLISH SPORT",SKY SPORTS ACTION / NFL HD
+http://main.light-ott.net:80/play/live.php?mac=A0:BB:3E:02:40:2B&stream=1312180&extension=ts
+#EXTINF:-1 group-title="ENGLISH SPORT",SKY SPORTS F1 HD
+http://main.light-ott.net:80/play/live.php?mac=A0:BB:3E:02:40:2B&stream=1312181&extension=ts
+#EXTINF:-1 group-title="ENGLISH SPORT",SKY SPORTS RACING HD
+http://main.light-ott.net:80/play/live.php?mac=A0:BB:3E:02:40:2B&stream=1312182&extension=ts
+#EXTINF:-1 group-title="ENGLISH SPORT",SKY SPORTS TENNIS HD
+http://main.light-ott.net:80/play/live.php?mac=A0:BB:3E:02:40:2B&stream=1312186&extension=ts
+#EXTINF:-1 group-title="ENGLISH SPORT",SKY SPORTS GOLF HD
+http://main.light-ott.net:80/play/live.php?mac=A0:BB:3E:02:40:2B&stream=1312183&extension=ts
+#EXTINF:-1 group-title="ENGLISH SPORT",SKY SPORTS CRICKET HD
+http://main.light-ott.net:80/play/live.php?mac=A0:BB:3E:02:40:2B&stream=1312184&extension=ts
+#EXTINF:-1 group-title="ENGLISH SPORT",SKY SPORTS+ HD
+http://main.light-ott.net:80/play/live.php?mac=A0:BB:3E:02:40:2B&stream=1312185&extension=ts
+#EXTINF:-1 group-title="ENGLISH SPORT",LA LIGA TV HD
+http://main.light-ott.net:80/play/live.php?mac=A0:BB:3E:02:40:2B&stream=1312836&extension=ts
+#EXTINF:-1 group-title="ENGLISH SPORT",REAL MADRID TV HD
+http://main.light-ott.net:80/play/live.php?mac=A0:BB:3E:02:40:2B&stream=1312833&extension=ts
 
-#EXTM3U
-#EXTINF:-1 group-title="ENGLISH SPORT",USA: TSN 1 FHD
-http://live.iptvtotaal.com:8000/live/mckenzie4760/L4hGTmrQgB/26398.ts
-#EXTINF:-1 group-title="ENGLISH SPORT",USA: TSN 2 FHD
-http://live.iptvtotaal.com:8000/live/mckenzie4760/L4hGTmrQgB/26399.ts
-#EXTINF:-1 group-title="ENGLISH SPORT",USA: TSN 3 FHD
-http://live.iptvtotaal.com:8000/live/mckenzie4760/L4hGTmrQgB/26400.ts
-#EXTINF:-1 group-title="ENGLISH SPORT",USA: TSN 4 FHD
-http://live.iptvtotaal.com:8000/live/mckenzie4760/L4hGTmrQgB/26401.ts
-#EXTINF:-1 group-title="ENGLISH SPORT",UK: Eurosport 1 HD
-http://live.iptvtotaal.com:8000/live/mckenzie4760/L4hGTmrQgB/37459.ts
-#EXTINF:-1 group-title="ENGLISH SPORT",UK: Eurosport 2 HD
-http://live.iptvtotaal.com:8000/live/mckenzie4760/L4hGTmrQgB/37711.ts
-#EXTINF:-1 group-title="ENGLISH SPORT",UK: UFC FIGHT Pass
-http://live.iptvtotaal.com:8000/live/mckenzie4760/L4hGTmrQgB/38273.ts
-#EXTINF:-1 group-title="ENGLISH SPORT",USA: GOLF CHANNEL FHD
-http://live.iptvtotaal.com:8000/live/mckenzie4760/L4hGTmrQgB/17551.ts
-#EXTINF:-1 group-title="ENGLISH SPORT",UK: WWE Network 24
-http://live.iptvtotaal.com:8000/live/mckenzie4760/L4hGTmrQgB/63434.ts
-#EXTINF:-1 group-title="ENGLISH SPORT",UK: WWE Channel FHD
-http://live.iptvtotaal.com:8000/live/mckenzie4760/L4hGTmrQgB/63435.ts
-#EXTINF:-1 group-title="ENGLISH SPORT",UK: Fight Network
-http://live.iptvtotaal.com:8000/live/mckenzie4760/L4hGTmrQgB/63436.ts
-#EXTINF:-1 group-title="ENGLISH SPORT",UFC Fight Pass FHD
-http://live.iptvtotaal.com:8000/live/mckenzie4760/L4hGTmrQgB/71903.ts
-#EXTINF:-1 group-title="ENGLISH SPORT",UK: Sky Sports 1 HD
-http://live.iptvtotaal.com:8000/live/mckenzie4760/L4hGTmrQgB/203412.ts
-#EXTINF:-1 group-title="ENGLISH SPORT",UK: Sky Sports 1 SD
-http://live.iptvtotaal.com:8000/live/mckenzie4760/L4hGTmrQgB/203413.ts
-#EXTINF:-1 group-title="ENGLISH SPORT",UK: Sky Sports 2 HD
-http://live.iptvtotaal.com:8000/live/mckenzie4760/L4hGTmrQgB/203414.ts
-#EXTINF:-1 group-title="ENGLISH SPORT",UK: Sky Sports 2 SD
-http://live.iptvtotaal.com:8000/live/mckenzie4760/L4hGTmrQgB/203415.ts
-#EXTINF:-1 group-title="ENGLISH SPORT",UK: Sky Sports Action FHD
-http://live.iptvtotaal.com:8000/live/mckenzie4760/L4hGTmrQgB/203416.ts
-#EXTINF:-1 group-title="ENGLISH SPORT",UK: Sky Sports Action HD
-http://live.iptvtotaal.com:8000/live/mckenzie4760/L4hGTmrQgB/203417.ts
-#EXTINF:-1 group-title="ENGLISH SPORT",UK: Sky Sports Action SD
-http://live.iptvtotaal.com:8000/live/mckenzie4760/L4hGTmrQgB/203418.ts
-#EXTINF:-1 group-title="ENGLISH SPORT",UK: Sky Sports Box Office FHD (Event only)
-http://live.iptvtotaal.com:8000/live/mckenzie4760/L4hGTmrQgB/203419.ts
-#EXTINF:-1 group-title="ENGLISH SPORT",UK: Sky Sports Box Office HD (Event only)
-http://live.iptvtotaal.com:8000/live/mckenzie4760/L4hGTmrQgB/203420.ts
-#EXTINF:-1 group-title="ENGLISH SPORT",UK: Sky Sports Box Office SD (Event only)
-http://live.iptvtotaal.com:8000/live/mckenzie4760/L4hGTmrQgB/203421.ts
-#EXTINF:-1 group-title="ENGLISH SPORT",UK: Sky Sports Cricket FHD
-http://live.iptvtotaal.com:8000/live/mckenzie4760/L4hGTmrQgB/203422.ts
-#EXTINF:-1 group-title="ENGLISH SPORT",UK: Sky Sports Cricket HD
-http://live.iptvtotaal.com:8000/live/mckenzie4760/L4hGTmrQgB/203423.ts
-#EXTINF:-1 group-title="ENGLISH SPORT",UK: Sky Sports Cricket SD
-http://live.iptvtotaal.com:8000/live/mckenzie4760/L4hGTmrQgB/203424.ts
-#EXTINF:-1 group-title="ENGLISH SPORT",UK: Sky Sports F1 FHD
-http://live.iptvtotaal.com:8000/live/mckenzie4760/L4hGTmrQgB/203425.ts
-#EXTINF:-1 group-title="ENGLISH SPORT",UK: Sky Sports F1 HD
-http://live.iptvtotaal.com:8000/live/mckenzie4760/L4hGTmrQgB/203426.ts
-#EXTINF:-1 group-title="ENGLISH SPORT",UK: Sky Sports F1 SD
-http://live.iptvtotaal.com:8000/live/mckenzie4760/L4hGTmrQgB/203427.ts
-#EXTINF:-1 group-title="ENGLISH SPORT",UK: Sky Sports Football FHD
-http://live.iptvtotaal.com:8000/live/mckenzie4760/L4hGTmrQgB/203428.ts
-#EXTINF:-1 group-title="ENGLISH SPORT",UK: Sky Sports Football HD
-http://live.iptvtotaal.com:8000/live/mckenzie4760/L4hGTmrQgB/203429.ts
-#EXTINF:-1 group-title="ENGLISH SPORT",UK: Sky Sports Football SD
-http://live.iptvtotaal.com:8000/live/mckenzie4760/L4hGTmrQgB/203430.ts
-#EXTINF:-1 group-title="ENGLISH SPORT",UK: Sky Sports Golf FHD
-http://live.iptvtotaal.com:8000/live/mckenzie4760/L4hGTmrQgB/203431.ts
-#EXTINF:-1 group-title="ENGLISH SPORT",UK: Sky Sports Golf HD
-http://live.iptvtotaal.com:8000/live/mckenzie4760/L4hGTmrQgB/203432.ts
-#EXTINF:-1 group-title="ENGLISH SPORT",UK: Sky Sports Golf SD
-http://live.iptvtotaal.com:8000/live/mckenzie4760/L4hGTmrQgB/203433.ts
-#EXTINF:-1 group-title="ENGLISH SPORT",UK: Sky Sports Main Event FHD
-http://live.iptvtotaal.com:8000/live/mckenzie4760/L4hGTmrQgB/203434.ts
-#EXTINF:-1 group-title="ENGLISH SPORT",UK: Sky Sports Main Event HD
-http://live.iptvtotaal.com:8000/live/mckenzie4760/L4hGTmrQgB/203435.ts
-#EXTINF:-1 group-title="ENGLISH SPORT",UK: Sky Sports Main Event SD
-http://live.iptvtotaal.com:8000/live/mckenzie4760/L4hGTmrQgB/203436.ts
-#EXTINF:-1 group-title="ENGLISH SPORT",UK: Sky Sports Mix FHD
-http://live.iptvtotaal.com:8000/live/mckenzie4760/L4hGTmrQgB/203437.ts
-#EXTINF:-1 group-title="ENGLISH SPORT",UK: Sky Sports Mix HD
-http://live.iptvtotaal.com:8000/live/mckenzie4760/L4hGTmrQgB/203438.ts
-#EXTINF:-1 group-title="ENGLISH SPORT",UK: Sky Sports Mix SD
-http://live.iptvtotaal.com:8000/live/mckenzie4760/L4hGTmrQgB/203439.ts
-#EXTINF:-1 group-title="ENGLISH SPORT",UK: Sky Sports News FHD
-http://live.iptvtotaal.com:8000/live/mckenzie4760/L4hGTmrQgB/203440.ts
-#EXTINF:-1 group-title="ENGLISH SPORT",UK: Sky Sports News HD
-http://live.iptvtotaal.com:8000/live/mckenzie4760/L4hGTmrQgB/203441.ts
-#EXTINF:-1 group-title="ENGLISH SPORT",UK: Sky Sports News SD
-http://live.iptvtotaal.com:8000/live/mckenzie4760/L4hGTmrQgB/203442.ts
-#EXTINF:-1 group-title="ENGLISH SPORT",UK: Sky Sports NFL FHD
-http://live.iptvtotaal.com:8000/live/mckenzie4760/L4hGTmrQgB/203443.ts
-#EXTINF:-1 group-title="ENGLISH SPORT",UK: Sky Sports plus HD
-http://live.iptvtotaal.com:8000/live/mckenzie4760/L4hGTmrQgB/203444.ts
-#EXTINF:-1 group-title="ENGLISH SPORT",UK: Sky Sports plus SD
-http://live.iptvtotaal.com:8000/live/mckenzie4760/L4hGTmrQgB/203445.ts
-#EXTINF:-1 group-title="ENGLISH SPORT",UK: Sky Sports Premier League FHD
-http://live.iptvtotaal.com:8000/live/mckenzie4760/L4hGTmrQgB/203446.ts
-#EXTINF:-1 group-title="ENGLISH SPORT",UK: Sky Sports Premier League HD
-http://live.iptvtotaal.com:8000/live/mckenzie4760/L4hGTmrQgB/203447.ts
-#EXTINF:-1 group-title="ENGLISH SPORT",UK: Sky Sports Premier League SD
-http://live.iptvtotaal.com:8000/live/mckenzie4760/L4hGTmrQgB/203448.ts
-#EXTINF:-1 group-title="ENGLISH SPORT",UK: Sky Sports Racing FHD
-http://live.iptvtotaal.com:8000/live/mckenzie4760/L4hGTmrQgB/203449.ts
-#EXTINF:-1 group-title="ENGLISH SPORT",UK: Sky Sports Racing HD
-http://live.iptvtotaal.com:8000/live/mckenzie4760/L4hGTmrQgB/203450.ts
-#EXTINF:-1 group-title="ENGLISH SPORT",UK: Sky Sports Racing SD
-http://live.iptvtotaal.com:8000/live/mckenzie4760/L4hGTmrQgB/203451.ts
-#EXTINF:-1 group-title="ENGLISH SPORT",UK: Sky Sports Tennis FHD
-http://live.iptvtotaal.com:8000/live/mckenzie4760/L4hGTmrQgB/203452.ts
-#EXTINF:-1 group-title="ENGLISH SPORT",UK: Sky Sports Tennis HD
-http://live.iptvtotaal.com:8000/live/mckenzie4760/L4hGTmrQgB/203453.ts
-#EXTINF:-1 group-title="ENGLISH SPORT",UK: Sky Sports Tennis SD
-http://live.iptvtotaal.com:8000/live/mckenzie4760/L4hGTmrQgB/203454.ts
-#EXTINF:-1 group-title="ENGLISH SPORT",UK: Sky Sports+ FHD
-http://live.iptvtotaal.com:8000/live/mckenzie4760/L4hGTmrQgB/203455.ts
-#EXTINF:-1 group-title="ENGLISH SPORT",UK: DAZN 1 FHD 50FPS OFFLINE
-http://live.iptvtotaal.com:8000/live/mckenzie4760/L4hGTmrQgB/203456.ts
-#EXTINF:-1 group-title="ENGLISH SPORT",UK: DAZN 1
-http://live.iptvtotaal.com:8000/live/mckenzie4760/L4hGTmrQgB/203457.ts
-#EXTINF:-1 group-title="ENGLISH SPORT",UK: DAZN 2
-http://live.iptvtotaal.com:8000/live/mckenzie4760/L4hGTmrQgB/203458.ts
-#EXTINF:-1 group-title="ENGLISH SPORT",UK: UFC Fight PASS HD
-http://live.iptvtotaal.com:8000/live/mckenzie4760/L4hGTmrQgB/203459.ts
-#EXTINF:-1 group-title="ENGLISH SPORT",UK: LA LIGA TV HD
-http://live.iptvtotaal.com:8000/live/mckenzie4760/L4hGTmrQgB/203460.ts
-#EXTINF:-1 group-title="ENGLISH SPORT",UK: SKY Sports MAIN Event FHD
-http://live.iptvtotaal.com:8000/live/mckenzie4760/L4hGTmrQgB/203461.ts
-#EXTINF:-1 group-title="ENGLISH SPORT",UK: SKY Sports MAIN Event HD
-http://live.iptvtotaal.com:8000/live/mckenzie4760/L4hGTmrQgB/203462.ts
-#EXTINF:-1 group-title="ENGLISH SPORT",UK: SKY Sports Premier League HD
-http://live.iptvtotaal.com:8000/live/mckenzie4760/L4hGTmrQgB/203463.ts
-#EXTINF:-1 group-title="ENGLISH SPORT",UK: SKY Sports Football FHD
-http://live.iptvtotaal.com:8000/live/mckenzie4760/L4hGTmrQgB/203464.ts
-#EXTINF:-1 group-title="ENGLISH SPORT",UK: SKY Sport Football HD
-http://live.iptvtotaal.com:8000/live/mckenzie4760/L4hGTmrQgB/203465.ts
-#EXTINF:-1 group-title="ENGLISH SPORT",UK: Sky Sports Action
-http://live.iptvtotaal.com:8000/live/mckenzie4760/L4hGTmrQgB/203466.ts
-#EXTINF:-1 group-title="ENGLISH SPORT",UK: SKY Sports Arena FHD
-http://live.iptvtotaal.com:8000/live/mckenzie4760/L4hGTmrQgB/203467.ts
-#EXTINF:-1 group-title="ENGLISH SPORT",UK: SKY Sports Arena HD
-http://live.iptvtotaal.com:8000/live/mckenzie4760/L4hGTmrQgB/203468.ts
-#EXTINF:-1 group-title="ENGLISH SPORT",UK: SKY Sports Cricket FHD
-http://live.iptvtotaal.com:8000/live/mckenzie4760/L4hGTmrQgB/203469.ts
-#EXTINF:-1 group-title="ENGLISH SPORT",UK: SKY Sports Cricket HD
-http://live.iptvtotaal.com:8000/live/mckenzie4760/L4hGTmrQgB/203470.ts
-#EXTINF:-1 group-title="ENGLISH SPORT",UK: SKY Sports GOLF HD
-http://live.iptvtotaal.com:8000/live/mckenzie4760/L4hGTmrQgB/203471.ts
-#EXTINF:-1 group-title="ENGLISH SPORT",UK: SKY Sports F1 HD
-http://live.iptvtotaal.com:8000/live/mckenzie4760/L4hGTmrQgB/203472.ts
-#EXTINF:-1 group-title="ENGLISH SPORT",UK: Sky Sports Tennis HD
-http://live.iptvtotaal.com:8000/live/mckenzie4760/L4hGTmrQgB/203473.ts
-#EXTINF:-1 group-title="ENGLISH SPORT",UK: SKY Sports NEWS FHD
-http://live.iptvtotaal.com:8000/live/mckenzie4760/L4hGTmrQgB/203474.ts
-#EXTINF:-1 group-title="ENGLISH SPORT",UK: SKY Sport NEWS HD
-http://live.iptvtotaal.com:8000/live/mckenzie4760/L4hGTmrQgB/203475.ts
-#EXTINF:-1 group-title="ENGLISH SPORT",UK: SKY Sport NEWS SD
-http://live.iptvtotaal.com:8000/live/mckenzie4760/L4hGTmrQgB/203476.ts
-#EXTINF:-1 group-title="ENGLISH SPORT",UK: TNT Sport 1 FHD
-http://live.iptvtotaal.com:8000/live/mckenzie4760/L4hGTmrQgB/203477.ts
-#EXTINF:-1 group-title="ENGLISH SPORT",UK: TNT Sport 1 HD 50fps
-http://live.iptvtotaal.com:8000/live/mckenzie4760/L4hGTmrQgB/203478.ts
-#EXTINF:-1 group-title="ENGLISH SPORT",UK: TNT Sport 1 HD
-http://live.iptvtotaal.com:8000/live/mckenzie4760/L4hGTmrQgB/203479.ts
-#EXTINF:-1 group-title="ENGLISH SPORT",UK: TNT Sport 2 FHD
-http://live.iptvtotaal.com:8000/live/mckenzie4760/L4hGTmrQgB/203480.ts
-#EXTINF:-1 group-title="ENGLISH SPORT",UK: TNT Sport 2 HD 50fps
-http://live.iptvtotaal.com:8000/live/mckenzie4760/L4hGTmrQgB/203481.ts
-#EXTINF:-1 group-title="ENGLISH SPORT",UK: TNT Sport 2 HD
-http://live.iptvtotaal.com:8000/live/mckenzie4760/L4hGTmrQgB/203482.ts
-#EXTINF:-1 group-title="ENGLISH SPORT",UK: TNT Sport 3 FHD
-http://live.iptvtotaal.com:8000/live/mckenzie4760/L4hGTmrQgB/203483.ts
-#EXTINF:-1 group-title="ENGLISH SPORT",UK: TNT Sport 3 HD
-http://live.iptvtotaal.com:8000/live/mckenzie4760/L4hGTmrQgB/203484.ts
-#EXTINF:-1 group-title="ENGLISH SPORT",UK: TNT Sport 3 SD
-http://live.iptvtotaal.com:8000/live/mckenzie4760/L4hGTmrQgB/203485.ts
-#EXTINF:-1 group-title="ENGLISH SPORT",UK: TNT SPORTS 4 FHD
-http://live.iptvtotaal.com:8000/live/mckenzie4760/L4hGTmrQgB/203486.ts
-#EXTINF:-1 group-title="ENGLISH SPORT",UK: SKY Sports Racing FHD
-http://live.iptvtotaal.com:8000/live/mckenzie4760/L4hGTmrQgB/203487.ts
-#EXTINF:-1 group-title="ENGLISH SPORT",UK: AT THE Races HD
-http://live.iptvtotaal.com:8000/live/mckenzie4760/L4hGTmrQgB/203488.ts
-#EXTINF:-1 group-title="ENGLISH SPORT",UK: SKY Sports MIX HD
-http://live.iptvtotaal.com:8000/live/mckenzie4760/L4hGTmrQgB/203489.ts
-#EXTINF:-1 group-title="ENGLISH SPORT",UK: MUTV HD
-http://live.iptvtotaal.com:8000/live/mckenzie4760/L4hGTmrQgB/203490.ts
-#EXTINF:-1 group-title="ENGLISH SPORT",UK: MUTV HD
-http://live.iptvtotaal.com:8000/live/mckenzie4760/L4hGTmrQgB/203491.ts
-#EXTINF:-1 group-title="ENGLISH SPORT",UK: Premier Sports 1 FHD
-http://live.iptvtotaal.com:8000/live/mckenzie4760/L4hGTmrQgB/203492.ts
-#EXTINF:-1 group-title="ENGLISH SPORT",UK: Premier Sports 1 HD
-http://live.iptvtotaal.com:8000/live/mckenzie4760/L4hGTmrQgB/203493.ts
-#EXTINF:-1 group-title="ENGLISH SPORT",UK: Premier Sports 2 FHD
-http://live.iptvtotaal.com:8000/live/mckenzie4760/L4hGTmrQgB/203494.ts
-#EXTINF:-1 group-title="ENGLISH SPORT",UK: Premier Sports 2 HD
-http://live.iptvtotaal.com:8000/live/mckenzie4760/L4hGTmrQgB/203495.ts
+
+
 
 
 
@@ -2502,8 +2115,6 @@ http://live.iptvtotaal.com:8000/live/mckenzie4760/L4hGTmrQgB/203495.ts
 http://4kpro2.com:8789/play/live.php?mac=00:1A:79:FB:74:61&stream=79383&extension=ts
 #EXTINF:-1 group-title="Turkey",TR | TRT UHD
 http://4kpro2.com:8789/play/live.php?mac=00:1A:79:FB:74:61&stream=79384&extension=ts
-#EXTINF:-1 group-title="Turkey",TR | TRT TURK
-http://4kpro2.com:8789/play/live.php?mac=00:1A:79:FB:74:61&stream=79385&extension=tss
 #EXTINF:-1 group-title="Turkey",TR | TRT WORLD HD
 http://4kpro2.com:8789/play/live.php?mac=00:1A:79:FB:74:61&stream=79387&extension=ts
 #EXTINF:-1 group-title="Turkey",TR | ATV FHD
