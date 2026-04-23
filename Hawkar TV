@@ -625,6 +625,13 @@ http://supaapp.xyz:8080/live/2551810583569940/2025565766597215/358239.ts
 ---------------------------Arab Sport-----------------------------
 
 
+
+
+
+#EXTINF:-1 group-title="ARABIC SPORT",ON Time Sports  1 HD
+http://ddgo770.live:2095/live/pro49/558007779/219895.ts
+#EXTINF:-1 group-title="ARABIC SPORT",ON Time Sports 2 HD
+http://ddgo770.live:2095/live/pro49/558007779/219897.ts
 #EXTINF:-1 group-title="ARABIC SPORT",AL RABIAA SPORT 1
 http://supaapp.xyz:8080/live/2551810583569940/2025565766597215/371931.ts
 #EXTINF:-1 group-title="ARABIC SPORT",AL RABIAA SPORT 1+
@@ -1796,64 +1803,97 @@ http://supaapp.xyz:8080/live/2551810583569940/2025565766597215/398935.ts
 
 
 
-#EXTINF:-1 group-title="OSN Group (AR)",OSN CARTOON NETWORK
-http://tera.online:80/158711478533/186083606640/572011
-#EXTINF:-1 group-title="OSN Group (AR)",OSN CINEMA 1
-http//tera.online:80/158711478533/186083606640/572012
-#EXTINF:-1 group-title="OSN Group (AR)",OSN CINEMA 2
-http://tera.online:80/158711478533/186083606640/572013
-#EXTINF:-1 group-title="OSN Group (AR)",OSN COMDEY
-http://tera.online:80/158711478533/186083606640/572014
-#EXTINF:-1 group-title="OSN Group (AR)",OSN DISCOVERY IDX
-http://tera.online:80/158711478533/186083606640/572016
-#EXTINF:-1 group-title="OSN Group (AR)",OSN FOX NEWS
-http://tera.online:80/158711478533/186083606640/572025
+#EXTM3U
+#EXTINF:-1 group-title="OSN Group (AR)",OSN - YAHALA HD
+http://ddgo770.live:2095/live/pro49/558007779/226045.ts
+#EXTINF:-1 group-title="OSN Group (AR)",OSN - YAHALA bi al arabi
+http://ddgo770.live:2095/live/pro49/558007779/226046.ts
+#EXTINF:-1 group-title="OSN Group (AR)",OSN - YAHALA Cinema HD
+http://ddgo770.live:2095/live/pro49/558007779/226047.ts
+#EXTINF:-1 group-title="OSN Group (AR)",OSN - Movies ACTION HD
+http://ddgo770.live:2095/live/pro49/558007779/226048.ts
+#EXTINF:-1 group-title="OSN Group (AR)",OSN - MOVIES  Hollywood HD
+http://ddgo770.live:2095/live/pro49/558007779/226049.ts
+#EXTINF:-1 group-title="OSN Group (AR)",OSN - MOVIES Premier HD
+http://ddgo770.live:2095/live/pro49/558007779/226050.ts
+#EXTINF:-1 group-title="OSN Group (AR)",OSN - MOVIES DISNEY HD
+http://ddgo770.live:2095/live/pro49/558007779/226051.ts
+#EXTINF:-1 group-title="OSN Group (AR)",OSN - ShowCase HD
+http://ddgo770.live:2095/live/pro49/558007779/226052.ts
+#EXTINF:-1 group-title="OSN Group (AR)",OSN - KIDS HD
+http://ddgo770.live:2095/live/pro49/558007779/226053.ts
+#EXTINF:-1 group-title="OSN Group (AR)",OSN - SERIES Prime HD
+http://ddgo770.live:2095/live/pro49/558007779/226054.ts
+#EXTINF:-1 group-title="OSN Group (AR)",OSN - Family HD
+http://ddgo770.live:2095/live/pro49/558007779/226055.ts
+#EXTINF:-1 group-title="OSN Group (AR)",OSN - STAR MOVIES HD
+http://ddgo770.live:2095/live/pro49/558007779/226056.ts
+#EXTINF:-1 group-title="OSN Group (AR)",OSN - STAR WORLD HD
+http://ddgo770.live:2095/live/pro49/558007779/226057.ts
+#EXTINF:-1 group-title="OSN Group (AR)",OSN - TLC HD
+http://ddgo770.live:2095/live/pro49/558007779/226058.ts
+#EXTINF:-1 group-title="OSN Group (AR)",OSN - CRIME INVESTIGATION HD
+http://ddgo770.live:2095/live/pro49/558007779/226059.ts
+#EXTINF:-1 group-title="OSN Group (AR)",OSN - COMEDY CENTRAL HD
+http://ddgo770.live:2095/live/pro49/558007779/226060.ts
+#EXTINF:-1 group-title="OSN Group (AR)",OSN - E HD
+http://ddgo770.live:2095/live/pro49/558007779/226061.ts
+#EXTINF:-1 group-title="OSN Group (AR)",OSN - LIVING HD
+http://ddgo770.live:2095/live/pro49/558007779/226062.ts
+#EXTINF:-1 group-title="OSN Group (AR)",OSN - Meezze HD
+http://ddgo770.live:2095/live/pro49/558007779/226063.ts
+#EXTINF:-1 group-title="OSN Group (AR)",OSN - FANN HD
+http://ddgo770.live:2095/live/pro49/558007779/226064.ts
+#EXTINF:-1 group-title="OSN Group (AR)",OSN - ALFA ALSAFWA HD
+http://ddgo770.live:2095/live/pro49/558007779/226065.ts
+#EXTINF:-1 group-title="OSN Group (AR)",OSN - ALFA ALYOUM HD
+http://ddgo770.live:2095/live/pro49/558007779/226066.ts
+#EXTINF:-1 group-title="OSN Group (AR)",OSN - ALFA CINEMA 1 HD
+http://ddgo770.live:2095/live/pro49/558007779/226067.ts
+#EXTINF:-1 group-title="OSN Group (AR)",OSN - ALFA CINEMA 2 HD
+http://ddgo770.live:2095/live/pro49/558007779/226068.ts
+#EXTINF:-1 group-title="OSN Group (AR)",OSN - ALFA MUSALSALAT HD
+http://ddgo770.live:2095/live/pro49/558007779/226069.ts
+#EXTINF:-1 group-title="OSN Group (AR)",OSN - ALFA MUSIC NOW HD
+http://ddgo770.live:2095/live/pro49/558007779/226070.ts
+#EXTINF:-1 group-title="OSN Group (AR)",OSN - H2 HD
+http://ddgo770.live:2095/live/pro49/558007779/226071.ts
+#EXTINF:-1 group-title="OSN Group (AR)",OSN - HISTORY HD
+http://ddgo770.live:2095/live/pro49/558007779/226072.ts
+#EXTINF:-1 group-title="OSN Group (AR)",OSN - NAT GEOGRAPHIC
+http://ddgo770.live:2095/live/pro49/558007779/226073.ts
+#EXTINF:-1 group-title="OSN Group (AR)",OSN - NAT GEO WILD HD
+http://ddgo770.live:2095/live/pro49/558007779/226074.ts
+#EXTINF:-1 group-title="OSN Group (AR)",OSN - DISCOVERY HD
+http://ddgo770.live:2095/live/pro49/558007779/226075.ts
+#EXTINF:-1 group-title="OSN Group (AR)",OSN - DISCOVERY ID HD
+http://ddgo770.live:2095/live/pro49/558007779/226076.ts
+#EXTINF:-1 group-title="OSN Group (AR)",OSN - DISCOVERY SC HD
+http://ddgo770.live:2095/live/pro49/558007779/226077.ts
+#EXTINF:-1 group-title="OSN Group (AR)",OSN - DISNEY JUNIOR HD
+http://ddgo770.live:2095/live/pro49/558007779/226078.ts
+#EXTINF:-1 group-title="OSN Group (AR)",OSN - NICK JR HD
+http://ddgo770.live:2095/live/pro49/558007779/226079.ts
+#EXTINF:-1 group-title="OSN Group (AR)",OSN - NICKELODEON HD
+http://ddgo770.live:2095/live/pro49/558007779/226080.ts
+#EXTINF:-1 group-title="OSN Group (AR)",OSN - DISNEY CHANNEL HD
+http://ddgo770.live:2095/live/pro49/558007779/226081.ts
+#EXTINF:-1 group-title="OSN Group (AR)",Osn Comedy
+http://ddgo770.live:2095/live/pro49/558007779/226082.ts
+#EXTINF:-1 group-title="OSN Group (AR)",OSN Series
+http://ddgo770.live:2095/live/pro49/558007779/226083.ts
+#EXTINF:-1 group-title="OSN Group (AR)",Osn Netflix
+http://ddgo770.live:2095/live/pro49/558007779/226084.ts
 #EXTINF:-1 group-title="OSN Group (AR)",OSN KIDS
-http://tera.online:80/158711478533/186083606640/572029
-#EXTINF:-1 group-title="OSN Group (AR)",OSN HISTORY 2
-http://tera.online:80/158711478533/186083606640/572028
-#EXTINF:-1 group-title="OSN Group (AR)",OSN HISTORY
-http://tera.online:80/158711478533/186083606640/572027
-#EXTINF:-1 group-title="OSN Group (AR)",OSN GAME TOON
-http://tera.online:80/158711478533/186083606640/572026
-#EXTINF:-1 group-title="OSN Group (AR)",OSN MEZZE
-http://tera.online:80/158711478533/186083606640/572031
-#EXTINF:-1 group-title="OSN Group (AR)",OSN MOVIES ACTION
-http://tera.online:80/158711478533/186083606640/572034
-#EXTINF:-1 group-title="OSN Group (AR)",OSN MOVIES FAMILY
-http://tera.online:80/158711478533/186083606640/572035
-#EXTINF:-1 group-title="OSN Group (AR)",Osn Movies Hollywood
-http://tera.online:80/158711478533/186083606640/572036
-#EXTINF:-1 group-title="OSN Group (AR)",OSN MOVIES HORROR
-http://tera.online:80/158711478533/186083606640/572037
-#EXTINF:-1 group-title="OSN Group (AR)",OSN MOVIES PREMIERE
-http://tera.online:80/158711478533/186083606640/572038
-#EXTINF:-1 group-title="OSN Group (AR)",OSN Netflix
-http://tera.online:80/158711478533/186083606640/572042
-#EXTINF:-1 group-title="OSN Group (AR)",OSN NICK JR.
-http://tera.online:80/158711478533/186083606640/572043
-#EXTINF:-1 group-title="OSN Group (AR)",OSN NICK JR.
-http://tera.online:80/158711478533/186083606640/572044
-#EXTINF:-1 group-title="OSN Group (AR)",OSN NOW
-http://tera.online:80/158711478533/186083606640/572046
-#EXTINF:-1 group-title="OSN Group (AR)",OSN On Demand
-http://tera.online:80/158711478533/186083606640/572047
-#EXTINF:-1 group-title="OSN Group (AR)",OSN ONE
-http://tera.online:80/158711478533/186083606640/572048
-#EXTINF:-1 group-title="OSN Group (AR)",OSN PLAY CINEMA 1
-http://tera.online:80/158711478533/186083606640/572049
-#EXTINF:-1 group-title="OSN Group (AR)",OSN PLAY CINEMA 2
-http://tera.online:80/158711478533/186083606640/572050
-#EXTINF:-1 group-title="OSN Group (AR)",OSN PLAY MOVIES 4
-http://tera.online:80/158711478533/186083606640/572056
-#EXTINF:-1 group-title="OSN Group (AR)",OSN SHOWCASE
-http://tera.online:80/158711478533/186083606640/572059
-#EXTINF:-1 group-title="OSN Group (AR)",OSN TLC
-http://tera.online:80/158711478533/186083606640/572062
-#EXTINF:-1 group-title="OSN Group (AR)",OSN WWE
-http://tera.online:80/158711478533/186083606640/572063
-#EXTINF:-1 group-title="OSN Group (AR)",OSN YAHALA
-http://tera.online:80/158711478533/186083606640/572064
+http://ddgo770.live:2095/live/pro49/558007779/226087.ts
+#EXTINF:-1 group-title="OSN Group (AR)",OSN Action 2
+http://ddgo770.live:2095/live/pro49/558007779/226089.ts
+#EXTINF:-1 group-title="OSN Group (AR)",OSN WOMAN { soon HD }
+http://ddgo770.live:2095/live/pro49/558007779/226090.ts
+#EXTINF:-1 group-title="OSN Group (AR)",OSN Discovery Family HD
+http://ddgo770.live:2095/live/pro49/558007779/226091.ts
+#EXTINF:-1 group-title="OSN Group (AR)",OSN Movies Premiere 2
+http://ddgo770.live:2095/live/pro49/558007779/226092.ts
 #EXTINF:-1 group-title="OSN Group (AR)",Netflix Action 1
 http://tera.online:80/158711478533/186083606640/575218
 #EXTINF:-1 group-title="OSN Group (AR)",Netflix Action 2
@@ -1866,6 +1906,24 @@ http://tera.online:80/158711478533/186083606640/574146
 ----------------------Movies (EN)----------------------------------------
 
 
+
+
+#EXTINF:-1 group-title="Movies (EN)",HBO
+http://ddgo770.live:2095/live/pro49/558007779/189099.ts
+#EXTINF:-1 group-title="Movies (EN)",HBO 2
+http://ddgo770.live:2095/live/pro49/558007779/189100.ts
+#EXTINF:-1 group-title="Movies (EN)",HBO GO 
+http://ddgo770.live:2095/live/pro49/558007779/189102.ts
+#EXTINF:-1 group-title="Movies (EN)",HBO MAX
+http://ddgo770.live:2095/live/pro49/558007779/189103.ts
+#EXTINF:-1 group-title="Movies (EN)",HBO ONDEMAND
+http://ddgo770.live:2095/live/pro49/558007779/189104.ts
+#EXTINF:-1 group-title="Movies (EN)",HBO FAMILY
+http://ddgo770.live:2095/live/pro49/558007779/189108.ts
+#EXTINF:-1 group-title="Movies (EN)",HBO PLUS
+http://ddgo770.live:2095/live/pro49/558007779/189109.ts
+#EXTINF:-1 group-title="Movies (EN)",HBO MAX 02
+http://ddgo770.live:2095/live/pro49/558007779/189721.ts
 #EXTINF:-1 group-title="Movies (EN)",UK◈ Sky Store info ᴴᴰ
 http://myfhdtv.com:80/live/00000/00000/2518193.ts
 #EXTINF:-1 group-title="Movies (EN)",UK◈ Sky Store Premiere 1 ᴴᴰ
