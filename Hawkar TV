@@ -4,7 +4,7 @@ https://live.rudaw.net/hls/rudaw-tv/master.m3u8
 #EXTINF:-1 group-title="KURDISTAN",Channel 8 Kurdish
 http://supaapp.xyz:8080/live/2551810583569940/2025565766597215/429647.ts
 #EXTINF:-1 group-title="KURDISTAN",NRT 1 News
-http://line.watchtivo-8k.com:80/play/live.php?mac=A0:BB:3E:18:9E:02&stream=1666440&extension=ts
+https://barham.short.gy/nrt.news.m3u8
 #EXTINF:-1 group-title="KURDISTAN",K24
 http://supaapp.xyz:8080/live/2551810583569940/2025565766597215/429644.ts
 #EXTINF:-1 group-title="KURDISTAN",KIRKUK TV
