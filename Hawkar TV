@@ -431,6 +431,59 @@ http://4kpro2.com:8789/play/live.php?mac=00:1A:79:FB:74:61&stream=212452&extensi
 http://ddgo770.live:2095/live/pro49/558007779/219895.ts
 #EXTINF:-1 group-title="ARABIC SPORT",ON Time Sports 2 HD
 http://ddgo770.live:2095/live/pro49/558007779/219897.ts
+#EXTINF:-1 group-title="ARABIC SPORT",ONTIME SPORTS HD
+http://marveltv.info/live/36889/147835/98423.ts
+#EXTINF:-1 group-title="ARABIC SPORT",On Time Sport HD
+http://marveltv.info/live/36889/147835/514891.ts
+#EXTINF:-1 group-title="ARABIC SPORT",ONTIME SPORTS1 FHD
+http://marveltv.info/live/36889/147835/92714.ts
+#EXTINF:-1 group-title="ARABIC SPORT",ONTIME SPORTS2 HD
+http://marveltv.info/live/36889/147835/92694.ts
+#EXTINF:-1 group-title="ARABIC SPORT",On Time Sport Plus HD
+http://marveltv.info/live/36889/147835/514885.ts
+#EXTINF:-1 group-title="ARABIC SPORT",On Time Sport Max HD
+http://marveltv.info/live/36889/147835/514888.ts
+#EXTINF:-1 group-title="ARABIC SPORT",AlAhly FHD
+http://marveltv.info/live/36889/147835/98426.ts
+#EXTINF:-1 group-title="ARABIC SPORT",ZAMALEK TV
+http://marveltv.info/live/36889/147835/87656.ts
+#EXTINF:-1 group-title="ARABIC SPORT",Nile Sport
+http://marveltv.info/live/36889/147835/92701.ts
+#EXTINF:-1 group-title="ARABIC SPORT",KSA Sport 1 FHD
+http://marveltv.info/live/36889/147835/309826.ts
+#EXTINF:-1 group-title="ARABIC SPORT",KSA Sport 2 FHD
+http://marveltv.info/live/36889/147835/309825.ts
+#EXTINF:-1 group-title="ARABIC SPORT",KSA Sport 3 FHD
+http://marveltv.info/live/36889/147835/311332.ts
+#EXTINF:-1 group-title="ARABIC SPORT",KSA Sport 4 FHD
+http://marveltv.info/live/36889/147835/311333.ts
+#EXTINF:-1 group-title="ARABIC SPORT",Iraqia Sport HD
+http://marveltv.info/live/36889/147835/154339.ts
+#EXTINF:-1 group-title="ARABIC SPORT",OMAN SPORTS
+http://marveltv.info/live/36889/147835/309757.ts
+#EXTINF:-1 group-title="ARABIC SPORT",Sharjah Sport HD
+http://marveltv.info/live/36889/147835/261524.ts
+#EXTINF:-1 group-title="ARABIC SPORT",Jordan Sport
+http://marveltv.info/live/36889/147835/160212.ts
+#EXTINF:-1 group-title="ARABIC SPORT",KUWAIT SPORTS
+http://marveltv.info/live/36889/147835/314996.ts
+#EXTINF:-1 group-title="ARABIC SPORT",Libya Sport 1 HD
+http://marveltv.info/live/36889/147835/261429.ts
+#EXTINF:-1 group-title="ARABIC SPORT",Libya Sport 2 HD
+http://marveltv.info/live/36889/147835/261428.ts
+#EXTINF:-1 group-title="ARABIC SPORT",Kuwait Sport 2
+http://marveltv.info/live/36889/147835/258646.ts
+#EXTINF:-1 group-title="ARABIC SPORT",Dubai Sports 1 HD
+http://marveltv.info/live/36889/147835/168913.ts
+#EXTINF:-1 group-title="ARABIC SPORT",Dubai Sports 2 HD
+http://marveltv.info/live/36889/147835/168912.ts
+#EXTINF:-1 group-title="ARABIC SPORT",Dubai Sports 3 HD
+http://marveltv.info/live/36889/147835/168911.ts
+#EXTINF:-1 group-title="ARABIC SPORT",AD Sports 1 HD
+http://marveltv.info/live/36889/147835/168917.ts
+#EXTINF:-1 group-title="ARABIC SPORT",AD Sports 2 HD
+http://marveltv.info/live/36889/147835/168916.ts
+
 
 
 
@@ -1477,101 +1530,163 @@ http://supaapp.xyz:8080/live/2551810583569940/2025565766597215/398935.ts
 
 
 #EXTM3U
-#EXTINF:-1 group-title="OSN Group (AR)",OSN - YAHALA HD
-http://ddgo770.live:2095/live/pro49/558007779/226045.ts
-#EXTINF:-1 group-title="OSN Group (AR)",OSN - YAHALA bi al arabi
-http://ddgo770.live:2095/live/pro49/558007779/226046.ts
-#EXTINF:-1 group-title="OSN Group (AR)",OSN - YAHALA Cinema HD
-http://ddgo770.live:2095/live/pro49/558007779/226047.ts
-#EXTINF:-1 group-title="OSN Group (AR)",OSN - Movies ACTION HD
-http://ddgo770.live:2095/live/pro49/558007779/226048.ts
-#EXTINF:-1 group-title="OSN Group (AR)",OSN - MOVIES  Hollywood HD
-http://ddgo770.live:2095/live/pro49/558007779/226049.ts
-#EXTINF:-1 group-title="OSN Group (AR)",OSN - MOVIES Premier HD
-http://ddgo770.live:2095/live/pro49/558007779/226050.ts
-#EXTINF:-1 group-title="OSN Group (AR)",OSN - MOVIES DISNEY HD
-http://ddgo770.live:2095/live/pro49/558007779/226051.ts
-#EXTINF:-1 group-title="OSN Group (AR)",OSN - ShowCase HD
-http://ddgo770.live:2095/live/pro49/558007779/226052.ts
-#EXTINF:-1 group-title="OSN Group (AR)",OSN - KIDS HD
-http://ddgo770.live:2095/live/pro49/558007779/226053.ts
-#EXTINF:-1 group-title="OSN Group (AR)",OSN - SERIES Prime HD
-http://ddgo770.live:2095/live/pro49/558007779/226054.ts
-#EXTINF:-1 group-title="OSN Group (AR)",OSN - Family HD
-http://ddgo770.live:2095/live/pro49/558007779/226055.ts
-#EXTINF:-1 group-title="OSN Group (AR)",OSN - STAR MOVIES HD
-http://ddgo770.live:2095/live/pro49/558007779/226056.ts
-#EXTINF:-1 group-title="OSN Group (AR)",OSN - STAR WORLD HD
-http://ddgo770.live:2095/live/pro49/558007779/226057.ts
-#EXTINF:-1 group-title="OSN Group (AR)",OSN - TLC HD
-http://ddgo770.live:2095/live/pro49/558007779/226058.ts
-#EXTINF:-1 group-title="OSN Group (AR)",OSN - CRIME INVESTIGATION HD
-http://ddgo770.live:2095/live/pro49/558007779/226059.ts
-#EXTINF:-1 group-title="OSN Group (AR)",OSN - COMEDY CENTRAL HD
-http://ddgo770.live:2095/live/pro49/558007779/226060.ts
-#EXTINF:-1 group-title="OSN Group (AR)",OSN - E HD
-http://ddgo770.live:2095/live/pro49/558007779/226061.ts
-#EXTINF:-1 group-title="OSN Group (AR)",OSN - LIVING HD
-http://ddgo770.live:2095/live/pro49/558007779/226062.ts
-#EXTINF:-1 group-title="OSN Group (AR)",OSN - Meezze HD
-http://ddgo770.live:2095/live/pro49/558007779/226063.ts
-#EXTINF:-1 group-title="OSN Group (AR)",OSN - FANN HD
-http://ddgo770.live:2095/live/pro49/558007779/226064.ts
-#EXTINF:-1 group-title="OSN Group (AR)",OSN - ALFA ALSAFWA HD
-http://ddgo770.live:2095/live/pro49/558007779/226065.ts
-#EXTINF:-1 group-title="OSN Group (AR)",OSN - ALFA ALYOUM HD
-http://ddgo770.live:2095/live/pro49/558007779/226066.ts
-#EXTINF:-1 group-title="OSN Group (AR)",OSN - ALFA CINEMA 1 HD
-http://ddgo770.live:2095/live/pro49/558007779/226067.ts
-#EXTINF:-1 group-title="OSN Group (AR)",OSN - ALFA CINEMA 2 HD
-http://ddgo770.live:2095/live/pro49/558007779/226068.ts
-#EXTINF:-1 group-title="OSN Group (AR)",OSN - ALFA MUSALSALAT HD
-http://ddgo770.live:2095/live/pro49/558007779/226069.ts
-#EXTINF:-1 group-title="OSN Group (AR)",OSN - ALFA MUSIC NOW HD
-http://ddgo770.live:2095/live/pro49/558007779/226070.ts
-#EXTINF:-1 group-title="OSN Group (AR)",OSN - H2 HD
-http://ddgo770.live:2095/live/pro49/558007779/226071.ts
-#EXTINF:-1 group-title="OSN Group (AR)",OSN - HISTORY HD
-http://ddgo770.live:2095/live/pro49/558007779/226072.ts
-#EXTINF:-1 group-title="OSN Group (AR)",OSN - NAT GEOGRAPHIC
-http://ddgo770.live:2095/live/pro49/558007779/226073.ts
-#EXTINF:-1 group-title="OSN Group (AR)",OSN - NAT GEO WILD HD
-http://ddgo770.live:2095/live/pro49/558007779/226074.ts
-#EXTINF:-1 group-title="OSN Group (AR)",OSN - DISCOVERY HD
-http://ddgo770.live:2095/live/pro49/558007779/226075.ts
-#EXTINF:-1 group-title="OSN Group (AR)",OSN - DISCOVERY ID HD
-http://ddgo770.live:2095/live/pro49/558007779/226076.ts
-#EXTINF:-1 group-title="OSN Group (AR)",OSN - DISCOVERY SC HD
-http://ddgo770.live:2095/live/pro49/558007779/226077.ts
-#EXTINF:-1 group-title="OSN Group (AR)",OSN - DISNEY JUNIOR HD
-http://ddgo770.live:2095/live/pro49/558007779/226078.ts
-#EXTINF:-1 group-title="OSN Group (AR)",OSN - NICK JR HD
-http://ddgo770.live:2095/live/pro49/558007779/226079.ts
-#EXTINF:-1 group-title="OSN Group (AR)",OSN - NICKELODEON HD
-http://ddgo770.live:2095/live/pro49/558007779/226080.ts
-#EXTINF:-1 group-title="OSN Group (AR)",OSN - DISNEY CHANNEL HD
-http://ddgo770.live:2095/live/pro49/558007779/226081.ts
-#EXTINF:-1 group-title="OSN Group (AR)",Osn Comedy
-http://ddgo770.live:2095/live/pro49/558007779/226082.ts
-#EXTINF:-1 group-title="OSN Group (AR)",OSN Series
-http://ddgo770.live:2095/live/pro49/558007779/226083.ts
-#EXTINF:-1 group-title="OSN Group (AR)",Osn Netflix
-http://ddgo770.live:2095/live/pro49/558007779/226084.ts
-#EXTINF:-1 group-title="OSN Group (AR)",OSN KIDS
-http://ddgo770.live:2095/live/pro49/558007779/226087.ts
-#EXTINF:-1 group-title="OSN Group (AR)",OSN Action 2
-http://ddgo770.live:2095/live/pro49/558007779/226089.ts
-#EXTINF:-1 group-title="OSN Group (AR)",OSN WOMAN { soon HD }
-http://ddgo770.live:2095/live/pro49/558007779/226090.ts
-#EXTINF:-1 group-title="OSN Group (AR)",OSN Discovery Family HD
-http://ddgo770.live:2095/live/pro49/558007779/226091.ts
-#EXTINF:-1 group-title="OSN Group (AR)",OSN Movies Premiere 2
-http://ddgo770.live:2095/live/pro49/558007779/226092.ts
-#EXTINF:-1 group-title="OSN Group (AR)",Netflix Action 1
+#EXTINF:-1 group-title="OSN HD",OSN Art Cinema
+http://marveltv.info/live/36889/147835/82701.ts
+#EXTINF:-1 group-title="OSN HD",OSN Art Aflam 1
+http://marveltv.info/live/36889/147835/82702.ts
+#EXTINF:-1 group-title="OSN HD",OSN Art Aflam 2
+http://marveltv.info/live/36889/147835/82703.ts
+#EXTINF:-1 group-title="OSN HD",OSN Art Hekayat 1
+http://marveltv.info/live/36889/147835/82704.ts
+#EXTINF:-1 group-title="OSN HD",OSN Art Hekayat 2
+http://marveltv.info/live/36889/147835/82705.ts
+#EXTINF:-1 group-title="OSN HD",OSN YA HALA
+http://marveltv.info/live/36889/147835/273005.ts
+#EXTINF:-1 group-title="OSN HD",OSN YA HALA ARABI
+http://marveltv.info/live/36889/147835/273004.ts
+#EXTINF:-1 group-title="OSN HD",OSN YA HALA AFLAM
+http://marveltv.info/live/36889/147835/273003.ts
+#EXTINF:-1 group-title="OSN HD",OSN Alfa Musalsalat HD
+http://marveltv.info/live/36889/147835/273002.ts
+#EXTINF:-1 group-title="OSN HD",OSN Alfa Musalsalat 2 HD
+http://marveltv.info/live/36889/147835/273001.ts
+#EXTINF:-1 group-title="OSN HD",OSN Alfa Cinema 1 HD
+http://marveltv.info/live/36889/147835/273000.ts
+#EXTINF:-1 group-title="OSN HD",OSN Alfa Cinema 2 HD
+http://marveltv.info/live/36889/147835/272999.ts
+#EXTINF:-1 group-title="OSN HD",OSN Alfa AlFann HD
+http://marveltv.info/live/36889/147835/366090.ts
+#EXTINF:-1 group-title="OSN HD",OSN Alfa Al Safwa HD
+http://marveltv.info/live/36889/147835/366089.ts
+#EXTINF:-1 group-title="OSN HD",OSN STAR MOVIES
+http://marveltv.info/live/36889/147835/272998.ts
+#EXTINF:-1 group-title="OSN HD",OSN Alfa Alyoum HD
+http://marveltv.info/live/36889/147835/272996.ts
+#EXTINF:-1 group-title="OSN HD",OSN Alfa Music Now HD
+http://marveltv.info/live/36889/147835/272994.ts
+#EXTINF:-1 group-title="OSN HD",OSN FANN
+http://marveltv.info/live/36889/147835/272993.ts
+#EXTINF:-1 group-title="OSN HD",OSN MOVIES PREMIERE HD
+http://marveltv.info/live/36889/147835/272990.ts
+#EXTINF:-1 group-title="OSN HD",OSN MOVIES HOLYWOOD
+http://marveltv.info/live/36889/147835/272989.ts
+#EXTINF:-1 group-title="OSN HD",OSN Family HD
+http://marveltv.info/live/36889/147835/366103.ts
+#EXTINF:-1 group-title="OSN HD",OSN Showcase Classic HD
+http://marveltv.info/live/36889/147835/366102.ts
+#EXTINF:-1 group-title="OSN HD",OSN Crime HD
+http://marveltv.info/live/36889/147835/366101.ts
+#EXTINF:-1 group-title="OSN HD",OSN Crime Investigation HD
+http://marveltv.info/live/36889/147835/366100.ts
+#EXTINF:-1 group-title="OSN HD",OSN TV One HD
+http://marveltv.info/live/36889/147835/366099.ts
+#EXTINF:-1 group-title="OSN HD",OSN WWE
+http://marveltv.info/live/36889/147835/366098.ts
+#EXTINF:-1 group-title="OSN HD",OSN Now HD
+http://marveltv.info/live/36889/147835/366097.ts
+#EXTINF:-1 group-title="OSN HD",OSN News HD
+http://marveltv.info/live/36889/147835/366096.ts
+#EXTINF:-1 group-title="OSN HD",OSN Fatafeat HD
+http://marveltv.info/live/36889/147835/366095.ts
+#EXTINF:-1 group-title="OSN HD",OSN Animal HD
+http://marveltv.info/live/36889/147835/366094.ts
+#EXTINF:-1 group-title="OSN HD",OSN Moonbug Kids
+http://marveltv.info/live/36889/147835/366093.ts
+#EXTINF:-1 group-title="OSN HD",OSN Nick Toon HD
+http://marveltv.info/live/36889/147835/366092.ts
+#EXTINF:-1 group-title="OSN HD",OSN Cartoon Network HD
+http://marveltv.info/live/36889/147835/366091.ts
+#EXTINF:-1 group-title="OSN HD",OSN ACTION
+http://marveltv.info/live/36889/147835/272988.ts
+#EXTINF:-1 group-title="OSN HD",OSN SHOWCASE
+http://marveltv.info/live/36889/147835/272987.ts
+#EXTINF:-1 group-title="OSN HD",OSN COMEDY
+http://marveltv.info/live/36889/147835/272986.ts
+#EXTINF:-1 group-title="OSN HD",OSN WOMAN
+http://marveltv.info/live/36889/147835/272985.ts
+#EXTINF:-1 group-title="OSN HD",OSN LIVING
+http://marveltv.info/live/36889/147835/272984.ts
+#EXTINF:-1 group-title="OSN HD",OSN TLC
+http://marveltv.info/live/36889/147835/272983.ts
+#EXTINF:-1 group-title="OSN HD",OSN E!
+http://marveltv.info/live/36889/147835/272982.ts
+#EXTINF:-1 group-title="OSN HD",OSN FASHION TV
+http://marveltv.info/live/36889/147835/272980.ts
+#EXTINF:-1 group-title="OSN HD",OSN DISNEY CHANNEL
+http://marveltv.info/live/36889/147835/272979.ts
+#EXTINF:-1 group-title="OSN HD",OSN DISNEY JUNIOR
+http://marveltv.info/live/36889/147835/272977.ts
+#EXTINF:-1 group-title="OSN HD",OSN KIDS
+http://marveltv.info/live/36889/147835/272976.ts
+#EXTINF:-1 group-title="OSN HD",OSN KIDS ZONE TV
+http://marveltv.info/live/36889/147835/272975.ts
+#EXTINF:-1 group-title="OSN HD",OSN NICK JR
+http://marveltv.info/live/36889/147835/272974.ts
+#EXTINF:-1 group-title="OSN HD",OSN NICKELODEON
+http://marveltv.info/live/36889/147835/272973.ts
+#EXTINF:-1 group-title="OSN HD",National Geographic Abu Dhabi
+http://marveltv.info/live/36889/147835/318063.ts
+#EXTINF:-1 group-title="OSN HD",OSN NAT GEO WILD
+http://marveltv.info/live/36889/147835/272971.ts
+#EXTINF:-1 group-title="OSN HD",OSN NAT GEO
+http://marveltv.info/live/36889/147835/272970.ts
+#EXTINF:-1 group-title="OSN HD",OSN NAT GEO PEOPLE
+http://marveltv.info/live/36889/147835/272969.ts
+#EXTINF:-1 group-title="OSN HD",OSN DISCOVERY
+http://marveltv.info/live/36889/147835/272968.ts
+#EXTINF:-1 group-title="OSN HD",OSN DISCOVERY SCIENCE
+http://marveltv.info/live/36889/147835/272967.ts
+#EXTINF:-1 group-title="OSN HD",OSN DISCOVERY ID
+http://marveltv.info/live/36889/147835/272966.ts
+#EXTINF:-1 group-title="OSN HD",OSN HISTORY
+http://marveltv.info/live/36889/147835/272965.ts
+#EXTINF:-1 group-title="OSN HD",OSN H2 HD
+http://marveltv.info/live/36889/147835/272964.ts
+#EXTINF:-1 group-title="OSN HD",OSN Meezze HD
+http://marveltv.info/live/36889/147835/272963.ts
+#EXTINF:-1 group-title="OSN HD",OSN- POP UP FHD
+http://marveltv.info/live/36889/147835/203193.ts
+#EXTINF:-1 group-title="OSN HD",OSN- MOVIES FHD
+http://marveltv.info/live/36889/147835/203192.ts
+#EXTINF:-1 group-title="OSN HD",OSN- Movies First FHD
+http://marveltv.info/live/36889/147835/203191.ts
+#EXTINF:-1 group-title="OSN HD",OSN- Action HD
+http://marveltv.info/live/36889/147835/203190.ts
+#EXTINF:-1 group-title="OSN HD",OSN- Movies First +2 HD
+http://marveltv.info/live/36889/147835/203189.ts
+#EXTINF:-1 group-title="OSN HD",OSN- On Demand FHD
+http://marveltv.info/live/36889/147835/203188.ts
+#EXTINF:-1 group-title="OSN HD",OSN Family
+http://marveltv.info/live/36889/147835/203187.ts
+#EXTINF:-1 group-title="OSN HD",OSN- KIDS FHD
+http://marveltv.info/live/36889/147835/203186.ts
+#EXTINF:-1 group-title="OSN HD",OSN BOX OFFICE 1
+http://marveltv.info/live/36889/147835/229403.ts
+#EXTINF:-1 group-title="OSN HD",OSN- PLAY MOVIES 1 FHD
+http://marveltv.info/live/36889/147835/203185.ts
+#EXTINF:-1 group-title="OSN HD",OSN- PLAY MOVIES 2 FHD
+http://marveltv.info/live/36889/147835/203184.ts
+#EXTINF:-1 group-title="OSN HD",OSN- PLAY MOVIES 3 FHD
+http://marveltv.info/live/36889/147835/203183.ts
+#EXTINF:-1 group-title="OSN HD",OSN- PLAY MOVIES 4 FHD
+http://marveltv.info/live/36889/147835/203182.ts
+#EXTINF:-1 group-title="OSN HD",OSN- PLAY CINEMA 1 FHD
+http://marveltv.info/live/36889/147835/203181.ts
+#EXTINF:-1 group-title="OSN HD",OSN- PLAY CINEMA 2 FHD
+http://marveltv.info/live/36889/147835/203180.ts
+#EXTINF:-1 group-title="OSN HD",OSN- PLAY CINEMA 3 FHD
+http://marveltv.info/live/36889/147835/203179.ts
+#EXTINF:-1 group-title="OSN HD",OSN- PLAY CINEMA 4 FHD
+http://marveltv.info/live/36889/147835/203178.ts
+#EXTINF:-1 group-title="OSN HD",OSN- Enigma FHD
+http://marveltv.info/live/36889/147835/203177.ts
+#EXTINF:-1 group-title="OSN HD",OSN- Movies Comedy FHD
+http://marveltv.info/live/36889/147835/203176.ts
+#EXTINF:-1 group-title="OSN HD",Netflix Action 1
 http://tera.online:80/158711478533/186083606640/575218
-#EXTINF:-1 group-title="OSN Group (AR)",Netflix Action 2
+#EXTINF:-1 group-title="OSN HD",Netflix Action 2
 http://tera.online:80/158711478533/186083606640/575226
-#EXTINF:-1 group-title="OSN Group (AR)",AMAZONE MOVIES 3
+#EXTINF:-1 group-title="OSN HD",AMAZONE MOVIES 3
 http://tera.online:80/158711478533/186083606640/574146
 
 
