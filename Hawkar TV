@@ -143,8 +143,6 @@ http://afarintv2.flashmediacast.com:1935/afarinTV/livestream/playlist.m3u8
 http://afarintv2.flashmediacast.com:1935/afarinTV/d1/livestream/HawezHD.m3u8
 #EXTINF:0 CUID="8566" tvg-name="LAWAN HD" tvg-logo="https://i.postimg.cc/ry650tZB/lawan-1.png" group-title="KURDISTAN",LAWAN HD
 http://136.243.155.55:8088/Lawanhd/index.m3u8
-#EXTINF:0 CUID="8567" tvg-name="Barin Sport hd" tvg-logo="https://i.postimg.cc/KjVhfmXT/BC48-A104-42-C9-46-F0-A50-D-27-E867-A49914.png" group-title="KURDISTAN",Barin Sport hd
-https://ssh101stream.ssh101.com/akamaissh101/ssh101/barinsport/playlist.m3u8
 #EXTINF:0 CUID="8569" tvg-name="JOJO MAMA" tvg-logo="https://i.postimg.cc/jtz9rcPP/jojo-mama.png" group-title="KURDISTAN",JOJO MAMA
 http://185.189.225.150:85/BabyTV/index.m3u8
 #EXTINF:0 CUID="8570" tvg-name="BAHA ENTERTAINMENT" tvg-logo="https://i.postimg.cc/Sqdk22x2/baha.png" group-title="KURDISTAN",BAHA ENTERTAINMENT
@@ -169,8 +167,6 @@ https://live20.bozztv.com/giatv/giatv-likemovies+/likemovies+/chunks.m3u8
 https://cdn.karwan.tv/infinity-tv/tracks-v1a1/mono.m3u8
 #EXTINF:0 CUID="8583" tvg-name="NAT GEO WILD" tvg-logo="https://i.postimg.cc/8CJtSyGQ/pngwing-com-2.png" group-title="KURDISTAN",NAT GEO WILD
 http://185.189.225.150:85/natgeowild/index.m3u8
-#EXTINF:0 CUID="8584" tvg-name="Mix SPORT" group-title="KURDISTAN",Mix SPORT
-http://avrstream.com:1935/live/Mix-kurdy/playlist.m3u8
 #EXTINF:0 CUID="8587" tvg-name="HORMIZAIR" tvg-logo="https://i.postimg.cc/bqB96HNL/HORNZ.png" group-title="KURDISTAN",HORMIZAIR
 http://avrstream.com:1935/live/HormzyarHD/playlist.m3u8
 #EXTINF:0 CUID="8588" tvg-name="rasoulallahtv" tvg-logo="https://i.postimg.cc/pxVcfSY2/HORMZAR.png" group-title="KURDISTAN",rasoulallahtv
@@ -197,8 +193,6 @@ http://mmn.mypsx.net:1935/live/mmnhdaction/playlist.m3u8
 http://mmn.mypsx.net:1935/live/mmnhdkids/playlist.m3u8
 #EXTINF:0 CUID="8600" tvg-name="MMN QURAN" tvg-logo="https://i.postimg.cc/08wJZLfh/quran.png" group-title="KURDISTAN",MMN QURAN
 http://mmn.mypsx.net:1935/live/mmnhdquran/playlist.m3u8
-#EXTINF:0 CUID="8601" tvg-name="MMN SPORT" tvg-logo="https://i.postimg.cc/8NG9hZMg/MMNSPORT.png" group-title="KURDISTAN",MMN SPORT
-http://mmn.mypsx.net:1935/live/mmnhdsport/playlist.m3u8
 #EXTINF:0 CUID="8602" tvg-name="animalbox" tvg-logo="https://i.postimg.cc/PqqP92dr/0615623a-95a4-41cb-b757-12ac88a49764.png" group-title="KURDISTAN",animalbox
 http://avrstream.com:1935/live/animalbox/playlist.m3u8
 #EXTINF:0 CUID="8603" tvg-name="BARIN MOVIES" tvg-logo="https://i.postimg.cc/gzZc6gR6/Barinm.png" group-title="KURDISTAN",BARIN MOVIES
@@ -217,8 +211,6 @@ http://next.badinan.xyz:1935/nexttv/FHD/playlist.m3u8
 http://k21hd.mypsx.net:40/live/KANALI/playlist.m3u8
 #EXTINF:0 CUID="8610" tvg-name="Wala tv" tvg-logo="https://i.postimg.cc/KZ9gmYdR/walla.png" group-title="KURDISTAN",Wala tv
 https://live20.bozztv.com/giatv/giatv-halabja88walla/halabja88walla/chunks.m3u8
-#EXTINF:0 CUID="8611" tvg-name="Astera sport" tvg-logo="https://i.postimg.cc/9MrbxrZG/53-A9-CF85-A40-C-48-D7-95-DE-B8951-B26-A6-FD.png" group-title="KURDISTAN",Astera sport
-https://live9.karwan.
 #EXTINF:0 CUID="8612" tvg-name="Arifan DOC" tvg-logo="https://i.postimg.cc/fy795N2c/61036-AD6-DF14-45-C2-833-B-59628-C937591.png" group-title="KURDISTAN",Arifan DOC
 https://v.redd.it/5eynmp69gj6f1/HLSPlaylist.m3u8
 #EXTINF:0 CUID="8613" tvg-name="Darwaza Tv" tvg-logo="https://i.postimg.cc/wxCQ4T6J/images.png" group-title="KURDISTAN",Darwaza Tv
@@ -227,8 +219,6 @@ https://v.redd.it/5eynmp69gj6f1/HLSPlaylist.m3u8
 http://avrstream.com:1935/live/KORAJARTV/playlist.m3u8
 #EXTINF:0 CUID="8615" tvg-name="DENGE ZELAL TV" tvg-logo="https://play-lh.googleusercontent.com/jbAHyIv4cEzChzXHBEFcYZ-Zt9APytMoAslTKysNz-I_fVz43VOADziX_nrUbyY7Q_o" group-title="KURDISTAN",DENGE ZELAL TV
 https://cdn-dengezelaltv.yayin.com.tr/dengezelaltv/dengezelaltv/playlist.m3u8
-#EXTINF:0 CUID="8616" tvg-name="AVA Sports hd" tvg-logo="https://i.postimg.cc/Kc1GmCF6/8-FEE8721-F43-C-4-AE5-9-ED7-FE4-CC8-BE7725.png" group-title="KURDISTAN",AVA Sports hd
-https://live9.karwan.tv/Avasporttusfstore/index.m3u8
 #EXTINF:0 CUID="8623" tvg-name="AVAR TV" tvg-logo="https://i.postimg.cc/gGpP3sFT/AVAR.png" group-title="KURDISTAN",AVAR TV
 http://avrstream.com:1935/live/AvarTv/playlist.m3u8
 #EXTINF:0 CUID="8627" tvg-name="DUHOK TV" tvg-logo="https://i.postimg.cc/vYtrJ7t3/duhok.png" group-title="KURDISTAN",DUHOK TV
@@ -245,80 +235,7 @@ http://avrstream.com:1935/live/kidcohd/playlist.m3u8
 https://tv-trtkurdi.medya.trt.com.tr/master_720.m3u8
 #EXTINF:0 CUID="8648" tvg-name="ZAROK TV" tvg-logo="https://i.postimg.cc/J8x0qQhq/ZARO.png" group-title="KURDISTAN",ZAROK TV
 https://zindikurmanci.zaroktv.com.tr/hls/0/stream.m3u8
-#EXTINF:-1 group-title="KURDISTAN",KURD CINEMA ACTION 1 HD
-http://line.watchtivo-8k.com:80/play/live.php?mac=A0:BB:3E:18:9E:02&stream=1665880&extension=ts
-#EXTINF:-1 group-title="KURDISTAN",KURD CINEMA ACTION 2 HD
-http://line.watchtivo-8k.com:80/play/live.php?mac=A0:BB:3E:18:9E:02&stream=1665891&extension=ts
-#EXTINF:-1 group-title="KURDISTAN",KURD CINEMA ACTION 3 HD
-http://line.watchtivo-8k.com:80/play/live.php?mac=A0:BB:3E:18:9E:02&stream=1665881&extension=ts
-#EXTINF:-1 group-title="KURDISTAN",KURD CINEMA ACTION 4 HD
-http://line.watchtivo-8k.com:80/play/live.php?mac=A0:BB:3E:18:9E:02&stream=1665882&extension=ts
-#EXTINF:-1 group-title="KURDISTAN",KURD CINEMA ACTION 5 HD
-http://line.watchtivo-8k.com:80/play/live.php?mac=A0:BB:3E:18:9E:02&stream=1665890&extension=ts
-#EXTINF:-1 group-title="KURDISTAN",KURD CINEMA ACTION 6 HD
-http://line.watchtivo-8k.com:80/play/live.php?mac=A0:BB:3E:18:9E:02&stream=1665883&extension=ts
-#EXTINF:-1 group-title="KURDISTAN",KURD CINEMA ACTION 7 HD
-http://line.watchtivo-8k.com:80/play/live.php?mac=A0:BB:3E:18:9E:02&stream=1665884&extension=ts
-#EXTINF:-1 group-title="KURDISTAN",KURD CINEMA ACTION 8 HD
-http://line.watchtivo-8k.com:80/play/live.php?mac=A0:BB:3E:18:9E:02&stream=1665889&extension=ts
-#EXTINF:-1 group-title="KURDISTAN",KURD CINEMA ACTION 9 HD
-http://line.watchtivo-8k.com:80/play/live.php?mac=A0:BB:3E:18:9E:02&stream=1665888&extension=ts
-#EXTINF:-1 group-title="KURDISTAN",KURD CINEMA ACTION 10 HD
-http://line.watchtivo-8k.com:80/play/live.php?mac=A0:BB:3E:18:9E:02&stream=1665885&extension=ts
-#EXTINF:-1 group-title="KURDISTAN",KURD CINEMA ACTION 11 HD
-http://line.watchtivo-8k.com:80/play/live.php?mac=A0:BB:3E:18:9E:02&stream=1665886&extension=ts
-#EXTINF:-1 group-title="KURDISTAN",KURD CINEMA ACTION 12 HD
-http://line.watchtivo-8k.com:80/play/live.php?mac=A0:BB:3E:18:9E:02&stream=1665887&extension=ts
-#EXTINF:-1 group-title="KURDISTAN",KURD CINEMA COMEDY 1 HD
-http://line.watchtivo-8k.com:80/play/live.php?mac=A0:BB:3E:18:9E:02&stream=1665908&extension=ts
-#EXTINF:-1 group-title="KURDISTAN",KURD CINEMA COMEDY 2 HD
-http://line.watchtivo-8k.com:80/play/live.php?mac=A0:BB:3E:18:9E:02&stream=1665909&extension=ts
-#EXTINF:-1 group-title="KURDISTAN",KURD CINEMA COMEDY 3 HD
-http://line.watchtivo-8k.com:80/play/live.php?mac=A0:BB:3E:18:9E:02&stream=1665916&extension=ts
-#EXTINF:-1 group-title="KURDISTAN",KURD CINEMA COMEDY 5 HD
-http://line.watchtivo-8k.com:80/play/live.php?mac=A0:BB:3E:18:9E:02&stream=1665910&extension=ts
-#EXTINF:-1 group-title="KURDISTAN",KURD CINEMA COMEDY 6 HD
-http://line.watchtivo-8k.com:80/play/live.php?mac=A0:BB:3E:18:9E:02&stream=1665911&extension=ts
-#EXTINF:-1 group-title="KURDISTAN",KURD CINEMA COMEDY 7 HD
-http://line.watchtivo-8k.com:80/play/live.php?mac=A0:BB:3E:18:9E:02&stream=1665912&extension=ts
-#EXTINF:-1 group-title="KURDISTAN",KURD CINEMA COMEDY 8 HD
-http://line.watchtivo-8k.com:80/play/live.php?mac=A0:BB:3E:18:9E:02&stream=1665913&extension=ts
-#EXTINF:-1 group-title="KURDISTAN",KURD CINEMA COMEDY 9 HD
-http://line.watchtivo-8k.com:80/play/live.php?mac=A0:BB:3E:18:9E:02&stream=1665914&extension=ts
-#EXTINF:-1 group-title="KURDISTAN",KURD CINEMA COMEDY 10 HD
-http://line.watchtivo-8k.com:80/play/live.php?mac=A0:BB:3E:18:9E:02&stream=1665915&extension=ts
-#EXTINF:-1 group-title="KURDISTAN",KURD CINEMA BIOGRAPHY 1 HD
-http://line.watchtivo-8k.com:80/play/live.php?mac=A0:BB:3E:18:9E:02&stream=1665907&extension=ts
-#EXTINF:-1 group-title="KURDISTAN",KURD CINEMA BIOGRAPHY 2 HD
-http://line.watchtivo-8k.com:80/play/live.php?mac=A0:BB:3E:18:9E:02&stream=1665900&extension=ts
-#EXTINF:-1 group-title="KURDISTAN",KURD CINEMA BIOGRAPHY 3 HD
-http://line.watchtivo-8k.com:80/play/live.php?mac=A0:BB:3E:18:9E:02&stream=1665906&extension=ts
-#EXTINF:-1 group-title="KURDISTAN",KURD CINEMA BIOGRAPHY 4 HD
-http://line.watchtivo-8k.com:80/play/live.php?mac=A0:BB:3E:18:9E:02&stream=1665901&extension=ts
-#EXTINF:-1 group-title="KURDISTAN",KURD CINEMA BIOGRAPHY 5 HD
-http://line.watchtivo-8k.com:80/play/live.php?mac=A0:BB:3E:18:9E:02&stream=1665902&extension=ts
-#EXTINF:-1 group-title="KURDISTAN",KURD CINEMA BIOGRAPHY 6 HD
-http://line.watchtivo-8k.com:80/play/live.php?mac=A0:BB:3E:18:9E:02&stream=1665903&extension=ts
-#EXTINF:-1 group-title="KURDISTAN",KURD CINEMA BIOGRAPHY 7 HD
-http://line.watchtivo-8k.com:80/play/live.php?mac=A0:BB:3E:18:9E:02&stream=1665904&extension=ts
-#EXTINF:-1 group-title="KURDISTAN",KURD CINEMA BIOGRAPHY 8 HD
-http://line.watchtivo-8k.com:80/play/live.php?mac=A0:BB:3E:18:9E:02&stream=1665905&extension=ts
-#EXTINF:-1 group-title="KURDISTAN",KURD CINEMA ANIMATION 1 HD
-http://line.watchtivo-8k.com:80/play/live.php?mac=A0:BB:3E:18:9E:02&stream=1665892&extension=ts
-#EXTINF:-1 group-title="KURDISTAN",KURD CINEMA ANIMATION 2 HD
-http://line.watchtivo-8k.com:80/play/live.php?mac=A0:BB:3E:18:9E:02&stream=1665893&extension=ts
-#EXTINF:-1 group-title="KURDISTAN",KURD CINEMA ANIMATION 3 HD
-http://line.watchtivo-8k.com:80/play/live.php?mac=A0:BB:3E:18:9E:02&stream=1665895&extension=ts
-#EXTINF:-1 group-title="KURDISTAN",KURD CINEMA ANIMATION 4 HD
-http://line.watchtivo-8k.com:80/play/live.php?mac=A0:BB:3E:18:9E:02&stream=1665894&extension=ts
-#EXTINF:-1 group-title="KURDISTAN",KURD CINEMA ANIMATION 5 HD
-http://line.watchtivo-8k.com:80/play/live.php?mac=A0:BB:3E:18:9E:02&stream=1665896&extension=ts
-#EXTINF:-1 group-title="KURDISTAN",KURD CINEMA ANIMATION 6 HD
-http://line.watchtivo-8k.com:80/play/live.php?mac=A0:BB:3E:18:9E:02&stream=1665897&extension=ts
-#EXTINF:-1 group-title="KURDISTAN",KURD CINEMA ANIMATION 7 HD
-http://line.watchtivo-8k.com:80/play/live.php?mac=A0:BB:3E:18:9E:02&stream=1665898&extension=ts
-#EXTINF:-1 group-title="KURDISTAN",KURD CINEMA ANIMATION 8 HD
-http://line.watchtivo-8k.com:80/play/live.php?mac=A0:BB:3E:18:9E:02&stream=1665899&extension=ts
+
 
 
 
@@ -404,45 +321,16 @@ http://live.iptvtotaal.com:8000/live/mckenzie4760/L4hGTmrQgB/130410.ts
 
 
 
-#EXTINF:0 CUID="8601" tvg-name="MMN SPORT" tvg-logo="https://i.postimg.cc/8NG9hZMg/MMNSPORT.png" group-title="Sports",MMN SPORT
+#EXTINF:0 CUID="8601" tvg-name="MMN SPORT" tvg-logo="https://i.postimg.cc/8NG9hZMg/MMNSPORT.png" group-title="Kurd Sport",MMN SPORT
 http://mmn.mypsx.net:1935/live/mmnhdsport/playlist.m3u8
-#EXTINF:0 CUID="8611" tvg-name="Astera sport" tvg-logo="https://i.postimg.cc/9MrbxrZG/53-A9-CF85-A40-C-48-D7-95-DE-B8951-B26-A6-FD.png" group-title="Sports",Astera sport
-https://live9.karwan.tv/Asterasportyusfstore/index.m3u8
-#EXTINF:-1 tvg-chno="723" tvg-id="" tvg-name="AVA Sport 4K" tvg-logo="https://safiafamily.com/uploads/family/kurdish_sport/AVA_Sport.png" group-title="Sports",AVA Sport 4K
-http://142.132.133.190:1935/live/peshmerge/index.m3u8
-#EXTINF:-1 tvg-chno="726" tvg-id="" tvg-name="NRT Sport 4K" tvg-logo="https://safiafamily.com/uploads/family/kurdish_sport/NRT_SPORT.png" group-title="Sports",NRT Sport 4K
-http://109.71.252.138/nrtsport1212/index.m3u8
-#EXTINF:-1 tvg-chno="726" tvg-id="" tvg-name="ASTERA SPORT1" tvg-logo="https://i.postimg.cc/NYRPZWy8/ASTERA.png" group-title="Sports",ASTERA SPORT1
-http://109.71.252.138/AsteraSport/video.m3u8?token=yusfstaore@asdasdfadaaafffs
-#EXTINF:-1 tvg-chno="728" tvg-id="" tvg-name="Duhok Sport HD" tvg-logo="http://safiafamily.com/uploads/family/kurdish/Duhok_Sport_HD.png" group-title="Sports",Duhok Sport HD
-https://6476e46b58f91.streamlock.net/liveTrans/duhoksport/playlist.m3u8
-#EXTINF:0 CUID="8536" tvg-name="Zaytoun sport tv" tvg-logo="https://drive.google.com/file/d/1U4BHxjKuMGojUXndl2DbumKzmqgoFCTa/view?usp=drive_link" group-title="Sports",Zaytoun Sport TV
+#EXTINF:0 CUID="8536" tvg-name="Zaytoun sport tv" tvg-logo="https://drive.google.com/file/d/1U4BHxjKuMGojUXndl2DbumKzmqgoFCTa/view?usp=drive_link" group-title="Kurd Sport",Zaytoun Sport TV
 https://barham.short.gy/zvgsport.m3u8
-#EXTINF:-1 tvg-chno="792" tvg-id="" tvg-name="Zaxo Sport" tvg-logo="https://safiafamily.com/uploads/family/kurdish_sport/ZAXO_Sport.png" group-title="Sports",Zaxo Sport
-http://109.71.252.138/zaxosport/video.m3u8?token=yusfstaore@asdasdfadaaafffs
-#EXTM3U url-tvg="https://xtream-editor.com/load/epg/3VX069917A64305C4A5EA296F97550EE"
-#EXTINF:-1 tvg-id="" tvg-name="ASO SPORT HD" tvg-logo="" group-title="Sports",ASO SPORT HD
-https://myserveriptv.com:443/7wOd6fH332c1/lO1hcC05d9B6fsu15eR/300315
-#EXTINF:-1 tvg-id="" tvg-name="ASTERA SPORT HD" tvg-logo="" group-title="Sports",ASTERA SPORT HD
-https://myserveriptv.com:443/7wOd6fH332c1/lO1hcC05d9B6fsu15eR/300322
-#EXTINF:-1 tvg-id="" tvg-name="AVA SPORT HD" tvg-logo="" group-title="Sports",AVA SPORT HD
-https://myserveriptv.com:443/7wOd6fH332c1/lO1hcC05d9B6fsu15eR/300325
-#EXTINF:-1 tvg-id="" tvg-name="Dasinya Sport HD" tvg-logo="" group-title="Sports",Dasinya Sport HD
-https://myserveriptv.com:443/7wOd6fH332c1/lO1hcC05d9B6fsu15eR/300349
-#EXTINF:-1 tvg-id="" tvg-name="DASINYA SPORT HD" tvg-logo="" group-title="Sports",DASINYA SPORT HD
-https://myserveriptv.com:443/7wOd6fH332c1/lO1hcC05d9B6fsu15eR/300350
-#EXTINF:-1 tvg-id="" tvg-name="DUHOK SPORTS HD" tvg-logo="" group-title="Sports",DUHOK SPORTS HD
-https://myserveriptv.com:443/7wOd6fH332c1/lO1hcC05d9B6fsu15eR/300357
-#EXTINF:0 CUID="58810" tvg-name="NRT SPORT FHD" tvg-logo="https://i.postimg.cc/NgMdhQGP/NRTSPORT.png" group-title="Kurd Sport ",NRT SPORT HD
-http://45.155.226.147:8085/local/ku/KURD-NRT-Sport/mono.m3u8?md5=XwnxYb1eF5kQKDHpKZJECQ&expires=1773917837&type=a1&info=12d8121f0000688d
-#EXTINF:0 CUID="58810" tvg-name="NRT SPORT FHD" tvg-logo="https://i.postimg.cc/NgMdhQGP/NRTSPORT.png" group-title="Kurd Sport ",NRT SPORT FHD
-http://109.71.252.138/nrtsport/index.m3u8?token=hnaKCXHetrygerteL5cys1
-#EXTINF:0 CUID="58812" tvg-name="AVA SPORT" tvg-logo="https://i.postimg.cc/bqfzRHf3/AVASPORT.png" group-title="Kurd Sport ",AVA SPORT
-http://109.71.252.138/AVASPORT2/index.m3u8
-#EXTINF:0 CUID="58812" tvg-name="AVA SPORT" tvg-logo="https://i.postimg.cc/bqfzRHf3/AVASPORT.png" group-title="Kurd Sport ",AVA SPORT
-http://109.71.252.138/AVASPORT2/index.m3u8
-#EXTINF:0 CUID="58814" tvg-name="ASTERA SPORT1" tvg-logo="https://i.postimg.cc/NYRPZWy8/ASTERA.png" group-title="Kurd Sport ",ASTERA SPORT1
-http://109.71.252.138/asterasportyusfiptv/index.m3u8?token=hnaKCXHetrygerteL5cys1
+#EXTINF:-1 group-title="Kurd Sport",|KU| Duhok Sport
+http://scorpioniptv.com:2052/live/babatayoub/deyswmq/512201.ts
+#EXTINF:-1 group-title="Kurd Sport",|KU| Dasinya Sport 1
+http://scorpioniptv.com:2052/live/babatayoub/deyswmq/512200.ts
+
+
 
 
 
@@ -454,7 +342,7 @@ http://109.71.252.138/asterasportyusfiptv/index.m3u8?token=hnaKCXHetrygerteL5cys
 
 
 #EXTINF:-1 group-title="ARABIC SPORT",AR | THMANAYH 1 HD
-http://4kpro2.com:8789/play/live.php?mac=00:1A:79:FB:74:61&stream=381478&extension=ts
+http://main.light-ott.net:80/play/live.php?mac=A0:BB:3E:02:40:2B&stream=1264556&extension=ts
 #EXTINF:-1 group-title="ARABIC SPORT",AR | THMANAYH 2 HD
 http://4kpro2.com:8789/play/live.php?mac=00:1A:79:FB:74:61&stream=381477&extension=ts
 #EXTINF:-1 group-title="ARABIC SPORT",AR | THMANAYH 3 HD
@@ -1872,6 +1760,15 @@ http://main.light-ott.net:80/play/live.php?mac=A0:BB:3E:02:40:2B&stream=1312185&
 http://main.light-ott.net:80/play/live.php?mac=A0:BB:3E:02:40:2B&stream=1312836&extension=ts
 #EXTINF:-1 group-title="ENGLISH SPORT",REAL MADRID TV HD
 http://main.light-ott.net:80/play/live.php?mac=A0:BB:3E:02:40:2B&stream=1312833&extension=ts
+#EXTINF:-1 group-title="ENGLISH SPORT",TNT SPORTS 1 HD
+http://line.tvdsz.cc:80/play/live.php?mac=A0:BB:3E:7F:CD:D7&stream=1174236&extension=ts
+#EXTINF:-1 group-title="ENGLISH SPORT",TNT SPORTS 2 HD
+http://line.tvdsz.cc:80/play/live.php?mac=A0:BB:3E:7F:CD:D7&stream=1174237&extension=ts
+#EXTINF:-1 group-title="ENGLISH SPORT",TNT SPORTS 3 HD
+http://line.tvdsz.cc:80/play/live.php?mac=A0:BB:3E:7F:CD:D7&stream=1174238&extension=ts
+#EXTINF:-1 group-title="ENGLISH SPORT",TNT SPORTS 4 HD
+http://line.tvdsz.cc:80/play/live.php?mac=A0:BB:3E:7F:CD:D7&stream=1174239&extension=ts
+
 
 
 
