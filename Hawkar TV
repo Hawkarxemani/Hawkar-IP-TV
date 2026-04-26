@@ -1316,19 +1316,84 @@ http://89.105.221.127/NatGeoWild/index.m3u8?token=test
 
 
 #EXTM3U
-#EXTINF:-1 group-title="HBO",HBO SERIES 3
-http://supaapp.xyz:8080/live/2551810583569940/2025565766597215/145917.ts
-#EXTINF:-1 group-title="HBO",HBO SERIES 2
-http://supaapp.xyz:8080/live/2551810583569940/2025565766597215/145263.ts
-#EXTINF:-1 group-title="HBO",HBO SERIES 1
-http://supaapp.xyz:8080/live/2551810583569940/2025565766597215/144655.ts
-#EXTINF:-1 group-title="HBO",HBO MOVIES 3
-http://supaapp.xyz:8080/live/2551810583569940/2025565766597215/144266.ts
-#EXTINF:-1 group-title="HBO",HBO MOVIES 2
-http://supaapp.xyz:8080/live/2551810583569940/2025565766597215/144209.ts
-#EXTINF:-1 group-title="HBO",HBO MOVIES 1
-http://supaapp.xyz:8080/live/2551810583569940/2025565766597215/143983.ts
-
+#EXTINF:-1 group-title="HBO MAX CHANNELS",HBO MAX CINEMA 1
+http://marveltv.info/live/36889/147835/169274.ts
+#EXTINF:-1 group-title="HBO MAX CHANNELS",HBO MAX CINEMA 2
+http://marveltv.info/live/36889/147835/169273.ts
+#EXTINF:-1 group-title="HBO MAX CHANNELS",HBO MAX CINEMA 3
+http://marveltv.info/live/36889/147835/169272.ts
+#EXTINF:-1 group-title="HBO MAX CHANNELS",HBO MAX AFLAM 1
+http://marveltv.info/live/36889/147835/169271.ts
+#EXTINF:-1 group-title="HBO MAX CHANNELS",HBO MAX AFLAM 2
+http://marveltv.info/live/36889/147835/169270.ts
+#EXTINF:-1 group-title="HBO MAX CHANNELS",HBO MAX AFLAM 3
+http://marveltv.info/live/36889/147835/169269.ts
+#EXTINF:-1 group-title="HBO MAX CHANNELS",HBO MAX MOVIES ARABIC 1
+http://marveltv.info/live/36889/147835/169268.ts
+#EXTINF:-1 group-title="HBO MAX CHANNELS",HBO MAX MOVIES ARABIC 2
+http://marveltv.info/live/36889/147835/169267.ts
+#EXTINF:-1 group-title="HBO MAX CHANNELS",HBO MAX ARABIC COMEDY 1
+http://marveltv.info/live/36889/147835/169266.ts
+#EXTINF:-1 group-title="HBO MAX CHANNELS",HBO MAX ARABIC COMEDY 2
+http://marveltv.info/live/36889/147835/169265.ts
+#EXTINF:-1 group-title="HBO MAX CHANNELS",HBO MAX ARABIC COMEDY 3
+http://marveltv.info/live/36889/147835/169264.ts
+#EXTINF:-1 group-title="HBO MAX CHANNELS",HBO MAX ARABIC COMEDY 4
+http://marveltv.info/live/36889/147835/169263.ts
+#EXTINF:-1 group-title="HBO MAX CHANNELS",HBO TEATRO
+http://marveltv.info/live/36889/147835/169262.ts
+#EXTINF:-1 group-title="HBO MAX CHANNELS",HBO TEATRO KHALIJI
+http://marveltv.info/live/36889/147835/169261.ts
+#EXTINF:-1 group-title="HBO MAX CHANNELS",HBO MAX ACTION 1
+http://marveltv.info/live/36889/147835/169260.ts
+#EXTINF:-1 group-title="HBO MAX CHANNELS",HBO MAX ACTION 2
+http://marveltv.info/live/36889/147835/169259.ts
+#EXTINF:-1 group-title="HBO MAX CHANNELS",HBO MAX ACTION 3
+http://marveltv.info/live/36889/147835/169258.ts
+#EXTINF:-1 group-title="HBO MAX CHANNELS",HBO MAX ACTION 4
+http://marveltv.info/live/36889/147835/169257.ts
+#EXTINF:-1 group-title="HBO MAX CHANNELS",HBO MAX CRIM 1
+http://marveltv.info/live/36889/147835/169256.ts
+#EXTINF:-1 group-title="HBO MAX CHANNELS",HBO MAX CRIM 2
+http://marveltv.info/live/36889/147835/169255.ts
+#EXTINF:-1 group-title="HBO MAX CHANNELS",HBO MAX CRIM 3
+http://marveltv.info/live/36889/147835/169254.ts
+#EXTINF:-1 group-title="HBO MAX CHANNELS",HBO MAX CRIM 4
+http://marveltv.info/live/36889/147835/169253.ts
+#EXTINF:-1 group-title="HBO MAX CHANNELS",HBO MAX COMEDY 1
+http://marveltv.info/live/36889/147835/169252.ts
+#EXTINF:-1 group-title="HBO MAX CHANNELS",HBO MAX COMEDY 2
+http://marveltv.info/live/36889/147835/169251.ts
+#EXTINF:-1 group-title="HBO MAX CHANNELS",HBO MAX COMEDY 3
+http://marveltv.info/live/36889/147835/169250.ts
+#EXTINF:-1 group-title="HBO MAX CHANNELS",HBO MAX COMEDY 4
+http://marveltv.info/live/36889/147835/169249.ts
+#EXTINF:-1 group-title="HBO MAX CHANNELS",HBO MAX POP UP 1
+http://marveltv.info/live/36889/147835/169248.ts
+#EXTINF:-1 group-title="HBO MAX CHANNELS",HBO MAX POP UP 2
+http://marveltv.info/live/36889/147835/169247.ts
+#EXTINF:-1 group-title="HBO MAX CHANNELS",HBO MAX POP UP 3
+http://marveltv.info/live/36889/147835/169246.ts
+#EXTINF:-1 group-title="HBO MAX CHANNELS",HBO MAX CLASSIC 1
+http://marveltv.info/live/36889/147835/169245.ts
+#EXTINF:-1 group-title="HBO MAX CHANNELS",HBO MAX CLASSIC 2
+http://marveltv.info/live/36889/147835/169244.ts
+#EXTINF:-1 group-title="HBO MAX CHANNELS",HBO MAX CLASSIC 3
+http://marveltv.info/live/36889/147835/169243.ts
+#EXTINF:-1 group-title="HBO MAX CHANNELS",HBO MAX CLASSIC 4
+http://marveltv.info/live/36889/147835/169242.ts
+#EXTINF:-1 group-title="HBO MAX CHANNELS",HBO MAX CLASSIC5
+http://marveltv.info/live/36889/147835/169241.ts
+#EXTINF:-1 group-title="HBO MAX CHANNELS",HBO MAX CLASSIC 6
+http://marveltv.info/live/36889/147835/169240.ts
+#EXTINF:-1 group-title="HBO MAX CHANNELS",HBO MAX KIDS 1
+http://marveltv.info/live/36889/147835/169239.ts
+#EXTINF:-1 group-title="HBO MAX CHANNELS",HBO MAX KIDS 2
+http://marveltv.info/live/36889/147835/169238.ts
+#EXTINF:-1 group-title="HBO MAX CHANNELS",HBO MAX KIDS 3
+http://marveltv.info/live/36889/147835/169237.ts
+#EXTINF:-1 group-title="HBO MAX CHANNELS",HBO MAX KIDS 4
+http://marveltv.info/live/36889/147835/169236.ts
 
 
 
@@ -1339,72 +1404,64 @@ http://supaapp.xyz:8080/live/2551810583569940/2025565766597215/143983.ts
 
 
 #EXTM3U
-#EXTINF:-1 group-title="beIN Entertainment",beIN MOVIES 4K 1
-http://supaapp.xyz:8080/live/2551810583569940/2025565766597215/319672.ts
-#EXTINF:-1 group-title="beIN Entertainment",beIN MOVIES 4K 2
-http://supaapp.xyz:8080/live/2551810583569940/2025565766597215/319673.ts
-#EXTINF:-1 group-title="beIN Entertainment",beIN MOVIES 4K 3
-http://supaapp.xyz:8080/live/2551810583569940/2025565766597215/319674.ts
-#EXTINF:-1 group-title="beIN Entertainment",beIN MOVIES 4K 4
-http://supaapp.xyz:8080/live/2551810583569940/2025565766597215/319675.ts
-#EXTINF:-1 group-title="beIN Entertainment",beIN SERIES 4K 1
-http://supaapp.xyz:8080/live/2551810583569940/2025565766597215/319676.ts
-#EXTINF:-1 group-title="beIN Entertainment",beIN SERIES 4K 2
-http://supaapp.xyz:8080/live/2551810583569940/2025565766597215/319677.ts
-#EXTINF:-1 group-title="beIN Entertainment",beIN DRAMA 4K
-http://supaapp.xyz:8080/live/2551810583569940/2025565766597215/319678.ts
-#EXTINF:-1 group-title="beIN Entertainment",beIN FOX MOVIES 4K
-http://supaapp.xyz:8080/live/2551810583569940/2025565766597215/319679.ts
-#EXTINF:-1 group-title="beIN Entertainment",beIN FOX MOV ACTION 4K
-http://supaapp.xyz:8080/live/2551810583569940/2025565766597215/319680.ts
-#EXTINF:-1 group-title="beIN Entertainment",beIN FOX LIFE 4K
-http://supaapp.xyz:8080/live/2551810583569940/2025565766597215/319681.ts
-#EXTINF:-1 group-title="beIN Entertainment",beIN BBC EARTH 4K
-http://supaapp.xyz:8080/live/2551810583569940/2025565766597215/319682.ts
-#EXTINF:-1 group-title="beIN Entertainment",beIN GORMENT 4K
-http://supaapp.xyz:8080/live/2551810583569940/2025565766597215/319683.ts
-#EXTINF:-1 group-title="beIN Entertainment",beIN FATAFEAT 4K
-http://supaapp.xyz:8080/live/2551810583569940/2025565766597215/319684.ts
-#EXTINF:-1 group-title="beIN Entertainment",beIN BARAEAM 4K
-http://supaapp.xyz:8080/live/2551810583569940/2025565766597215/319685.ts
-#EXTINF:-1 group-title="beIN Entertainment",beIN JEEM 4K
-http://supaapp.xyz:8080/live/2551810583569940/2025565766597215/319686.ts
-#EXTINF:-1 group-title="beIN Entertainment",beIN Movies 1 HD
-http://supaapp.xyz:8080/live/2551810583569940/2025565766597215/319687.ts
-#EXTINF:-1 group-title="beIN Entertainment",beIN Movies 2 HD
-http://supaapp.xyz:8080/live/2551810583569940/2025565766597215/319688.ts
-#EXTINF:-1 group-title="beIN Entertainment",beIN Movies 3 HD
-http://supaapp.xyz:8080/live/2551810583569940/2025565766597215/319689.ts
-#EXTINF:-1 group-title="beIN Entertainment",beIN Movies 4 HD
-http://supaapp.xyz:8080/live/2551810583569940/2025565766597215/319690.ts
-#EXTINF:-1 group-title="beIN Entertainment",beIN Series 1 HD
-http://supaapp.xyz:8080/live/2551810583569940/2025565766597215/319691.ts
-#EXTINF:-1 group-title="beIN Entertainment",beIN Series 2 HD
-http://supaapp.xyz:8080/live/2551810583569940/2025565766597215/319692.ts
-#EXTINF:-1 group-title="beIN Entertainment",beIN Drama 1 HD
-http://supaapp.xyz:8080/live/2551810583569940/2025565766597215/319693.ts
-#EXTINF:-1 group-title="beIN Entertainment",beIN Fox Movies HD
-http://supaapp.xyz:8080/live/2551810583569940/2025565766597215/319694.ts
-#EXTINF:-1 group-title="beIN Entertainment",beIN Fox Action Movies HD
-http://supaapp.xyz:8080/live/2551810583569940/2025565766597215/319695.ts
-#EXTINF:-1 group-title="beIN Entertainment",beIN Gourmet HD
-http://supaapp.xyz:8080/live/2551810583569940/2025565766597215/319696.ts
-#EXTINF:-1 group-title="beIN Entertainment",beIN jeem HD
-http://supaapp.xyz:8080/live/2551810583569940/2025565766597215/319697.ts
-#EXTINF:-1 group-title="beIN Entertainment",beIN Baraem HD
-http://supaapp.xyz:8080/live/2551810583569940/2025565766597215/319698.ts
-#EXTINF:-1 group-title="beIN Entertainment",beIN Fox Life HD
-http://supaapp.xyz:8080/live/2551810583569940/2025565766597215/319700.ts
-#EXTINF:-1 group-title="beIN Entertainment",beIN Nat Geo HD
-http://supaapp.xyz:8080/live/2551810583569940/2025565766597215/319701.ts
-#EXTINF:-1 group-title="beIN Entertainment",beIN Nat geo Wild HD
-http://supaapp.xyz:8080/live/2551810583569940/2025565766597215/319702.ts
-#EXTINF:-1 group-title="beIN Entertainment",beIN Star World HD
-http://supaapp.xyz:8080/live/2551810583569940/2025565766597215/319703.ts
-#EXTINF:-1 group-title="beIN Entertainment",beIN Star Movies HD
-http://supaapp.xyz:8080/live/2551810583569940/2025565766597215/319704.ts
-#EXTINF:-1 group-title="beIN Entertainment",beIN BBC Earth HD
-http://supaapp.xyz:8080/live/2551810583569940/2025565766597215/319705.ts
+#EXTINF:-1 group-title="beIN ENTERTAINMENT",beIN MOVIES PREMIERE 1 HD
+http://marveltv.info/live/36889/147835/101132.ts
+#EXTINF:-1 group-title="beIN ENTERTAINMENT",beIN MOVIES ACTION 2 HD
+http://marveltv.info/live/36889/147835/101134.ts
+#EXTINF:-1 group-title="beIN ENTERTAINMENT",beIN MOVIES 3 HD
+http://marveltv.info/live/36889/147835/101136.ts
+#EXTINF:-1 group-title="beIN ENTERTAINMENT",beIN MOVIES 4 HD
+http://marveltv.info/live/36889/147835/101138.ts
+#EXTINF:-1 group-title="beIN ENTERTAINMENT",beIN CINEMA HD
+http://marveltv.info/live/36889/147835/86610.ts
+#EXTINF:-1 group-title="beIN ENTERTAINMENT",beIN BOX OFFICE 1 HD
+http://marveltv.info/live/36889/147835/86614.ts
+#EXTINF:-1 group-title="beIN ENTERTAINMENT",beIN BOX OFFICE 2 HD
+http://marveltv.info/live/36889/147835/334533.ts
+#EXTINF:-1 group-title="beIN ENTERTAINMENT",beIN SERIES 1 HD
+http://marveltv.info/live/36889/147835/101142.ts
+#EXTINF:-1 group-title="beIN ENTERTAINMENT",beIN SERIES 2 HD
+http://marveltv.info/live/36889/147835/101144.ts
+#EXTINF:-1 group-title="beIN ENTERTAINMENT",beIN DRAMA 1 HD
+http://marveltv.info/live/36889/147835/101140.ts
+#EXTINF:-1 group-title="beIN ENTERTAINMENT",beIN FOX MOVIES HD
+http://marveltv.info/live/36889/147835/86609.ts
+#EXTINF:-1 group-title="beIN ENTERTAINMENT",beIN FOX ACTION MOVIES HD
+http://marveltv.info/live/36889/147835/86612.ts
+#EXTINF:-1 group-title="beIN ENTERTAINMENT",beIN FOX LIFE HD
+http://marveltv.info/live/36889/147835/86615.ts
+#EXTINF:-1 group-title="beIN ENTERTAINMENT",beIN STAR MOVIES HD
+http://marveltv.info/live/36889/147835/86617.ts
+#EXTINF:-1 group-title="beIN ENTERTAINMENT",DTX
+http://marveltv.info/live/36889/147835/124144.ts
+#EXTINF:-1 group-title="beIN ENTERTAINMENT",BEIN ANIMAL PLANET
+http://marveltv.info/live/36889/147835/86618.ts
+#EXTINF:-1 group-title="beIN ENTERTAINMENT",BEIN FOOD NETWORK HD
+http://marveltv.info/live/36889/147835/86619.ts
+#EXTINF:-1 group-title="beIN ENTERTAINMENT",Bein Nat Geo HD
+http://marveltv.info/live/36889/147835/86622.ts
+#EXTINF:-1 group-title="beIN ENTERTAINMENT",NATGEO WILD HD
+http://marveltv.info/live/36889/147835/86623.ts
+#EXTINF:-1 group-title="beIN ENTERTAINMENT",BEIN  GOURMET
+http://marveltv.info/live/36889/147835/86625.ts
+#EXTINF:-1 group-title="beIN ENTERTAINMENT",Bein BBC Earth HD
+http://marveltv.info/live/36889/147835/86626.ts
+#EXTINF:-1 group-title="beIN ENTERTAINMENT",BEIN OUTDOOR
+http://marveltv.info/live/36889/147835/86628.ts
+#EXTINF:-1 group-title="beIN ENTERTAINMENT",BEIN DREAM WOKRS
+http://marveltv.info/live/36889/147835/86629.ts
+#EXTINF:-1 group-title="beIN ENTERTAINMENT",BEIN FATAFEAT
+http://marveltv.info/live/36889/147835/86632.ts
+#EXTINF:-1 group-title="beIN ENTERTAINMENT",beIN HGTV
+http://marveltv.info/live/36889/147835/86759.ts
+#EXTINF:-1 group-title="beIN ENTERTAINMENT",Bein Boomerang HD
+http://marveltv.info/live/36889/147835/86760.ts
+#EXTINF:-1 group-title="beIN ENTERTAINMENT",Bein Baraem HD
+http://marveltv.info/live/36889/147835/86762.ts
+#EXTINF:-1 group-title="beIN ENTERTAINMENT",VIP AR: beIN DRAMA 4K
+http://marveltv.info/live/36889/147835/204737.ts
+#EXTINF:-1 group-title="beIN ENTERTAINMENT",Nat Geo People HD
+http://marveltv.info/live/36889/147835/92376.ts
 
 
 
