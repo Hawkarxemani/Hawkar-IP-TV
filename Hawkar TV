@@ -1,12 +1,12 @@
 #EXTM3U 
 #EXTINF:0 CUID="8515" tvg-name="RUDAW HD" tvg-logo="https://i.postimg.cc/rpTvrtr0/Pics-Art-25-08-01-14-36-12-848.png" group-title="KURDISTAN",RUDAW HD
-https://live.rudaw.net/hls/rudaw-tv/master.m3u8
+http://line.watchtivo-8k.com:80/play/live.php?mac=A0:BB:3E:18:9E:02&stream=1666437&extension=ts
 #EXTINF:0 CUID="8517" tvg-name="Channel 8 HD" tvg-logo="https://i.postimg.cc/Gd1prmrY/c8.png" group-title="KURDISTAN",Channel 8 HD
 https://live.channel8.com/Channel8-Kurdish/index.m3u8
 #EXTINF:0 CUID="8511" tvg-name="NRT HD" tvg-logo="https://i.postimg.cc/yVVqtpnh/NRT.png" group-title="KURDISTAN",NRT HD
-http://scorpioniptv.com:2052/live/babatayoub/deyswmq/512247.ts
-#EXTINF:0 CUID="8516" tvg-name="K24 FHD" tvg-logo="https://i.postimg.cc/HnMqM0BM/Pics-Art-25-08-01-14-37-22-115.png" group-title="KURDISTAN",K24 FHD
-https://d1x82nydcxndze.cloudfront.net/live/index.m3u8
+http://line.watchtivo-8k.com:80/play/live.php?mac=A0:BB:3E:18:9E:02&stream=1666440&extension=ts
+#EXTINF:0 CUID="8516" tvg-name="K24 FHD" tvg-logo="https://i.postimg.cc/HnMqM0BM/Pics-Art-25-08-01-14-37-22-115.png" group-title="KURDISTAN",K24 HD
+http://line.watchtivo-8k.com:80/play/live.php?mac=A0:BB:3E:18:9E:02&stream=1666438&extension=ts
 #EXTINF:0 CUID="8519" tvg-name="KURDSAT NEWS" tvg-logo="https://i.postimg.cc/Qs6v4tt4/kurdstan.png" group-title="KURDISTAN",KURDSAT NEWS
 https://hlspackager.akamaized.net/live/DB/KURDSAT_NEWS/HLS/KURDSAT_NEWS.m3u8
 #EXTINF:0 CUID="8521" tvg-name="GALI KURDISTAN" tvg-logo="https://i.postimg.cc/SmhvBS3N/GK.png" group-title="KURDISTAN",GALI KURDISTAN
@@ -321,14 +321,23 @@ http://live.iptvtotaal.com:8000/live/mckenzie4760/L4hGTmrQgB/130410.ts
 
 
 
+#EXTINF:-1 group-title="Kurdish Sport",AVA SPORT HD
+http://line.watchtivo-8k.com:80/play/live.php?mac=A0:BB:3E:18:9E:02&stream=1667726&extension=ts
+#EXTINF:-1 group-title="Kurdish Sport",ASO SPORT HD
+http://line.watchtivo-8k.com:80/play/live.php?mac=A0:BB:3E:18:9E:02&stream=1667730&extension=ts
 #EXTINF:0 CUID="8601" tvg-name="MMN SPORT" tvg-logo="https://i.postimg.cc/8NG9hZMg/MMNSPORT.png" group-title="Kurd Sport",MMN SPORT
 http://mmn.mypsx.net:1935/live/mmnhdsport/playlist.m3u8
 #EXTINF:0 CUID="8536" tvg-name="Zaytoun sport tv" tvg-logo="https://drive.google.com/file/d/1U4BHxjKuMGojUXndl2DbumKzmqgoFCTa/view?usp=drive_link" group-title="Kurd Sport",Zaytoun Sport TV
 https://barham.short.gy/zvgsport.m3u8
-#EXTINF:-1 group-title="Kurd Sport",|KU| Duhok Sport
-http://scorpioniptv.com:2052/live/babatayoub/deyswmq/512201.ts
+#EXTINF:-1 group-title="Kurdish Sport",DUHOK SPORT HD
+http://line.watchtivo-8k.com:80/play/live.php?mac=A0:BB:3E:18:9E:02&stream=1667696&extension=ts
 #EXTINF:-1 group-title="Kurd Sport",|KU| Dasinya Sport 1
 http://scorpioniptv.com:2052/live/babatayoub/deyswmq/512200.ts
+#EXTINF:-1 group-title="Kurdish Sport",DASINYA SPORT HD
+http://line.watchtivo-8k.com:80/play/live.php?mac=A0:BB:3E:18:9E:02&stream=1667803&extension=ts
+#EXTINF:-1 group-title="Kurdish Sport",RENG SPORT HD
+http://line.watchtivo-8k.com:80/play/live.php?mac=A0:BB:3E:18:9E:02&stream=1667728&extension=ts
+
 
 
 
