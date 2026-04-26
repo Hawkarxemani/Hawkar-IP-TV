@@ -325,13 +325,13 @@ http://live.iptvtotaal.com:8000/live/mckenzie4760/L4hGTmrQgB/130410.ts
 http://line.watchtivo-8k.com:80/play/live.php?mac=A0:BB:3E:18:9E:02&stream=1667726&extension=ts
 #EXTINF:-1 group-title="Kurdish Sport",ASO SPORT HD
 http://line.watchtivo-8k.com:80/play/live.php?mac=A0:BB:3E:18:9E:02&stream=1667730&extension=ts
-#EXTINF:0 CUID="8601" tvg-name="MMN SPORT" tvg-logo="https://i.postimg.cc/8NG9hZMg/MMNSPORT.png" group-title="Kurd Sport",MMN SPORT
+#EXTINF:0 CUID="8601" tvg-name="MMN SPORT" tvg-logo="https://i.postimg.cc/8NG9hZMg/MMNSPORT.png" group-title="Kurdish Sport",MMN SPORT
 http://mmn.mypsx.net:1935/live/mmnhdsport/playlist.m3u8
-#EXTINF:0 CUID="8536" tvg-name="Zaytoun sport tv" tvg-logo="https://drive.google.com/file/d/1U4BHxjKuMGojUXndl2DbumKzmqgoFCTa/view?usp=drive_link" group-title="Kurd Sport",Zaytoun Sport TV
+#EXTINF:0 CUID="8536" tvg-name="Zaytoun sport tv" tvg-logo="https://drive.google.com/file/d/1U4BHxjKuMGojUXndl2DbumKzmqgoFCTa/view?usp=drive_link" group-title="Kurdish Sport",Zaytoun Sport TV
 https://barham.short.gy/zvgsport.m3u8
 #EXTINF:-1 group-title="Kurdish Sport",DUHOK SPORT HD
 http://line.watchtivo-8k.com:80/play/live.php?mac=A0:BB:3E:18:9E:02&stream=1667696&extension=ts
-#EXTINF:-1 group-title="Kurd Sport",|KU| Dasinya Sport 1
+#EXTINF:-1 group-title="Kurdish Sport",|KU| Dasinya Sport 1
 http://scorpioniptv.com:2052/live/babatayoub/deyswmq/512200.ts
 #EXTINF:-1 group-title="Kurdish Sport",DASINYA SPORT HD
 http://line.watchtivo-8k.com:80/play/live.php?mac=A0:BB:3E:18:9E:02&stream=1667803&extension=ts
