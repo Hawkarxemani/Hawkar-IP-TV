@@ -1414,118 +1414,84 @@ http://supaapp.xyz:8080/live/2551810583569940/2025565766597215/319705.ts
 
 
 #EXTM3U
-#EXTINF:-1 group-title="MBC",AR.MBC 1 HD
-http://supaapp.xyz:8080/live/2551810583569940/2025565766597215/15152.ts
-#EXTINF:-1 group-title="MBC",AR.MBC 1
-http://supaapp.xyz:8080/live/2551810583569940/2025565766597215/15143.ts
-#EXTINF:-1 group-title="MBC",AR: MBC DRAMA 4K
-http://supaapp.xyz:8080/live/2551810583569940/2025565766597215/45163.ts
-#EXTINF:-1 group-title="MBC",AR: MBC MASR DRAMA HD
-http://supaapp.xyz:8080/live/2551810583569940/2025565766597215/328601.ts
-#EXTINF:-1 group-title="MBC",AR: MBC MASR DRAMA 4K
-http://supaapp.xyz:8080/live/2551810583569940/2025565766597215/328602.ts
-#EXTINF:-1 group-title="MBC",AR.MBC Drama HD
-http://supaapp.xyz:8080/live/2551810583569940/2025565766597215/15153.ts
-#EXTINF:-1 group-title="MBC",AR.MBC Drama
-http://supaapp.xyz:8080/live/2551810583569940/2025565766597215/15137.ts
-#EXTINF:-1 group-title="MBC",AR: MBC+ Drama 4K
-http://supaapp.xyz:8080/live/2551810583569940/2025565766597215/43679.ts
-#EXTINF:-1 group-title="MBC",AR: MBC Wanasah 4K
-http://supaapp.xyz:8080/live/2551810583569940/2025565766597215/148412.ts
-#EXTINF:-1 group-title="MBC",AR.MBC Drama+ 4k
-http://supaapp.xyz:8080/live/2551810583569940/2025565766597215/21160.ts
-#EXTINF:-1 group-title="MBC",AR: MBC MASR 4K
-http://supaapp.xyz:8080/live/2551810583569940/2025565766597215/92753.ts
-#EXTINF:-1 group-title="MBC",AR.MBC Masr HD
-http://supaapp.xyz:8080/live/2551810583569940/2025565766597215/15134.ts
-#EXTINF:-1 group-title="MBC",AR: MBC MASR 2 4K
-http://supaapp.xyz:8080/live/2551810583569940/2025565766597215/92754.ts
-#EXTINF:-1 group-title="MBC",AR.MBC Masr 2 HD
-http://supaapp.xyz:8080/live/2551810583569940/2025565766597215/15133.ts
-#EXTINF:-1 group-title="MBC",AR: MBC 2 4K
-http://supaapp.xyz:8080/live/2551810583569940/2025565766597215/45168.ts
-#EXTINF:-1 group-title="MBC",AR.MBC 2 HD
-http://supaapp.xyz:8080/live/2551810583569940/2025565766597215/15151.ts
-#EXTINF:-1 group-title="MBC",AR.MBC 2
-http://supaapp.xyz:8080/live/2551810583569940/2025565766597215/15142.ts
-#EXTINF:-1 group-title="MBC",AR: MBC 3 4K
-http://supaapp.xyz:8080/live/2551810583569940/2025565766597215/45143.ts
-#EXTINF:-1 group-title="MBC",AR.MBC 3 HD
-http://supaapp.xyz:8080/live/2551810583569940/2025565766597215/15150.ts
-#EXTINF:-1 group-title="MBC",AR.MBC 3
-http://supaapp.xyz:8080/live/2551810583569940/2025565766597215/15141.ts
-#EXTINF:-1 group-title="MBC",AR: MBC 4 4K
-http://supaapp.xyz:8080/live/2551810583569940/2025565766597215/45164.ts
-#EXTINF:-1 group-title="MBC",AR.MBC 4 HD
-http://supaapp.xyz:8080/live/2551810583569940/2025565766597215/15149.ts
-#EXTINF:-1 group-title="MBC",AR.MBC 4
-http://supaapp.xyz:8080/live/2551810583569940/2025565766597215/15140.ts
-#EXTINF:-1 group-title="MBC",AR: MBC ACTION 4K
-http://supaapp.xyz:8080/live/2551810583569940/2025565766597215/45166.ts
-#EXTINF:-1 group-title="MBC",AR.MBC Action HD
-http://supaapp.xyz:8080/live/2551810583569940/2025565766597215/15154.ts
-#EXTINF:-1 group-title="MBC",AR.MBC Action
-http://supaapp.xyz:8080/live/2551810583569940/2025565766597215/15135.ts
-#EXTINF:-1 group-title="MBC",AR: MBC BOLLYWOOD 4K
-http://supaapp.xyz:8080/live/2551810583569940/2025565766597215/45162.ts
-#EXTINF:-1 group-title="MBC",AR.MBC Bollywood HD
-http://supaapp.xyz:8080/live/2551810583569940/2025565766597215/15364.ts
-#EXTINF:-1 group-title="MBC",AR.MBC Bollywood
-http://supaapp.xyz:8080/live/2551810583569940/2025565766597215/15136.ts
-#EXTINF:-1 group-title="MBC",AR: MBC Persian 4K
-http://supaapp.xyz:8080/live/2551810583569940/2025565766597215/148411.ts
-#EXTINF:-1 group-title="MBC",AR: MBC Panorama FM 4K
-http://supaapp.xyz:8080/live/2551810583569940/2025565766597215/148413.ts
-#EXTINF:-1 group-title="MBC",AR: MBC MAX 4K
-http://supaapp.xyz:8080/live/2551810583569940/2025565766597215/45167.ts
-#EXTINF:-1 group-title="MBC",AR.MBC Max HD
-http://supaapp.xyz:8080/live/2551810583569940/2025565766597215/15139.ts
-#EXTINF:-1 group-title="MBC",AR.MBC Max
-http://supaapp.xyz:8080/live/2551810583569940/2025565766597215/15138.ts
-#EXTINF:-1 group-title="MBC",AR: MBC+ VARIETY 4K
-http://supaapp.xyz:8080/live/2551810583569940/2025565766597215/43681.ts
-#EXTINF:-1 group-title="MBC",AR: MBC IRAQ  4K
-http://supaapp.xyz:8080/live/2551810583569940/2025565766597215/92752.ts
-#EXTINF:-1 group-title="MBC",AR.MBC IRAQ HD
-http://supaapp.xyz:8080/live/2551810583569940/2025565766597215/14732.ts
-#EXTINF:-1 group-title="MBC",AR: MBC IRAQ
-http://supaapp.xyz:8080/live/2551810583569940/2025565766597215/92760.ts
-#EXTINF:-1 group-title="MBC",AR: MBC 5 4K
-http://supaapp.xyz:8080/live/2551810583569940/2025565766597215/92759.ts
-#EXTINF:-1 group-title="MBC",AR: MBC TOONS 4K
-http://supaapp.xyz:8080/live/2551810583569940/2025565766597215/328596.ts
-#EXTINF:-1 group-title="MBC",AR: SHAHID RAMADAN 4K
-http://supaapp.xyz:8080/live/2551810583569940/2025565766597215/328603.ts
-#EXTINF:-1 group-title="MBC",AR: MBC GEO 1 4K
-http://supaapp.xyz:8080/live/2551810583569940/2025565766597215/413799.ts
-#EXTINF:-1 group-title="MBC",AR: MBC GEO 1 HD
-http://supaapp.xyz:8080/live/2551810583569940/2025565766597215/413800.ts
-#EXTINF:-1 group-title="MBC",AR: MBC GEO 2 4K
-http://supaapp.xyz:8080/live/2551810583569940/2025565766597215/413801.ts
-#EXTINF:-1 group-title="MBC",AR: MBC GEO 2 HD
-http://supaapp.xyz:8080/live/2551810583569940/2025565766597215/413802.ts
-#EXTINF:-1 group-title="MBC",AR: MBC POWER 4K
-http://supaapp.xyz:8080/live/2551810583569940/2025565766597215/413803.ts
-#EXTINF:-1 group-title="MBC",AR: MBC POWER HD
-http://supaapp.xyz:8080/live/2551810583569940/2025565766597215/413804.ts
-#EXTINF:-1 group-title="MBC",AR: MBC PREMIUM 4K UHD
-http://supaapp.xyz:8080/live/2551810583569940/2025565766597215/413805.ts
-#EXTINF:-1 group-title="MBC",AR: MBC PLUS 4K
-http://supaapp.xyz:8080/live/2551810583569940/2025565766597215/413806.ts
-#EXTINF:-1 group-title="MBC",AR: MBC PLUS HD
-http://supaapp.xyz:8080/live/2551810583569940/2025565766597215/413807.ts
-#EXTINF:-1 group-title="MBC",AR: MBC FAMILY HD
-http://supaapp.xyz:8080/live/2551810583569940/2025565766597215/413808.ts
-#EXTINF:-1 group-title="MBC",AR: MBC CLOUD TV
-http://supaapp.xyz:8080/live/2551810583569940/2025565766597215/413809.ts
-#EXTINF:-1 group-title="MBC",AR: ARABS GOT TALENT 4K
-http://supaapp.xyz:8080/live/2551810583569940/2025565766597215/398935.ts
+#EXTM3U
+#EXTINF:-1 group-title="MBC CHANNELS",MBC MASR DRAMA
+http://marveltv.info/live/36889/147835/401613.ts
+#EXTINF:-1 group-title="MBC CHANNELS",MBC MASR DRAMA HD
+http://marveltv.info/live/36889/147835/401448.ts
+#EXTINF:-1 group-title="MBC CHANNELS",MBC PERSIA HD
+http://marveltv.info/live/36889/147835/401442.ts
+#EXTINF:-1 group-title="MBC CHANNELS",MBC 1 SD
+http://marveltv.info/live/36889/147835/269332.ts
+#EXTINF:-1 group-title="MBC CHANNELS",MBC 2 4K
+http://marveltv.info/live/36889/147835/269331.ts
+#EXTINF:-1 group-title="MBC CHANNELS",MBC 4 HD
+http://marveltv.info/live/36889/147835/269329.ts
+#EXTINF:-1 group-title="MBC CHANNELS",MBC 5 SD
+http://marveltv.info/live/36889/147835/269328.ts
+#EXTINF:-1 group-title="MBC CHANNELS",MBC BOLLYWOOD SD
+http://marveltv.info/live/36889/147835/269325.ts
+#EXTINF:-1 group-title="MBC CHANNELS",AR: MBC IRAQ SD
+http://marveltv.info/live/36889/147835/269323.ts
+#EXTINF:-1 group-title="MBC CHANNELS",Rotana Drama
+http://marveltv.info/live/36889/147835/267893.ts
+#EXTINF:-1 group-title="MBC CHANNELS",MBC 1 HD
+http://marveltv.info/live/36889/147835/99366.ts
+#EXTINF:-1 group-title="MBC CHANNELS",MBC 2 HD
+http://marveltv.info/live/36889/147835/99367.ts
+#EXTINF:-1 group-title="MBC CHANNELS",MBC 3 HD
+http://marveltv.info/live/36889/147835/99368.ts
+#EXTINF:-1 group-title="MBC CHANNELS",MBC 4 FHD
+http://marveltv.info/live/36889/147835/99369.ts
+#EXTINF:-1 group-title="MBC CHANNELS",MBC 5 HD
+http://marveltv.info/live/36889/147835/99370.ts
+#EXTINF:-1 group-title="MBC CHANNELS",MBC MASR 1 FHD
+http://marveltv.info/live/36889/147835/99359.ts
+#EXTINF:-1 group-title="MBC CHANNELS",MBC MASR 2 FHD
+http://marveltv.info/live/36889/147835/456980.ts
+#EXTINF:-1 group-title="MBC CHANNELS",MBC MASR 2 FHD
+http://marveltv.info/live/36889/147835/99361.ts
+#EXTINF:-1 group-title="MBC CHANNELS",MBC DRAMA HD
+http://marveltv.info/live/36889/147835/99362.ts
+#EXTINF:-1 group-title="MBC CHANNELS",MBC DRAMA+ HD
+http://marveltv.info/live/36889/147835/99347.ts
+#EXTINF:-1 group-title="MBC CHANNELS",MBC VARIETY FHD
+http://marveltv.info/live/36889/147835/99364.ts
+#EXTINF:-1 group-title="MBC CHANNELS",MBC IRAQ HD
+http://marveltv.info/live/36889/147835/99365.ts
+#EXTINF:-1 group-title="MBC CHANNELS",MBC MAX FHD
+http://marveltv.info/live/36889/147835/99371.ts
+#EXTINF:-1 group-title="MBC CHANNELS",MBC ACTION FHD
+http://marveltv.info/live/36889/147835/99372.ts
+#EXTINF:-1 group-title="MBC CHANNELS",MBC BOLLYWOOD HD
+http://marveltv.info/live/36889/147835/99373.ts
+#EXTINF:-1 group-title="MBC CHANNELS",ZEE ALWAN HD
+http://marveltv.info/live/36889/147835/261263.ts
+#EXTINF:-1 group-title="MBC CHANNELS",ZEE ALWAN SD
+http://marveltv.info/live/36889/147835/261539.ts
+#EXTINF:-1 group-title="MBC CHANNELS",Rotana Cinema EGY 4K
+http://marveltv.info/live/36889/147835/102723.ts
+#EXTINF:-1 group-title="MBC CHANNELS",ROTANA CINEMA KSA HD
+http://marveltv.info/live/36889/147835/102722.ts
+#EXTINF:-1 group-title="MBC CHANNELS",ROTANA DRAMA HD
+http://marveltv.info/live/36889/147835/102726.ts
+#EXTINF:-1 group-title="MBC CHANNELS",ROTANA +
+http://marveltv.info/live/36889/147835/102727.ts
+#EXTINF:-1 group-title="MBC CHANNELS",ROTANA COMEDY HD
+http://marveltv.info/live/36889/147835/102725.ts
+#EXTINF:-1 group-title="MBC CHANNELS",ROTANA CLASSIC HD
+http://marveltv.info/live/36889/147835/102724.ts
+#EXTINF:-1 group-title="MBC CHANNELS",ROTANA KIDS
+http://marveltv.info/live/36889/147835/102729.ts
+#EXTINF:-1 group-title="MBC CHANNELS",Rotana Khalijia FHD
+http://marveltv.info/live/36889/147835/102728.ts
 
 
 
 
 
 -----------------------OSN Group (AR)---------------------------------
+
 
 
 
