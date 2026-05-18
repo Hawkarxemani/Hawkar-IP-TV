@@ -1,10 +1,10 @@
 #EXTM3U 
 #EXTINF:0 CUID="8515" tvg-name="RUDAW HD" tvg-logo="https://i.postimg.cc/rpTvrtr0/Pics-Art-25-08-01-14-36-12-848.png" group-title="KURDISTAN",RUDAW HD
-http://line.watchtivo-8k.com:80/play/live.php?mac=A0:BB:3E:18:9E:02&stream=1666437&extension=ts
+https://live.rudaw.net/hls/rudaw-tv/stream_1080p.m3u8
 #EXTINF:0 CUID="8517" tvg-name="Channel 8 HD" tvg-logo="https://i.postimg.cc/Gd1prmrY/c8.png" group-title="KURDISTAN",Channel 8 HD
 https://live.channel8.com/Channel8-Kurdish/index.m3u8
 #EXTINF:0 CUID="8511" tvg-name="NRT HD" tvg-logo="https://i.postimg.cc/yVVqtpnh/NRT.png" group-title="KURDISTAN",NRT HD
-http://line.watchtivo-8k.com:80/play/live.php?mac=A0:BB:3E:18:9E:02&stream=1666440&extension=ts
+https://barham.short.gy/nrt.news.m3u8
 #EXTINF:0 CUID="8516" tvg-name="K24 FHD" tvg-logo="https://i.postimg.cc/HnMqM0BM/Pics-Art-25-08-01-14-37-22-115.png" group-title="KURDISTAN",K24 HD
 http://line.watchtivo-8k.com:80/play/live.php?mac=A0:BB:3E:18:9E:02&stream=1666438&extension=ts
 #EXTINF:0 CUID="8519" tvg-name="KURDSAT NEWS" tvg-logo="https://i.postimg.cc/Qs6v4tt4/kurdstan.png" group-title="KURDISTAN",KURDSAT NEWS
@@ -322,7 +322,9 @@ http://live.iptvtotaal.com:8000/live/mckenzie4760/L4hGTmrQgB/130410.ts
 
 
 #EXTINF:-1 group-title="Kurdish Sport",AVA SPORT HD
-http://line.watchtivo-8k.com:80/play/live.php?mac=A0:BB:3E:18:9E:02&stream=1667726&extension=ts
+http://142.132.133.190:1935/live/peshmerge/index.m3u8
+#EXTINF:-1 tvg-chno="726" tvg-id="" tvg-name="NRT Sport 4K" tvg-logo="https://safiafamily.com/uploads/family/kurdish_sport/NRT_SPORT.png" group-title="Kurdish Sport",NRT Sport 4K
+http://109.71.252.138/nrtsport1212/index.m3u8
 #EXTINF:-1 group-title="Kurdish Sport",ASO SPORT HD
 http://line.watchtivo-8k.com:80/play/live.php?mac=A0:BB:3E:18:9E:02&stream=1667730&extension=ts
 #EXTINF:0 CUID="8601" tvg-name="MMN SPORT" tvg-logo="https://i.postimg.cc/8NG9hZMg/MMNSPORT.png" group-title="Kurdish Sport",MMN SPORT
@@ -1137,83 +1139,6 @@ http://marveltv.info/live/36889/147835/92376.ts
 
 
 
----------------------MBC Group (AR)------------------------------------------------------------------
-
-
-
-#EXTM3U
-#EXTM3U
-#EXTINF:-1 group-title="MBC CHANNELS",MBC MASR DRAMA
-http://marveltv.info/live/36889/147835/401613.ts
-#EXTINF:-1 group-title="MBC CHANNELS",MBC MASR DRAMA HD
-http://marveltv.info/live/36889/147835/401448.ts
-#EXTINF:-1 group-title="MBC CHANNELS",MBC PERSIA HD
-http://marveltv.info/live/36889/147835/401442.ts
-#EXTINF:-1 group-title="MBC CHANNELS",MBC 1 SD
-http://marveltv.info/live/36889/147835/269332.ts
-#EXTINF:-1 group-title="MBC CHANNELS",MBC 2 4K
-http://marveltv.info/live/36889/147835/269331.ts
-#EXTINF:-1 group-title="MBC CHANNELS",MBC 4 HD
-http://marveltv.info/live/36889/147835/269329.ts
-#EXTINF:-1 group-title="MBC CHANNELS",MBC 5 SD
-http://marveltv.info/live/36889/147835/269328.ts
-#EXTINF:-1 group-title="MBC CHANNELS",MBC BOLLYWOOD SD
-http://marveltv.info/live/36889/147835/269325.ts
-#EXTINF:-1 group-title="MBC CHANNELS",AR: MBC IRAQ SD
-http://marveltv.info/live/36889/147835/269323.ts
-#EXTINF:-1 group-title="MBC CHANNELS",Rotana Drama
-http://marveltv.info/live/36889/147835/267893.ts
-#EXTINF:-1 group-title="MBC CHANNELS",MBC 1 HD
-http://marveltv.info/live/36889/147835/99366.ts
-#EXTINF:-1 group-title="MBC CHANNELS",MBC 2 HD
-http://marveltv.info/live/36889/147835/99367.ts
-#EXTINF:-1 group-title="MBC CHANNELS",MBC 3 HD
-http://marveltv.info/live/36889/147835/99368.ts
-#EXTINF:-1 group-title="MBC CHANNELS",MBC 4 FHD
-http://marveltv.info/live/36889/147835/99369.ts
-#EXTINF:-1 group-title="MBC CHANNELS",MBC 5 HD
-http://marveltv.info/live/36889/147835/99370.ts
-#EXTINF:-1 group-title="MBC CHANNELS",MBC MASR 1 FHD
-http://marveltv.info/live/36889/147835/99359.ts
-#EXTINF:-1 group-title="MBC CHANNELS",MBC MASR 2 FHD
-http://marveltv.info/live/36889/147835/456980.ts
-#EXTINF:-1 group-title="MBC CHANNELS",MBC MASR 2 FHD
-http://marveltv.info/live/36889/147835/99361.ts
-#EXTINF:-1 group-title="MBC CHANNELS",MBC DRAMA HD
-http://marveltv.info/live/36889/147835/99362.ts
-#EXTINF:-1 group-title="MBC CHANNELS",MBC DRAMA+ HD
-http://marveltv.info/live/36889/147835/99347.ts
-#EXTINF:-1 group-title="MBC CHANNELS",MBC VARIETY FHD
-http://marveltv.info/live/36889/147835/99364.ts
-#EXTINF:-1 group-title="MBC CHANNELS",MBC IRAQ HD
-http://marveltv.info/live/36889/147835/99365.ts
-#EXTINF:-1 group-title="MBC CHANNELS",MBC MAX FHD
-http://marveltv.info/live/36889/147835/99371.ts
-#EXTINF:-1 group-title="MBC CHANNELS",MBC ACTION FHD
-http://marveltv.info/live/36889/147835/99372.ts
-#EXTINF:-1 group-title="MBC CHANNELS",MBC BOLLYWOOD HD
-http://marveltv.info/live/36889/147835/99373.ts
-#EXTINF:-1 group-title="MBC CHANNELS",ZEE ALWAN HD
-http://marveltv.info/live/36889/147835/261263.ts
-#EXTINF:-1 group-title="MBC CHANNELS",ZEE ALWAN SD
-http://marveltv.info/live/36889/147835/261539.ts
-#EXTINF:-1 group-title="MBC CHANNELS",Rotana Cinema EGY 4K
-http://marveltv.info/live/36889/147835/102723.ts
-#EXTINF:-1 group-title="MBC CHANNELS",ROTANA CINEMA KSA HD
-http://marveltv.info/live/36889/147835/102722.ts
-#EXTINF:-1 group-title="MBC CHANNELS",ROTANA DRAMA HD
-http://marveltv.info/live/36889/147835/102726.ts
-#EXTINF:-1 group-title="MBC CHANNELS",ROTANA +
-http://marveltv.info/live/36889/147835/102727.ts
-#EXTINF:-1 group-title="MBC CHANNELS",ROTANA COMEDY HD
-http://marveltv.info/live/36889/147835/102725.ts
-#EXTINF:-1 group-title="MBC CHANNELS",ROTANA CLASSIC HD
-http://marveltv.info/live/36889/147835/102724.ts
-#EXTINF:-1 group-title="MBC CHANNELS",ROTANA KIDS
-http://marveltv.info/live/36889/147835/102729.ts
-#EXTINF:-1 group-title="MBC CHANNELS",Rotana Khalijia FHD
-http://marveltv.info/live/36889/147835/102728.ts
-
 
 
 
@@ -1224,163 +1149,183 @@ http://marveltv.info/live/36889/147835/102728.ts
 
 
 #EXTM3U
-#EXTINF:-1 group-title="OSN HD",OSN Art Cinema
-http://marveltv.info/live/36889/147835/82701.ts
-#EXTINF:-1 group-title="OSN HD",OSN Art Aflam 1
-http://marveltv.info/live/36889/147835/82702.ts
-#EXTINF:-1 group-title="OSN HD",OSN Art Aflam 2
-http://marveltv.info/live/36889/147835/82703.ts
-#EXTINF:-1 group-title="OSN HD",OSN Art Hekayat 1
-http://marveltv.info/live/36889/147835/82704.ts
-#EXTINF:-1 group-title="OSN HD",OSN Art Hekayat 2
-http://marveltv.info/live/36889/147835/82705.ts
-#EXTINF:-1 group-title="OSN HD",OSN YA HALA
-http://marveltv.info/live/36889/147835/273005.ts
-#EXTINF:-1 group-title="OSN HD",OSN YA HALA ARABI
-http://marveltv.info/live/36889/147835/273004.ts
-#EXTINF:-1 group-title="OSN HD",OSN YA HALA AFLAM
-http://marveltv.info/live/36889/147835/273003.ts
-#EXTINF:-1 group-title="OSN HD",OSN Alfa Musalsalat HD
-http://marveltv.info/live/36889/147835/273002.ts
-#EXTINF:-1 group-title="OSN HD",OSN Alfa Musalsalat 2 HD
-http://marveltv.info/live/36889/147835/273001.ts
-#EXTINF:-1 group-title="OSN HD",OSN Alfa Cinema 1 HD
-http://marveltv.info/live/36889/147835/273000.ts
-#EXTINF:-1 group-title="OSN HD",OSN Alfa Cinema 2 HD
-http://marveltv.info/live/36889/147835/272999.ts
-#EXTINF:-1 group-title="OSN HD",OSN Alfa AlFann HD
-http://marveltv.info/live/36889/147835/366090.ts
-#EXTINF:-1 group-title="OSN HD",OSN Alfa Al Safwa HD
-http://marveltv.info/live/36889/147835/366089.ts
-#EXTINF:-1 group-title="OSN HD",OSN STAR MOVIES
-http://marveltv.info/live/36889/147835/272998.ts
-#EXTINF:-1 group-title="OSN HD",OSN Alfa Alyoum HD
-http://marveltv.info/live/36889/147835/272996.ts
-#EXTINF:-1 group-title="OSN HD",OSN Alfa Music Now HD
-http://marveltv.info/live/36889/147835/272994.ts
-#EXTINF:-1 group-title="OSN HD",OSN FANN
-http://marveltv.info/live/36889/147835/272993.ts
-#EXTINF:-1 group-title="OSN HD",OSN MOVIES PREMIERE HD
-http://marveltv.info/live/36889/147835/272990.ts
-#EXTINF:-1 group-title="OSN HD",OSN MOVIES HOLYWOOD
-http://marveltv.info/live/36889/147835/272989.ts
-#EXTINF:-1 group-title="OSN HD",OSN Family HD
-http://marveltv.info/live/36889/147835/366103.ts
-#EXTINF:-1 group-title="OSN HD",OSN Showcase Classic HD
-http://marveltv.info/live/36889/147835/366102.ts
-#EXTINF:-1 group-title="OSN HD",OSN Crime HD
-http://marveltv.info/live/36889/147835/366101.ts
-#EXTINF:-1 group-title="OSN HD",OSN Crime Investigation HD
-http://marveltv.info/live/36889/147835/366100.ts
-#EXTINF:-1 group-title="OSN HD",OSN TV One HD
-http://marveltv.info/live/36889/147835/366099.ts
-#EXTINF:-1 group-title="OSN HD",OSN WWE
-http://marveltv.info/live/36889/147835/366098.ts
-#EXTINF:-1 group-title="OSN HD",OSN Now HD
-http://marveltv.info/live/36889/147835/366097.ts
-#EXTINF:-1 group-title="OSN HD",OSN News HD
-http://marveltv.info/live/36889/147835/366096.ts
-#EXTINF:-1 group-title="OSN HD",OSN Fatafeat HD
-http://marveltv.info/live/36889/147835/366095.ts
-#EXTINF:-1 group-title="OSN HD",OSN Animal HD
-http://marveltv.info/live/36889/147835/366094.ts
-#EXTINF:-1 group-title="OSN HD",OSN Moonbug Kids
-http://marveltv.info/live/36889/147835/366093.ts
-#EXTINF:-1 group-title="OSN HD",OSN Nick Toon HD
-http://marveltv.info/live/36889/147835/366092.ts
-#EXTINF:-1 group-title="OSN HD",OSN Cartoon Network HD
-http://marveltv.info/live/36889/147835/366091.ts
-#EXTINF:-1 group-title="OSN HD",OSN ACTION
-http://marveltv.info/live/36889/147835/272988.ts
-#EXTINF:-1 group-title="OSN HD",OSN SHOWCASE
-http://marveltv.info/live/36889/147835/272987.ts
-#EXTINF:-1 group-title="OSN HD",OSN COMEDY
-http://marveltv.info/live/36889/147835/272986.ts
-#EXTINF:-1 group-title="OSN HD",OSN WOMAN
-http://marveltv.info/live/36889/147835/272985.ts
-#EXTINF:-1 group-title="OSN HD",OSN LIVING
-http://marveltv.info/live/36889/147835/272984.ts
-#EXTINF:-1 group-title="OSN HD",OSN TLC
-http://marveltv.info/live/36889/147835/272983.ts
-#EXTINF:-1 group-title="OSN HD",OSN E!
-http://marveltv.info/live/36889/147835/272982.ts
-#EXTINF:-1 group-title="OSN HD",OSN FASHION TV
-http://marveltv.info/live/36889/147835/272980.ts
-#EXTINF:-1 group-title="OSN HD",OSN DISNEY CHANNEL
-http://marveltv.info/live/36889/147835/272979.ts
-#EXTINF:-1 group-title="OSN HD",OSN DISNEY JUNIOR
-http://marveltv.info/live/36889/147835/272977.ts
-#EXTINF:-1 group-title="OSN HD",OSN KIDS
-http://marveltv.info/live/36889/147835/272976.ts
-#EXTINF:-1 group-title="OSN HD",OSN KIDS ZONE TV
-http://marveltv.info/live/36889/147835/272975.ts
-#EXTINF:-1 group-title="OSN HD",OSN NICK JR
-http://marveltv.info/live/36889/147835/272974.ts
-#EXTINF:-1 group-title="OSN HD",OSN NICKELODEON
-http://marveltv.info/live/36889/147835/272973.ts
-#EXTINF:-1 group-title="OSN HD",National Geographic Abu Dhabi
-http://marveltv.info/live/36889/147835/318063.ts
-#EXTINF:-1 group-title="OSN HD",OSN NAT GEO WILD
-http://marveltv.info/live/36889/147835/272971.ts
-#EXTINF:-1 group-title="OSN HD",OSN NAT GEO
-http://marveltv.info/live/36889/147835/272970.ts
-#EXTINF:-1 group-title="OSN HD",OSN NAT GEO PEOPLE
-http://marveltv.info/live/36889/147835/272969.ts
-#EXTINF:-1 group-title="OSN HD",OSN DISCOVERY
-http://marveltv.info/live/36889/147835/272968.ts
-#EXTINF:-1 group-title="OSN HD",OSN DISCOVERY SCIENCE
-http://marveltv.info/live/36889/147835/272967.ts
-#EXTINF:-1 group-title="OSN HD",OSN DISCOVERY ID
-http://marveltv.info/live/36889/147835/272966.ts
-#EXTINF:-1 group-title="OSN HD",OSN HISTORY
-http://marveltv.info/live/36889/147835/272965.ts
-#EXTINF:-1 group-title="OSN HD",OSN H2 HD
-http://marveltv.info/live/36889/147835/272964.ts
-#EXTINF:-1 group-title="OSN HD",OSN Meezze HD
-http://marveltv.info/live/36889/147835/272963.ts
-#EXTINF:-1 group-title="OSN HD",OSN- POP UP FHD
-http://marveltv.info/live/36889/147835/203193.ts
-#EXTINF:-1 group-title="OSN HD",OSN- MOVIES FHD
-http://marveltv.info/live/36889/147835/203192.ts
-#EXTINF:-1 group-title="OSN HD",OSN- Movies First FHD
-http://marveltv.info/live/36889/147835/203191.ts
-#EXTINF:-1 group-title="OSN HD",OSN- Action HD
-http://marveltv.info/live/36889/147835/203190.ts
-#EXTINF:-1 group-title="OSN HD",OSN- Movies First +2 HD
-http://marveltv.info/live/36889/147835/203189.ts
-#EXTINF:-1 group-title="OSN HD",OSN- On Demand FHD
-http://marveltv.info/live/36889/147835/203188.ts
-#EXTINF:-1 group-title="OSN HD",OSN Family
-http://marveltv.info/live/36889/147835/203187.ts
-#EXTINF:-1 group-title="OSN HD",OSN- KIDS FHD
-http://marveltv.info/live/36889/147835/203186.ts
-#EXTINF:-1 group-title="OSN HD",OSN BOX OFFICE 1
-http://marveltv.info/live/36889/147835/229403.ts
-#EXTINF:-1 group-title="OSN HD",OSN- PLAY MOVIES 1 FHD
-http://marveltv.info/live/36889/147835/203185.ts
-#EXTINF:-1 group-title="OSN HD",OSN- PLAY MOVIES 2 FHD
-http://marveltv.info/live/36889/147835/203184.ts
-#EXTINF:-1 group-title="OSN HD",OSN- PLAY MOVIES 3 FHD
-http://marveltv.info/live/36889/147835/203183.ts
-#EXTINF:-1 group-title="OSN HD",OSN- PLAY MOVIES 4 FHD
-http://marveltv.info/live/36889/147835/203182.ts
-#EXTINF:-1 group-title="OSN HD",OSN- PLAY CINEMA 1 FHD
-http://marveltv.info/live/36889/147835/203181.ts
-#EXTINF:-1 group-title="OSN HD",OSN- PLAY CINEMA 2 FHD
-http://marveltv.info/live/36889/147835/203180.ts
-#EXTINF:-1 group-title="OSN HD",OSN- PLAY CINEMA 3 FHD
-http://marveltv.info/live/36889/147835/203179.ts
-#EXTINF:-1 group-title="OSN HD",OSN- PLAY CINEMA 4 FHD
-http://marveltv.info/live/36889/147835/203178.ts
-#EXTINF:-1 group-title="OSN HD",OSN- Enigma FHD
-http://marveltv.info/live/36889/147835/203177.ts
-#EXTINF:-1 group-title="OSN HD",OSN- Movies Comedy FHD
-http://marveltv.info/live/36889/147835/203176.ts
-#EXTINF:-1 group-title="OSN HD",Netflix Action 1
+#EXTINF:-1 group-title=MBC & OSN HD,AR | MBC 1 HD
+http://ipro.premium-ott3.com:8789/live/celesi83/1737467/342455.ts
+#EXTINF:-1 group-title=MBC & OSN HD,AR | MBC 2 HD
+http://ipro.premium-ott3.com:8789/live/celesi83/1737467/342454.ts
+#EXTINF:-1 group-title=MBC & OSN HD,AR | MBC 3 HD
+http://ipro.premium-ott3.com:8789/live/celesi83/1737467/342453.ts
+#EXTINF:-1 group-title=MBC & OSN HD,AR | MBC 4 HD
+http://ipro.premium-ott3.com:8789/live/celesi83/1737467/342452.ts
+#EXTINF:-1 group-title=MBC & OSN HD,AR | MBC ACTION HD
+http://ipro.premium-ott3.com:8789/live/celesi83/1737467/342451.ts
+#EXTINF:-1 group-title=MBC & OSN HD,AR | MBC MAX HD
+http://ipro.premium-ott3.com:8789/live/celesi83/1737467/342450.ts
+#EXTINF:-1 group-title=MBC & OSN HD,AR | MBC DRAMA HD
+http://ipro.premium-ott3.com:8789/live/celesi83/1737467/342449.ts
+#EXTINF:-1 group-title=MBC & OSN HD,AR | MBC BOLLYWOOD HD
+http://ipro.premium-ott3.com:8789/live/celesi83/1737467/342448.ts
+#EXTINF:-1 group-title=MBC & OSN HD,AR | MBC+ DRAMA HD
+http://ipro.premium-ott3.com:8789/live/celesi83/1737467/342447.ts
+#EXTINF:-1 group-title=MBC & OSN HD,AR | MBC+ VARIETY HD
+http://ipro.premium-ott3.com:8789/live/celesi83/1737467/342446.ts
+#EXTINF:-1 group-title=MBC & OSN HD,AR | ART AFLAM 1 HQ
+http://ipro.premium-ott3.com:8789/live/celesi83/1737467/342444.ts
+#EXTINF:-1 group-title=MBC & OSN HD,AR | ART AFLAM 2 HQ
+http://ipro.premium-ott3.com:8789/live/celesi83/1737467/342443.ts
+#EXTINF:-1 group-title=MBC & OSN HD,AR | ART CINEMA HQ
+http://ipro.premium-ott3.com:8789/live/celesi83/1737467/342442.ts
+#EXTINF:-1 group-title=MBC & OSN HD,AR | ART HEKAYAT HQ
+http://ipro.premium-ott3.com:8789/live/celesi83/1737467/342441.ts
+#EXTINF:-1 group-title=MBC & OSN HD,AR | ART HEKAYAT 2 HQ
+http://ipro.premium-ott3.com:8789/live/celesi83/1737467/342440.ts
+#EXTINF:-1 group-title=MBC & OSN HD,AR | CINEMA 1
+http://ipro.premium-ott3.com:8789/live/celesi83/1737467/342439.ts
+#EXTINF:-1 group-title=MBC & OSN HD,AR | CINEMA 2
+http://ipro.premium-ott3.com:8789/live/celesi83/1737467/342438.ts
+#EXTINF:-1 group-title=MBC & OSN HD,AR | ALFA SERIES HD
+http://ipro.premium-ott3.com:8789/live/celesi83/1737467/342437.ts
+#EXTINF:-1 group-title=MBC & OSN HD,AR | ALFA SERIES +2 HD
+http://ipro.premium-ott3.com:8789/live/celesi83/1737467/342436.ts
+#EXTINF:-1 group-title=MBC & OSN HD,AR | AL YAWM HD
+http://ipro.premium-ott3.com:8789/live/celesi83/1737467/342435.ts
+#EXTINF:-1 group-title=MBC & OSN HD,AR | AL SAFWA HD
+http://ipro.premium-ott3.com:8789/live/celesi83/1737467/342434.ts
+#EXTINF:-1 group-title=MBC & OSN HD,AR | FANN HD
+http://ipro.premium-ott3.com:8789/live/celesi83/1737467/342433.ts
+#EXTINF:-1 group-title=MBC & OSN HD,AR | MUSIC NOW HD
+http://ipro.premium-ott3.com:8789/live/celesi83/1737467/342432.ts
+#EXTINF:-1 group-title=MBC & OSN HD,AR | ZEE AFLAM
+http://ipro.premium-ott3.com:8789/live/celesi83/1737467/342431.ts
+#EXTINF:-1 group-title=MBC & OSN HD,AR | ZEE ALWAN
+http://ipro.premium-ott3.com:8789/live/celesi83/1737467/342430.ts
+#EXTINF:-1 group-title=MBC & OSN HD,AR | OSN MOVIES PREMIERE HD
+http://ipro.premium-ott3.com:8789/live/celesi83/1737467/342427.ts
+#EXTINF:-1 group-title=MBC & OSN HD,AR | MIX HOLLYWOOD HD
+http://ipro.premium-ott3.com:8789/live/celesi83/1737467/342425.ts
+#EXTINF:-1 group-title=MBC & OSN HD,AR | OSN MOVIES ACTION HD
+http://ipro.premium-ott3.com:8789/live/celesi83/1737467/342424.ts
+#EXTINF:-1 group-title=MBC & OSN HD,AR | OSN FAMILY HD
+http://ipro.premium-ott3.com:8789/live/celesi83/1737467/342423.ts
+#EXTINF:-1 group-title=MBC & OSN HD,AR | OSN YAHALA AFLAM HD
+http://ipro.premium-ott3.com:8789/live/celesi83/1737467/342422.ts
+#EXTINF:-1 group-title=MBC & OSN HD,AR | STAR ACTION HD
+http://ipro.premium-ott3.com:8789/live/celesi83/1737467/342421.ts
+#EXTINF:-1 group-title=MBC & OSN HD,AR | STAR WORLD HD
+http://ipro.premium-ott3.com:8789/live/celesi83/1737467/342420.ts
+#EXTINF:-1 group-title=MBC & OSN HD,AR | BEIN MOVIES 1 PREMIERE HD
+http://ipro.premium-ott3.com:8789/live/celesi83/1737467/342419.ts
+#EXTINF:-1 group-title=MBC & OSN HD,AR | BEIN MOVIES 2 ACTION HD
+http://ipro.premium-ott3.com:8789/live/celesi83/1737467/342418.ts
+#EXTINF:-1 group-title=MBC & OSN HD,AR | BEIN MOVIES 3 DRAMA HD
+http://ipro.premium-ott3.com:8789/live/celesi83/1737467/342417.ts
+#EXTINF:-1 group-title=MBC & OSN HD,AR | BEIN MOVIES 4 FAMILY HD
+http://ipro.premium-ott3.com:8789/live/celesi83/1737467/342416.ts
+#EXTINF:-1 group-title=MBC & OSN HD,AR | STC CINEMA HD
+http://ipro.premium-ott3.com:8789/live/celesi83/1737467/342415.ts
+#EXTINF:-1 group-title=MBC & OSN HD,AR | STC FAMILY HD
+http://ipro.premium-ott3.com:8789/live/celesi83/1737467/342414.ts
+#EXTINF:-1 group-title=MBC & OSN HD,AR | STC DRAMA HD
+http://ipro.premium-ott3.com:8789/live/celesi83/1737467/342413.ts
+#EXTINF:-1 group-title=MBC & OSN HD,AR | DREAM WORKS HD
+http://ipro.premium-ott3.com:8789/live/celesi83/1737467/342410.ts
+#EXTINF:-1 group-title=MBC & OSN HD,AR | OSN SHOWCASE HD
+http://ipro.premium-ott3.com:8789/live/celesi83/1737467/342408.ts
+#EXTINF:-1 group-title=MBC & OSN HD,AR | OSN W HD
+http://ipro.premium-ott3.com:8789/live/celesi83/1737467/342407.ts
+#EXTINF:-1 group-title=MBC & OSN HD,AR | OSN SERIES PRIME HD
+http://ipro.premium-ott3.com:8789/live/celesi83/1737467/342406.ts
+#EXTINF:-1 group-title=MBC & OSN HD,AR | OSN COMEDY HD
+http://ipro.premium-ott3.com:8789/live/celesi83/1737467/342405.ts
+#EXTINF:-1 group-title=MBC & OSN HD,AR | BEIN SERIES 1 HD
+http://ipro.premium-ott3.com:8789/live/celesi83/1737467/342404.ts
+#EXTINF:-1 group-title=MBC & OSN HD,AR | BEIN SERIES 2 HD
+http://ipro.premium-ott3.com:8789/live/celesi83/1737467/342403.ts
+#EXTINF:-1 group-title=MBC & OSN HD,AR | BEIN DRAMA HD
+http://ipro.premium-ott3.com:8789/live/celesi83/1737467/342402.ts
+#EXTINF:-1 group-title=MBC & OSN HD,AR | OSN YAHALA HD
+http://ipro.premium-ott3.com:8789/live/celesi83/1737467/342395.ts
+#EXTINF:-1 group-title=MBC & OSN HD,AR | OSN YAHALA! BIL ARABI HD
+http://ipro.premium-ott3.com:8789/live/celesi83/1737467/342394.ts
+#EXTINF:-1 group-title=MBC & OSN HD,AR | OSN MEZZE HD
+http://ipro.premium-ott3.com:8789/live/celesi83/1737467/342393.ts
+#EXTINF:-1 group-title=MBC & OSN HD,AR | E! ENTERTAINMENT HD
+http://ipro.premium-ott3.com:8789/live/celesi83/1737467/342391.ts
+#EXTINF:-1 group-title=MBC & OSN HD,AR | HGTV
+http://ipro.premium-ott3.com:8789/live/celesi83/1737467/342390.ts
+#EXTINF:-1 group-title=MBC & OSN HD,AR | NAT GEO HD
+http://ipro.premium-ott3.com:8789/live/celesi83/1737467/342387.ts
+#EXTINF:-1 group-title=MBC & OSN HD,AR | NAT GEO WILD HD
+http://ipro.premium-ott3.com:8789/live/celesi83/1737467/342386.ts
+#EXTINF:-1 group-title=MBC & OSN HD,AR | TLC HD
+http://ipro.premium-ott3.com:8789/live/celesi83/1737467/342385.ts
+#EXTINF:-1 group-title=MBC & OSN HD,AR | HISTORY HD
+http://ipro.premium-ott3.com:8789/live/celesi83/1737467/342384.ts
+#EXTINF:-1 group-title=MBC & OSN HD,AR | H2 HD
+http://ipro.premium-ott3.com:8789/live/celesi83/1737467/342383.ts
+#EXTINF:-1 group-title=MBC & OSN HD,AR | DISCOVERY HD
+http://ipro.premium-ott3.com:8789/live/celesi83/1737467/342382.ts
+#EXTINF:-1 group-title=MBC & OSN HD,AR | DISCOVERY IDX HD
+http://ipro.premium-ott3.com:8789/live/celesi83/1737467/342380.ts
+#EXTINF:-1 group-title=MBC & OSN HD,AR | BBC EARTH
+http://ipro.premium-ott3.com:8789/live/celesi83/1737467/342378.ts
+#EXTINF:-1 group-title=MBC & OSN HD,AR | AL JAZEERA DOCUMENTARY HD
+http://ipro.premium-ott3.com:8789/live/celesi83/1737467/342377.ts
+#EXTINF:-1 group-title=MBC & OSN HD,AR | BEIN GOURMET HD
+http://ipro.premium-ott3.com:8789/live/celesi83/1737467/342375.ts
+#EXTINF:-1 group-title=MBC & OSN HD,AR | FATAFEAT HD
+http://ipro.premium-ott3.com:8789/live/celesi83/1737467/342374.ts
+#EXTINF:-1 group-title=MBC & OSN HD,AR | MTV LIVE HD
+http://ipro.premium-ott3.com:8789/live/celesi83/1737467/342371.ts
+#EXTINF:-1 group-title=MBC & OSN HD,AR | MTV 00s
+http://ipro.premium-ott3.com:8789/live/celesi83/1737467/342370.ts
+#EXTINF:-1 group-title=MBC & OSN HD,AR | MTV 80s
+http://ipro.premium-ott3.com:8789/live/celesi83/1737467/342369.ts
+#EXTINF:-1 group-title=MBC & OSN HD,AR | MTV 90s
+http://ipro.premium-ott3.com:8789/live/celesi83/1737467/342368.ts
+#EXTINF:-1 group-title=MBC & OSN HD,AR | MTV CLASSIC
+http://ipro.premium-ott3.com:8789/live/celesi83/1737467/342367.ts
+#EXTINF:-1 group-title=MBC & OSN HD,AR | OSN KIDS HD
+http://ipro.premium-ott3.com:8789/live/celesi83/1737467/342365.ts
+#EXTINF:-1 group-title=MBC & OSN HD,AR | OSN KIDZONE HD
+http://ipro.premium-ott3.com:8789/live/celesi83/1737467/342364.ts
+#EXTINF:-1 group-title=MBC & OSN HD,AR | NICK TOONS HD
+http://ipro.premium-ott3.com:8789/live/celesi83/1737467/342363.ts
+#EXTINF:-1 group-title=MBC & OSN HD,AR | NICKELODEON HD
+http://ipro.premium-ott3.com:8789/live/celesi83/1737467/342362.ts
+#EXTINF:-1 group-title=MBC & OSN HD,AR | DISNEY CHANNEL HD
+http://ipro.premium-ott3.com:8789/live/celesi83/1737467/342361.ts
+#EXTINF:-1 group-title=MBC & OSN HD,AR | DISNEY JUNIOR HD
+http://ipro.premium-ott3.com:8789/live/celesi83/1737467/342360.ts
+#EXTINF:-1 group-title=MBC & OSN HD,AR | NICK JR. HD
+http://ipro.premium-ott3.com:8789/live/celesi83/1737467/342359.ts
+#EXTINF:-1 group-title=MBC & OSN HD,AR | WANASAH BABY HD
+http://ipro.premium-ott3.com:8789/live/celesi83/1737467/342358.ts
+#EXTINF:-1 group-title=MBC & OSN HD,AR | MOONBUG KIDS
+http://ipro.premium-ott3.com:8789/live/celesi83/1737467/342357.ts
+#EXTINF:-1 group-title=MBC & OSN HD,AR | JEEM HD
+http://ipro.premium-ott3.com:8789/live/celesi83/1737467/342355.ts
+#EXTINF:-1 group-title=MBC & OSN HD,AR | BARAEM HD
+http://ipro.premium-ott3.com:8789/live/celesi83/1737467/342354.ts
+#EXTINF:-1 group-title=MBC & OSN HD,AR | CARTOON NETWORK AR
+http://ipro.premium-ott3.com:8789/live/celesi83/1737467/342353.ts
+#EXTINF:-1 group-title=MBC & OSN HD,AR | CARTOON NETWORK HIN
+http://ipro.premium-ott3.com:8789/live/celesi83/1737467/342352.ts
+#EXTINF:-1 group-title=MBC & OSN HD,AR | CARTOON NETWORK EN
+http://ipro.premium-ott3.com:8789/live/celesi83/1737467/342351.ts
+#EXTINF:-1 group-title=MBC & OSN HD,AR | CBEEBIES
+http://ipro.premium-ott3.com:8789/live/celesi83/1737467/342350.ts
+#EXTINF:-1 group-title=MBC & OSN HD,AR | AL ARABIYA HD
+http://ipro.premium-ott3.com:8789/live/celesi83/1737467/342348.ts
+#EXTINF:-1 group-title=MBC & OSN HD,AR | OSN NEWS HD
+http://ipro.premium-ott3.com:8789/live/celesi83/1737467/342347.ts
+#EXTINF:-1 group-title=MBC & OSN HD,AR | SKY NEWS AR HD
+http://ipro.premium-ott3.com:8789/live/celesi83/1737467/342346.ts
+#EXTINF:-1 group-title=MBC & OSN HD,Netflix Action 1
 http://tera.online:80/158711478533/186083606640/575218
-#EXTINF:-1 group-title="OSN HD",Netflix Action 2
+#EXTINF:-1 group-title=MBC & OSN HD,Netflix Action 2
 http://tera.online:80/158711478533/186083606640/575226
-#EXTINF:-1 group-title="OSN HD",AMAZONE MOVIES 3
+#EXTINF:-1 group-title=MBC & OSN HD,AMAZONE MOVIES 3
 http://tera.online:80/158711478533/186083606640/574146
 
 
