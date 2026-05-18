@@ -1,12 +1,12 @@
 #EXTM3U 
 #EXTINF:0 CUID="8515" tvg-name="RUDAW HD" tvg-logo="https://i.postimg.cc/rpTvrtr0/Pics-Art-25-08-01-14-36-12-848.png" group-title="KURDISTAN",RUDAW HD
-https://live.rudaw.net/hls/rudaw-tv/stream_1080p.m3u8
+https://live.rudaw.net/hls/rudaw-tv/master.m3u8
 #EXTINF:0 CUID="8517" tvg-name="Channel 8 HD" tvg-logo="https://i.postimg.cc/Gd1prmrY/c8.png" group-title="KURDISTAN",Channel 8 HD
 https://live.channel8.com/Channel8-Kurdish/index.m3u8
 #EXTINF:0 CUID="8511" tvg-name="NRT HD" tvg-logo="https://i.postimg.cc/yVVqtpnh/NRT.png" group-title="KURDISTAN",NRT HD
-http://sonymax.org:8080/live/9bgtjiBRz5/Voj3asApSn/8174.ts
+https://media.streambrothers.com:1936/8226/8226/playlist.m3u8
 #EXTINF:0 CUID="8516" tvg-name="K24 FHD" tvg-logo="https://i.postimg.cc/HnMqM0BM/Pics-Art-25-08-01-14-37-22-115.png" group-title="KURDISTAN",K24 HD
-http://sonymax.org:8080/live/9bgtjiBRz5/Voj3asApSn/378353.ts
+https://d1x82nydcxndze.cloudfront.net/live/index.m3u8
 #EXTINF:0 CUID="8519" tvg-name="KURDSAT NEWS" tvg-logo="https://i.postimg.cc/Qs6v4tt4/kurdstan.png" group-title="KURDISTAN",KURDSAT NEWS
 https://hlspackager.akamaized.net/live/DB/KURDSAT_NEWS/HLS/KURDSAT_NEWS.m3u8
 #EXTINF:0 CUID="8521" tvg-name="GALI KURDISTAN" tvg-logo="https://i.postimg.cc/SmhvBS3N/GK.png" group-title="KURDISTAN",GALI KURDISTAN
