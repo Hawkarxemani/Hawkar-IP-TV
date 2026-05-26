@@ -505,175 +505,34 @@ http://marveltv.info/live/36889/147835/168916.ts
 
 ****************************************************************************
 
-
-
 #EXTM3U
-#EXTINF:-1 tvg-id="" tvg-name="8K - BEIN SPORTS NEWS ᴴᴰ" tvg-logo="http://51.158.145.100/picons/logos/arabic/1178455.png" tvg-country="Unknown" group-title="Hawkar Sport HD" tvg-flag="",8K - BEIN SPORTS NEWS ᴴᴰ
-http://mag.dino.ws:80/live/deb7c7b622/4c30bb937058/1178455.ts
-#EXTINF:-1 tvg-id="" tvg-name="8K - BEIN SPORTS GLOBAL ᴴᴰ" tvg-logo="http://51.158.145.100/picons/logos/bein/1178454.png" tvg-country="Unknown" group-title="Hawkar Sport HD" tvg-flag="",8K - BEIN SPORTS GLOBAL ᴴᴰ
-http://mag.dino.ws:80/live/deb7c7b622/4c30bb937058/1178454.ts
-#EXTINF:-1 tvg-id="" tvg-name="8K - BEIN SPORTS 1 ᴴᴰ" tvg-logo="http://51.158.145.100/picons/logos/arabic/1178453.png" tvg-country="Unknown" group-title="Hawkar Sport HD" tvg-flag="",8K - BEIN SPORTS 1 ᴴᴰ
-http://mag.dino.ws:80/live/deb7c7b622/4c30bb937058/1178453.ts
-#EXTINF:-1 tvg-id="" tvg-name="8K - BEIN SPORTS 2 ᴴᴰ" tvg-logo="http://51.158.145.100/picons/logos/arabic/1178452.png" tvg-country="Unknown" group-title="Hawkar Sport HD" tvg-flag="",8K - BEIN SPORTS 2 ᴴᴰ
-http://mag.dino.ws:80/live/deb7c7b622/4c30bb937058/1178452.ts
-#EXTINF:-1 tvg-id="" tvg-name="8K - BEIN SPORTS 3 ᴴᴰ" tvg-logo="http://51.158.145.100/picons/logos/arabic/1178451.png" tvg-country="Unknown" group-title="Hawkar Sport HD" tvg-flag="",8K - BEIN SPORTS 3 ᴴᴰ
-http://mag.dino.ws:80/live/deb7c7b622/4c30bb937058/1178451.ts
-#EXTINF:-1 tvg-id="" tvg-name="8K - BEIN SPORTS 4 ᴴᴰ" tvg-logo="http://51.158.145.100/picons/logos/arabic/1178450.png" tvg-country="Unknown" group-title="Hawkar Sport HD" tvg-flag="",8K - BEIN SPORTS 4 ᴴᴰ
-http://mag.dino.ws:80/live/deb7c7b622/4c30bb937058/1178450.ts
-#EXTINF:-1 tvg-id="" tvg-name="8K - BEIN SPORTS 5 ᴴᴰ" tvg-logo="http://51.158.145.100/picons/logos/arabic/1178449.png" tvg-country="Unknown" group-title="Hawkar Sport HD" tvg-flag="",8K - BEIN SPORTS 5 ᴴᴰ
-http://mag.dino.ws:80/live/deb7c7b622/4c30bb937058/1178449.ts
-#EXTINF:-1 tvg-id="" tvg-name="8K - BEIN SPORTS 6 ᴴᴰ" tvg-logo="http://51.158.145.100/picons/logos/arabic/1178448.png" tvg-country="Unknown" group-title="Hawkar Sport HD" tvg-flag="",8K - BEIN SPORTS 6 ᴴᴰ
-http://mag.dino.ws:80/live/deb7c7b622/4c30bb937058/1178448.ts
-#EXTINF:-1 tvg-id="" tvg-name="8K - BEIN SPORTS 7 ᴴᴰ" tvg-logo="http://51.158.145.100/picons/logos/arabic/1178447.png" tvg-country="Unknown" group-title="Hawkar Sport HD" tvg-flag="",8K - BEIN SPORTS 7 ᴴᴰ
-http://mag.dino.ws:80/live/deb7c7b622/4c30bb937058/1178447.ts
-#EXTINF:-1 tvg-id="" tvg-name="8K - BEIN SPORTS 8 ᴴᴰ" tvg-logo="http://51.158.145.100/picons/logos/arabic/1178446.png" tvg-country="Unknown" group-title="Hawkar Sport HD" tvg-flag="",8K - BEIN SPORTS 8 ᴴᴰ
-http://mag.dino.ws:80/live/deb7c7b622/4c30bb937058/1178446.ts
-#EXTINF:-1 tvg-id="" tvg-name="8K - BEIN SPORTS 9 ᴴᴰ" tvg-logo="http://51.158.145.100/picons/logos/arabic/1178445.png" tvg-country="Unknown" group-title="Hawkar Sport HD" tvg-flag="",8K - BEIN SPORTS 9 ᴴᴰ
-http://mag.dino.ws:80/live/deb7c7b622/4c30bb937058/1178445.ts
-#EXTINF:-1 tvg-id="" tvg-name="8K - BEIN SPORTS 1 XTRA ᴴᴰ" tvg-logo="http://51.158.145.100/picons/logos/arabic/1178444.png" tvg-country="Unknown" group-title="Hawkar Sport HD" tvg-flag="",8K - BEIN SPORTS 1 XTRA ᴴᴰ
-http://mag.dino.ws:80/live/deb7c7b622/4c30bb937058/1178444.ts
-#EXTINF:-1 tvg-id="" tvg-name="8K - BEIN SPORTS 2 XTRA ᴴᴰ" tvg-logo="http://51.158.145.100/picons/logos/arabic/1178443.png" tvg-country="Unknown" group-title="Hawkar Sport HD" tvg-flag="",8K - BEIN SPORTS 2 XTRA ᴴᴰ
-http://mag.dino.ws:80/live/deb7c7b622/4c30bb937058/1178443.ts
-#EXTINF:-1 tvg-id="" tvg-name="8K - BEIN SPORTS 3 XTRA ᴴᴰ" tvg-logo="http://51.158.145.100/picons/logos/arabic/1178442.png" tvg-country="Unknown" group-title="Hawkar Sport HD" tvg-flag="",8K - BEIN SPORTS 3 XTRA ᴴᴰ
-http://mag.dino.ws:80/live/deb7c7b622/4c30bb937058/1178442.ts
-#EXTINF:-1 tvg-id="" tvg-name="8K - BEIN SPORTS 1 ENGLISH ᴴᴰ" tvg-logo="http://51.158.145.100/picons/logos/arabic/1178441.png" tvg-country="Unknown" group-title="Hawkar Sport HD" tvg-flag="",8K - BEIN SPORTS 1 ENGLISH ᴴᴰ
-http://mag.dino.ws:80/live/deb7c7b622/4c30bb937058/1178441.ts
-#EXTINF:-1 tvg-id="" tvg-name="8K - BEIN SPORTS 2 ENGLISH ᴴᴰ" tvg-logo="http://51.158.145.100/picons/logos/arabic/1178440.png" tvg-country="Unknown" group-title="Hawkar Sport HD" tvg-flag="",8K - BEIN SPORTS 2 ENGLISH ᴴᴰ
-http://mag.dino.ws:80/live/deb7c7b622/4c30bb937058/1178440.ts
-#EXTINF:-1 tvg-id="" tvg-name="8K - BEIN SPORTS 1 FRANCE ᴴᴰ" tvg-logo="http://51.158.145.100/picons/logos/arabic/1178439.png" tvg-country="Unknown" group-title="Hawkar Sport HD" tvg-flag="",8K - BEIN SPORTS 1 FRANCE ᴴᴰ
-http://mag.dino.ws:80/live/deb7c7b622/4c30bb937058/1178439.ts
-#EXTINF:-1 tvg-id="" tvg-name="8K - BEIN SPORTS 2 FRANCE ᴴᴰ" tvg-logo="http://51.158.145.100/picons/logos/arabic/1178438.png" tvg-country="Unknown" group-title="Hawkar Sport HD" tvg-flag="",8K - BEIN SPORTS 2 FRANCE ᴴᴰ
-http://mag.dino.ws:80/live/deb7c7b622/4c30bb937058/1178438.ts
-#EXTINF:-1 tvg-id="" tvg-name="8K - BEIN SPORTS 3 FRANCE ᴴᴰ" tvg-logo="http://51.158.145.100/picons/logos/arabic/1178437.png" tvg-country="Unknown" group-title="Hawkar Sport HD" tvg-flag="",8K - BEIN SPORTS 3 FRANCE ᴴᴰ
-http://mag.dino.ws:80/live/deb7c7b622/4c30bb937058/1178437.ts
-#EXTINF:-1 tvg-id="" tvg-name="8K - BEIN SPORTS NEWS SD" tvg-logo="http://51.158.145.100/picons/logos/arabic/1178435.png" tvg-country="Unknown" group-title="Hawkar Sport HD" tvg-flag="",8K - BEIN SPORTS NEWS SD
-http://mag.dino.ws:80/live/deb7c7b622/4c30bb937058/1178435.ts
-#EXTINF:-1 tvg-id="" tvg-name="8K - BEIN SPORTS GLOBAL SD" tvg-logo="http://51.158.145.100/picons/logos/bein/1178434.png" tvg-country="Unknown" group-title="Hawkar Sport HD" tvg-flag="",8K - BEIN SPORTS GLOBAL SD
-http://mag.dino.ws:80/live/deb7c7b622/4c30bb937058/1178434.ts
-#EXTINF:-1 tvg-id="" tvg-name="8K - BEIN SPORTS 1 SD" tvg-logo="http://51.158.145.100/picons/logos/arabic/1178433.png" tvg-country="Unknown" group-title="Hawkar Sport HD" tvg-flag="",8K - BEIN SPORTS 1 SD
-http://mag.dino.ws:80/live/deb7c7b622/4c30bb937058/1178433.ts
-#EXTINF:-1 tvg-id="" tvg-name="8K - BEIN SPORTS 2 SD" tvg-logo="http://51.158.145.100/picons/logos/arabic/1178432.png" tvg-country="Unknown" group-title="Hawkar Sport HD" tvg-flag="",8K - BEIN SPORTS 2 SD
-http://mag.dino.ws:80/live/deb7c7b622/4c30bb937058/1178432.ts
-#EXTINF:-1 tvg-id="" tvg-name="8K - BEIN SPORTS 3 SD" tvg-logo="http://51.158.145.100/picons/logos/arabic/1178431.png" tvg-country="Unknown" group-title="Hawkar Sport HD" tvg-flag="",8K - BEIN SPORTS 3 SD
-http://mag.dino.ws:80/live/deb7c7b622/4c30bb937058/1178431.ts
-#EXTINF:-1 tvg-id="" tvg-name="8K - BEIN SPORTS 4 SD" tvg-logo="http://51.158.145.100/picons/logos/arabic/1178430.png" tvg-country="Unknown" group-title="Hawkar Sport HD" tvg-flag="",8K - BEIN SPORTS 4 SD
-http://mag.dino.ws:80/live/deb7c7b622/4c30bb937058/1178430.ts
-#EXTINF:-1 tvg-id="" tvg-name="8K - BEIN SPORTS 5 SD" tvg-logo="http://51.158.145.100/picons/logos/arabic/1178429.png" tvg-country="Unknown" group-title="Hawkar Sport HD" tvg-flag="",8K - BEIN SPORTS 5 SD
-http://mag.dino.ws:80/live/deb7c7b622/4c30bb937058/1178429.ts
-#EXTINF:-1 tvg-id="" tvg-name="8K - BEIN SPORTS 6 SD" tvg-logo="http://51.158.145.100/picons/logos/arabic/1178428.png" tvg-country="Unknown" group-title="Hawkar Sport HD" tvg-flag="",8K - BEIN SPORTS 6 SD
-http://mag.dino.ws:80/live/deb7c7b622/4c30bb937058/1178428.ts
-#EXTINF:-1 tvg-id="" tvg-name="8K - BEIN SPORTS 7 SD" tvg-logo="http://51.158.145.100/picons/logos/arabic/1178427.png" tvg-country="Unknown" group-title="Hawkar Sport HD" tvg-flag="",8K - BEIN SPORTS 7 SD
-http://mag.dino.ws:80/live/deb7c7b622/4c30bb937058/1178427.ts
-#EXTINF:-1 tvg-id="" tvg-name="8K - BEIN SPORTS 8 SD" tvg-logo="http://51.158.145.100/picons/logos/arabic/1178426.png" tvg-country="Unknown" group-title="Hawkar Sport HD" tvg-flag="",8K - BEIN SPORTS 8 SD
-http://mag.dino.ws:80/live/deb7c7b622/4c30bb937058/1178426.ts
-#EXTINF:-1 tvg-id="" tvg-name="8K - BEIN SPORTS 9 SD" tvg-logo="http://51.158.145.100/picons/logos/arabic/1178425.png" tvg-country="Unknown" group-title="Hawkar Sport HD" tvg-flag="",8K - BEIN SPORTS 9 SD
-http://mag.dino.ws:80/live/deb7c7b622/4c30bb937058/1178425.ts
-#EXTINF:-1 tvg-id="" tvg-name="8K - BEIN SPORTS 1 XTRA SD" tvg-logo="http://51.158.145.100/picons/logos/arabic/1178424.png" tvg-country="Unknown" group-title="Hawkar Sport HD" tvg-flag="",8K - BEIN SPORTS 1 XTRA SD
-http://mag.dino.ws:80/live/deb7c7b622/4c30bb937058/1178424.ts
-#EXTINF:-1 tvg-id="" tvg-name="8K - BEIN SPORTS 2 XTRA SD" tvg-logo="http://51.158.145.100/picons/logos/arabic/1178423.png" tvg-country="Unknown" group-title="Hawkar Sport HD" tvg-flag="",8K - BEIN SPORTS 2 XTRA SD
-http://mag.dino.ws:80/live/deb7c7b622/4c30bb937058/1178423.ts
-#EXTINF:-1 tvg-id="" tvg-name="8K - BEIN SPORTS 3 XTRA SD" tvg-logo="http://51.158.145.100/picons/logos/arabic/1178422.png" tvg-country="Unknown" group-title="Hawkar Sport HD" tvg-flag="",8K - BEIN SPORTS 3 XTRA SD
-http://mag.dino.ws:80/live/deb7c7b622/4c30bb937058/1178422.ts
-#EXTINF:-1 tvg-id="" tvg-name="8K - BEIN SPORTS 1 ENGLISH SD" tvg-logo="http://51.158.145.100/picons/logos/arabic/1178421.png" tvg-country="Unknown" group-title="Hawkar Sport HD" tvg-flag="",8K - BEIN SPORTS 1 ENGLISH SD
-http://mag.dino.ws:80/live/deb7c7b622/4c30bb937058/1178421.ts
-#EXTINF:-1 tvg-id="" tvg-name="8K - BEIN SPORTS 2 ENGLISH SD" tvg-logo="http://51.158.145.100/picons/logos/arabic/1178420.png" tvg-country="Unknown" group-title="Hawkar Sport HD" tvg-flag="",8K - BEIN SPORTS 2 ENGLISH SD
-http://mag.dino.ws:80/live/deb7c7b622/4c30bb937058/1178420.ts
-#EXTINF:-1 tvg-id="" tvg-name="####### BEIN SPORTS LQ #######" tvg-logo="http://51.158.145.100/picons/logos/arabic/1178419.png" tvg-country="Unknown" group-title="Hawkar Sport HD" tvg-flag="",####### BEIN SPORTS LQ #######
-http://mag.dino.ws:80/live/deb7c7b622/4c30bb937058/1178419.ts
-#EXTINF:-1 tvg-id="" tvg-name="8K - BEIN SPORTS NEWS LQ" tvg-logo="http://51.158.145.100/picons/logos/arabic/1178418.png" tvg-country="Unknown" group-title="Hawkar Sport HD" tvg-flag="",8K - BEIN SPORTS NEWS LQ
-http://mag.dino.ws:80/live/deb7c7b622/4c30bb937058/1178418.ts
-#EXTINF:-1 tvg-id="" tvg-name="8K - BEIN SPORTS GLOBAL LQ" tvg-logo="http://51.158.145.100/picons/logos/bein/1178417.png" tvg-country="Unknown" group-title="Hawkar Sport HD" tvg-flag="",8K - BEIN SPORTS GLOBAL LQ
-http://mag.dino.ws:80/live/deb7c7b622/4c30bb937058/1178417.ts
-#EXTINF:-1 tvg-id="" tvg-name="8K - BEIN SPORTS 1 LQ" tvg-logo="http://51.158.145.100/picons/logos/arabic/1178416.png" tvg-country="Unknown" group-title="Hawkar Sport HD" tvg-flag="",8K - BEIN SPORTS 1 LQ
-http://mag.dino.ws:80/live/deb7c7b622/4c30bb937058/1178416.ts
-#EXTINF:-1 tvg-id="" tvg-name="8K - BEIN SPORTS 2 LQ" tvg-logo="http://51.158.145.100/picons/logos/arabic/1178415.png" tvg-country="Unknown" group-title="Hawkar Sport HD" tvg-flag="",8K - BEIN SPORTS 2 LQ
-http://mag.dino.ws:80/live/deb7c7b622/4c30bb937058/1178415.ts
-#EXTINF:-1 tvg-id="" tvg-name="8K - BEIN SPORTS 3 LQ" tvg-logo="http://51.158.145.100/picons/logos/arabic/1178414.png" tvg-country="Unknown" group-title="Hawkar Sport HD" tvg-flag="",8K - BEIN SPORTS 3 LQ
-http://mag.dino.ws:80/live/deb7c7b622/4c30bb937058/1178414.ts
-#EXTINF:-1 tvg-id="" tvg-name="8K - BEIN SPORTS 4 LQ" tvg-logo="http://51.158.145.100/picons/logos/arabic/1178413.png" tvg-country="Unknown" group-title="Hawkar Sport HD" tvg-flag="",8K - BEIN SPORTS 4 LQ
-http://mag.dino.ws:80/live/deb7c7b622/4c30bb937058/1178413.ts
-#EXTINF:-1 tvg-id="" tvg-name="8K - BEIN SPORTS 5 LQ" tvg-logo="http://51.158.145.100/picons/logos/arabic/1178412.png" tvg-country="Unknown" group-title="Hawkar Sport HD" tvg-flag="",8K - BEIN SPORTS 5 LQ
-http://mag.dino.ws:80/live/deb7c7b622/4c30bb937058/1178412.ts
-#EXTINF:-1 tvg-id="" tvg-name="8K - BEIN SPORTS 6 LQ" tvg-logo="http://51.158.145.100/picons/logos/arabic/1178411.png" tvg-country="Unknown" group-title="Hawkar Sport HD" tvg-flag="",8K - BEIN SPORTS 6 LQ
-http://mag.dino.ws:80/live/deb7c7b622/4c30bb937058/1178411.ts
-#EXTINF:-1 tvg-id="" tvg-name="8K - BEIN SPORTS 7 LQ" tvg-logo="http://51.158.145.100/picons/logos/arabic/1178410.png" tvg-country="Unknown" group-title="Hawkar Sport HD" tvg-flag="",8K - BEIN SPORTS 7 LQ
-http://mag.dino.ws:80/live/deb7c7b622/4c30bb937058/1178410.ts
-#EXTINF:-1 tvg-id="" tvg-name="8K - BEIN SPORTS 8 LQ" tvg-logo="http://51.158.145.100/picons/logos/arabic/1178409.png" tvg-country="Unknown" group-title="Hawkar Sport HD" tvg-flag="",8K - BEIN SPORTS 8 LQ
-http://mag.dino.ws:80/live/deb7c7b622/4c30bb937058/1178409.ts
-#EXTINF:-1 tvg-id="" tvg-name="8K - BEIN SPORTS 9 LQ" tvg-logo="http://51.158.145.100/picons/logos/arabic/1178408.png" tvg-country="Unknown" group-title="Hawkar Sport HD" tvg-flag="",8K - BEIN SPORTS 9 LQ
-http://mag.dino.ws:80/live/deb7c7b622/4c30bb937058/1178408.ts
-#EXTINF:-1 tvg-id="" tvg-name="8K - BEIN SPORTS 1 XTRA LQ" tvg-logo="http://51.158.145.100/picons/logos/arabic/1178407.png" tvg-country="Unknown" group-title="Hawkar Sport HD" tvg-flag="",8K - BEIN SPORTS 1 XTRA LQ
-http://mag.dino.ws:80/live/deb7c7b622/4c30bb937058/1178407.ts
-#EXTINF:-1 tvg-id="" tvg-name="8K - BEIN SPORTS 2 XTRA LQ" tvg-logo="http://51.158.145.100/picons/logos/arabic/1178406.png" tvg-country="Unknown" group-title="Hawkar Sport HD" tvg-flag="",8K - BEIN SPORTS 2 XTRA LQ
-http://mag.dino.ws:80/live/deb7c7b622/4c30bb937058/1178406.ts
-#EXTINF:-1 tvg-id="" tvg-name="8K - BEIN SPORTS 3 XTRA LQ" tvg-logo="http://51.158.145.100/picons/logos/arabic/1178405.png" tvg-country="Unknown" group-title="Hawkar Sport HD" tvg-flag="",8K - BEIN SPORTS 3 XTRA LQ
-http://mag.dino.ws:80/live/deb7c7b622/4c30bb937058/1178405.ts
-#EXTINF:-1 tvg-id="" tvg-name="8K - BEIN SPORTS 1 ʰᵉᵛᶜ" tvg-logo="http://51.158.145.100/picons/logos/arabic/1178403.png" tvg-country="Unknown" group-title="Hawkar Sport HD" tvg-flag="",8K - BEIN SPORTS 1 ʰᵉᵛᶜ
-http://mag.dino.ws:80/live/deb7c7b622/4c30bb937058/1178403.ts
-#EXTINF:-1 tvg-id="" tvg-name="8K - BEIN SPORTS 2 ʰᵉᵛᶜ" tvg-logo="http://51.158.145.100/picons/logos/arabic/1178402.png" tvg-country="Unknown" group-title="Hawkar Sport HD" tvg-flag="",8K - BEIN SPORTS 2 ʰᵉᵛᶜ
-http://mag.dino.ws:80/live/deb7c7b622/4c30bb937058/1178402.ts
-#EXTINF:-1 tvg-id="" tvg-name="8K - BEIN SPORTS 3 ʰᵉᵛᶜ" tvg-logo="http://51.158.145.100/picons/logos/arabic/1178401.png" tvg-country="Unknown" group-title="Hawkar Sport HD" tvg-flag="",8K - BEIN SPORTS 3 ʰᵉᵛᶜ
-http://mag.dino.ws:80/live/deb7c7b622/4c30bb937058/1178401.ts
-#EXTINF:-1 tvg-id="" tvg-name="8K - BEIN SPORTS 4 ʰᵉᵛᶜ" tvg-logo="http://51.158.145.100/picons/logos/arabic/1178400.png" tvg-country="Unknown" group-title="Hawkar Sport HD" tvg-flag="",8K - BEIN SPORTS 4 ʰᵉᵛᶜ
-http://mag.dino.ws:80/live/deb7c7b622/4c30bb937058/1178400.ts
-#EXTINF:-1 tvg-id="" tvg-name="8K - BEIN SPORTS 5 ʰᵉᵛᶜ" tvg-logo="http://51.158.145.100/picons/logos/arabic/1178399.png" tvg-country="Unknown" group-title="Hawkar Sport HD" tvg-flag="",8K - BEIN SPORTS 5 ʰᵉᵛᶜ
-http://mag.dino.ws:80/live/deb7c7b622/4c30bb937058/1178399.ts
-#EXTINF:-1 tvg-id="" tvg-name="8K - BEIN SPORTS 6 ʰᵉᵛᶜ" tvg-logo="http://51.158.145.100/picons/logos/arabic/1178398.png" tvg-country="Unknown" group-title="Hawkar Sport HD" tvg-flag="",8K - BEIN SPORTS 6 ʰᵉᵛᶜ
-http://mag.dino.ws:80/live/deb7c7b622/4c30bb937058/1178398.ts
-#EXTINF:-1 tvg-id="" tvg-name="8K - BEIN SPORTS 7 ʰᵉᵛᶜ" tvg-logo="http://51.158.145.100/picons/logos/arabic/1178397.png" tvg-country="Unknown" group-title="Hawkar Sport HD" tvg-flag="",8K - BEIN SPORTS 7 ʰᵉᵛᶜ
-http://mag.dino.ws:80/live/deb7c7b622/4c30bb937058/1178397.ts
-#EXTINF:-1 tvg-id="" tvg-name="8K - BEIN SPORTS 8 ʰᵉᵛᶜ" tvg-logo="http://51.158.145.100/picons/logos/arabic/1178396.png" tvg-country="Unknown" group-title="Hawkar Sport HD" tvg-flag="",8K - BEIN SPORTS 8 ʰᵉᵛᶜ
-http://mag.dino.ws:80/live/deb7c7b622/4c30bb937058/1178396.ts
-#EXTINF:-1 tvg-id="" tvg-name="8K - BEIN SPORTS 9 ʰᵉᵛᶜ" tvg-logo="http://51.158.145.100/picons/logos/arabic/1178395.png" tvg-country="Unknown" group-title="Hawkar Sport HD" tvg-flag="",8K - BEIN SPORTS 9 ʰᵉᵛᶜ
-http://mag.dino.ws:80/live/deb7c7b622/4c30bb937058/1178395.ts
-#EXTINF:-1 tvg-id="" tvg-name="8K - BEIN SPORTS 1 XTRA ʰᵉᵛᶜ" tvg-logo="http://51.158.145.100/picons/logos/arabic/1178394.png" tvg-country="Unknown" group-title="Hawkar Sport HD" tvg-flag="",8K - BEIN SPORTS 1 XTRA ʰᵉᵛᶜ
-http://mag.dino.ws:80/live/deb7c7b622/4c30bb937058/1178394.ts
-#EXTINF:-1 tvg-id="" tvg-name="8K - BEIN SPORTS 2 XTRA ʰᵉᵛᶜ" tvg-logo="http://51.158.145.100/picons/logos/arabic/1178393.png" tvg-country="Unknown" group-title="Hawkar Sport HD" tvg-flag="",8K - BEIN SPORTS 2 XTRA ʰᵉᵛᶜ
-http://mag.dino.ws:80/live/deb7c7b622/4c30bb937058/1178393.ts
-#EXTINF:-1 tvg-id="" tvg-name="8K - BEIN SPORTS 3 XTRA ʰᵉᵛᶜ" tvg-logo="http://51.158.145.100/picons/logos/arabic/1178392.png" tvg-country="Unknown" group-title="Hawkar Sport HD" tvg-flag="",8K - BEIN SPORTS 3 XTRA ʰᵉᵛᶜ
-http://mag.dino.ws:80/live/deb7c7b622/4c30bb937058/1178392.ts
-#EXTINF:-1 tvg-id="" tvg-name="8K - BEIN SPORTS 1 ENGLISH ʰᵉᵛᶜ" tvg-logo="http://51.158.145.100/picons/logos/arabic/1178391.png" tvg-country="Unknown" group-title="Hawkar Sport HD" tvg-flag="",8K - BEIN SPORTS 1 ENGLISH ʰᵉᵛᶜ
-http://mag.dino.ws:80/live/deb7c7b622/4c30bb937058/1178391.ts
-#EXTINF:-1 tvg-id="" tvg-name="8K - BEIN SPORTS 2 ENGLISH ʰᵉᵛᶜ" tvg-logo="http://51.158.145.100/picons/logos/arabic/1178390.png" tvg-country="Unknown" group-title="Hawkar Sport HD" tvg-flag="",8K - BEIN SPORTS 2 ENGLISH ʰᵉᵛᶜ
-http://mag.dino.ws:80/live/deb7c7b622/4c30bb937058/1178390.ts
-#EXTINF:-1 tvg-id="" tvg-name="8K - BEIN SPORTS NEWS ᴿᴬᵂ" tvg-logo="http://51.158.145.100/picons/logos/arabic/1178388.png" tvg-country="Unknown" group-title="Hawkar Sport HD" tvg-flag="",8K - BEIN SPORTS NEWS ᴿᴬᵂ
-http://mag.dino.ws:80/live/deb7c7b622/4c30bb937058/1178388.ts
-#EXTINF:-1 tvg-id="" tvg-name="8K - BEIN SPORTS GLOBAL ᴿᴬᵂ" tvg-logo="http://51.158.145.100/picons/logos/bein/1178387.png" tvg-country="Unknown" group-title="Hawkar Sport HD" tvg-flag="",8K - BEIN SPORTS GLOBAL ᴿᴬᵂ
-http://mag.dino.ws:80/live/deb7c7b622/4c30bb937058/1178387.ts
-#EXTINF:-1 tvg-id="" tvg-name="8K - BEIN SPORTS 1 ᴿᴬᵂ" tvg-logo="http://51.158.145.100/picons/logos/arabic/1178386.png" tvg-country="Unknown" group-title="Hawkar Sport HD" tvg-flag="",8K - BEIN SPORTS 1 ᴿᴬᵂ
-http://mag.dino.ws:80/live/deb7c7b622/4c30bb937058/1178386.ts
-#EXTINF:-1 tvg-id="" tvg-name="8K - BEIN SPORTS 2 ᴿᴬᵂ" tvg-logo="http://51.158.145.100/picons/logos/arabic/1178385.png" tvg-country="Unknown" group-title="Hawkar Sport HD" tvg-flag="",8K - BEIN SPORTS 2 ᴿᴬᵂ
-http://mag.dino.ws:80/live/deb7c7b622/4c30bb937058/1178385.ts
-#EXTINF:-1 tvg-id="" tvg-name="8K - BEIN SPORTS 3 ᴿᴬᵂ" tvg-logo="http://51.158.145.100/picons/logos/arabic/1178384.png" tvg-country="Unknown" group-title="Hawkar Sport HD" tvg-flag="",8K - BEIN SPORTS 3 ᴿᴬᵂ
-http://mag.dino.ws:80/live/deb7c7b622/4c30bb937058/1178384.ts
-#EXTINF:-1 tvg-id="" tvg-name="8K - BEIN SPORTS 4 ᴿᴬᵂ" tvg-logo="http://51.158.145.100/picons/logos/arabic/1178383.png" tvg-country="Unknown" group-title="Hawkar Sport HD" tvg-flag="",8K - BEIN SPORTS 4 ᴿᴬᵂ
-http://mag.dino.ws:80/live/deb7c7b622/4c30bb937058/1178383.ts
-#EXTINF:-1 tvg-id="" tvg-name="8K - BEIN SPORTS 5 ᴿᴬᵂ" tvg-logo="http://51.158.145.100/picons/logos/arabic/1178382.png" tvg-country="Unknown" group-title="Hawkar Sport HD" tvg-flag="",8K - BEIN SPORTS 5 ᴿᴬᵂ
-http://mag.dino.ws:80/live/deb7c7b622/4c30bb937058/1178382.ts
-#EXTINF:-1 tvg-id="" tvg-name="8K - BEIN SPORTS 6 ᴿᴬᵂ" tvg-logo="http://51.158.145.100/picons/logos/arabic/1178381.png" tvg-country="Unknown" group-title="Hawkar Sport HD" tvg-flag="",8K - BEIN SPORTS 6 ᴿᴬᵂ
-http://mag.dino.ws:80/live/deb7c7b622/4c30bb937058/1178381.ts
-#EXTINF:-1 tvg-id="" tvg-name="8K - BEIN SPORTS 7 ᴿᴬᵂ" tvg-logo="http://51.158.145.100/picons/logos/arabic/1178380.png" tvg-country="Unknown" group-title="Hawkar Sport HD" tvg-flag="",8K - BEIN SPORTS 7 ᴿᴬᵂ
-http://mag.dino.ws:80/live/deb7c7b622/4c30bb937058/1178380.ts
-#EXTINF:-1 tvg-id="" tvg-name="8K - BEIN SPORTS 8 ᴿᴬᵂ" tvg-logo="http://51.158.145.100/picons/logos/arabic/1178379.png" tvg-country="Unknown" group-title="Hawkar Sport HD" tvg-flag="",8K - BEIN SPORTS 8 ᴿᴬᵂ
-http://mag.dino.ws:80/live/deb7c7b622/4c30bb937058/1178379.ts
-#EXTINF:-1 tvg-id="" tvg-name="8K - BEIN SPORTS 9 ᴿᴬᵂ" tvg-logo="http://51.158.145.100/picons/logos/arabic/1178378.png" tvg-country="Unknown" group-title="Hawkar Sport HD" tvg-flag="",8K - BEIN SPORTS 9 ᴿᴬᵂ
-http://mag.dino.ws:80/live/deb7c7b622/4c30bb937058/1178378.ts
-#EXTINF:-1 tvg-id="" tvg-name="8K - BEIN SPORTS 1 XTRA ᴿᴬᵂ" tvg-logo="http://51.158.145.100/picons/logos/arabic/1178377.png" tvg-country="Unknown" group-title="Hawkar Sport HD" tvg-flag="",8K - BEIN SPORTS 1 XTRA ᴿᴬᵂ
-http://mag.dino.ws:80/live/deb7c7b622/4c30bb937058/1178377.ts
-#EXTINF:-1 tvg-id="" tvg-name="8K - BEIN SPORTS 2 XTRA ᴿᴬᵂ" tvg-logo="http://51.158.145.100/picons/logos/arabic/1178376.png" tvg-country="Unknown" group-title="Hawkar Sport HD" tvg-flag="",8K - BEIN SPORTS 2 XTRA ᴿᴬᵂ
-http://mag.dino.ws:80/live/deb7c7b622/4c30bb937058/1178376.ts
-#EXTINF:-1 tvg-id="" tvg-name="8K - BEIN SPORTS 3 XTRA ᴿᴬᵂ" tvg-logo="http://51.158.145.100/picons/logos/arabic/1178375.png" tvg-country="Unknown" group-title="Hawkar Sport HD" tvg-flag="",8K - BEIN SPORTS 3 XTRA ᴿᴬᵂ
-http://mag.dino.ws:80/live/deb7c7b622/4c30bb937058/1178375.ts
-#EXTINF:-1 tvg-id="" tvg-name="8K - BEIN SPORTS 1 ENGLISH ᴿᴬᵂ" tvg-logo="http://51.158.145.100/picons/logos/arabic/1178374.png" tvg-country="Unknown" group-title="Hawkar Sport HD" tvg-flag="",8K - BEIN SPORTS 1 ENGLISH ᴿᴬᵂ
-http://mag.dino.ws:80/live/deb7c7b622/4c30bb937058/1178374.ts
-#EXTINF:-1 tvg-id="" tvg-name="8K - BEIN SPORTS 2 ENGLISH ᴿᴬᵂ" tvg-logo="http://51.158.145.100/picons/logos/arabic/1178373.png" tvg-country="Unknown" group-title="Hawkar Sport HD" tvg-flag="",8K - BEIN SPORTS 2 ENGLISH ᴿᴬᵂ
-http://mag.dino.ws:80/live/deb7c7b622/4c30bb937058/1178373.ts
-#EXTINF:-1 tvg-id="" tvg-name="8K - BEIN SPORTS 1 FRANCE ᴿᴬᵂ" tvg-logo="http://51.158.145.100/picons/logos/arabic/1178372.png" tvg-country="Unknown" group-title="Hawkar Sport HD" tvg-flag="",8K - BEIN SPORTS 1 FRANCE ᴿᴬᵂ
-http://mag.dino.ws:80/live/deb7c7b622/4c30bb937058/1178372.ts
-#EXTINF:-1 tvg-id="" tvg-name="8K - BEIN SPORTS 2 FRANCE ᴿᴬᵂ" tvg-logo="http://51.158.145.100/picons/logos/arabic/1178371.png" tvg-country="Unknown" group-title="Hawkar Sport HD" tvg-flag="",8K - BEIN SPORTS 2 FRANCE ᴿᴬᵂ
-http://mag.dino.ws:80/live/deb7c7b622/4c30bb937058/1178371.ts
-#EXTINF:-1 tvg-id="" tvg-name="8K - BEIN SPORTS 3 FRANCE ᴿᴬᵂ" tvg-logo="http://51.158.145.100/picons/logos/arabic/1178370.png" tvg-country="Unknown" group-title="Hawkar Sport HD" tvg-flag="",8K - BEIN SPORTS 3 FRANCE ᴿᴬᵂ
-http://mag.dino.ws:80/live/deb7c7b622/4c30bb937058/1178370.ts
+#EXTINF:-1 group-title="Hawkar Sport FHD",BEIN 1 FHD
+http://apk4k.org/live/3HfHLrEmIZ/caMjeGs0i3/342984.ts
+#EXTINF:-1 group-title="Hawkar Sport FHD",BEIN 2 FHD
+http://apk4k.org/live/3HfHLrEmIZ/caMjeGs0i3/342985.ts
+#EXTINF:-1 group-title="Hawkar Sport FHD",BEIN 3 FHD
+http://apk4k.org/live/3HfHLrEmIZ/caMjeGs0i3/342986.ts
+#EXTINF:-1 group-title="Hawkar Sport FHD",BEIN 4 FHD
+http://apk4k.org/live/3HfHLrEmIZ/caMjeGs0i3/342987.ts
+#EXTINF:-1 group-title="Hawkar Sport FHD",BEIN 5 FHD
+http://apk4k.org/live/3HfHLrEmIZ/caMjeGs0i3/342988.ts
+#EXTINF:-1 group-title="Hawkar Sport FHD",BEIN 6 FHD
+http://apk4k.org/live/3HfHLrEmIZ/caMjeGs0i3/342989.ts
+#EXTINF:-1 group-title="Hawkar Sport FHD",BEIN 7 FHD
+http://apk4k.org/live/3HfHLrEmIZ/caMjeGs0i3/342990.ts
+#EXTINF:-1 group-title="Hawkar Sport FHD",BEIN 8 FHD
+http://apk4k.org/live/3HfHLrEmIZ/caMjeGs0i3/142.ts
+#EXTINF:-1 group-title="Hawkar Sport FHD",BEIN 9 FHD
+http://apk4k.org/live/3HfHLrEmIZ/caMjeGs0i3/143.ts
+#EXTINF:-1 group-title="Hawkar Sport FHD",BEIN Xtra 1 FHD
+http://apk4k.org/live/3HfHLrEmIZ/caMjeGs0i3/342991.ts
+#EXTINF:-1 group-title="Hawkar Sport FHD",BEIN Xtra 2 FHD
+http://apk4k.org/live/3HfHLrEmIZ/caMjeGs0i3/342992.ts
+#EXTINF:-1 group-title="Hawkar Sport FHD",LALIGA 1 FHD
+http://apk4k.org/live/3HfHLrEmIZ/caMjeGs0i3/360218.ts
+#EXTINF:-1 group-title="Hawkar Sport FHD",LALIGA 2 FHD
+http://apk4k.org/live/3HfHLrEmIZ/caMjeGs0i3/360219.ts
+
 
 
 
