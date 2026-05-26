@@ -4,7 +4,7 @@ https://live.rudaw.net/hls/rudaw-tv/master.m3u8
 #EXTINF:0 CUID="8517" tvg-name="Channel 8 HD" tvg-logo="https://i.postimg.cc/Gd1prmrY/c8.png" group-title="KURDISTAN",Channel 8 HD
 https://live.channel8.com/Channel8-Kurdish/index.m3u8
 #EXTINF:0 CUID="8511" tvg-name="NRT HD" tvg-logo="https://i.postimg.cc/yVVqtpnh/NRT.png" group-title="KURDISTAN",NRT HD
-https://media.streambrothers.com:1936/8226/8226/playlist.m3u8
+https://hlspackager.akamaized.net/live/DB/NRT_HD/HLS/NRT_HD-avc1_2500000=10002,mp4a_128000=20000.m3u8
 #EXTINF:0 CUID="8516" tvg-name="K24 FHD" tvg-logo="https://i.postimg.cc/HnMqM0BM/Pics-Art-25-08-01-14-37-22-115.png" group-title="KURDISTAN",K24 HD
 https://d1x82nydcxndze.cloudfront.net/live/index.m3u8
 #EXTINF:0 CUID="8519" tvg-name="KURDSAT NEWS" tvg-logo="https://i.postimg.cc/Qs6v4tt4/kurdstan.png" group-title="KURDISTAN",KURDSAT NEWS
