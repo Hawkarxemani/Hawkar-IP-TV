@@ -506,32 +506,47 @@ http://marveltv.info/live/36889/147835/168916.ts
 ****************************************************************************
 
 #EXTM3U
-#EXTINF:-1 group-title="Hawkar Sport FHD",BEIN 1 FHD
-http://apk4k.org/live/3HfHLrEmIZ/caMjeGs0i3/342984.ts
-#EXTINF:-1 group-title="Hawkar Sport FHD",BEIN 2 FHD
-http://apk4k.org/live/3HfHLrEmIZ/caMjeGs0i3/342985.ts
-#EXTINF:-1 group-title="Hawkar Sport FHD",BEIN 3 FHD
-http://apk4k.org/live/3HfHLrEmIZ/caMjeGs0i3/342986.ts
-#EXTINF:-1 group-title="Hawkar Sport FHD",BEIN 4 FHD
-http://apk4k.org/live/3HfHLrEmIZ/caMjeGs0i3/342987.ts
-#EXTINF:-1 group-title="Hawkar Sport FHD",BEIN 5 FHD
-http://apk4k.org/live/3HfHLrEmIZ/caMjeGs0i3/342988.ts
-#EXTINF:-1 group-title="Hawkar Sport FHD",BEIN 6 FHD
-http://apk4k.org/live/3HfHLrEmIZ/caMjeGs0i3/342989.ts
-#EXTINF:-1 group-title="Hawkar Sport FHD",BEIN 7 FHD
-http://apk4k.org/live/3HfHLrEmIZ/caMjeGs0i3/342990.ts
-#EXTINF:-1 group-title="Hawkar Sport FHD",BEIN 8 FHD
-http://apk4k.org/live/3HfHLrEmIZ/caMjeGs0i3/142.ts
-#EXTINF:-1 group-title="Hawkar Sport FHD",BEIN 9 FHD
-http://apk4k.org/live/3HfHLrEmIZ/caMjeGs0i3/143.ts
-#EXTINF:-1 group-title="Hawkar Sport FHD",BEIN Xtra 1 FHD
-http://apk4k.org/live/3HfHLrEmIZ/caMjeGs0i3/342991.ts
-#EXTINF:-1 group-title="Hawkar Sport FHD",BEIN Xtra 2 FHD
-http://apk4k.org/live/3HfHLrEmIZ/caMjeGs0i3/342992.ts
-#EXTINF:-1 group-title="Hawkar Sport FHD",LALIGA 1 FHD
-http://apk4k.org/live/3HfHLrEmIZ/caMjeGs0i3/360218.ts
-#EXTINF:-1 group-title="Hawkar Sport FHD",LALIGA 2 FHD
-http://apk4k.org/live/3HfHLrEmIZ/caMjeGs0i3/360219.ts
+#EXTINF:-1 group-title="Hawkar Sport HD",BEIN SPORTS 1 HD
+http://obsfullhd.tv:25461/live/lacherejc/OannyVVIL2/131.ts
+#EXTINF:-1 group-title="Hawkar Sport HD",BEIN SPORTS 2 HD
+http://obsfullhd.tv:25461/live/lacherejc/OannyVVIL2/132.ts
+#EXTINF:-1 group-title="Hawkar Sport HD",BEIN SPORTS 3 HD
+http://obsfullhd.tv:25461/live/lacherejc/OannyVVIL2/137.ts
+#EXTINF:-1 group-title="Hawkar Sport HD",BEIN SPORTS 4 HD
+http://obsfullhd.tv:25461/live/lacherejc/OannyVVIL2/138.ts
+#EXTINF:-1 group-title="Hawkar Sport HD",BEIN SPORTS 5 HD
+http://obsfullhd.tv:25461/live/lacherejc/OannyVVIL2/139.ts
+#EXTINF:-1 group-title="Hawkar Sport HD",BEIN SPORTS 6 HD
+http://obsfullhd.tv:25461/live/lacherejc/OannyVVIL2/140.ts
+#EXTINF:-1 group-title="Hawkar Sport HD",BEIN SPORTS 7 HD
+http://obsfullhd.tv:25461/live/lacherejc/OannyVVIL2/141.ts
+#EXTINF:-1 group-title="Hawkar Sport HD",BEIN SPORTS 8 HD
+http://obsfullhd.tv:25461/live/lacherejc/OannyVVIL2/142.ts
+#EXTINF:-1 group-title="Hawkar Sport HD",BEIN SPORTS 9 HD
+http://obsfullhd.tv:25461/live/lacherejc/OannyVVIL2/143.ts
+#EXTINF:-1 group-title="Hawkar Sport HD",BEIN SPORTS 10 HD
+http://obsfullhd.tv:25461/live/lacherejc/OannyVVIL2/144.ts
+#EXTINF:-1 group-title="Hawkar Sport HD",BEIN SPORTS 1 FHD
+http://obsfullhd.tv:25461/live/lacherejc/OannyVVIL2/1871.ts
+#EXTINF:-1 group-title="Hawkar Sport HD",BEIN SPORTS 2 FHD
+http://obsfullhd.tv:25461/live/lacherejc/OannyVVIL2/1872.ts
+#EXTINF:-1 group-title="Hawkar Sport HD",BEIN SPORTS 3 FHD
+http://obsfullhd.tv:25461/live/lacherejc/OannyVVIL2/1874.ts
+#EXTINF:-1 group-title="Hawkar Sport HD",BEIN SPORTS 4 FHD
+http://obsfullhd.tv:25461/live/lacherejc/OannyVVIL2/1875.ts
+#EXTINF:-1 group-title="Hawkar Sport HD",BEIN SPORTS 5 FHD
+http://obsfullhd.tv:25461/live/lacherejc/OannyVVIL2/1876.ts
+#EXTINF:-1 group-title="Hawkar Sport HD",BEIN SPORTS 6 FHD
+http://obsfullhd.tv:25461/live/lacherejc/OannyVVIL2/1877.ts
+#EXTINF:-1 group-title="Hawkar Sport HD",BEIN SPORTS 7 FHD
+http://obsfullhd.tv:25461/live/lacherejc/OannyVVIL2/1878.ts
+#EXTINF:-1 group-title="Hawkar Sport HD",BEIN SPORTS 8 FHD
+http://obsfullhd.tv:25461/live/lacherejc/OannyVVIL2/1879.ts
+#EXTINF:-1 group-title="Hawkar Sport HD",BEIN SPORT 9 FHD
+http://obsfullhd.tv:25461/live/lacherejc/OannyVVIL2/1880.ts
+#EXTINF:-1 group-title="Hawkar Sport HD",BEIN SPORTS 10 FHD 
+http://obsfullhd.tv:25461/live/lacherejc/OannyVVIL2/1881.ts
+
 
 
 
