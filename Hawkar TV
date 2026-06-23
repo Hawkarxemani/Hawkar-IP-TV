@@ -323,10 +323,9 @@ http://live.iptvtotaal.com:8000/live/mckenzie4760/L4hGTmrQgB/130410.ts
 
 #EXTM3U
 #EXTINF:-1 group-title="Kurdistan Sport",KU: NRT Sport
-http://appluxera.com/live/94748049499/625256262633/358220.ts
-#EXTINF:-1 group-title="Kurdistan Sport",KU: Kurdistan Sport
-http://appluxera.com/live/94748049499/625256262633/358219.ts
-#EXTINF:-1 group-title="Kurdistan Sport",KU: Ava Sport
+https://live5.karwan.tv:444/ava-sport/tracks-v1a1/mono.m3u8?token=0249acaf684954e5dcd5e84bba546341b273b834-f237000cf3811033834ca8ba20759871-1782216530-1782194930
+#EXTINF:-1 group-title="Kurdistan Sport",KU: Gewher Sport
+https://live5.karwan.tv:444/gewher-sport/tracks-v1a1/mono.m3u8?token=30479d70995ba3c163c523a3bb06643fe30e3ca7-3a511757378ac84686ca83afd21d65f9-1782216636-1782195036#EXTINF:-1 group-title="Kurdistan Sport",KU: Ava Sport
 http://appluxera.com/live/94748049499/625256262633/358221.ts
 #EXTINF:-1 group-title="Kurdistan Sport",KU: See Sport 1
 http://appluxera.com/live/94748049499/625256262633/358222.ts
@@ -353,7 +352,7 @@ http://appluxera.com/live/94748049499/625256262633/358232.ts
 #EXTINF:-1 group-title="Kurdistan Sport",KU: Newline Sport
 http://appluxera.com/live/94748049499/625256262633/358233.ts
 #EXTINF:-1 group-title="Kurdistan Sport",KU: MMN SPORT
-http://appluxera.com/live/94748049499/625256262633/358234.ts
+http://neosfpoo.top:8080/live/651780421753/48f91cd554ce/55959.ts
 #EXTINF:-1 group-title="Kurdistan Sport",KU: NUBAR SPORT
 http://appluxera.com/live/94748049499/625256262633/358235.ts
 #EXTINF:-1 group-title="Kurdistan Sport",KU: SIMA SPORT
@@ -492,38 +491,24 @@ http://4kpro2.com/play/live.php?mac=00:1A:79:70:9D:14&stream=212450&extension=ts
 
 
 #EXTM3U
-#EXTINF:-1 group-title="beIN Sport HD",beIN Global HD
-http://appluxera.com/live/94748049499/625256262633/442220.ts
-#EXTINF:-1 group-title="beIN Sport HD",beIN Sport News HD
-http://appluxera.com/live/94748049499/625256262633/443146.ts
-#EXTINF:-1 group-title="beIN Sport HD",beIN Sport 1 HD
-http://appluxera.com/live/94748049499/625256262633/325793.ts
-#EXTINF:-1 group-title="beIN Sport HD",beIN Sport 2 HD
-http://appluxera.com/live/94748049499/625256262633/325794.ts
-#EXTINF:-1 group-title="beIN Sport HD",beIN Sport 3 HD
-http://appluxera.com/live/94748049499/625256262633/325795.ts
-#EXTINF:-1 group-title="beIN Sport HD",beIN Sport 4 HD
-http://appluxera.com/live/94748049499/625256262633/325796.ts
-#EXTINF:-1 group-title="beIN Sport HD",beIN Sport 5 HD
-http://appluxera.com/live/94748049499/625256262633/325797.ts
-#EXTINF:-1 group-title="beIN Sport HD",beIN Sport 6 HD
-http://appluxera.com/live/94748049499/625256262633/325798.ts
-#EXTINF:-1 group-title="beIN Sport HD",beIN Sport 7 HD
-http://appluxera.com/live/94748049499/625256262633/325799.ts
-#EXTINF:-1 group-title="beIN Sport HD",beIN Sport 8 HD
-http://appluxera.com/live/94748049499/625256262633/325800.ts
-#EXTINF:-1 group-title="beIN Sport HD",beIN Sport 9 HD
-http://appluxera.com/live/94748049499/625256262633/325801.ts
-#EXTINF:-1 group-title="beIN Sport HD",beIN Sport 1 HD English
-http://appluxera.com/live/94748049499/625256262633/318217.ts
-#EXTINF:-1 group-title="beIN Sport HD",beIN Sport 2 HD English
-http://appluxera.com/live/94748049499/625256262633/318218.ts
-#EXTINF:-1 group-title="beIN Sport HD",beIN Sport 1 HD Frensh
-http://appluxera.com/live/94748049499/625256262633/319437.ts
-#EXTINF:-1 group-title="beIN Sport HD",beIN Sport 2 HD Frensh
-http://appluxera.com/live/94748049499/625256262633/319438.ts
-#EXTINF:-1 group-title="beIN Sport HD",beIN Sport NBA HD
-http://appluxera.com/live/94748049499/625256262633/318219.ts
+#EXTINF:-1 group-title="LIVE | AR| BEIN SPORTS G ᵁᴴᴰ",BEIN SPORTS1 Gᵁᴴᴰ
+http://vod.supremetv.live/play/live.php?mac=00:1A:79:86:A4:5E&stream=1411374&extension=ts
+#EXTINF:-1 group-title="LIVE | AR| BEIN SPORTS G ᵁᴴᴰ",BEIN SPORTS2 Gᵁᴴᴰ
+http://vod.supremetv.live/play/live.php?mac=00:1A:79:86:A4:5E&stream=1411373&extension=ts
+#EXTINF:-1 group-title="LIVE | AR| BEIN SPORTS G ᵁᴴᴰ",BEIN SPORTS3 Gᵁᴴᴰ
+http://vod.supremetv.live/play/live.php?mac=00:1A:79:86:A4:5E&stream=1411372&extension=ts
+#EXTINF:-1 group-title="LIVE | AR| BEIN SPORTS G ᵁᴴᴰ",BEIN SPORTS4 Gᵁᴴᴰ
+http://vod.supremetv.live/play/live.php?mac=00:1A:79:86:A4:5E&stream=1411371&extension=ts
+#EXTINF:-1 group-title="LIVE | AR| BEIN SPORTS G ᵁᴴᴰ",BEIN SPORTS5 Gᵁᴴᴰ
+http://vod.supremetv.live/play/live.php?mac=00:1A:79:86:A4:5E&stream=1411370&extension=ts
+#EXTINF:-1 group-title="LIVE | AR| BEIN SPORTS G ᵁᴴᴰ",BEIN SPORTS6 Gᵁᴴᴰ
+http://vod.supremetv.live/play/live.php?mac=00:1A:79:86:A4:5E&stream=1411369&extension=ts
+#EXTINF:-1 group-title="LIVE | AR| BEIN SPORTS G ᵁᴴᴰ",BEIN SPORTS7 Gᵁᴴᴰ
+http://vod.supremetv.live/play/live.php?mac=00:1A:79:86:A4:5E&stream=1411368&extension=ts
+#EXTINF:-1 group-title="LIVE | AR| BEIN SPORTS G ᵁᴴᴰ",BEIN SPORTS8 Gᵁᴴᴰ
+http://vod.supremetv.live/play/live.php?mac=00:1A:79:86:A4:5E&stream=1411367&extension=ts
+#EXTINF:-1 group-title="LIVE | AR| BEIN SPORTS G ᵁᴴᴰ",BEIN SPORTS9 Gᵁᴴᴰ
+http://vod.supremetv.live/play/live.php?mac=00:1A:79:86:A4:5E&stream=1411366&extension=ts
 
 
 
@@ -541,42 +526,104 @@ http://appluxera.com/live/94748049499/625256262633/318219.ts
 
 
 
-#EXTINF:-1 group-title=" ║  BEIN SPORT SD/4K",AR | BEIN SPORTS 1 SD
-http://4kpro2.com:8789/play/live.php?mac=00:1A:79:FB:74:61&stream=13614&extension=ts
-#EXTINF:-1 group-title=" ║  BEIN SPORT SD/4K",AR | BEIN SPORTS 2 SD
-http://4kpro2.com:8789/play/live.php?mac=00:1A:79:FB:74:61&stream=13615&extension=ts
-#EXTINF:-1 group-title=" ║  BEIN SPORT SD/4K",AR | BEIN SPORTS 3 SD
-http://4kpro2.com:8789/play/live.php?mac=00:1A:79:FB:74:61&stream=13616&extension=ts
-#EXTINF:-1 group-title=" ║  BEIN SPORT SD/4K",AR | BEIN SPORTS 4 SD
-http://4kpro2.com:8789/play/live.php?mac=00:1A:79:FB:74:61&stream=13617&extension=ts
-#EXTINF:-1 group-title=" ║  BEIN SPORT SD/4K",AR | BEIN SPORTS 5 SD
-http://4kpro2.com:8789/play/live.php?mac=00:1A:79:FB:74:61&stream=13618&extension=ts
-#EXTINF:-1 group-title=" ║  BEIN SPORT SD/4K",AR | BEIN SPORTS 6 SD
-http://4kpro2.com:8789/play/live.php?mac=00:1A:79:FB:74:61&stream=13641&extension=ts
-#EXTINF:-1 group-title=" ║  BEIN SPORT SD/4K",AR | BEIN SPORTS 7 SD
-http://4kpro2.com:8789/play/live.php?mac=00:1A:79:FB:74:61&stream=13642&extension=ts
-#EXTINF:-1 group-title=" ║  BEIN SPORT SD/4K",AR | BEIN SPORTS 8 SD
-http://4kpro2.com:8789/play/live.php?mac=00:1A:79:FB:74:61&stream=13601&extension=ts
-#EXTINF:-1 group-title=" ║  BEIN SPORT SD/4K",AR | BEIN SPORTS 9 SD
-http://4kpro2.com:8789/play/live.php?mac=00:1A:79:FB:74:61&stream=13612&extension=ts
-#EXTINF:-1 group-title=" ║  BEIN SPORT SD/4K",4K | BEIN SPORTS 1
-http://4kpro2.com:8789/play/live.php?mac=00:1A:79:FB:74:61&stream=78378&extension=ts
-#EXTINF:-1 group-title=" ║  BEIN SPORT SD/4K",4K | BEIN SPORTS 2
-http://4kpro2.com:8789/play/live.php?mac=00:1A:79:FB:74:61&stream=78379&extension=ts
-#EXTINF:-1 group-title=" ║  BEIN SPORT SD/4K",4K | BEIN SPORTS 3
-http://4kpro2.com:8789/play/live.php?mac=00:1A:79:FB:74:61&stream=89342&extension=ts
-#EXTINF:-1 group-title=" ║  BEIN SPORT SD/4K",4K | BEIN SPORTS 4
-http://4kpro2.com:8789/play/live.php?mac=00:1A:79:FB:74:61&stream=78381&extension=ts
-#EXTINF:-1 group-title=" ║  BEIN SPORT SD/4K",4K | BEIN SPORTS 5
-http://4kpro2.com:8789/play/live.php?mac=00:1A:79:FB:74:61&stream=78382&extension=ts
-#EXTINF:-1 group-title=" ║  BEIN SPORT SD/4K",4K | BEIN SPORTS 6
-http://4kpro2.com:8789/play/live.php?mac=00:1A:79:FB:74:61&stream=78383&extension=ts
-#EXTINF:-1 group-title=" ║  BEIN SPORT SD/4K",4K | BEIN SPORTS 7
-http://4kpro2.com:8789/play/live.php?mac=00:1A:79:FB:74:61&stream=78384&extension=ts
-#EXTINF:-1 group-title=" ║  BEIN SPORT SD/4K",4K | BEIN SPORTS 8
-http://4kpro2.com:8789/play/live.php?mac=00:1A:79:FB:74:61&stream=78375&extension=ts
-#EXTINF:-1 group-title=" ║  BEIN SPORT SD/4K",4K | BEIN SPORTS 9
-http://4kpro2.com:8789/play/live.php?mac=00:1A:79:FB:74:61&stream=78376&extension=ts
+#EXTM3U
+#EXTINF:-1 tvg-id="" tvg-name="BEIN SPORTS 1 720" tvg-logo="http://51.158.145.100/picons/logos/bein/1156649.png" tvg-country="Unknown" group-title="|AR| BEIN SPORTS NX" tvg-flag="",BEIN SPORTS 1 720
+http://mag.dino.ws:80/live/deb7c7b622/4c30bb937058/1156649.ts
+#EXTINF:-1 tvg-id="" tvg-name="BEIN SPORTS 2 720" tvg-logo="http://51.158.145.100/picons/logos/bein/1156648.png" tvg-country="Unknown" group-title="|AR| BEIN SPORTS NX" tvg-flag="",BEIN SPORTS 2 720
+http://mag.dino.ws:80/live/deb7c7b622/4c30bb937058/1156648.ts
+#EXTINF:-1 tvg-id="" tvg-name="BEIN SPORTS 3 720" tvg-logo="http://51.158.145.100/picons/logos/bein/1156647.png" tvg-country="Unknown" group-title="|AR| BEIN SPORTS NX" tvg-flag="",BEIN SPORTS 3 720
+http://mag.dino.ws:80/live/deb7c7b622/4c30bb937058/1156647.ts
+#EXTINF:-1 tvg-id="" tvg-name="BEIN SPORTS 4 720" tvg-logo="http://51.158.145.100/picons/logos/bein/1156646.png" tvg-country="Unknown" group-title="|AR| BEIN SPORTS NX" tvg-flag="",BEIN SPORTS 4 720
+http://mag.dino.ws:80/live/deb7c7b622/4c30bb937058/1156646.ts
+#EXTINF:-1 tvg-id="" tvg-name="BEIN SPORTS 5 720" tvg-logo="http://51.158.145.100/picons/logos/bein/1156645.png" tvg-country="Unknown" group-title="|AR| BEIN SPORTS NX" tvg-flag="",BEIN SPORTS 5 720
+http://mag.dino.ws:80/live/deb7c7b622/4c30bb937058/1156645.ts
+#EXTINF:-1 tvg-id="" tvg-name="BEIN SPORTS 6 720" tvg-logo="http://51.158.145.100/picons/logos/bein/1156644.png" tvg-country="Unknown" group-title="|AR| BEIN SPORTS NX" tvg-flag="",BEIN SPORTS 6 720
+http://mag.dino.ws:80/live/deb7c7b622/4c30bb937058/1156644.ts
+#EXTINF:-1 tvg-id="" tvg-name="BEIN SPORTS 7 720" tvg-logo="http://51.158.145.100/picons/logos/bein/1156643.png" tvg-country="Unknown" group-title="|AR| BEIN SPORTS NX" tvg-flag="",BEIN SPORTS 7 720
+http://mag.dino.ws:80/live/deb7c7b622/4c30bb937058/1156643.ts
+#EXTINF:-1 tvg-id="" tvg-name="BEIN SPORTS 8 720" tvg-logo="http://51.158.145.100/picons/logos/bein/1156642.png" tvg-country="Unknown" group-title="|AR| BEIN SPORTS NX" tvg-flag="",BEIN SPORTS 8 720
+http://mag.dino.ws:80/live/deb7c7b622/4c30bb937058/1156642.ts
+#EXTINF:-1 tvg-id="" tvg-name="BEIN SPORTS 9 720" tvg-logo="http://51.158.145.100/picons/logos/bein/1156641.png" tvg-country="Unknown" group-title="|AR| BEIN SPORTS NX" tvg-flag="",BEIN SPORTS 9 720
+http://mag.dino.ws:80/live/deb7c7b622/4c30bb937058/1156641.ts
+#EXTINF:-1 tvg-id="" tvg-name="BEIN SPORTS ENGLISH 1 720" tvg-logo="http://51.158.145.100/picons/logos/arabic/1156640.png" tvg-country="Unknown" group-title="|AR| BEIN SPORTS NX" tvg-flag="",BEIN SPORTS ENGLISH 1 720
+http://mag.dino.ws:80/live/deb7c7b622/4c30bb937058/1156640.ts
+#EXTINF:-1 tvg-id="" tvg-name="BEIN SPORTS ENGLISH 2 720" tvg-logo="http://51.158.145.100/picons/logos/bein/1156639.png" tvg-country="Unknown" group-title="|AR| BEIN SPORTS NX" tvg-flag="",BEIN SPORTS ENGLISH 2 720
+http://mag.dino.ws:80/live/deb7c7b622/4c30bb937058/1156639.ts
+#EXTINF:-1 tvg-id="" tvg-name="BEIN SPORTS XTRA 1 720" tvg-logo="http://51.158.145.100/picons/logos/bein/1156638.png" tvg-country="Unknown" group-title="|AR| BEIN SPORTS NX" tvg-flag="",BEIN SPORTS XTRA 1 720
+http://mag.dino.ws:80/live/deb7c7b622/4c30bb937058/1156638.ts
+#EXTINF:-1 tvg-id="" tvg-name="BEIN SPORTS XTRA 2 720" tvg-logo="http://51.158.145.100/picons/logos/bein/1156637.png" tvg-country="Unknown" group-title="|AR| BEIN SPORTS NX" tvg-flag="",BEIN SPORTS XTRA 2 720
+http://mag.dino.ws:80/live/deb7c7b622/4c30bb937058/1156637.ts
+#EXTINF:-1 tvg-id="" tvg-name="BEIN SPORTS XTRA 3 720" tvg-logo="http://51.158.145.100/picons/logos/bein/1156636.png" tvg-country="Unknown" group-title="|AR| BEIN SPORTS NX" tvg-flag="",BEIN SPORTS XTRA 3 720
+http://mag.dino.ws:80/live/deb7c7b622/4c30bb937058/1156636.ts
+#EXTINF:-1 tvg-id="" tvg-name="BEIN SPORTS  AFC 720" tvg-logo="http://51.158.145.100/picons/logos/bein/1156635.png" tvg-country="Unknown" group-title="|AR| BEIN SPORTS NX" tvg-flag="",BEIN SPORTS  AFC 720
+http://mag.dino.ws:80/live/deb7c7b622/4c30bb937058/1156635.ts
+#EXTINF:-1 tvg-id="" tvg-name="BEIN SPORTS AFC 1 720" tvg-logo="http://51.158.145.100/picons/logos/bein/1156634.png" tvg-country="Unknown" group-title="|AR| BEIN SPORTS NX" tvg-flag="",BEIN SPORTS AFC 1 720
+http://mag.dino.ws:80/live/deb7c7b622/4c30bb937058/1156634.ts
+#EXTINF:-1 tvg-id="" tvg-name="BEIN SPORTS AFC 2 720" tvg-logo="http://51.158.145.100/picons/logos/bein/1156633.png" tvg-country="Unknown" group-title="|AR| BEIN SPORTS NX" tvg-flag="",BEIN SPORTS AFC 2 720
+http://mag.dino.ws:80/live/deb7c7b622/4c30bb937058/1156633.ts
+#EXTINF:-1 tvg-id="" tvg-name="BEIN SPORTS AFC 3 720" tvg-logo="http://51.158.145.100/picons/logos/bein/1156632.png" tvg-country="Unknown" group-title="|AR| BEIN SPORTS NX" tvg-flag="",BEIN SPORTS AFC 3 720
+http://mag.dino.ws:80/live/deb7c7b622/4c30bb937058/1156632.ts
+#EXTINF:-1 tvg-id="" tvg-name="BEIN SPORTS 1 4k" tvg-logo="http://51.158.145.100/picons/logos/bein/1156631.png" tvg-country="Unknown" group-title="|AR| BEIN SPORTS NX" tvg-flag="",BEIN SPORTS 1 4k
+http://mag.dino.ws:80/live/deb7c7b622/4c30bb937058/1156631.ts
+#EXTINF:-1 tvg-id="" tvg-name="BEIN SPORTS 2 4k" tvg-logo="http://51.158.145.100/picons/logos/bein/1156630.png" tvg-country="Unknown" group-title="|AR| BEIN SPORTS NX" tvg-flag="",BEIN SPORTS 2 4k
+http://mag.dino.ws:80/live/deb7c7b622/4c30bb937058/1156630.ts
+#EXTINF:-1 tvg-id="" tvg-name="BEIN SPORTS 3 4k" tvg-logo="http://51.158.145.100/picons/logos/bein/1156629.png" tvg-country="Unknown" group-title="|AR| BEIN SPORTS NX" tvg-flag="",BEIN SPORTS 3 4k
+http://mag.dino.ws:80/live/deb7c7b622/4c30bb937058/1156629.ts
+#EXTINF:-1 tvg-id="" tvg-name="BEIN SPORTS 4 4k" tvg-logo="http://51.158.145.100/picons/logos/bein/1156628.png" tvg-country="Unknown" group-title="|AR| BEIN SPORTS NX" tvg-flag="",BEIN SPORTS 4 4k
+http://mag.dino.ws:80/live/deb7c7b622/4c30bb937058/1156628.ts
+#EXTINF:-1 tvg-id="" tvg-name="BEIN SPORTS 5 4k" tvg-logo="http://51.158.145.100/picons/logos/bein/1156627.png" tvg-country="Unknown" group-title="|AR| BEIN SPORTS NX" tvg-flag="",BEIN SPORTS 5 4k
+http://mag.dino.ws:80/live/deb7c7b622/4c30bb937058/1156627.ts
+#EXTINF:-1 tvg-id="" tvg-name="BEIN SPORTS 6 4k" tvg-logo="http://51.158.145.100/picons/logos/bein/1156626.png" tvg-country="Unknown" group-title="|AR| BEIN SPORTS NX" tvg-flag="",BEIN SPORTS 6 4k
+http://mag.dino.ws:80/live/deb7c7b622/4c30bb937058/1156626.ts
+#EXTINF:-1 tvg-id="" tvg-name="BEIN SPORTS 7 4k" tvg-logo="http://51.158.145.100/picons/logos/bein/1156625.png" tvg-country="Unknown" group-title="|AR| BEIN SPORTS NX" tvg-flag="",BEIN SPORTS 7 4k
+http://mag.dino.ws:80/live/deb7c7b622/4c30bb937058/1156625.ts
+#EXTINF:-1 tvg-id="" tvg-name="BEIN SPORTS 8 4k" tvg-logo="http://51.158.145.100/picons/logos/bein/1156624.png" tvg-country="Unknown" group-title="|AR| BEIN SPORTS NX" tvg-flag="",BEIN SPORTS 8 4k
+http://mag.dino.ws:80/live/deb7c7b622/4c30bb937058/1156624.ts
+#EXTINF:-1 tvg-id="" tvg-name="BEIN SPORTS 9 4k" tvg-logo="http://51.158.145.100/picons/logos/bein/1156623.png" tvg-country="Unknown" group-title="|AR| BEIN SPORTS NX" tvg-flag="",BEIN SPORTS 9 4k
+http://mag.dino.ws:80/live/deb7c7b622/4c30bb937058/1156623.ts
+#EXTINF:-1 tvg-id="" tvg-name="BEIN SPORTS ENGLISH 1 4k" tvg-logo="http://51.158.145.100/picons/logos/bein/1156622.png" tvg-country="Unknown" group-title="|AR| BEIN SPORTS NX" tvg-flag="",BEIN SPORTS ENGLISH 1 4k
+http://mag.dino.ws:80/live/deb7c7b622/4c30bb937058/1156622.ts
+#EXTINF:-1 tvg-id="" tvg-name="BEIN SPORTS ENGLISH 2 4k" tvg-logo="http://51.158.145.100/picons/logos/bein/1156621.png" tvg-country="Unknown" group-title="|AR| BEIN SPORTS NX" tvg-flag="",BEIN SPORTS ENGLISH 2 4k
+http://mag.dino.ws:80/live/deb7c7b622/4c30bb937058/1156621.ts
+#EXTINF:-1 tvg-id="" tvg-name="BEIN SPORTS XTRA 1 4k" tvg-logo="http://51.158.145.100/picons/logos/bein/1156620.png" tvg-country="Unknown" group-title="|AR| BEIN SPORTS NX" tvg-flag="",BEIN SPORTS XTRA 1 4k
+http://mag.dino.ws:80/live/deb7c7b622/4c30bb937058/1156620.ts
+#EXTINF:-1 tvg-id="" tvg-name="BEIN SPORTS XTRA 2 4k" tvg-logo="http://51.158.145.100/picons/logos/bein/1156619.png" tvg-country="Unknown" group-title="|AR| BEIN SPORTS NX" tvg-flag="",BEIN SPORTS XTRA 2 4k
+http://mag.dino.ws:80/live/deb7c7b622/4c30bb937058/1156619.ts
+#EXTINF:-1 tvg-id="" tvg-name="BEIN SPORTS XTRA 3 4k" tvg-logo="http://51.158.145.100/picons/logos/bein/1156618.png" tvg-country="Unknown" group-title="|AR| BEIN SPORTS NX" tvg-flag="",BEIN SPORTS XTRA 3 4k
+http://mag.dino.ws:80/live/deb7c7b622/4c30bb937058/1156618.ts
+#EXTINF:-1 tvg-id="" tvg-name="BEIN SPORTS  AFC 4k" tvg-logo="http://51.158.145.100/picons/logos/bein/1156617.png" tvg-country="Unknown" group-title="|AR| BEIN SPORTS NX" tvg-flag="",BEIN SPORTS  AFC 4k
+http://mag.dino.ws:80/live/deb7c7b622/4c30bb937058/1156617.ts
+#EXTINF:-1 tvg-id="" tvg-name="BEIN SPORTS AFC 1 4K" tvg-logo="http://51.158.145.100/picons/logos/bein/1156616.png" tvg-country="Unknown" group-title="|AR| BEIN SPORTS NX" tvg-flag="",BEIN SPORTS AFC 1 4K
+http://mag.dino.ws:80/live/deb7c7b622/4c30bb937058/1156616.ts
+#EXTINF:-1 tvg-id="" tvg-name="BEIN SPORTS AFC 2 4K" tvg-logo="http://51.158.145.100/picons/logos/bein/1156615.png" tvg-country="Unknown" group-title="|AR| BEIN SPORTS NX" tvg-flag="",BEIN SPORTS AFC 2 4K
+http://mag.dino.ws:80/live/deb7c7b622/4c30bb937058/1156615.ts
+#EXTINF:-1 tvg-id="" tvg-name="BEIN SPORTS AFC 3 4K" tvg-logo="http://51.158.145.100/picons/logos/bein/1156614.png" tvg-country="Unknown" group-title="|AR| BEIN SPORTS NX" tvg-flag="",BEIN SPORTS AFC 3 4K
+http://mag.dino.ws:80/live/deb7c7b622/4c30bb937058/1156614.ts
+#EXTINF:-1 tvg-id="" tvg-name="BEIN SPORTS 1 480" tvg-logo="http://51.158.145.100/picons/logos/bein/1156613.png" tvg-country="Unknown" group-title="|AR| BEIN SPORTS NX" tvg-flag="",BEIN SPORTS 1 480
+http://mag.dino.ws:80/live/deb7c7b622/4c30bb937058/1156613.ts
+#EXTINF:-1 tvg-id="" tvg-name="BEIN SPORTS 2 480" tvg-logo="http://51.158.145.100/picons/logos/bein/1156612.png" tvg-country="Unknown" group-title="|AR| BEIN SPORTS NX" tvg-flag="",BEIN SPORTS 2 480
+http://mag.dino.ws:80/live/deb7c7b622/4c30bb937058/1156612.ts
+#EXTINF:-1 tvg-id="" tvg-name="BEIN SPORTS 3 480" tvg-logo="http://51.158.145.100/picons/logos/bein/1156611.png" tvg-country="Unknown" group-title="|AR| BEIN SPORTS NX" tvg-flag="",BEIN SPORTS 3 480
+http://mag.dino.ws:80/live/deb7c7b622/4c30bb937058/1156611.ts
+#EXTINF:-1 tvg-id="" tvg-name="BEIN SPORTS 4 480" tvg-logo="http://51.158.145.100/picons/logos/bein/1156610.png" tvg-country="Unknown" group-title="|AR| BEIN SPORTS NX" tvg-flag="",BEIN SPORTS 4 480
+http://mag.dino.ws:80/live/deb7c7b622/4c30bb937058/1156610.ts
+#EXTINF:-1 tvg-id="" tvg-name="BEIN SPORTS 5 480" tvg-logo="http://51.158.145.100/picons/logos/bein/1156609.png" tvg-country="Unknown" group-title="|AR| BEIN SPORTS NX" tvg-flag="",BEIN SPORTS 5 480
+http://mag.dino.ws:80/live/deb7c7b622/4c30bb937058/1156609.ts
+#EXTINF:-1 tvg-id="" tvg-name="BEIN SPORTS 6 480" tvg-logo="http://51.158.145.100/picons/logos/bein/1156608.png" tvg-country="Unknown" group-title="|AR| BEIN SPORTS NX" tvg-flag="",BEIN SPORTS 6 480
+http://mag.dino.ws:80/live/deb7c7b622/4c30bb937058/1156608.ts
+#EXTINF:-1 tvg-id="" tvg-name="BEIN SPORTS 7 480" tvg-logo="http://51.158.145.100/picons/logos/bein/1156607.png" tvg-country="Unknown" group-title="|AR| BEIN SPORTS NX" tvg-flag="",BEIN SPORTS 7 480
+http://mag.dino.ws:80/live/deb7c7b622/4c30bb937058/1156607.ts
+#EXTINF:-1 tvg-id="" tvg-name="BEIN SPORTS 8 480" tvg-logo="http://51.158.145.100/picons/logos/bein/1156606.png" tvg-country="Unknown" group-title="|AR| BEIN SPORTS NX" tvg-flag="",BEIN SPORTS 8 480
+http://mag.dino.ws:80/live/deb7c7b622/4c30bb937058/1156606.ts
+#EXTINF:-1 tvg-id="" tvg-name="BEIN SPORTS 9 480" tvg-logo="http://51.158.145.100/picons/logos/bein/1156605.png" tvg-country="Unknown" group-title="|AR| BEIN SPORTS NX" tvg-flag="",BEIN SPORTS 9 480
+http://mag.dino.ws:80/live/deb7c7b622/4c30bb937058/1156605.ts
+#EXTINF:-1 tvg-id="" tvg-name="BEIN SPORTS ENGLISH 1 480" tvg-logo="http://51.158.145.100/picons/logos/bein/1156604.png" tvg-country="Unknown" group-title="|AR| BEIN SPORTS NX" tvg-flag="",BEIN SPORTS ENGLISH 1 480
+http://mag.dino.ws:80/live/deb7c7b622/4c30bb937058/1156604.ts
+#EXTINF:-1 tvg-id="" tvg-name="BEIN SPORTS ENGLISH 2 480" tvg-logo="http://51.158.145.100/picons/logos/bein/1156603.png" tvg-country="Unknown" group-title="|AR| BEIN SPORTS NX" tvg-flag="",BEIN SPORTS ENGLISH 2 480
+http://mag.dino.ws:80/live/deb7c7b622/4c30bb937058/1156603.ts
+#EXTINF:-1 tvg-id="" tvg-name="BEIN SPORTS  AFC 480" tvg-logo="http://51.158.145.100/picons/logos/bein/1156602.png" tvg-country="Unknown" group-title="|AR| BEIN SPORTS NX" tvg-flag="",BEIN SPORTS  AFC 480
+http://mag.dino.ws:80/live/deb7c7b622/4c30bb937058/1156602.ts
+
 
 
 
@@ -589,145 +636,145 @@ http://4kpro2.com:8789/play/live.php?mac=00:1A:79:FB:74:61&stream=78376&extensio
 
 
 #EXTM3U
-
-#EXTINF:-1 group-title="BEIN PACK",AR | BEIN SPORTS NEWS FHD
+#EXTINF:-1 group-title="BEIN PACK Sport",AR | BEIN SPORTS NEWS FHD
 http://4kpro2.com/play/live.php?mac=00:1A:79:70:9D:14&stream=24979&extension=ts
-#EXTINF:-1 group-title="BEIN PACK",AR | BEIN SPORTS NEWS HD
+#EXTINF:-1 group-title="BEIN PACK Sport",AR | BEIN SPORTS NEWS HD
 http://4kpro2.com/play/live.php?mac=00:1A:79:70:9D:14&stream=78372&extension=ts
-#EXTINF:-1 group-title="BEIN PACK",AR | BEIN SPORTS GLOBAL FHD
+#EXTINF:-1 group-title="BEIN PACK Sport",AR | BEIN SPORTS GLOBAL FHD
 http://4kpro2.com/play/live.php?mac=00:1A:79:70:9D:14&stream=24980&extension=ts
-#EXTINF:-1 group-title="BEIN PACK",AR | BEIN SPORTS GLOBAL HD
+#EXTINF:-1 group-title="BEIN PACK Sport",AR | BEIN SPORTS GLOBAL HD
 http://4kpro2.com/play/live.php?mac=00:1A:79:70:9D:14&stream=409586&extension=ts
-#EXTINF:-1 group-title="BEIN PACK",AR |  BEIN SPORTS 4K
+#EXTINF:-1 group-title="BEIN PACK Sport",AR |  BEIN SPORTS 4K
 http://4kpro2.com/play/live.php?mac=00:1A:79:70:9D:14&stream=164973&extension=ts
-#EXTINF:-1 group-title="BEIN PACK",AR | BEIN SPORTS 1 FHD
+#EXTINF:-1 group-title="BEIN PACK Sport",AR | BEIN SPORTS 1 FHD
 http://4kpro2.com/play/live.php?mac=00:1A:79:70:9D:14&stream=13608&extension=ts
-#EXTINF:-1 group-title="BEIN PACK",AR | BEIN SPORTS 1 FHD BKP
+#EXTINF:-1 group-title="BEIN PACK Sport",AR | BEIN SPORTS 1 FHD BKP
 http://4kpro2.com/play/live.php?mac=00:1A:79:70:9D:14&stream=368730&extension=ts
-#EXTINF:-1 group-title="BEIN PACK",AR | BEIN SPORTS 1 HD
+#EXTINF:-1 group-title="BEIN PACK Sport",AR | BEIN SPORTS 1 HD
 http://4kpro2.com/play/live.php?mac=00:1A:79:70:9D:14&stream=13682&extension=ts
-#EXTINF:-1 group-title="BEIN PACK",AR | BEIN SPORTS 1 HD BKP
+#EXTINF:-1 group-title="BEIN PACK Sport",AR | BEIN SPORTS 1 HD BKP
 http://4kpro2.com/play/live.php?mac=00:1A:79:70:9D:14&stream=13681&extension=ts
-#EXTINF:-1 group-title="BEIN PACK",AR | BEIN SPORTS 2 FHD
+#EXTINF:-1 group-title="BEIN PACK Sport",AR | BEIN SPORTS 2 FHD
 http://4kpro2.com/play/live.php?mac=00:1A:79:70:9D:14&stream=13607&extension=ts
-#EXTINF:-1 group-title="BEIN PACK",AR | BEIN SPORTS 2 FHD BKP
+#EXTINF:-1 group-title="BEIN PACK Sport",AR | BEIN SPORTS 2 FHD BKP
 http://4kpro2.com/play/live.php?mac=00:1A:79:70:9D:14&stream=368731&extension=ts
-#EXTINF:-1 group-title="BEIN PACK",AR | BEIN SPORTS 2 HD
+#EXTINF:-1 group-title="BEIN PACK Sport",AR | BEIN SPORTS 2 HD
 http://4kpro2.com/play/live.php?mac=00:1A:79:70:9D:14&stream=13680&extension=ts
-#EXTINF:-1 group-title="BEIN PACK",AR | BEIN SPORTS 2  HD BKP
+#EXTINF:-1 group-title="BEIN PACK Sport",AR | BEIN SPORTS 2  HD BKP
 http://4kpro2.com/play/live.php?mac=00:1A:79:70:9D:14&stream=13679&extension=ts
-#EXTINF:-1 group-title="BEIN PACK",AR | BEIN SPORTS 3 FHD
+#EXTINF:-1 group-title="BEIN PACK Sport",AR | BEIN SPORTS 3 FHD
 http://4kpro2.com/play/live.php?mac=00:1A:79:70:9D:14&stream=13606&extension=ts
-#EXTINF:-1 group-title="BEIN PACK",AR | BEIN SPORTS 3 FHD BKP
+#EXTINF:-1 group-title="BEIN PACK Sport",AR | BEIN SPORTS 3 FHD BKP
 http://4kpro2.com/play/live.php?mac=00:1A:79:70:9D:14&stream=441361&extension=ts
-#EXTINF:-1 group-title="BEIN PACK",AR | BEIN SPORTS 3 HD
+#EXTINF:-1 group-title="BEIN PACK Sport",AR | BEIN SPORTS 3 HD
 http://4kpro2.com/play/live.php?mac=00:1A:79:70:9D:14&stream=13678&extension=ts
-#EXTINF:-1 group-title="BEIN PACK",AR | BEIN SPORTS 3 HD BKP
+#EXTINF:-1 group-title="BEIN PACK Sport",AR | BEIN SPORTS 3 HD BKP
 http://4kpro2.com/play/live.php?mac=00:1A:79:70:9D:14&stream=13677&extension=ts
-#EXTINF:-1 group-title="BEIN PACK",AR | BEIN SPORTS 4 FHD
+#EXTINF:-1 group-title="BEIN PACK Sport",AR | BEIN SPORTS 4 FHD
 http://4kpro2.com/play/live.php?mac=00:1A:79:70:9D:14&stream=13605&extension=ts
-#EXTINF:-1 group-title="BEIN PACK",AR | BEIN SPORTS 4 FHD BKP
+#EXTINF:-1 group-title="BEIN PACK Sport",AR | BEIN SPORTS 4 FHD BKP
 http://4kpro2.com/play/live.php?mac=00:1A:79:70:9D:14&stream=441362&extension=ts
-#EXTINF:-1 group-title="BEIN PACK",AR | BEIN SPORTS 4 HD
+#EXTINF:-1 group-title="BEIN PACK Sport",AR | BEIN SPORTS 4 HD
 http://4kpro2.com/play/live.php?mac=00:1A:79:70:9D:14&stream=13676&extension=ts
-#EXTINF:-1 group-title="BEIN PACK",AR | BEIN SPORTS 4 BKP
+#EXTINF:-1 group-title="BEIN PACK Sport",AR | BEIN SPORTS 4 BKP
 http://4kpro2.com/play/live.php?mac=00:1A:79:70:9D:14&stream=13675&extension=ts
-#EXTINF:-1 group-title="BEIN PACK",AR | BEIN SPORTS 5 FHD
+#EXTINF:-1 group-title="BEIN PACK Sport",AR | BEIN SPORTS 5 FHD
 http://4kpro2.com/play/live.php?mac=00:1A:79:70:9D:14&stream=13604&extension=ts
-#EXTINF:-1 group-title="BEIN PACK",AR | BEIN SPORTS 5 HD
+#EXTINF:-1 group-title="BEIN PACK Sport",AR | BEIN SPORTS 5 HD
 http://4kpro2.com/play/live.php?mac=00:1A:79:70:9D:14&stream=13674&extension=ts
-#EXTINF:-1 group-title="BEIN PACK",AR | BEIN SPORTS 5 BKP
+#EXTINF:-1 group-title="BEIN PACK Sport",AR | BEIN SPORTS 5 BKP
 http://4kpro2.com/play/live.php?mac=00:1A:79:70:9D:14&stream=13673&extension=ts
-#EXTINF:-1 group-title="BEIN PACK",AR | BEIN SPORTS 6 FHD
+#EXTINF:-1 group-title="BEIN PACK Sport",AR | BEIN SPORTS 6 FHD
 http://4kpro2.com/play/live.php?mac=00:1A:79:70:9D:14&stream=13603&extension=ts
-#EXTINF:-1 group-title="BEIN PACK",AR | BEIN SPORTS 6 HD
+#EXTINF:-1 group-title="BEIN PACK Sport",AR | BEIN SPORTS 6 HD
 http://4kpro2.com/play/live.php?mac=00:1A:79:70:9D:14&stream=13672&extension=ts
-#EXTINF:-1 group-title="BEIN PACK",AR | BEIN SPORTS 6 BKP
+#EXTINF:-1 group-title="BEIN PACK Sport",AR | BEIN SPORTS 6 BKP
 http://4kpro2.com/play/live.php?mac=00:1A:79:70:9D:14&stream=13587&extension=ts
-#EXTINF:-1 group-title="BEIN PACK",AR | BEIN SPORTS 7 FHD
+#EXTINF:-1 group-title="BEIN PACK Sport",AR | BEIN SPORTS 7 FHD
 http://4kpro2.com/play/live.php?mac=00:1A:79:70:9D:14&stream=13602&extension=ts
-#EXTINF:-1 group-title="BEIN PACK",AR | BEIN SPORTS 7 HD
+#EXTINF:-1 group-title="BEIN PACK Sport",AR | BEIN SPORTS 7 HD
 http://4kpro2.com/play/live.php?mac=00:1A:79:70:9D:14&stream=13576&extension=ts
-#EXTINF:-1 group-title="BEIN PACK",AR | BEIN SPORTS 7 BKP
+#EXTINF:-1 group-title="BEIN PACK Sport",AR | BEIN SPORTS 7 BKP
 http://4kpro2.com/play/live.php?mac=00:1A:79:70:9D:14&stream=13669&extension=ts
-#EXTINF:-1 group-title="BEIN PACK",AR | BEIN SPORTS 8 FHD
+#EXTINF:-1 group-title="BEIN PACK Sport",AR | BEIN SPORTS 8 FHD
 http://4kpro2.com/play/live.php?mac=00:1A:79:70:9D:14&stream=13611&extension=ts
-#EXTINF:-1 group-title="BEIN PACK",AR | BEIN SPORTS 8 HD
+#EXTINF:-1 group-title="BEIN PACK Sport",AR | BEIN SPORTS 8 HD
 http://4kpro2.com/play/live.php?mac=00:1A:79:70:9D:14&stream=13688&extension=ts
-#EXTINF:-1 group-title="BEIN PACK",AR | BEIN SPORTS 9 FHD
+#EXTINF:-1 group-title="BEIN PACK Sport",AR | BEIN SPORTS 9 FHD
 http://4kpro2.com/play/live.php?mac=00:1A:79:70:9D:14&stream=13610&extension=ts
-#EXTINF:-1 group-title="BEIN PACK",AR | BEIN SPORTS 9 HD
+#EXTINF:-1 group-title="BEIN PACK Sport",AR | BEIN SPORTS 9 HD
 http://4kpro2.com/play/live.php?mac=00:1A:79:70:9D:14&stream=13686&extension=ts
-#EXTINF:-1 group-title="BEIN PACK",AR | BEIN SPORTS XTRA 1 4K
+#EXTINF:-1 group-title="BEIN PACK Sport",AR | BEIN SPORTS XTRA 1 4K
 http://4kpro2.com/play/live.php?mac=00:1A:79:70:9D:14&stream=423811&extension=ts
-#EXTINF:-1 group-title="BEIN PACK",AR | BEIN SPORTS XTRA 1 FHD
+#EXTINF:-1 group-title="BEIN PACK Sport",AR | BEIN SPORTS XTRA 1 FHD
 http://4kpro2.com/play/live.php?mac=00:1A:79:70:9D:14&stream=129996&extension=ts
-#EXTINF:-1 group-title="BEIN PACK",AR | BEIN SPORTS XTRA 1 HD
+#EXTINF:-1 group-title="BEIN PACK Sport",AR | BEIN SPORTS XTRA 1 HD
 http://4kpro2.com/play/live.php?mac=00:1A:79:70:9D:14&stream=129997&extension=ts
-#EXTINF:-1 group-title="BEIN PACK",AR | BEIN SPORTS XTRA 1 SD
+#EXTINF:-1 group-title="BEIN PACK Sport",AR | BEIN SPORTS XTRA 1 SD
 http://4kpro2.com/play/live.php?mac=00:1A:79:70:9D:14&stream=423812&extension=ts
-#EXTINF:-1 group-title="BEIN PACK",AR | BEIN SPORTS XTRA 2 4K
+#EXTINF:-1 group-title="BEIN PACK Sport",AR | BEIN SPORTS XTRA 2 4K
 http://4kpro2.com/play/live.php?mac=00:1A:79:70:9D:14&stream=423813&extension=ts
-#EXTINF:-1 group-title="BEIN PACK",AR | BEIN SPORTS XTRA 2 FHD
+#EXTINF:-1 group-title="BEIN PACK Sport",AR | BEIN SPORTS XTRA 2 FHD
 http://4kpro2.com/play/live.php?mac=00:1A:79:70:9D:14&stream=423814&extension=ts
-#EXTINF:-1 group-title="BEIN PACK",AR | BEIN SPORTS XTRA 2 HD
+#EXTINF:-1 group-title="BEIN PACK Sport",AR | BEIN SPORTS XTRA 2 HD
 http://4kpro2.com/play/live.php?mac=00:1A:79:70:9D:14&stream=129999&extension=ts
-#EXTINF:-1 group-title="BEIN PACK",AR | BEIN SPORTS XTRA 3
+#EXTINF:-1 group-title="BEIN PACK Sport",AR | BEIN SPORTS XTRA 3
 http://4kpro2.com/play/live.php?mac=00:1A:79:70:9D:14&stream=423818&extension=ts
-#EXTINF:-1 group-title="BEIN PACK",AR | BEIN SPORTS XTRA 3 FHD
+#EXTINF:-1 group-title="BEIN PACK Sport",AR | BEIN SPORTS XTRA 3 FHD
 http://4kpro2.com/play/live.php?mac=00:1A:79:70:9D:14&stream=129998&extension=ts
-#EXTINF:-1 group-title="BEIN PACK",AR | BEIN SPORTS  XTRA 3 HD
+#EXTINF:-1 group-title="BEIN PACK Sport",AR | BEIN SPORTS  XTRA 3 HD
 http://4kpro2.com/play/live.php?mac=00:1A:79:70:9D:14&stream=423816&extension=ts
-#EXTINF:-1 group-title="BEIN PACK",AR | BEIN SPORTS XTRA 3 SD
+#EXTINF:-1 group-title="BEIN PACK Sport",AR | BEIN SPORTS XTRA 3 SD
 http://4kpro2.com/play/live.php?mac=00:1A:79:70:9D:14&stream=423817&extension=ts
-#EXTINF:-1 group-title="BEIN PACK",AR | BEIN SPORTS XTRA 4 4K
+#EXTINF:-1 group-title="BEIN PACK Sport",AR | BEIN SPORTS XTRA 4 4K
 http://4kpro2.com/play/live.php?mac=00:1A:79:70:9D:14&stream=423819&extension=ts
-#EXTINF:-1 group-title="BEIN PACK",AR | BEIN SPORTS XTRA 4 FHD
+#EXTINF:-1 group-title="BEIN PACK Sport",AR | BEIN SPORTS XTRA 4 FHD
 http://4kpro2.com/play/live.php?mac=00:1A:79:70:9D:14&stream=423822&extension=ts
-#EXTINF:-1 group-title="BEIN PACK",AR | BEIN SPORTS XTRA 4 HD
+#EXTINF:-1 group-title="BEIN PACK Sport",AR | BEIN SPORTS XTRA 4 HD
 http://4kpro2.com/play/live.php?mac=00:1A:79:70:9D:14&stream=423821&extension=ts
-#EXTINF:-1 group-title="BEIN PACK",AR | BEIN SPORTS XTRA 4 SD
+#EXTINF:-1 group-title="BEIN PACK Sport",AR | BEIN SPORTS XTRA 4 SD
 http://4kpro2.com/play/live.php?mac=00:1A:79:70:9D:14&stream=423820&extension=ts
-#EXTINF:-1 group-title="BEIN PACK",AR | BEIN SPORTS XTRA 5 4K
+#EXTINF:-1 group-title="BEIN PACK Sport",AR | BEIN SPORTS XTRA 5 4K
 http://4kpro2.com/play/live.php?mac=00:1A:79:70:9D:14&stream=423823&extension=ts
-#EXTINF:-1 group-title="BEIN PACK",AR | BEIN SPORTS XTRA 5 FHD
+#EXTINF:-1 group-title="BEIN PACK Sport",AR | BEIN SPORTS XTRA 5 FHD
 http://4kpro2.com/play/live.php?mac=00:1A:79:70:9D:14&stream=423826&extension=ts
-#EXTINF:-1 group-title="BEIN PACK",AR | BEIN SPORTS XTRA 5 HD
+#EXTINF:-1 group-title="BEIN PACK Sport",AR | BEIN SPORTS XTRA 5 HD
 http://4kpro2.com/play/live.php?mac=00:1A:79:70:9D:14&stream=423825&extension=ts
-#EXTINF:-1 group-title="BEIN PACK",AR | BEIN SPORTS XTRA 5 SD
+#EXTINF:-1 group-title="BEIN PACK Sport",AR | BEIN SPORTS XTRA 5 SD
 http://4kpro2.com/play/live.php?mac=00:1A:79:70:9D:14&stream=423824&extension=ts
-#EXTINF:-1 group-title="BEIN PACK",AR | BEIN SPORTS XTRA 6 4K
+#EXTINF:-1 group-title="BEIN PACK Sport",AR | BEIN SPORTS XTRA 6 4K
 http://4kpro2.com/play/live.php?mac=00:1A:79:70:9D:14&stream=423827&extension=ts
-#EXTINF:-1 group-title="BEIN PACK",AR | BEIN SPORTS XTRA 6 FHD
+#EXTINF:-1 group-title="BEIN PACK Sport",AR | BEIN SPORTS XTRA 6 FHD
 http://4kpro2.com/play/live.php?mac=00:1A:79:70:9D:14&stream=423830&extension=ts
-#EXTINF:-1 group-title="BEIN PACK",AR | BEIN SPORTS XTRA 6 HD
+#EXTINF:-1 group-title="BEIN PACK Sport",AR | BEIN SPORTS XTRA 6 HD
 http://4kpro2.com/play/live.php?mac=00:1A:79:70:9D:14&stream=423829&extension=ts
-#EXTINF:-1 group-title="BEIN PACK",AR | BEIN SPORTS XTRA 6 SD
+#EXTINF:-1 group-title="BEIN PACK Sport",AR | BEIN SPORTS XTRA 6 SD
 http://4kpro2.com/play/live.php?mac=00:1A:79:70:9D:14&stream=423828&extension=ts
-#EXTINF:-1 group-title="BEIN PACK",AR | BEIN SPORTS XTRA 7 4K
+#EXTINF:-1 group-title="BEIN PACK Sport",AR | BEIN SPORTS XTRA 7 4K
 http://4kpro2.com/play/live.php?mac=00:1A:79:70:9D:14&stream=423831&extension=ts
-#EXTINF:-1 group-title="BEIN PACK",AR | BEIN SPORTS XTRA 7 FHD
+#EXTINF:-1 group-title="BEIN PACK Sport",AR | BEIN SPORTS XTRA 7 FHD
 http://4kpro2.com/play/live.php?mac=00:1A:79:70:9D:14&stream=423834&extension=ts
-#EXTINF:-1 group-title="BEIN PACK",AR | BEIN SPORTS XTRA 7 HD
+#EXTINF:-1 group-title="BEIN PACK Sport",AR | BEIN SPORTS XTRA 7 HD
 http://4kpro2.com/play/live.php?mac=00:1A:79:70:9D:14&stream=423833&extension=ts
-#EXTINF:-1 group-title="BEIN PACK",AR | BEIN SPORTS XTRA 7 SD
+#EXTINF:-1 group-title="BEIN PACK Sport",AR | BEIN SPORTS XTRA 7 SD
 http://4kpro2.com/play/live.php?mac=00:1A:79:70:9D:14&stream=423832&extension=ts
-#EXTINF:-1 group-title="BEIN PACK",AR | BEIN SPORTS XTRA 8 4K
+#EXTINF:-1 group-title="BEIN PACK Sport",AR | BEIN SPORTS XTRA 8 4K
 http://4kpro2.com/play/live.php?mac=00:1A:79:70:9D:14&stream=423835&extension=ts
-#EXTINF:-1 group-title="BEIN PACK",AR | BEIN SPORTS XTRA 8 FHD
+#EXTINF:-1 group-title="BEIN PACK Sport",AR | BEIN SPORTS XTRA 8 FHD
 http://4kpro2.com/play/live.php?mac=00:1A:79:70:9D:14&stream=423838&extension=ts
-#EXTINF:-1 group-title="BEIN PACK",AR | BEIN SPORTS XTRA 8 HD
+#EXTINF:-1 group-title="BEIN PACK Sport",AR | BEIN SPORTS XTRA 8 HD
 http://4kpro2.com/play/live.php?mac=00:1A:79:70:9D:14&stream=423837&extension=ts
-#EXTINF:-1 group-title="BEIN PACK",AR | BEIN SPORTS XTRA 8 SD
+#EXTINF:-1 group-title="BEIN PACK Sport",AR | BEIN SPORTS XTRA 8 SD
 http://4kpro2.com/play/live.php?mac=00:1A:79:70:9D:14&stream=423836&extension=ts
-#EXTINF:-1 group-title="BEIN PACK",AR | BEIN SPORTS XTRA 9 HD
+#EXTINF:-1 group-title="BEIN PACK Sport",AR | BEIN SPORTS XTRA 9 HD
 http://4kpro2.com/play/live.php?mac=00:1A:79:70:9D:14&stream=423841&extension=ts
-#EXTINF:-1 group-title="BEIN PACK",AR | BEIN SPORTS XTRA 9 4K
+#EXTINF:-1 group-title="BEIN PACK Sport",AR | BEIN SPORTS XTRA 9 4K
 http://4kpro2.com/play/live.php?mac=00:1A:79:70:9D:14&stream=423839&extension=ts
-#EXTINF:-1 group-title="BEIN PACK",AR | BEIN SPORTS XTRA 9 SD
+#EXTINF:-1 group-title="BEIN PACK Sport",AR | BEIN SPORTS XTRA 9 SD
 http://4kpro2.com/play/live.php?mac=00:1A:79:70:9D:14&stream=423840&extension=ts
-#EXTINF:-1 group-title="BEIN PACK",AR | BEIN SPORTS ENGLISH 1 HD
+#EXTINF:-1 group-title="BEIN PACK Sport",AR | BEIN SPORTS ENGLISH 1 HD
 http://4kpro2.com/play/live.php?mac=00:1A:79:70:9D:14&stream=141018&extension=ts
+
 
 
 
@@ -1019,119 +1066,171 @@ http://ipro.premium-ott3.com:8789/live/celesi83/1737467/342446.ts
 
 
 
+
+
 ----------------------Movies (EN)----------------------------------------
 
 
 
+
+
 #EXTM3U
-#EXTINF:-1 group-title="OSN",OSN Yahala Aflam
-http://appluxera.com/live/94748049499/625256262633/313384.ts
-#EXTINF:-1 group-title="OSN",OSN Yahala Bil Arabi
-http://appluxera.com/live/94748049499/625256262633/313385.ts
-#EXTINF:-1 group-title="OSN",OSN Yahala Oula
-http://appluxera.com/live/94748049499/625256262633/313386.ts
-#EXTINF:-1 group-title="OSN",OSN Alfa al safwa
-http://appluxera.com/live/94748049499/625256262633/313387.ts
-#EXTINF:-1 group-title="OSN",OSN Alfa Al Fann
-http://appluxera.com/live/94748049499/625256262633/313388.ts
-#EXTINF:-1 group-title="OSN",OSN Alfa Alyoum
-http://appluxera.com/live/94748049499/625256262633/313389.ts
-#EXTINF:-1 group-title="OSN",OSN Alfa Cinema 1
-http://appluxera.com/live/94748049499/625256262633/313390.ts
-#EXTINF:-1 group-title="OSN",OSN Alfa Cinema 2
-http://appluxera.com/live/94748049499/625256262633/313391.ts
-#EXTINF:-1 group-title="OSN",OSN Alfa Musalsalat
-http://appluxera.com/live/94748049499/625256262633/313392.ts
-#EXTINF:-1 group-title="OSN",OSN Alfa Musalsalat +2
-http://appluxera.com/live/94748049499/625256262633/313393.ts
-#EXTINF:-1 group-title="OSN",OSN Art Aflam 1
-http://appluxera.com/live/94748049499/625256262633/313394.ts
-#EXTINF:-1 group-title="OSN",OSN Art Aflam 2
-http://appluxera.com/live/94748049499/625256262633/313395.ts
-#EXTINF:-1 group-title="OSN",OSN Art Hekayat 1
-http://appluxera.com/live/94748049499/625256262633/313396.ts
-#EXTINF:-1 group-title="OSN",OSN Art Hekayat 2
-http://appluxera.com/live/94748049499/625256262633/313397.ts
-#EXTINF:-1 group-title="OSN",OSN Art Cinema
-http://appluxera.com/live/94748049499/625256262633/313398.ts
-#EXTINF:-1 group-title="OSN",OSN MUSIC
-http://appluxera.com/live/94748049499/625256262633/313344.ts
-#EXTINF:-1 group-title="OSN",OSN Baby
-http://appluxera.com/live/94748049499/625256262633/313346.ts
-#EXTINF:-1 group-title="OSN",OSN Bloomberg
-http://appluxera.com/live/94748049499/625256262633/313347.ts
-#EXTINF:-1 group-title="OSN",OSN Comedy
-http://appluxera.com/live/94748049499/625256262633/313348.ts
-#EXTINF:-1 group-title="OSN",OSN Crime Investigation
-http://appluxera.com/live/94748049499/625256262633/313349.ts
-#EXTINF:-1 group-title="OSN",OSN Discovery
-http://appluxera.com/live/94748049499/625256262633/313350.ts
-#EXTINF:-1 group-title="OSN",OSN Discovery IDX
-http://appluxera.com/live/94748049499/625256262633/313351.ts
-#EXTINF:-1 group-title="OSN",OSN Discovery SC
-http://appluxera.com/live/94748049499/625256262633/313352.ts
-#EXTINF:-1 group-title="OSN",OSN Disney Channel
-http://appluxera.com/live/94748049499/625256262633/313353.ts
-#EXTINF:-1 group-title="OSN",OSN Disney Junior
-http://appluxera.com/live/94748049499/625256262633/313354.ts
-#EXTINF:-1 group-title="OSN",OSN News
-http://appluxera.com/live/94748049499/625256262633/313355.ts
-#EXTINF:-1 group-title="OSN",OSN E!
-http://appluxera.com/live/94748049499/625256262633/313356.ts
-#EXTINF:-1 group-title="OSN",OSN Movies Family
-http://appluxera.com/live/94748049499/625256262633/313357.ts
-#EXTINF:-1 group-title="OSN",OSN Ginx eSports
-http://appluxera.com/live/94748049499/625256262633/313358.ts
-#EXTINF:-1 group-title="OSN",OSN ONE
-http://appluxera.com/live/94748049499/625256262633/313359.ts
-#EXTINF:-1 group-title="OSN",OSN History 2
-http://appluxera.com/live/94748049499/625256262633/313360.ts
-#EXTINF:-1 group-title="OSN",OSN History
-http://appluxera.com/live/94748049499/625256262633/313361.ts
-#EXTINF:-1 group-title="OSN",OSN Kids Zone
-http://appluxera.com/live/94748049499/625256262633/313362.ts
-#EXTINF:-1 group-title="OSN",OSN NOW
-http://appluxera.com/live/94748049499/625256262633/313363.ts
-#EXTINF:-1 group-title="OSN",OSN MEZZE
-http://appluxera.com/live/94748049499/625256262633/313364.ts
-#EXTINF:-1 group-title="OSN",OSN Moonbug Kids
-http://appluxera.com/live/94748049499/625256262633/313365.ts
-#EXTINF:-1 group-title="OSN",OSN Movies Kids
-http://appluxera.com/live/94748049499/625256262633/313368.ts
-#EXTINF:-1 group-title="OSN",OSN National Geographic
-http://appluxera.com/live/94748049499/625256262633/313371.ts
-#EXTINF:-1 group-title="OSN",OSN National Geographic Wild
-http://appluxera.com/live/94748049499/625256262633/313372.ts
-#EXTINF:-1 group-title="OSN",OSN Nick Jr
-http://appluxera.com/live/94748049499/625256262633/313373.ts
-#EXTINF:-1 group-title="OSN",OSN Nickelodeon
-http://appluxera.com/live/94748049499/625256262633/313374.ts
-#EXTINF:-1 group-title="OSN",OSN Movies Premiere
-http://appluxera.com/live/94748049499/625256262633/313369.ts
-#EXTINF:-1 group-title="OSN",Osn Movie Prime +2
-http://appluxera.com/live/94748049499/625256262633/313345.ts
-#EXTINF:-1 group-title="OSN",OSN movies action
-http://appluxera.com/live/94748049499/625256262633/313366.ts
-#EXTINF:-1 group-title="OSN",OSN Movies hollywood
-http://appluxera.com/live/94748049499/625256262633/313367.ts
-#EXTINF:-1 group-title="OSN",OSN NickToon
-http://appluxera.com/live/94748049499/625256262633/313375.ts
-#EXTINF:-1 group-title="OSN",OSN CRIME
-http://appluxera.com/live/94748049499/625256262633/313376.ts
-#EXTINF:-1 group-title="OSN",OSN showcase
-http://appluxera.com/live/94748049499/625256262633/313377.ts
-#EXTINF:-1 group-title="OSN",OSN Sky News
-http://appluxera.com/live/94748049499/625256262633/313378.ts
-#EXTINF:-1 group-title="OSN",OSN Star Movies
-http://appluxera.com/live/94748049499/625256262633/313379.ts
-#EXTINF:-1 group-title="OSN",OSN Star World
-http://appluxera.com/live/94748049499/625256262633/313380.ts
-#EXTINF:-1 group-title="OSN",OSN TFC
-http://appluxera.com/live/94748049499/625256262633/313381.ts
-#EXTINF:-1 group-title="OSN",OSN TLC
-http://appluxera.com/live/94748049499/625256262633/313382.ts
-#EXTINF:-1 group-title="OSN",OSN VH+1
-http://appluxera.com/live/94748049499/625256262633/313383.ts
+#EXTINF:-1 group-title=" OSN قنوات ",||AR.OSN|| OSN SERIES FIRST HD
+http://obsfullhd.tv:25461/live/lacherejc/OannyVVIL2/6908.ts
+#EXTINF:-1 group-title=" OSN قنوات ",||AR.OSN|| MOVIES ACTION HD
+http://obsfullhd.tv:25461/live/lacherejc/OannyVVIL2/6910.ts
+#EXTINF:-1 group-title=" OSN قنوات ",||AR.OSN|| OSN MOVIES DISNEY HD
+http://obsfullhd.tv:25461/live/lacherejc/OannyVVIL2/6911.ts
+#EXTINF:-1 group-title=" OSN قنوات ",||AR.OSN|| NAT GEO HD
+http://obsfullhd.tv:25461/live/lacherejc/OannyVVIL2/6913.ts
+#EXTINF:-1 group-title=" OSN قنوات ",||AR.OSN|| DISCOVERY CHANNEL HD
+http://obsfullhd.tv:25461/live/lacherejc/OannyVVIL2/6915.ts
+#EXTINF:-1 group-title=" OSN قنوات ",||AR.OSN|| DISCOVERY SCIENCE HD
+http://obsfullhd.tv:25461/live/lacherejc/OannyVVIL2/6917.ts
+#EXTINF:-1 group-title=" OSN قنوات ",||AR.OSN|| STAR MOVIE HD
+http://obsfullhd.tv:25461/live/lacherejc/OannyVVIL2/6919.ts
+#EXTINF:-1 group-title=" OSN قنوات ",||AR.OSN|| LIVING HD
+http://obsfullhd.tv:25461/live/lacherejc/OannyVVIL2/6921.ts
+#EXTINF:-1 group-title=" OSN قنوات ",||AR.OSN|| BABY TV HD
+http://obsfullhd.tv:25461/live/lacherejc/OannyVVIL2/6923.ts
+#EXTINF:-1 group-title=" OSN قنوات ",||AR.OSN|| OSN DISNEY JUNIOR HD
+http://obsfullhd.tv:25461/live/lacherejc/OannyVVIL2/6924.ts
+#EXTINF:-1 group-title=" OSN قنوات ",||AR.OSN|| DISNEY CHANNEL HD
+http://obsfullhd.tv:25461/live/lacherejc/OannyVVIL2/6925.ts
+#EXTINF:-1 group-title=" OSN قنوات ",||AR.OSN|| MAJID HD
+http://obsfullhd.tv:25461/live/lacherejc/OannyVVIL2/6926.ts
+#EXTINF:-1 group-title=" OSN قنوات ",||AR.OSN|| OSN YAHALA CINEMA
+http://obsfullhd.tv:25461/live/lacherejc/OannyVVIL2/840.ts
+#EXTINF:-1 group-title=" OSN قنوات ",||AR.OSN|| OSN YAHALA HD
+http://obsfullhd.tv:25461/live/lacherejc/OannyVVIL2/842.ts
+#EXTINF:-1 group-title=" OSN قنوات ",||AR.OSN|| ALYOUM HD
+http://obsfullhd.tv:25461/live/lacherejc/OannyVVIL2/845.ts
+#EXTINF:-1 group-title=" OSN قنوات ",||AR.OSN|| CINEMA 1
+http://obsfullhd.tv:25461/live/lacherejc/OannyVVIL2/846.ts
+#EXTINF:-1 group-title=" OSN قنوات ",||AR.OSN|| MUSIC NOW HD
+http://obsfullhd.tv:25461/live/lacherejc/OannyVVIL2/848.ts
+#EXTINF:-1 group-title=" OSN قنوات ",||AR.OSN|| OSN SERIES HD
+http://obsfullhd.tv:25461/live/lacherejc/OannyVVIL2/852.ts
+#EXTINF:-1 group-title=" OSN قنوات ",||AR.OSN|| OSN COMEDY HD
+http://obsfullhd.tv:25461/live/lacherejc/OannyVVIL2/854.ts
+#EXTINF:-1 group-title=" OSN قنوات ",||AR.OSN|| ANIMAL PLANET HD
+http://obsfullhd.tv:25461/live/lacherejc/OannyVVIL2/856.ts
+#EXTINF:-1 group-title=" OSN قنوات ",||AR.OSN|| OSN ENIGMA HD
+http://obsfullhd.tv:25461/live/lacherejc/OannyVVIL2/859.ts
+#EXTINF:-1 group-title=" OSN قنوات ",||AR.OSN|| NAT GEO WILD HD
+http://obsfullhd.tv:25461/live/lacherejc/OannyVVIL2/860.ts
+#EXTINF:-1 group-title=" OSN قنوات ",||AR.OSN|| NICKLODEON HD
+http://obsfullhd.tv:25461/live/lacherejc/OannyVVIL2/862.ts
+#EXTINF:-1 group-title=" OSN قنوات ",||AR.OSN|| CRIME & INVESTIGATION  HD
+http://obsfullhd.tv:25461/live/lacherejc/OannyVVIL2/867.ts
+#EXTINF:-1 group-title=" OSN قنوات ",||AR.OSN|| OSN MOVIES FIRST 2 HD
+http://obsfullhd.tv:25461/live/lacherejc/OannyVVIL2/868.ts
+#EXTINF:-1 group-title=" OSN قنوات ",||AR.OSN|| ALFA ORBIT CINEMA 1 HD
+http://obsfullhd.tv:25461/live/lacherejc/OannyVVIL2/869.ts
+#EXTINF:-1 group-title=" OSN قنوات ",||AR.OSN|| OSN SERIES1 HD
+http://obsfullhd.tv:25461/live/lacherejc/OannyVVIL2/871.ts
+#EXTINF:-1 group-title=" OSN قنوات ",||AR.OSN|| OSN CINEMA 1 HD
+http://obsfullhd.tv:25461/live/lacherejc/OannyVVIL2/7590.ts
+#EXTINF:-1 group-title=" OSN قنوات ",||AR.OSN|| OSN FANN HD
+http://obsfullhd.tv:25461/live/lacherejc/OannyVVIL2/7592.ts
+#EXTINF:-1 group-title=" OSN قنوات ",||AR.OSN|| OSN ALKASS 4 HD
+http://obsfullhd.tv:25461/live/lacherejc/OannyVVIL2/7597.ts
+#EXTINF:-1 group-title=" OSN قنوات ",||AR.OSN|| OSN ALPHA MUSALSALAT HD
+http://obsfullhd.tv:25461/live/lacherejc/OannyVVIL2/7599.ts
+#EXTINF:-1 group-title=" OSN قنوات ",||AR.OSN|| OSN ART AFLAM 1 HD
+http://obsfullhd.tv:25461/live/lacherejc/OannyVVIL2/7605.ts
+#EXTINF:-1 group-title=" OSN قنوات ",||AR.OSN|| OSN ART HEKAYAT 1 HD
+http://obsfullhd.tv:25461/live/lacherejc/OannyVVIL2/7609.ts
+#EXTINF:-1 group-title=" OSN قنوات ",||AR.OSN|| OSN ART HEKAYAT 2 HD
+http://obsfullhd.tv:25461/live/lacherejc/OannyVVIL2/7610.ts
+#EXTINF:-1 group-title=" OSN قنوات ",||AR.OSN|| OSN CINEMA 2 HD
+http://obsfullhd.tv:25461/live/lacherejc/OannyVVIL2/7625.ts
+#EXTINF:-1 group-title=" OSN قنوات ",||AR.OSN|| OSN DISNEY XD HD
+http://obsfullhd.tv:25461/live/lacherejc/OannyVVIL2/7637.ts
+#EXTINF:-1 group-title=" OSN قنوات ",||AR.OSN|| OSN INVESTIGATION DISCOVERY HD
+http://obsfullhd.tv:25461/live/lacherejc/OannyVVIL2/7655.ts
+#EXTINF:-1 group-title=" OSN قنوات ",||AR.OSN|| OSN KIDS HD
+http://obsfullhd.tv:25461/live/lacherejc/OannyVVIL2/7658.ts
+#EXTINF:-1 group-title=" OSN قنوات ",||AR.OSN|| OSN MOVIES ACTION 2 HD
+http://obsfullhd.tv:25461/live/lacherejc/OannyVVIL2/7667.ts
+#EXTINF:-1 group-title=" OSN قنوات ",||AR.OSN|| OSN MOVIES ACTION HD
+http://obsfullhd.tv:25461/live/lacherejc/OannyVVIL2/7669.ts
+#EXTINF:-1 group-title=" OSN قنوات ",||AR.OSN|| OSN MOVIES BOX OFFICE 1 HD
+http://obsfullhd.tv:25461/live/lacherejc/OannyVVIL2/7670.ts
+#EXTINF:-1 group-title=" OSN قنوات ",||AR.OSN|| OSN MOVIES BOX OFFICE 2 HD
+http://obsfullhd.tv:25461/live/lacherejc/OannyVVIL2/7671.ts
+#EXTINF:-1 group-title=" OSN قنوات ",||AR.OSN|| OSN MOVIES BOX OFFICE 3 HD
+http://obsfullhd.tv:25461/live/lacherejc/OannyVVIL2/7673.ts
+#EXTINF:-1 group-title=" OSN قنوات ",||AR.OSN|| OSN MOVIES COMEDY HD
+http://obsfullhd.tv:25461/live/lacherejc/OannyVVIL2/7676.ts
+#EXTINF:-1 group-title=" OSN قنوات ",||AR.OSN|| OSN  ENIGMA HD
+http://obsfullhd.tv:25461/live/lacherejc/OannyVVIL2/7681.ts
+#EXTINF:-1 group-title=" OSN قنوات ",||AR.OSN|| OSN MOVIES FAMILY HD
+http://obsfullhd.tv:25461/live/lacherejc/OannyVVIL2/7682.ts
+#EXTINF:-1 group-title=" OSN قنوات ",||AR.OSN|| OSN MOVIES FIRST +2 HD
+http://obsfullhd.tv:25461/live/lacherejc/OannyVVIL2/7685.ts
+#EXTINF:-1 group-title=" OSN قنوات ",||AR.OSN|| OSN TLC HD
+http://obsfullhd.tv:25461/live/lacherejc/OannyVVIL2/7724.ts
+#EXTINF:-1 group-title=" OSN قنوات ",||AR.OSN|| OSN YAHALA CINEMA HD
+http://obsfullhd.tv:25461/live/lacherejc/OannyVVIL2/7730.ts
+#EXTINF:-1 group-title=" OSN قنوات ",||AR.OSN|| OSN YAHALA AL OULA HD
+http://obsfullhd.tv:25461/live/lacherejc/OannyVVIL2/7735.ts
+#EXTINF:-1 group-title=" OSN قنوات ",||AR.OSN|| OSN YAHALA HD
+http://obsfullhd.tv:25461/live/lacherejc/OannyVVIL2/7737.ts
+#EXTINF:-1 group-title=" OSN قنوات ",||AR.OSN|| OSN ALFA ALYOUM HD
+http://obsfullhd.tv:25461/live/lacherejc/OannyVVIL2/7739.ts
+#EXTINF:-1 group-title=" OSN قنوات ",||AR.OSN|| OSN ALFA FANN HD
+http://obsfullhd.tv:25461/live/lacherejc/OannyVVIL2/7742.ts
+#EXTINF:-1 group-title=" OSN قنوات ",||AR.OSN|| OSN ANIMAL PLANET HD
+http://obsfullhd.tv:25461/live/lacherejc/OannyVVIL2/7743.ts
+#EXTINF:-1 group-title=" OSN قنوات ",||AR.OSN|| OSN DISCOVERY SCIENCE HD
+http://obsfullhd.tv:25461/live/lacherejc/OannyVVIL2/7745.ts
+#EXTINF:-1 group-title=" OSN قنوات ",||AR.OSN|| OSN FIGHT HD
+http://obsfullhd.tv:25461/live/lacherejc/OannyVVIL2/7747.ts
+#EXTINF:-1 group-title=" OSN قنوات ",||AR.OSN|| OSN MOVIES  ACTION HD
+http://obsfullhd.tv:25461/live/lacherejc/OannyVVIL2/7750.ts
+#EXTINF:-1 group-title=" OSN قنوات ",||AR.OSN|| OSN MOVIES COMEDY+2 HD
+http://obsfullhd.tv:25461/live/lacherejc/OannyVVIL2/7755.ts
+#EXTINF:-1 group-title=" OSN قنوات ",||AR.OSN|| OSN MOVIES DISNEY HD
+http://obsfullhd.tv:25461/live/lacherejc/OannyVVIL2/7756.ts
+#EXTINF:-1 group-title=" OSN قنوات ",||AR.OSN|| OSN MOVIES DRAMA HD
+http://obsfullhd.tv:25461/live/lacherejc/OannyVVIL2/7757.ts
+#EXTINF:-1 group-title=" OSN قنوات ",||AR.OSN|| OSN MOVIES FESTIVAL HD
+http://obsfullhd.tv:25461/live/lacherejc/OannyVVIL2/7758.ts
+#EXTINF:-1 group-title=" OSN قنوات ",||AR.OSN|| OSN MOVIES HD
+http://obsfullhd.tv:25461/live/lacherejc/OannyVVIL2/7761.ts
+#EXTINF:-1 group-title=" OSN قنوات ",||AR.OSN|| OSN MOVIES THRILLER HD
+http://obsfullhd.tv:25461/live/lacherejc/OannyVVIL2/7764.ts
+#EXTINF:-1 group-title=" OSN قنوات ",||AR.OSN|| OSN MOVIES THRILLER 2 HD
+http://obsfullhd.tv:25461/live/lacherejc/OannyVVIL2/7765.ts
+#EXTINF:-1 group-title=" OSN قنوات ",||AR.OSN|| OSN NAT GEO WILD HD
+http://obsfullhd.tv:25461/live/lacherejc/OannyVVIL2/7766.ts
+#EXTINF:-1 group-title=" OSN قنوات ",||AR.OSN|| OSN NATIONAL GEO HD
+http://obsfullhd.tv:25461/live/lacherejc/OannyVVIL2/7767.ts
+#EXTINF:-1 group-title=" OSN قنوات ",||AR.OSN|| OSN NATIONAL GEO PEOPLE HD
+http://obsfullhd.tv:25461/live/lacherejc/OannyVVIL2/7768.ts
+#EXTINF:-1 group-title=" OSN قنوات ",||AR.OSN|| OSN ON DEMAND 1 HD
+http://obsfullhd.tv:25461/live/lacherejc/OannyVVIL2/7769.ts
+#EXTINF:-1 group-title=" OSN قنوات ",||AR.OSN|| OSN ON DEMAND 2 HD
+http://obsfullhd.tv:25461/live/lacherejc/OannyVVIL2/7770.ts
+#EXTINF:-1 group-title=" OSN قنوات ",||AR.OSN|| OSN ON DEMAND 3 HD
+http://obsfullhd.tv:25461/live/lacherejc/OannyVVIL2/7771.ts
+#EXTINF:-1 group-title=" OSN قنوات ",||AR.OSN|| OSN ON DEMAND EXTRA 1 HD
+http://obsfullhd.tv:25461/live/lacherejc/OannyVVIL2/7772.ts
+#EXTINF:-1 group-title=" OSN قنوات ",||AR.OSN|| OSN ON DEMAND EXTRA 2 HD
+http://obsfullhd.tv:25461/live/lacherejc/OannyVVIL2/7773.ts
+#EXTINF:-1 group-title=" OSN قنوات ",||AR.OSN|| OSN ON DEMAND EXTRA 3 HD
+http://obsfullhd.tv:25461/live/lacherejc/OannyVVIL2/7774.ts
+#EXTINF:-1 group-title=" OSN قنوات ",||AR.OSN|| OSN OUTDOOR HD
+http://obsfullhd.tv:25461/live/lacherejc/OannyVVIL2/7775.ts
+#EXTINF:-1 group-title=" OSN قنوات ",||AR.OSN|| OSN STAR MOVIES HD
+http://obsfullhd.tv:25461/live/lacherejc/OannyVVIL2/7778.ts
+#EXTINF:-1 group-title=" OSN قنوات ",||AR.OSN|| OSN STAR MOVIES INDIA HD
+http://obsfullhd.tv:25461/live/lacherejc/OannyVVIL2/7779.ts
+#EXTINF:-1 group-title=" OSN قنوات ",||AR.OSN|| OSN STAR WORLD HD
+http://obsfullhd.tv:25461/live/lacherejc/OannyVVIL2/7780.ts
+#EXTINF:-1 group-title=" OSN قنوات ",||AR.OSN|| OSN YAHALA CINEMA HD
+http://obsfullhd.tv:25461/live/lacherejc/OannyVVIL2/7784.ts
 
 
 
